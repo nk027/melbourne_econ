@@ -17,7 +17,6 @@ jobs:
 
     - name: Run ICS Script
       run: |
-        cd pages/
         chmod +x get-sources.sh
         ./get-sources.sh
 
