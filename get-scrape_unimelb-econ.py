@@ -102,7 +102,9 @@ for li in soup.find_all('li', class_='event'):
 
     time.sleep(0.5)  # Be polite to the server
 
-with open('public/ics/unimelb-econ.ics', 'wb') as f:
-    f.write(cal.to_ical())
-
-print(f"Exported {len(cal.subcomponents)} events to public/ics/unimelb-econ.ics")
+if len(cal.subcomponents) > 0:
+    with open('public/ics/unimelb-econ.ics', 'wb') as f:
+        f.write(cal.to_ical())
+        print(f"Exported {len(cal.subcomponents)} events to public/ics/unimelb-econ.ics")
+else:
+    print("No events found, file not created")

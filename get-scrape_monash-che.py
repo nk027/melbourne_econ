@@ -109,7 +109,9 @@ for li in soup.find_all('li'):
 
     time.sleep(0.5)  # Be polite to the server
 
-with open('public/ics/monash-che.ics', 'wb') as f:
-    f.write(cal.to_ical())
-
-print(f"Exported {len(cal.subcomponents)} events to public/ics/monash-che.ics")
+if len(cal.subcomponents) > 0:
+    with open('public/ics/monash-che.ics', 'wb') as f:
+        f.write(cal.to_ical())
+        print(f"Exported {len(cal.subcomponents)} events to public/ics/monash-che.ics")
+else:
+    print("No events found, file not created")

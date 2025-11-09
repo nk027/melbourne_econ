@@ -66,7 +66,7 @@ export default function App() {
 
   const loadICSFromURL = async (url, sourceName) => {
     try {
-      const response = await fetch(url);
+      const response = await fetch(url.replace('.', import.meta.env.BASE_URL));
       const content = await response.text();
       const parsed = parseICS(content, sourceName);
 
