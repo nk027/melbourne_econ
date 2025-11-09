@@ -1,0 +1,42 @@
+name: Update ICS
+
+on:
+  schedule:
+    - cron: '0 8,12,16,0 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Run ICS Script
+      run: |
+        chmod +x get-ics.sh
+        ./get-sources.sh
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        pip install cloudscraper beautifulsoup4 icalendar
+
+    - name: Run scrapers
+      run: |
+        python get-scrape_unimelb-econ.py
+        python get-scrape_monash-che.py
+
+    - name: Commit and Push
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add .
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update $(date +%Y-%m-%d)" && git push)
