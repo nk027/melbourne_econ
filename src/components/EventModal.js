@@ -1,10 +1,11 @@
 import React from 'react';
 import { getSourceColor } from '../utils/colorUtils';
 import { formatDate, formatTime } from '../utils/dateUtils';
-import { downloadICS } from '../utils/icsGenerator';
+import { downloadICS, subscribeToCalendar, hasCalendarSubscription } from '../utils/icsGenerator';
 
 export default function EventModal({ event, onClose }) {
   const colors = getSourceColor(event.source);
+  const canSubscribe = hasCalendarSubscription(event.source);
 
   const createMarkup = (htmlString) => {
     return { __html: htmlString };
@@ -38,12 +39,20 @@ export default function EventModal({ event, onClose }) {
               <h3 className="text-sm font-semibold text-gray-600 mb-1">
                 Source
               </h3>
-              <div className="flex items-center gap-2">
+              <div className="flex items-center gap-2 flex-wrap">
+                {canSubscribe && (
+                  <button
+                    onClick={() => subscribeToCalendar(event.source)}
+                    className="inline-block px-3 py-1 bg-green-600 text-white hover:bg-green-700 transition-colors rounded-full text-sm"
+                  >
+                    Subscribe to Calendar
+                  </button>
+                )}
                 <button
                   onClick={() => downloadICS(event)}
                   className="inline-block px-3 py-1 bg-blue-600 text-white hover:bg-blue-700 transition-colors rounded-full text-sm"
                 >
-                  Download ICS
+                  Download Event ICS
                 </button>
                 <span
                   className={`inline-block px-3 py-1 ${colors.bg} ${colors.text} rounded-full text-sm`}

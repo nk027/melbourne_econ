@@ -17,10 +17,12 @@ import ListView from './components/ListView';
 import WeekView from './components/WeekView';
 import MonthView from './components/MonthView';
 import EventModal from './components/EventModal';
+import AboutSection from './components/AboutSection';
 
 export default function App() {
   const [events, setEvents] = useState([]);
   const [sources, setSources] = useState([]);
+  const [activeTab, setActiveTab] = useState('events');
   const [view, setView] = useState('list');
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedSources, setSelectedSources] = useState(new Set());
@@ -311,80 +313,118 @@ export default function App() {
             <h1 className="text-xl md:text-3xl font-bold text-gray-800">Melbourne Econ Events</h1>
           </div>
 
-          {/* Controls */}
-          <Controls
-            view={view}
-            handleViewChange={handleViewChange}
-            searchTerm={searchTerm}
-            setSearchTerm={setSearchTerm}
-            showFilters={showFilters}
-            setShowFilters={setShowFilters}
-          />
+          {/* Tab Navigation */}
+          <div className="flex gap-2 mb-6 border-b border-gray-200">
+            <button
+              onClick={() => setActiveTab('events')}
+              className={`px-4 py-2 font-medium transition-colors relative rounded-t-lg ${
+                activeTab === 'events'
+                  ? 'text-blue-600 border-b-2 border-blue-600'
+                  : 'text-gray-600 hover:text-gray-800 hover:bg-gray-100'
+              }`}
+            >
+              Events
+            </button>
+            <button
+              onClick={() => setActiveTab('about')}
+              className={`px-4 py-2 font-medium transition-colors relative rounded-t-lg ${
+                activeTab === 'about'
+                  ? 'text-blue-600 border-b-2 border-blue-600'
+                  : 'text-gray-600 hover:text-gray-800 hover:bg-gray-100'
+              }`}
+            >
+              About
+            </button>
+            <button
+              onClick={() => setActiveTab('notifications')}
+              className={`px-4 py-2 font-medium transition-colors relative rounded-t-lg ${
+                activeTab === 'notifications'
+                  ? 'text-blue-600 border-b-2 border-blue-600'
+                  : 'text-gray-600 hover:text-gray-800 hover:bg-gray-100'
+              }`}
+            >
+              Email Notifications
+            </button>
+          </div>
 
-          {/* Filters Panel */}
-          {showFilters && (
-            <FilterPanel
-              sources={sources}
-              selectedSources={selectedSources}
-              toggleSource={toggleSource}
-              handleSourceDoubleClick={handleSourceDoubleClick}
-              allTags={allTags}
-              selectedTags={selectedTags}
-              toggleTag={toggleTag}
-              handleTagDoubleClick={handleTagDoubleClick}
-              dateFilter={dateFilter}
-              setDateFilter={setDateFilter}
-              customStartDate={customStartDate}
-              setCustomStartDate={setCustomStartDate}
-              customEndDate={customEndDate}
-              setCustomEndDate={setCustomEndDate}
-            />
+          {/* Tab Content */}
+          {activeTab === 'events' && (
+            <>
+              {/* Controls */}
+              <Controls
+                view={view}
+                handleViewChange={handleViewChange}
+                searchTerm={searchTerm}
+                setSearchTerm={setSearchTerm}
+                showFilters={showFilters}
+                setShowFilters={setShowFilters}
+              />
+
+              {/* Filters Panel */}
+              {showFilters && (
+                <FilterPanel
+                  sources={sources}
+                  selectedSources={selectedSources}
+                  toggleSource={toggleSource}
+                  handleSourceDoubleClick={handleSourceDoubleClick}
+                  allTags={allTags}
+                  selectedTags={selectedTags}
+                  toggleTag={toggleTag}
+                  handleTagDoubleClick={handleTagDoubleClick}
+                  dateFilter={dateFilter}
+                  setDateFilter={setDateFilter}
+                  customStartDate={customStartDate}
+                  setCustomStartDate={setCustomStartDate}
+                  customEndDate={customEndDate}
+                  setCustomEndDate={setCustomEndDate}
+                />
+              )}
+
+              {/* Events Display */}
+              {events.length === 0 ? (
+                <div className="text-center py-12">
+                  <Calendar className="mx-auto text-gray-400 mb-2 h-12 w-12" />
+                  <p className="text-gray-600">
+                    No events loaded. Upload or add an ICS URL to get started.
+                  </p>
+                </div>
+              ) : view === 'list' ? (
+                <ListView
+                  groupedListEvents={groupedListEvents}
+                  onEventClick={selectEvent}
+                />
+              ) : view === 'week' ? (
+                <WeekView
+                  currentDate={currentDate}
+                  navigateWeek={navigateWeek}
+                  getWeekGrid={getWeekGrid}
+                  eventsByDate={eventsByDate}
+                  onEventClick={selectEvent}
+                />
+              ) : (
+                <MonthView
+                  currentDate={currentDate}
+                  navigateMonth={navigateMonth}
+                  getMonthGrid={getMonthGrid}
+                  eventsByDate={eventsByDate}
+                  onEventClick={selectEvent}
+                />
+              )}
+            </>
           )}
 
-          {/* Events Display */}
-          {events.length === 0 ? (
-            <div className="text-center py-12">
-              <Calendar className="mx-auto text-gray-400 mb-2 h-12 w-12" />
-              <p className="text-gray-600">
-                No events loaded. Upload or add an ICS URL to get started.
-              </p>
+          {activeTab === 'about' && (
+            <div className="py-4">
+              <AboutSection type="about" />
             </div>
-          ) : view === 'list' ? (
-            <ListView
-              groupedListEvents={groupedListEvents}
-              onEventClick={selectEvent}
-            />
-          ) : view === 'week' ? (
-            <WeekView
-              currentDate={currentDate}
-              navigateWeek={navigateWeek}
-              getWeekGrid={getWeekGrid}
-              eventsByDate={eventsByDate}
-              onEventClick={selectEvent}
-            />
-          ) : (
-            <MonthView
-              currentDate={currentDate}
-              navigateMonth={navigateMonth}
-              getMonthGrid={getMonthGrid}
-              eventsByDate={eventsByDate}
-              onEventClick={selectEvent}
-            />
+          )}
+
+          {activeTab === 'notifications' && (
+            <div className="py-4">
+              <AboutSection type="notifications" />
+            </div>
           )}
         </div>
-
-        <footer className="text-center p-6 text-sm text-gray-500">
-          <p>Event data is provided "as is".</p>
-          <p>
-            Contact:{' '}
-            <a
-              href="mailto:nikolas.kuschnig@monash.edu"
-              className="text-blue-600 hover:underline"
-            >
-              nikolas.kuschnig@monash.edu
-            </a>
-          </p>
-        </footer>
       </div>
 
       {/* Event Detail Modal */}
