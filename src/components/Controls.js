@@ -14,7 +14,7 @@ export default function Controls({
       <div className="flex gap-2">
         <button
           onClick={() => handleViewChange('list')}
-          className={`flex items-center gap-2 px-4 py-2 rounded-lg ${
+          className={`flex cursor-pointer items-center gap-2 px-4 py-2 rounded-lg ${
             view === 'list' ? 'bg-blue-600 text-white' : 'bg-gray-200 text-gray-700'
           }`}
         >
@@ -23,7 +23,7 @@ export default function Controls({
         </button>
         <button
           onClick={() => handleViewChange('week')}
-          className={`flex items-center gap-2 px-4 py-2 rounded-lg ${
+          className={`flex cursor-pointer items-center gap-2 px-4 py-2 rounded-lg ${
             view === 'week' ? 'bg-blue-600 text-white' : 'bg-gray-200 text-gray-700'
           }`}
         >
@@ -32,7 +32,7 @@ export default function Controls({
         </button>
         <button
           onClick={() => handleViewChange('calendar')}
-          className={`flex items-center gap-2 px-4 py-2 rounded-lg ${
+          className={`flex cursor-pointer items-center gap-2 px-4 py-2 rounded-lg ${
             view === 'calendar' ? 'bg-blue-600 text-white' : 'bg-gray-200 text-gray-700'
           }`}
         >
@@ -54,7 +54,7 @@ export default function Controls({
 
       <button
         onClick={() => setShowFilters(!showFilters)}
-        className="flex items-center gap-2 px-4 py-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300"
+        className="flex cursor-pointer items-center gap-2 px-4 py-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300"
       >
         <Filter />
         Filters

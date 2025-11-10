@@ -69,7 +69,7 @@ export default function AboutSection({ type = 'full' }) {
             </div>
 
             <div>
-              Please reach out if you know of events or series to add.
+              Please reach out if you know of events or series – ideally as a public ICS – to add!
             </div>
           </div>
         </div>
@@ -80,8 +80,8 @@ export default function AboutSection({ type = 'full' }) {
           <div className="space-y-3 text-gray-700">
             <div>
               <p className="leading-relaxed">
-                This is an open-source project and we welcome contributions! Whether you want to add new data sources,
-                improve the interface, fix bugs, or suggest new features, your help is appreciated.
+                We welcome your contributions!
+                Whether you want to add new data sources, improve the interface, fix bugs, or suggest new features, your help is appreciated.
               </p>
             </div>
 

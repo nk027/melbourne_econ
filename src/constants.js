@@ -26,6 +26,10 @@ export const DEFAULT_SOURCES = [
     url: './ics/unimelb-econ.ics',
     homeUrl: 'https://fbe.unimelb.edu.au/economics/events'
   },
+  {
+    name: 'Workshops & Events',
+    url: './ics/custom-events.ics'
+  },
   // {
   //   name: 'UniMelb EE', // This alsp appears in the UniMelb Econ events
   //   url: './ics/unimelb-ee.ics',

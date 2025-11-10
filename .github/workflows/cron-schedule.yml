@@ -17,8 +17,8 @@ jobs:
 
     - name: Run ICS Script
       run: |
-        chmod +x get-ics.sh
-        ./get-ics.sh
+        chmod +x ./scripts/get-ics.sh
+        ./scripts/get-ics.sh
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -31,8 +31,8 @@ jobs:
 
     - name: Run scrapers
       run: |
-        python get-scrape_unimelb-econ.py
-        python get-scrape_monash-che.py
+        python scripts/get-scrape_unimelb-econ.py
+        python scripts/get-scrape_monash-che.py
 
     - name: Setup Node
       uses: actions/setup-node@v4
