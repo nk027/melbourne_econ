@@ -83,9 +83,9 @@ export default function EventModal({ event, onClose }) {
       <div
         ref={dialogRef}
         onKeyDown={onKeyDown}
-        className="bg-white rounded-lg shadow-xl max-w-2xl w-full max-h-[90vh] overflow-hidden flex flex-col outline-none"
+        className="bg-white rounded-lg shadow-xl max-w-2xl w-full max-h-[85vh] overflow-hidden flex flex-col outline-none"
       >
-        <div className={`p-6 border-l-8 ${colors.border} overflow-y-auto`}>
+        <div className={`p-4 sm:p-6 border-l-8 ${colors.border} overflow-y-auto`}>
           {/* Header */}
           <div className="flex justify-between items-start mb-2">
             <h2 id="event-modal-title" className="text-xl font-bold text-gray-800 flex-1 pr-4">
@@ -95,7 +95,7 @@ export default function EventModal({ event, onClose }) {
               ref={firstFocusRef}
               type="button"
               onClick={onClose}
-              className="text-gray-500 hover:text-gray-700 text-3xl leading-none flex-shrink-0 cursor-pointer"
+              className="text-gray-500 hover:text-gray-700 text-4xl leading-none flex-shrink-0 cursor-pointer min-w-[40px] min-h-[40px]"
               aria-label="Close dialog"
             >
               ×
@@ -121,28 +121,27 @@ export default function EventModal({ event, onClose }) {
             </div>
 
             <div>
-              <h3 className="text-sm font-semibold text-gray-600 mb-1">Date &amp; Time</h3>
-              <div className="text-gray-800">
+              <div className="text-gray-800 mb-1">
+                <h3 className="text-sm font-semibold text-gray-600 mb-1">Date &amp; Time</h3>
                 <div>📅 {formatDate(event.start)}</div>
                 <div>
                   🕐 {displayTime}
                 </div>
               </div>
+              {event.location && (
+                <div>
+                  <h3 className="text-sm font-semibold text-gray-600 mb-1">Location</h3>
+                  <div className="text-gray-800">📍 {event.location}</div>
+                </div>
+              )}
             </div>
-
-            {event.location && (
-              <div>
-                <h3 className="text-sm font-semibold text-gray-600 mb-1">Location</h3>
-                <div className="text-gray-800">📍 {event.location}</div>
-              </div>
-            )}
 
             {event.description && (
               <div>
                 <h3 className="text-sm font-semibold text-gray-600 mb-1">Description</h3>
                 <div
                   id="event-modal-body"
-                  className="text-gray-800 whitespace-pre-wrap max-h-96 overflow-y-auto p-3 bg-gray-50 rounded border border-gray-200 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  className="text-xs text-gray-800 whitespace-pre-wrap max-h-[40vh] overflow-y-auto p-3 bg-gray-50 rounded border border-gray-200 focus:outline-none focus:ring-2 focus:ring-blue-500"
                   tabIndex={0}
                   data-scrollable
                   onKeyDown={(e) => {

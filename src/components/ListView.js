@@ -43,7 +43,7 @@ function EventItem({ event, onEventClick }) {
 
         <div className="flex flex-col items-end ml-2 flex-shrink-0 gap-1.5">
           <span
-            className={`px-2.5 py-0.5 ${colors.bg} ${colors.text} rounded-full text-xs font-medium whitespace-nowrap`}
+            className={`px-2.5 py-0.5 ${colors.bg} ${colors.text} rounded-full text-xs font-medium whitespace-nowrap hidden sm:inline-block`}
           >
             {event.source}
           </span>
