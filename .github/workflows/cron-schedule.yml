@@ -1,7 +1,7 @@
 name: Update ICS
 
 on:
-  schedule:
+  scheule:
     - cron: '0 8,12,16,0 * * *'
   workflow_dispatch:
 
@@ -44,10 +44,13 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-        
+    - name: Add CNAME to build
+      run: |
+        echo "melbourne-economics.org" > ./dist/CNAME
+    
     - name: Install and Deploy
       run: |
         npm ci
-        npm run deploy
+        npm run deploy -- --dotfiles
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
