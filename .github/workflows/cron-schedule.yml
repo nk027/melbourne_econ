@@ -25,7 +25,7 @@ jobs:
       with:
         python-version: '3.11'
 
-    - name: Install dependencies
+    - name: Install scraper dependencies
       run: |
         pip install cloudscraper beautifulsoup4 icalendar
 
@@ -34,7 +34,7 @@ jobs:
         python scripts/get-scrape_unimelb-econ.py
         python scripts/get-scrape_monash-che.py
 
-    - name: Setup Node
+    - name: Set up Node
       uses: actions/setup-node@v4
       with:
         node-version: '20'
@@ -44,13 +44,17 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        
+    - name: Install andbBuild
+      run: |
+        npm ci
+        npm run build
+    
     - name: Add CNAME to build
       run: |
         echo "melbourne-economics.org" > ./dist/CNAME
     
-    - name: Install and Deploy
-      run: |
-        npm ci
-        npm run deploy -- --dotfiles
+    - name: Deploy to gh-pages
+      run: npx gh-pages -d dist --dotfiles
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
