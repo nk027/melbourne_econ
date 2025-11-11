@@ -31,7 +31,7 @@ export const DEFAULT_SOURCES = [
     color: 'purple',
   },
   {
-    name: 'Workshops & Events',
+    name: 'Summer Institute',
     fullName: 'Melbourne Summer Institute Workshops & Events',
     url: './ics/custom-events.ics',
     homeUrl: 'https://sites.google.com/view/melbournesummerinstitute/home',

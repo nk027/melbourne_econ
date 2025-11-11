@@ -1,9 +1,9 @@
 {
-  "name": "melb_econ-sem",
+  "name": "melbourne_econ",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nk027.github.io/melb_econ-sem",
+  "homepage": "https://melbourne-economics.org",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

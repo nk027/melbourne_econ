@@ -310,7 +310,7 @@ export default function App() {
         <div className="bg-white rounded-lg shadow-lg p-4">
           {/* Header */}
           <div className="flex items-center justify-between mb-4">
-            <h1 className="text-xl md:text-3xl font-bold text-gray-800">Melbourne Econ Events</h1>
+            <h1 className="text-xl md:text-3xl font-bold text-gray-800">Melbourne Economics Events</h1>
           </div>
           {/* Tab Navigation */}
           <div className="flex gap-2 mb-6 border-b border-gray-200">
