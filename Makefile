@@ -1,3 +1,6 @@
+SHELL := /bin/bash
+PYTHON ?= python3
+
 all: ics scrape format
 
 # Run the shell script
@@ -13,6 +16,7 @@ scrape:
 
 format:
 	@echo "Formatting raw ICS files"
+	@mkdir -p public/ics raw/ics
 	@venv/bin/python scripts/unify-ics.py --redact-signup-links -o public/ics/monash-ebs.ics raw/ics/monash-ebs.ics
 	@venv/bin/python scripts/unify-ics.py --redact-signup-links -o public/ics/monash-econ.ics raw/ics/monash-econ.ics --grep-sm "workshop" --grep-sm "seminar" --grep-sm "conference"
 	cp raw/ics/unimelb-ebe.ics public/ics/unimelb-ebe.ics
