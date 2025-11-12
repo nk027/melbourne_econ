@@ -1,10 +1,10 @@
-import React from 'react';
-import { ChevronLeft, ChevronRight } from './Icons';
-import { getSourceColor } from '../utils/colorUtils';
-import { formatTime } from '../utils/dateUtils';
-import { getLocalDateKey } from '../utils/dateUtils';
+import React from "react";
+import { ChevronLeft, ChevronRight } from "./Icons";
+import { getSourceColor } from "../utils/colorUtils";
+import { formatTime } from "../utils/dateUtils";
+import { getLocalDateKey } from "../utils/dateUtils";
 
-const WEEK_DAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+const WEEK_DAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
 export default function WeekView({
   currentDate,
@@ -16,14 +16,16 @@ export default function WeekView({
   const weekGrid = getWeekGrid(currentDate);
 
   // Calculate grid template columns based on content
-  const gridCols = weekGrid.map((day) => {
-    const dateKey = getLocalDateKey(day);
-    const dayEvents = eventsByDate[dateKey] || [];
-    const isWeekend = day.getDay() === 0 || day.getDay() === 6;
-    const isEmpty = dayEvents.length === 0;
+  const gridCols = weekGrid
+    .map((day) => {
+      const dateKey = getLocalDateKey(day);
+      const dayEvents = eventsByDate[dateKey] || [];
+      const isWeekend = day.getDay() === 0 || day.getDay() === 6;
+      const isEmpty = dayEvents.length === 0;
 
-    return isWeekend && isEmpty ? 'minmax(80px, 0.5fr)' : '1fr';
-  }).join(' ');
+      return isWeekend && isEmpty ? "minmax(80px, 0.5fr)" : "1fr";
+    })
+    .join(" ");
 
   return (
     <div>
@@ -35,11 +37,11 @@ export default function WeekView({
           <ChevronLeft />
         </button>
         <h2 className="text-lg md:text-xl font-bold">
-          Week of{' '}
-          {weekGrid[0].toLocaleDateString('en-US', {
-            month: 'long',
-            day: 'numeric',
-            year: 'numeric',
+          Week of{" "}
+          {weekGrid[0].toLocaleDateString("en-US", {
+            month: "long",
+            day: "numeric",
+            year: "numeric",
           })}
         </h2>
         <button
@@ -56,7 +58,10 @@ export default function WeekView({
         style={{ gridTemplateColumns: gridCols }}
       >
         {WEEK_DAYS.map((day) => (
-          <div key={day} className="text-center font-semibold text-gray-700 py-2">
+          <div
+            key={day}
+            className="text-center font-semibold text-gray-700 py-2"
+          >
             {day}
           </div>
         ))}
@@ -76,7 +81,9 @@ export default function WeekView({
             <div
               key={idx}
               className={`md:min-h-[180px] p-3 border rounded-lg overflow-hidden ${
-                isToday ? 'bg-blue-50 border-blue-300' : 'bg-white border-gray-200'
+                isToday
+                  ? "bg-blue-50 border-blue-300"
+                  : "bg-white border-gray-200"
               }`}
             >
               {/* Mobile: show day name with date */}
@@ -86,7 +93,7 @@ export default function WeekView({
                 </span>
                 <div
                   className={`text-base font-bold ${
-                    isToday ? 'text-blue-600' : 'text-gray-700'
+                    isToday ? "text-blue-600" : "text-gray-700"
                   }`}
                 >
                   {day.getDate()}
@@ -95,6 +102,14 @@ export default function WeekView({
               <div className="space-y-2">
                 {dayEvents.map((event, eventIdx) => {
                   const colors = getSourceColor(event.source);
+                  const startTime = formatTime(event.start);
+                  const endTime = event.end ? formatTime(event.end) : null;
+                  const isAllDay =
+                    startTime === "00:00" && (!endTime || endTime === "00:00");
+                  const displayTime = isAllDay
+                    ? "All Day"
+                    : `${startTime}${endTime ? `–${endTime}` : ""}`;
+
                   return (
                     <div
                       key={eventIdx}
@@ -102,7 +117,7 @@ export default function WeekView({
                       className={`text-sm p-2 ${colors.bg} rounded ${colors.hover} cursor-pointer border ${colors.border} overflow-hidden`}
                     >
                       <div className="font-bold text-gray-800 mb-1 truncate">
-                        {formatTime(event.start)}
+                        {displayTime}
                       </div>
                       <div className="font-semibold text-gray-700 mb-1 break-words">
                         {event.summary}

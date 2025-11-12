@@ -15,11 +15,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Run ICS Script
-      run: |
-        chmod +x ./scripts/get-ics.sh
-        ./scripts/get-ics.sh
-
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
@@ -31,29 +26,28 @@ jobs:
 
     - name: Run scrapers
       run: |
-        python scripts/get-scrape_unimelb-econ.py
-        python scripts/get-scrape_monash-che.py
+        make all
 
     - name: Set up Node
       uses: actions/setup-node@v4
       with:
         node-version: '20'
-        
+
     - name: Configure Git for gh-pages
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-        
+
     - name: Install andbBuild
       run: |
         npm ci
         npm run build
-    
+
     - name: Add CNAME to build
       run: |
         echo "melbourne-economics.org" > ./dist/CNAME
-    
+
     - name: Deploy to gh-pages
       run: npx gh-pages -d dist --dotfiles
       env:

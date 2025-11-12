@@ -1,4 +1,4 @@
-all: ics scrape
+all: ics scrape format
 
 # Run the shell script
 ics:
@@ -11,5 +11,12 @@ scrape:
 	@venv/bin/python scripts/get-scrape_monash-che.py
 	@venv/bin/python scripts/get-scrape_unimelb-econ.py
 
+format:
+	@echo "Formatting raw ICS files"
+	@venv/bin/python scripts/unify-ics.py --redact-signup-links -o public/ics/monash-ebs.ics raw/ics/monash-ebs.ics
+	@venv/bin/python scripts/unify-ics.py --redact-signup-links -o public/ics/monash-econ.ics raw/ics/monash-econ.ics --grep-sm "workshop" --grep-sm "seminar" --grep-sm "conference"
+	cp raw/ics/unimelb-ebe.ics public/ics/unimelb-ebe.ics
+	cp raw/ics/custom-events.ics public/ics/custom-events.ics
+
 # Declare phony targets (so they always run)
-.PHONY: all ics scrape
+.PHONY: all ics scrape format
