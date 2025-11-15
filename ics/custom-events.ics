@@ -6,43 +6,56 @@ METHOD:PUBLISH
 X-WR-CALNAME:Melbourne Events
 X-WR-TIMEZONE:Australia/Sydney
 BEGIN:VEVENT
-DTSTART:20251124T000000Z
-DTEND:20251124T010000Z
-DTSTAMP:20251114T212026Z
-UID:4j7n2nvn77ak0p2cugaj9ctngi@google.com
-CREATED:20251112T003407Z
-DESCRIPTION:<span><b>The Saturated Bayesian - Break Detection in Panel Data
-  with Short Time Horizons</b></span><br><span><b> </b></span><br><a href="h
- ttps://docs.google.com/spreadsheets/d/1KZYomXD7_B5OPZMMi1z9YKtnHymR-QcaGDyv
- P3yAlpE/edit?gid=0#gid=0" class="pastedDriveLink-0">https://docs.google.com
- /spreadsheets/d/1KZYomXD7_B5OPZMMi1z9YKtnHymR-QcaGDyvP3yAlpE/edit?gid=0#gid
- =0</a><span><b> </b></span>
-LAST-MODIFIED:20251112T003408Z
-LOCATION:FBE 304
+DTSTART;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251213
+DTSTAMP:20251115T023751Z
+UID:62hh5e3icbk7ctgljfbvmhhbq2@google.com
+CREATED:20251110T014200Z
+DESCRIPTION:<a href="https://events.rba.gov.au/call-for-papers">https://eve
+ nts.rba.gov.au/call-for-papers</a>
+LAST-MODIFIED:20251110T014200Z
+LOCATION:Reserve Bank of Australia\, 8 Chifley Square\, Sydney NSW 2000\, A
+ ustralia
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Econometrics Seminar UniMelb - Lukas Vashold (WU)
-TRANSP:OPAQUE
+SUMMARY:RBA Macro Workshop
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251126
-DTEND;VALUE=DATE:20251127
-DTSTAMP:20251114T212026Z
-UID:7kf3ul7dkcjgho7dn93l6jtn1e@google.com
-CREATED:20251110T013403Z
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251118
+DTSTAMP:20251115T023751Z
+UID:4ch18pn14lcc8oq9fcmap4qql5@google.com
+CREATED:20251110T013859Z
 DESCRIPTION:<a href="https://i4replication.org/games.html">https://i4replic
  ation.org/games.html</a>
-LAST-MODIFIED:20251110T014012Z
-LOCATION:The University of Melbourne\, Parkville VIC 3010\, Australia
-SEQUENCE:2
+LAST-MODIFIED:20251110T014040Z
+LOCATION:The University of Queensland\, St Lucia QLD 4072\, Australia
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:UniMelb Replication Games
+SUMMARY:Uni Queensland Replication Games
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+DTSTAMP:20251115T023751Z
+UID:5dcs68iu94mhp7kbd979ml2kjg@google.com
+CREATED:20251110T013142Z
+DESCRIPTION:<a href="https://rse.anu.edu.au/sites/default/files/2025-03/Aus
+ Clio-Workshop-Monash-14th-November.pdf">https://rse.anu.edu.au/sites/defaul
+ t/files/2025-03/AusClio-Workshop-Monash-14th-November.pdf</a>
+LAST-MODIFIED:20251111T040739Z
+LOCATION:Monash
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Australasian Cliometrics Workshop
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T000000Z
 DTEND:20251202T013000Z
-DTSTAMP:20251114T212026Z
+DTSTAMP:20251115T023751Z
 UID:1kf15eaeo3t9l3gg6prv6rem00@google.com
 CREATED:20251112T003155Z
 DESCRIPTION:<br><br> <br><br>  <br><br><br>Zoom meeting<br><br><br>Join on 
@@ -80,154 +93,9 @@ SUMMARY:Applied Micro Seminar - David Schönholzer (UC Santa Cruz)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251117
-DTEND;VALUE=DATE:20251118
-DTSTAMP:20251114T212026Z
-UID:4ch18pn14lcc8oq9fcmap4qql5@google.com
-CREATED:20251110T013859Z
-DESCRIPTION:<a href="https://i4replication.org/games.html">https://i4replic
- ation.org/games.html</a>
-LAST-MODIFIED:20251110T014040Z
-LOCATION:The University of Queensland\, St Lucia QLD 4072\, Australia
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Uni Queensland Replication Games
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251120
-DTEND;VALUE=DATE:20251122
-DTSTAMP:20251114T212026Z
-UID:56rrca5i8p3mml0e611h03fojn@google.com
-CREATED:20251110T013337Z
-DESCRIPTION:<a href="https://sites.google.com/view/16thapcc/home">https://s
- ites.google.com/view/16thapcc/home</a>
-LAST-MODIFIED:20251110T014018Z
-LOCATION:Deakin University Melbourne Burwood Campus\, 221 Burwood Hwy\, Bur
- wood VIC 3125\, Australia
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Australasian Public Choice Conference
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251212
-DTEND;VALUE=DATE:20251213
-DTSTAMP:20251114T212026Z
-UID:2020mssncbq1pqt4bj3v9qr0ib@google.com
-CREATED:20251110T013623Z
-DESCRIPTION:Contact: <a href="https://sites.google.com/site/romaingauriot/"
- >https://sites.google.com/site/romaingauriot/</a>
-LAST-MODIFIED:20251110T013958Z
-LOCATION:Deakin University Melbourne Burwood Campus\, 221 Burwood Hwy\, Bur
- wood VIC 3125\, Australia
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Annual Natural Experiments Workshop
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251210
-DTEND;VALUE=DATE:20251212
-DTSTAMP:20251114T212026Z
-UID:1omegnnd2fs62nadfedueh2k63@google.com
-CREATED:20251110T014119Z
-DESCRIPTION:<a href="https://www.econometricsociety.org/regions/australasia
- /regional-news/2025/07/23/2025-Economic-Theory-Festival#:~:text=Save%20the%
- 20Date%20%7C%20December%2010th\,University%20of%20Queensland%20in%20Brisban
- e.">https://www.econometricsociety.org/regions/australasia/regional-news/20
- 25/07/23/2025-Economic-Theory-Festival#:~:text=Save%20the%20Date%20%7C%20De
- cember%2010th\,University%20of%20Queensland%20in%20Brisbane.</a>
-LAST-MODIFIED:20251110T014119Z
-LOCATION:The University of Queensland\, St Lucia QLD 4072\, Australia
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Economic Theory Festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251211
-DTEND;VALUE=DATE:20251213
-DTSTAMP:20251114T212026Z
-UID:62hh5e3icbk7ctgljfbvmhhbq2@google.com
-CREATED:20251110T014200Z
-DESCRIPTION:<a href="https://events.rba.gov.au/call-for-papers">https://eve
- nts.rba.gov.au/call-for-papers</a>
-LAST-MODIFIED:20251110T014200Z
-LOCATION:Reserve Bank of Australia\, 8 Chifley Square\, Sydney NSW 2000\, A
- ustralia
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:RBA Macro Workshop
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251114
-DTEND;VALUE=DATE:20251115
-DTSTAMP:20251114T212026Z
-UID:5dcs68iu94mhp7kbd979ml2kjg@google.com
-CREATED:20251110T013142Z
-DESCRIPTION:<a href="https://rse.anu.edu.au/sites/default/files/2025-03/Aus
- Clio-Workshop-Monash-14th-November.pdf">https://rse.anu.edu.au/sites/defaul
- t/files/2025-03/AusClio-Workshop-Monash-14th-November.pdf</a>
-LAST-MODIFIED:20251111T040739Z
-LOCATION:Monash
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Australasian Cliometrics Workshop
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DTEND;VALUE=DATE:20251025
-DTSTAMP:20251114T212026Z
-UID:56u4g2ul7neuqnic01q5t61ntg@google.com
-CREATED:20251110T013119Z
-DESCRIPTION:<a href="https://drive.google.com/file/d/1ELQc8mfNUSJ8LO3aEAG6R
- RH0uDvgbf8S/view" class="pastedDriveLink-0">https://drive.google.com/file/d
- /1ELQc8mfNUSJ8LO3aEAG6RRH0uDvgbf8S/view</a>
-LAST-MODIFIED:20251110T013300Z
-LOCATION:Deakin
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Deakin Economic Theory Workshop
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251201
-DTEND;VALUE=DATE:20251203
-DTSTAMP:20251114T212026Z
-UID:5e2asmjacrnafrnb4qs4p0vfla@google.com
-CREATED:20251110T013449Z
-DESCRIPTION:<a href="https://sites.google.com/view/cesa25/home">https://sit
- es.google.com/view/cesa25/home</a>
-LAST-MODIFIED:20251110T013952Z
-LOCATION:Deakin University Melbourne Burwood Campus\, 221 Burwood Hwy\, Bur
- wood VIC 3125\, Australia
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Annual Conference of Chinese Economics Society Australia
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251205
-DTEND;VALUE=DATE:20251207
-DTSTAMP:20251114T212026Z
-UID:1jf3c2i5edd8l3ea236kt9p8g9@google.com
-CREATED:20251110T013943Z
-DESCRIPTION:<a href="https://sites.google.com/view/ozmac-workshop/home">htt
- ps://sites.google.com/view/ozmac-workshop/home</a>
-LAST-MODIFIED:20251110T013944Z
-LOCATION:The University of Queensland\, St Lucia QLD 4072\, Australia
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:OzMac Macro Workshop
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251122
-DTSTAMP:20251114T212026Z
+DTSTAMP:20251115T023751Z
 UID:3ubi1vri9reqperhr4ic3le8jm@google.com
 CREATED:20251110T013236Z
 DESCRIPTION:<a href="https://ausmacro.com/WAMS2025/">https://ausmacro.com/W
@@ -242,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251215
-DTSTAMP:20251114T212026Z
+DTSTAMP:20251115T023751Z
 UID:2h905skqvqe33852olkuik4ih9@google.com
 CREATED:20251110T014239Z
 DESCRIPTION:<a href="https://apios.org.au/">https://apios.org.au/</a>
@@ -254,24 +122,9 @@ SUMMARY:Asia-Pacific Industrial Organization (IO) Conference
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251113
-DTEND;VALUE=DATE:20251114
-DTSTAMP:20251114T212026Z
-UID:69ca8skt4d7jd9pkd7pru0abde@google.com
-CREATED:20251110T013815Z
-DESCRIPTION:https://i4replication.org/games.html
-LAST-MODIFIED:20251112T025018Z
-LOCATION:University of Technology Sydney\, 15 Broadway\, Ultimo NSW 2007\, 
- Australia
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:UT Sydney Replication Games
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251216T000000Z
 DTEND:20251216T013000Z
-DTSTAMP:20251114T212026Z
+DTSTAMP:20251115T023751Z
 UID:tulestgvtt6a3c6u8ltt14i4fs@google.com
 CREATED:20251112T002034Z
 DESCRIPTION: \n\n  \n\n\nZoom meeting\n\n\nJoin on your computer or mobile 
@@ -301,9 +154,39 @@ SUMMARY:Applied Micro Seminar - Damon Clarke (UC Irvine )
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+DTSTAMP:20251115T023751Z
+UID:69ca8skt4d7jd9pkd7pru0abde@google.com
+CREATED:20251110T013815Z
+DESCRIPTION:https://i4replication.org/games.html
+LAST-MODIFIED:20251112T025018Z
+LOCATION:University of Technology Sydney\, 15 Broadway\, Ultimo NSW 2007\, 
+ Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:UT Sydney Replication Games
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251207
+DTSTAMP:20251115T023751Z
+UID:1jf3c2i5edd8l3ea236kt9p8g9@google.com
+CREATED:20251110T013943Z
+DESCRIPTION:<a href="https://sites.google.com/view/ozmac-workshop/home">htt
+ ps://sites.google.com/view/ozmac-workshop/home</a>
+LAST-MODIFIED:20251110T013944Z
+LOCATION:The University of Queensland\, St Lucia QLD 4072\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:OzMac Macro Workshop
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260214
-DTSTAMP:20251114T212026Z
+DTSTAMP:20251115T023751Z
 UID:7mt11kalo88nq89n8c5bseqa1j@google.com
 CREATED:20251110T013703Z
 DESCRIPTION:<a href="https://www.monash.edu/business/events/australian-gend
@@ -317,9 +200,79 @@ SUMMARY:Australian Gender Economics Workshop
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251124T000000Z
+DTEND:20251124T010000Z
+DTSTAMP:20251115T023751Z
+UID:4j7n2nvn77ak0p2cugaj9ctngi@google.com
+CREATED:20251112T003407Z
+DESCRIPTION:<span><b>The Saturated Bayesian - Break Detection in Panel Data
+  with Short Time Horizons</b></span><br><span><b> </b></span><br><a href="h
+ ttps://docs.google.com/spreadsheets/d/1KZYomXD7_B5OPZMMi1z9YKtnHymR-QcaGDyv
+ P3yAlpE/edit?gid=0#gid=0" class="pastedDriveLink-0">https://docs.google.com
+ /spreadsheets/d/1KZYomXD7_B5OPZMMi1z9YKtnHymR-QcaGDyvP3yAlpE/edit?gid=0#gid
+ =0</a><span><b> </b></span>
+LAST-MODIFIED:20251112T003408Z
+LOCATION:FBE 304
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Econometrics Seminar UniMelb - Lukas Vashold (WU)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251025
+DTSTAMP:20251115T023751Z
+UID:56u4g2ul7neuqnic01q5t61ntg@google.com
+CREATED:20251110T013119Z
+DESCRIPTION:<a href="https://drive.google.com/file/d/1ELQc8mfNUSJ8LO3aEAG6R
+ RH0uDvgbf8S/view" class="pastedDriveLink-0">https://drive.google.com/file/d
+ /1ELQc8mfNUSJ8LO3aEAG6RRH0uDvgbf8S/view</a>
+LAST-MODIFIED:20251110T013300Z
+LOCATION:Deakin
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Deakin Economic Theory Workshop
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+DTSTAMP:20251115T023751Z
+UID:2020mssncbq1pqt4bj3v9qr0ib@google.com
+CREATED:20251110T013623Z
+DESCRIPTION:Contact: <a href="https://sites.google.com/site/romaingauriot/"
+ >https://sites.google.com/site/romaingauriot/</a>
+LAST-MODIFIED:20251110T013958Z
+LOCATION:Deakin University Melbourne Burwood Campus\, 221 Burwood Hwy\, Bur
+ wood VIC 3125\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Annual Natural Experiments Workshop
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251212
+DTSTAMP:20251115T023751Z
+UID:1omegnnd2fs62nadfedueh2k63@google.com
+CREATED:20251110T014119Z
+DESCRIPTION:<a href="https://www.econometricsociety.org/regions/australasia
+ /regional-news/2025/07/23/2025-Economic-Theory-Festival#:~:text=Save%20the%
+ 20Date%20%7C%20December%2010th\,University%20of%20Queensland%20in%20Brisban
+ e.">https://www.econometricsociety.org/regions/australasia/regional-news/20
+ 25/07/23/2025-Economic-Theory-Festival#:~:text=Save%20the%20Date%20%7C%20De
+ cember%2010th\,University%20of%20Queensland%20in%20Brisbane.</a>
+LAST-MODIFIED:20251110T014119Z
+LOCATION:The University of Queensland\, St Lucia QLD 4072\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Economic Theory Festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251125T000000Z
 DTEND:20251125T013000Z
-DTSTAMP:20251114T212026Z
+DTSTAMP:20251115T023751Z
 ORGANIZER;CN=ecocom-mr404@unimelb.edu.au:mailto:ecocom-mr404@unimelb.edu.au
 UID:040000008200E00074C5B7101A82E00800000000907E1EF01A1CDC01000000000000000
  010000000CD22124492812D49BB05990521280FE8
@@ -360,5 +313,52 @@ X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MS-OLK-CONFTYPE:0
 X-MS-OLK-SENDER;CN=Jess Davey:mailto:jess.davey1@unimelb.edu.au
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251203
+DTSTAMP:20251115T023751Z
+UID:5e2asmjacrnafrnb4qs4p0vfla@google.com
+CREATED:20251110T013449Z
+DESCRIPTION:<a href="https://sites.google.com/view/cesa25/home">https://sit
+ es.google.com/view/cesa25/home</a>
+LAST-MODIFIED:20251110T013952Z
+LOCATION:Deakin University Melbourne Burwood Campus\, 221 Burwood Hwy\, Bur
+ wood VIC 3125\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Annual Conference of Chinese Economics Society Australia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251127
+DTSTAMP:20251115T023751Z
+UID:7kf3ul7dkcjgho7dn93l6jtn1e@google.com
+CREATED:20251110T013403Z
+DESCRIPTION:<a href="https://i4replication.org/games.html">https://i4replic
+ ation.org/games.html</a>
+LAST-MODIFIED:20251110T014012Z
+LOCATION:The University of Melbourne\, Parkville VIC 3010\, Australia
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:UniMelb Replication Games
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251122
+DTSTAMP:20251115T023751Z
+UID:56rrca5i8p3mml0e611h03fojn@google.com
+CREATED:20251110T013337Z
+DESCRIPTION:<a href="https://sites.google.com/view/16thapcc/home">https://s
+ ites.google.com/view/16thapcc/home</a>
+LAST-MODIFIED:20251110T014018Z
+LOCATION:Deakin University Melbourne Burwood Campus\, 221 Burwood Hwy\, Bur
+ wood VIC 3125\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Australasian Public Choice Conference
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
