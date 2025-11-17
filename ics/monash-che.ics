@@ -2,6 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Monash Events//EN
 BEGIN:VEVENT
+SUMMARY:CHE Seminar Series: Mortality Effects of Anticipated Job Loss - Ev
+ idence from mass layoffs
+DTSTART:20251112T120000
+DTEND:20251112T130000
+DESCRIPTION:This paper examines the effects of job loss on worker mortalit
+ y. In our analysis\, we use eleven years of data from the Slovak Republic 
+ where mass layoff announcements are legally required at least 30 days in a
+ dvance. We distinguish between the mortality impact of the announcement of
+  the mass layoffs and if it occurs the impact of the subsequent actual dis
+ missal. Our findings indicate that the announcements of potential job loss
+  lead to a significant increase in worker mortality rates\, while the actu
+ al dismissals do not contribute to any further rise. These results suggest
+  that the anticipation or threat of job loss is more harmful to workers’
+  health than the job loss itself.\n\nSpeaker profile\n\n<a href="https://s
+ ites.google.com/site/homepagejanvanours/" target="_blank">Jan van Ours</a>
+  is emeritus Professor of Economics at Erasmus School of Economics\, Erasm
+ us University Rotterdam\, the Netherlands and Adjunct professor at the Cen
+ ter for Health Economics\, Monash Business School\, Melbourne\, Australia.
+  Currently\, his research is focused on labor economics\, health economics
+  and sports economics.\n\nWeekly seminar series\n\nAs part of our Centre's
+  vibrant research culture\, we host a weekly seminar series. Visiting and 
+ invited researchers present current research relating to the economics of 
+ health and wellbeing\, and the healthcare sector. Visitors are welcome to 
+ join these sessions where discussion and debate is encouraged.\n\nFor furt
+ her information on our seminar series\, please contact <a href="mailto:Tr
+ ong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a>\n\n<a class="btn"
+  href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbA
+ X5do.1">Join Zoom</a>
+LOCATION:Caulfield campus\, Building H\, level 2\, room H2.24
+URL:https://www.monash.edu/business/events/che-seminar-series-mortality-ef
+ fects-of-anticipated-job-loss-evidence-from-mass-layoffs
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CHE Seminar Series: Why life gets better after age 50\, for some -
   Mental well-being and the social norm of work
 DTSTART:20251119T120000
@@ -105,7 +138,7 @@ DESCRIPTION:This workshop will provide a forum for the development and dis
  Paper submissions" data-type="nested" id="Paper_submissions-1" role="tab">
  \n<span class="accTitle__icon"><svg><use href="https://www.monash.edu/__da
  ta/assets/git_bridge/0009/2651868/dist/assets/images/icon-spritesheet.svg?
- h=1d3ca15#copy"></use></svg></span>\n<span class="accTitle__text">Paper su
+ h=4279f04#copy"></use></svg></span>\n<span class="accTitle__text">Paper su
  bmissions</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTi
  tle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="accTitle__
  toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="V
@@ -218,7 +251,7 @@ DESCRIPTION:This workshop will provide a forum for the development and dis
  \n      debouncedUpdateIsotopeLayout()\;\n    }\n  })\;\n\n})\;\n*/\n\n\n<
  /script>\n\n<span class="accTitle__icon"><svg><use href="https://www.monas
  h.edu/__data/assets/git_bridge/0009/2651868/dist/assets/images/icon-sprite
- sheet.svg?h=1d3ca15#copy"></use></svg></span>\n<span class="accTitle__text
+ sheet.svg?h=4279f04#copy"></use></svg></span>\n<span class="accTitle__text
  ">Paper submissions</span>\n<span class="accTitle__toggle-wrapper">\n<a cl
  ass="accTitle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="
  accTitle__toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><

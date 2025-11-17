@@ -2,14 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UniMelb FBE Economics Events//EN
 BEGIN:VEVENT
-SUMMARY:Experimental and Behavioural Economics Seminar Series - Michelle E
- scobar Carias
-DTSTART:20251120T110000
-DTEND:20251120T121500
-DESCRIPTION:Title and Abstract: TBC\n\nContact: Mia Tam (mia.tam@unimelb.e
- du.au)
+SUMMARY:Experimental and Behavioural Economics Seminar Series - Max Grossm
+ ann (University of Melbourne)
+DTSTART:20251113T110000
+DTEND:20251113T121500
+DESCRIPTION:Title: Uproot: A Software Framework for Behavioral Experiments
+ \n\nAbstract: Existing popular software frameworks for conducting behavior
+ al experiments—both online and in the lab—suffer from limitations incl
+ uding architectural inflexibility and limited feature sets that restrict t
+ heir utility. They are closed source or do not encourage outside contribut
+ ions. To overcome these restrictions\, we introduce “uproot”: a scalab
+ le\, genuinely open-source framework for developing and conducting behavio
+ ral experiments. uproot revolutionizes data storage with an append-only lo
+ g\, ensuring data persistence and allowing the use of arbitrary data types
+ . uproot provides many additional important features for modern experiment
+ s. For example\, Likert scales are provided out of the box\, file uploads 
+ are possible\, and internal pages can be customized easily. With capabilit
+ ies such as page repetition\, random page orderings\, indefinitely repeate
+ d sets of pages\, management of individual subjects\, dynamically sized se
+ ssions\, and convenient async-first APIs\, uproot overcomes many of the li
+ mitations of existing frameworks. Our framework is suited for both small-s
+ cale and large-scale studies\, including surveys and experiments in which 
+ participants interact with each other. We encourage community-driven devel
+ opment.\n\nContact: Mia Tam (mia.tam@unimelb.edu.au)
 URL:https://fbe.unimelb.edu.au/economics/events/experimental-and-behaviour
- al-economics/experimental-and-behavioural-economics-seminar-series-michell
- e-escobar-carias
+ al-economics/experimental-and-behavioural-economics-seminar-series-max-gro
+ ssmann-university-of-melbourne
 END:VEVENT
 END:VCALENDAR
