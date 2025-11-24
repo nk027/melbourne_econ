@@ -2,31 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UniMelb FBE Economics Events//EN
 BEGIN:VEVENT
-SUMMARY:Experimental and Behavioural Economics Seminar Series - Max Grossm
- ann (University of Melbourne)
-DTSTART:20251113T110000
-DTEND:20251113T121500
-DESCRIPTION:Title: Uproot: A Software Framework for Behavioral Experiments
- \n\nAbstract: Existing popular software frameworks for conducting behavior
- al experiments—both online and in the lab—suffer from limitations incl
- uding architectural inflexibility and limited feature sets that restrict t
- heir utility. They are closed source or do not encourage outside contribut
- ions. To overcome these restrictions\, we introduce “uproot”: a scalab
- le\, genuinely open-source framework for developing and conducting behavio
- ral experiments. uproot revolutionizes data storage with an append-only lo
- g\, ensuring data persistence and allowing the use of arbitrary data types
- . uproot provides many additional important features for modern experiment
- s. For example\, Likert scales are provided out of the box\, file uploads 
- are possible\, and internal pages can be customized easily. With capabilit
- ies such as page repetition\, random page orderings\, indefinitely repeate
- d sets of pages\, management of individual subjects\, dynamically sized se
- ssions\, and convenient async-first APIs\, uproot overcomes many of the li
- mitations of existing frameworks. Our framework is suited for both small-s
- cale and large-scale studies\, including surveys and experiments in which 
- participants interact with each other. We encourage community-driven devel
- opment.\n\nContact: Mia Tam (mia.tam@unimelb.edu.au)
-URL:https://fbe.unimelb.edu.au/economics/events/experimental-and-behaviour
- al-economics/experimental-and-behavioural-economics-seminar-series-max-gro
- ssmann-university-of-melbourne
+SUMMARY:Applied Microeconomics Seminar Series - Ken Gillingham (Yale Schoo
+ l of the Environment)
+DTSTART:20251125T110000
+DTEND:20251125T121500
+DESCRIPTION:Abstract and Title: To Be Advised\n\nContact: Sebastian Tebbe 
+ & Kathryn Baragwanath (sebastian.tebbe@unimelb.edu.au\; kathryn.baragwanat
+ h@unimelb.edu.au)
+URL:https://fbe.unimelb.edu.au/economics/events/applied-microeconomics/app
+ lied-microeconomics-seminar-series-ken-gillingham-yale-school-of-the-envir
+ onment
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Macroeconomics Seminar Series - Hylke Vandenbussche (University of
+  Leuven)
+DTSTART:20251127T120000
+DTEND:20251127T131500
+DESCRIPTION:Abstract and Title: To Be Advised\n\nContact: Cristiano Mantov
+ ani & Aniket Baksy (cristiano.mantovani@unimelb.edu.au\; aniket.baksy@unim
+ elb.edu.au)
+URL:https://fbe.unimelb.edu.au/economics/events/macro/macroeconomics-semin
+ ar-series-hylke-vandenbussche-university-of-leuven
 END:VEVENT
 END:VCALENDAR

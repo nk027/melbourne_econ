@@ -1,37 +1,37 @@
-import { useState, useMemo, useEffect, useRef } from 'react';
-import { parseICS } from './utils/icsParser';
-import { getSourceColor } from './utils/colorUtils';
-import { fuzzyIncludes, useDebouncedValue } from './utils/fuzzySearch.js';
+import { useState, useMemo, useEffect, useRef } from "react";
+import { parseICS } from "./utils/icsParser";
+import { getSourceColor } from "./utils/colorUtils";
+import { fuzzyIncludes, useDebouncedValue } from "./utils/fuzzySearch.js";
 import {
   formatDate,
   formatTime,
   getMonthGrid,
   getWeekGrid,
   getLocalDateKey,
-} from './utils/dateUtils';
-import { DEFAULT_SOURCES, PRESET_TAGS } from './constants';
+} from "./utils/dateUtils";
+import { DEFAULT_SOURCES, PRESET_TAGS } from "./constants";
 
-import { Calendar, Upload } from './components/Icons';
-import Controls from './components/Controls';
-import FilterPanel from './components/FilterPanel';
-import ListView from './components/ListView';
-import WeekView from './components/WeekView';
-import MonthView from './components/MonthView';
-import EventModal from './components/EventModal';
-import AboutSection from './components/AboutSection';
+import { Calendar, Upload } from "./components/Icons";
+import Controls from "./components/Controls";
+import FilterPanel from "./components/FilterPanel";
+import ListView from "./components/ListView";
+import WeekView from "./components/WeekView";
+import MonthView from "./components/MonthView";
+import EventModal from "./components/EventModal";
+import AboutSection from "./components/AboutSection";
 
 export default function App() {
   const [events, setEvents] = useState([]);
   const [sources, setSources] = useState([]);
-  const [activeTab, setActiveTab] = useState('events');
-  const [view, setView] = useState('list');
-  const [rawQuery, setRawQuery] = useState('');
+  const [activeTab, setActiveTab] = useState("events");
+  const [view, setView] = useState("list");
+  const [rawQuery, setRawQuery] = useState("");
   const searchTerm = useDebouncedValue(rawQuery, 200);
   const [selectedSources, setSelectedSources] = useState(new Set());
   const [showFilters, setShowFilters] = useState(false);
-  const [dateFilter, setDateFilter] = useState('upcoming');
-  const [customStartDate, setCustomStartDate] = useState('');
-  const [customEndDate, setCustomEndDate] = useState('');
+  const [dateFilter, setDateFilter] = useState("upcoming");
+  const [customStartDate, setCustomStartDate] = useState("");
+  const [customEndDate, setCustomEndDate] = useState("");
   const [currentDate, setCurrentDate] = useState(new Date());
   const [selectedEvent, setSelectedEvent] = useState(null);
   const [selectedEventIndex, setSelectedEventIndex] = useState(null);
@@ -57,7 +57,7 @@ export default function App() {
     const reader = new FileReader();
     reader.onload = (event) => {
       const content = event.target.result;
-      const sourceName = file.name.replace('.ics', '');
+      const sourceName = file.name.replace(".ics", "");
       const parsed = parseICS(content, sourceName);
 
       setEvents((prev) => [...prev, ...parsed]);
@@ -65,7 +65,7 @@ export default function App() {
       setSelectedSources((prev) => new Set(prev).add(sourceName));
     };
     reader.readAsText(file);
-    e.target.value = '';
+    e.target.value = "";
   };
 
   const loadICSFromURL = async (url, sourceName) => {
@@ -84,7 +84,7 @@ export default function App() {
   };
 
   const toggleSource = (source) => {
-    setSelectedSources(prev => {
+    setSelectedSources((prev) => {
       const newSet = new Set(prev);
       if (newSet.has(source)) {
         newSet.delete(source);
@@ -107,7 +107,7 @@ export default function App() {
   };
 
   const toggleTag = (tag) => {
-    setSelectedTags(prev => {
+    setSelectedTags((prev) => {
       const newSet = new Set(prev);
       if (newSet.has(tag)) {
         newSet.delete(tag);
@@ -130,19 +130,19 @@ export default function App() {
   };
 
   const handleAddICSURL = async () => {
-    const url = prompt('Enter ICS URL or paste ICS content:');
+    const url = prompt("Enter ICS URL or paste ICS content:");
     if (!url) return;
 
-    const sourceName = prompt('Enter a name for this calendar source:');
+    const sourceName = prompt("Enter a name for this calendar source:");
     if (!sourceName) return;
 
-    if (url.startsWith('http://') || url.startsWith('https://')) {
+    if (url.startsWith("http://") || url.startsWith("https://")) {
       await loadICSFromURL(url, sourceName);
     } else {
       const parsed = parseICS(url, sourceName);
-      setEvents(prev => [...prev, ...parsed]);
-      setSources(prev => Array.from(new Set([...prev, sourceName])));
-      setSelectedSources(prev => new Set(prev).add(sourceName));
+      setEvents((prev) => [...prev, ...parsed]);
+      setSources((prev) => Array.from(new Set([...prev, sourceName])));
+      setSelectedSources((prev) => new Set(prev).add(sourceName));
     }
   };
 
@@ -150,14 +150,17 @@ export default function App() {
     const q = searchTerm.trim().toLowerCase();
 
     let filtered = events.filter((event) => {
-      if (!selectedSources.has(event.source)) { return false; }
+      if (!selectedSources.has(event.source)) {
+        return false;
+      }
 
       const summaryLower = event.summary.toLowerCase();
-      const descriptionLower = (event.description || '').toLowerCase();
-      const eventText = summaryLower + ' ' + descriptionLower;
+      const descriptionLower = (event.description || "").toLowerCase();
+      const eventText = summaryLower + " " + descriptionLower;
 
       const searchMatch =
-        q === '' || fuzzyIncludes(eventText, q) ||
+        q === "" ||
+        fuzzyIncludes(eventText, q) ||
         summaryLower.includes(q.toLowerCase()) ||
         descriptionLower.includes(q.toLowerCase());
 
@@ -172,13 +175,13 @@ export default function App() {
     const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
 
     switch (dateFilter) {
-      case 'past':
+      case "past":
         filtered = filtered.filter((event) => event.start < today);
         break;
-      case 'upcoming':
+      case "upcoming":
         filtered = filtered.filter((event) => event.start >= today);
         break;
-      case 'custom':
+      case "custom":
         if (customStartDate) {
           const startDate = new Date(customStartDate);
           filtered = filtered.filter((event) => event.start >= startDate);
@@ -194,61 +197,82 @@ export default function App() {
     }
 
     return filtered.sort((a, b) => a.start - b.start);
-  }, [events, selectedSources, searchTerm, selectedTags, dateFilter, customStartDate, customEndDate]);
+  }, [
+    events,
+    selectedSources,
+    searchTerm,
+    selectedTags,
+    dateFilter,
+    customStartDate,
+    customEndDate,
+  ]);
 
   // Keyboard navigation effect
   useEffect(() => {
     if (!selectedEvent) return;
     const handleKeyDown = (e) => {
-      if (e.key === 'Escape') {
+      if (e.key === "Escape") {
         setSelectedEvent(null);
         setSelectedEventIndex(null);
-      } else if (e.key === 'ArrowRight') {
+      } else if (e.key === "ArrowRight") {
         e.preventDefault();
         const nextIndex = (selectedEventIndex + 1) % filteredEvents.length;
         setSelectedEventIndex(nextIndex);
         setSelectedEvent(filteredEvents[nextIndex]);
-      } else if (e.key === 'ArrowLeft') {
+      } else if (e.key === "ArrowLeft") {
         e.preventDefault();
-        const prevIndex = (selectedEventIndex - 1 + filteredEvents.length) % filteredEvents.length;
+        const prevIndex =
+          (selectedEventIndex - 1 + filteredEvents.length) %
+          filteredEvents.length;
         setSelectedEventIndex(prevIndex);
         setSelectedEvent(filteredEvents[prevIndex]);
       }
     };
-    window.addEventListener('keydown', handleKeyDown);
+    window.addEventListener("keydown", handleKeyDown);
     return () => {
-      window.removeEventListener('keydown', handleKeyDown);
+      window.removeEventListener("keydown", handleKeyDown);
     };
   }, [selectedEvent, selectedEventIndex, filteredEvents]);
 
   // On state changes
   useEffect(() => {
     const p = new URLSearchParams({
-      view, tab: activeTab, q: searchTerm,
-      start: customStartDate || '',
-      end: customEndDate || '',
-      date: currentDate.toISOString().slice(0,10),
-      src: [...selectedSources].join(','),
-      tags: [...selectedTags].join(','),
-      range: dateFilter
+      view,
+      tab: activeTab,
+      q: searchTerm,
+      start: customStartDate || "",
+      end: customEndDate || "",
+      date: currentDate.toISOString().slice(0, 10),
+      src: [...selectedSources].join(","),
+      tags: [...selectedTags].join(","),
+      range: dateFilter,
     });
-    history.replaceState(null, '', `?${p}`);
-  }, [view, activeTab, searchTerm, customStartDate, customEndDate, currentDate, selectedSources, selectedTags, dateFilter]);
+    history.replaceState(null, "", `?${p}`);
+  }, [
+    view,
+    activeTab,
+    searchTerm,
+    customStartDate,
+    customEndDate,
+    currentDate,
+    selectedSources,
+    selectedTags,
+    dateFilter,
+  ]);
   //
   // On mount
   useEffect(() => {
     const p = new URLSearchParams(location.search);
-    setView(p.get('view') || 'list');
-    setActiveTab(p.get('tab') || 'events');
-    setRawQuery(p.get('q') || '');
-    setCustomStartDate(p.get('start') || '');
-    setCustomEndDate(p.get('end') || '');
-    setCurrentDate(p.get('date') ? new Date(p.get('date')) : new Date());
-    if (p.get('src')) setSelectedSources(new Set(p.get('src').split(',')));
-    if (p.get('tags')) setSelectedTags(new Set(p.get('tags').split(',')));
-    setDateFilter(p.get('range') || (view === 'list' ? 'upcoming' : 'all'));
+    setView(p.get("view") || "list");
+    setActiveTab(p.get("tab") || "events");
+    setRawQuery(p.get("q") || "");
+    setCustomStartDate(p.get("start") || "");
+    setCustomEndDate(p.get("end") || "");
+    setCurrentDate(p.get("date") ? new Date(p.get("date")) : new Date());
+    if (p.get("src")) setSelectedSources(new Set(p.get("src").split(",")));
+    if (p.get("tags")) setSelectedTags(new Set(p.get("tags").split(",")));
+    setDateFilter(p.get("range") || (view === "list" ? "upcoming" : "all"));
   }, []);
-
 
   const eventsByDate = useMemo(() => {
     const grouped = {};
@@ -270,24 +294,27 @@ export default function App() {
 
     const startOfWeek = (date) => {
       const d = new Date(date);
-      d.setHours(0,0,0,0);
+      d.setHours(0, 0, 0, 0);
       d.setDate(d.getDate() - d.getDay());
       return d;
     };
 
     const isoDate = (d) => {
       const z = new Date(d);
-      z.setHours(0,0,0,0);
+      z.setHours(0, 0, 0, 0);
       const y = z.getFullYear();
-      const m = String(z.getMonth() + 1).padStart(2,'0');
-      const day = String(z.getDate()).padStart(2,'0');
+      const m = String(z.getMonth() + 1).padStart(2, "0");
+      const day = String(z.getDate()).padStart(2, "0");
       return `${y}-${m}-${day}`;
     };
 
     filteredEvents.forEach((event) => {
       const eventDate = new Date(event.start); // defensive
-      const monthId = `${eventDate.getFullYear()}-${String(eventDate.getMonth()+1).padStart(2, '0')}`;
-      const monthLabel = eventDate.toLocaleDateString('en-AU', { month: 'long', year: 'numeric' });
+      const monthId = `${eventDate.getFullYear()}-${String(eventDate.getMonth() + 1).padStart(2, "0")}`;
+      const monthLabel = eventDate.toLocaleDateString("en-AU", {
+        month: "long",
+        year: "numeric",
+      });
 
       const wkStart = startOfWeek(eventDate);
       const wkEnd = new Date(wkStart);
@@ -298,12 +325,12 @@ export default function App() {
       const dayId = `day-${isoDate(eventDate)}`;
 
       // User-facing labels (now include year to avoid confusion)
-      const weekLabel = `Week of ${wkStart.toLocaleDateString('en-AU', { month: 'short', day: 'numeric', year: 'numeric' })} - ${wkEnd.toLocaleDateString('en-AU', { month: 'short', day: 'numeric', year: 'numeric' })}`;
-      const dayLabel = eventDate.toLocaleDateString('en-AU', {
-        weekday: 'long',
-        month: 'short',
-        day: 'numeric',
-        year: 'numeric'
+      const weekLabel = `Week of ${wkStart.toLocaleDateString("en-AU", { month: "short", day: "numeric", year: "numeric" })} - ${wkEnd.toLocaleDateString("en-AU", { month: "short", day: "numeric", year: "numeric" })}`;
+      const dayLabel = eventDate.toLocaleDateString("en-AU", {
+        weekday: "long",
+        month: "short",
+        day: "numeric",
+        year: "numeric",
       });
 
       if (monthId !== currentMonthId) {
@@ -311,7 +338,7 @@ export default function App() {
         currentWeekId = null;
         currentDayId = null;
         groups.push({
-          type: 'month',
+          type: "month",
           id: `month-${monthId}`, // <-- unique key source
           label: monthLabel,
           date: eventDate,
@@ -322,7 +349,7 @@ export default function App() {
         currentWeekId = weekId;
         currentDayId = null;
         groups.push({
-          type: 'week',
+          type: "week",
           id: weekId, // <-- unique key source
           label: weekLabel,
           date: wkStart,
@@ -332,7 +359,7 @@ export default function App() {
       if (dayId !== currentDayId) {
         currentDayId = dayId;
         groups.push({
-          type: 'day',
+          type: "day",
           id: dayId, // <-- unique key source
           label: dayLabel,
           date: eventDate,
@@ -342,11 +369,11 @@ export default function App() {
       // Make sure each event itself has a stable id for keys, too
       const eventId =
         event.id ||
-          event.uid ||
-          `${event.source || 'src'}::${+new Date(event.start)}::${event.summary || ''}`;
+        event.uid ||
+        `${event.source || "src"}::${+new Date(event.start)}::${event.summary || ""}`;
 
       groups.push({
-        type: 'event',
+        type: "event",
         id: `event-${eventId}`,
         data: event,
       });
@@ -369,16 +396,16 @@ export default function App() {
 
   const handleViewChange = (newView) => {
     setView(newView);
-    if (newView === 'list') {
-      setDateFilter('upcoming');
+    if (newView === "list") {
+      setDateFilter("upcoming");
     } else {
-      setDateFilter('all');
+      setDateFilter("all");
     }
   };
 
   // Select event and its index
   const selectEvent = (event) => {
-    const index = filteredEvents.findIndex(e => e === event);
+    const index = filteredEvents.findIndex((e) => e === event);
     setSelectedEvent(event);
     setSelectedEventIndex(index);
   };
@@ -389,26 +416,28 @@ export default function App() {
         <div className="bg-white rounded-lg shadow-lg p-4">
           {/* Header */}
           <div className="flex items-center justify-between mb-4">
-            <h1 className="text-xl md:text-3xl font-bold text-gray-800">Melbourne Economics Events</h1>
+            <h1 className="text-xl md:text-3xl font-bold text-gray-800">
+              Melbourne Economics Events
+            </h1>
           </div>
           {/* Tab Navigation */}
           <div className="flex gap-2 mb-6 border-b border-gray-200">
             <button
-              onClick={() => setActiveTab('events')}
+              onClick={() => setActiveTab("events")}
               className={`px-4 py-2 font-medium transition-colors relative rounded-t-lg ${
-                activeTab === 'events'
-                  ? 'text-blue-600 border-b-2 border-blue-600'
-                  : 'text-gray-600 hover:text-gray-800 hover:bg-gray-100'
+                activeTab === "events"
+                  ? "text-blue-600 border-b-2 border-blue-600"
+                  : "text-gray-600 hover:text-gray-800 hover:bg-gray-100"
               }`}
             >
               Events
             </button>
             <button
-              onClick={() => setActiveTab('about')}
+              onClick={() => setActiveTab("about")}
               className={`px-4 py-2 font-medium transition-colors relative rounded-t-lg ${
-                activeTab === 'about'
-                  ? 'text-blue-600 border-b-2 border-blue-600'
-                  : 'text-gray-600 hover:text-gray-800 hover:bg-gray-100'
+                activeTab === "about"
+                  ? "text-blue-600 border-b-2 border-blue-600"
+                  : "text-gray-600 hover:text-gray-800 hover:bg-gray-100"
               }`}
             >
               About
@@ -416,7 +445,7 @@ export default function App() {
           </div>
 
           {/* Tab Content */}
-          {activeTab === 'events' && (
+          {activeTab === "events" && (
             <>
               {/* Controls */}
               <Controls
@@ -456,12 +485,12 @@ export default function App() {
                     No events loaded. Upload or add an ICS URL to get started.
                   </p>
                 </div>
-              ) : view === 'list' ? (
+              ) : view === "list" ? (
                 <ListView
                   groupedListEvents={groupedListEvents}
                   onEventClick={selectEvent}
                 />
-              ) : view === 'week' ? (
+              ) : view === "week" ? (
                 <WeekView
                   currentDate={currentDate}
                   navigateWeek={navigateWeek}
@@ -481,13 +510,13 @@ export default function App() {
             </>
           )}
 
-          {activeTab === 'about' && (
+          {activeTab === "about" && (
             <div className="py-4">
               <AboutSection type="about" />
             </div>
           )}
         </div>
-     </div>
+      </div>
 
       {/* Event Detail Modal */}
       {selectedEvent && (
@@ -501,7 +530,10 @@ export default function App() {
       )}
 
       <footer className="text-center p-6 text-xs text-gray-500">
-        <p>Event data is provided "as is". Please verify event details with the source institutions.</p>
+        <p>
+          Event data is provided "as is". Please verify event details with the
+          source institutions.
+        </p>
       </footer>
     </div>
   );

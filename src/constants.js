@@ -38,7 +38,7 @@ export const DEFAULT_SOURCES = [
     name: "Various",
     fullName: "Various seminars, workshops, and other events",
     url: "ics/custom-events.ics",
-    homeUrl: "",
+    homeUrl: "https://melbourne-economics.org/",
     color: "pink",
   },
   // {
