@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UniMelb FBE Economics Events//EN
 BEGIN:VEVENT
-SUMMARY:Applied Microeconomics Seminar Series - Ken Gillingham (Yale Schoo
- l of the Environment)
-DTSTART:20251125T110000
-DTEND:20251125T121500
-DESCRIPTION:Abstract and Title: To Be Advised\n\nContact: Sebastian Tebbe 
- & Kathryn Baragwanath (sebastian.tebbe@unimelb.edu.au\; kathryn.baragwanat
- h@unimelb.edu.au)
-URL:https://fbe.unimelb.edu.au/economics/events/applied-microeconomics/app
- lied-microeconomics-seminar-series-ken-gillingham-yale-school-of-the-envir
- onment
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Macroeconomics Seminar Series - Hylke Vandenbussche (University of
   Leuven)
 DTSTART:20251127T120000
