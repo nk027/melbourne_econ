@@ -51,14 +51,25 @@ for li in soup.find_all('li', class_='event'):
     if when_div:
         time_elems = when_div.find_all('time')
         if len(time_elems) > 1:
-            time_text = time_elems[1].get_text(strip=True)
-            # Parse "11am - 12:15pm"
-            if ' - ' in time_text:
-                end_time_str = time_text.split(' - ')[1].strip()
-                # Convert to 24-hour format and add to date
-                end_time = datetime.strptime(end_time_str, '%I:%M%p').time()
-                end = datetime.combine(start.date(), end_time)
-            else:
+            time_text = time_elems[1].get_text(" ", strip=True)
+            end = None
+            # Capture end time like "11am - 12:15pm" or "11:00 am – 12 pm"
+            m = re.search(
+                r'[–-]\s*([0-9]{1,2}(?::[0-9]{2})?\s*(?:am|pm))',
+                time_text,
+                re.IGNORECASE,
+            )
+            if m:
+                end_time_str = m.group(1).replace(" ", "").lower()  # e.g. "12:15pm" or "12pm"
+                fmt = '%I:%M%p' if ':' in end_time_str else '%I%p'
+                try:
+                    end_time = datetime.strptime(end_time_str, fmt).time()
+                    end = datetime.combine(start.date(), end_time)
+                except ValueError: # Fall back if parsing somehow still fails
+                    end = None
+
+            # Default to 1-hour duration if we couldn't parse
+            if end is None:
                 end = start + timedelta(hours=1)
         else:
             end = start + timedelta(hours=1)

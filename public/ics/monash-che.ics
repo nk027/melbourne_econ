@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Monash Events//EN
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: The impact of Margaret Sanger’s birth contro
- l clinics on early 20th century U.S. fertility and mortality
-DTSTART:20251126T120000
-DTEND:20251126T130000
-DESCRIPTION:In 1916\, Margaret Sanger established the first birth control 
- clinic in U.S. history. From the mid-1920s\, “Sanger clinics” spread o
- ver the entire U.S. These clinics advised women on contraception\, mainly 
- by fitting diaphragms and explicitly instructing women how to use them eff
- ectively. Combining newly digitized data on the roll-out of these clinics\
- , full-count Census data\, and historical vital statistics\, we find that 
- the clinics accounted for 5.4–6.5 percent of the overall fertility decli
- ne across the U.S. until 1940. By increasing the spacing between births an
- d reducing fertility\, the clinics generated important health effects and 
- reduced stillbirths and infant mortality.\n\nSpeaker profile\n\n<a href="h
- ttps://sites.google.com/site/sbauernschuster" target="_blank">Stefan Bauer
- nschuster</a> is a Full Professor of Public Economics at the University of
-  Passau\, Research Professor at the Ifo Institute Munich\, CESifo Research
-  Fellow\, IZA Research Fellow and a member of the committee for social pol
- icy of the German Economic Association. Prior to his current appointment\,
-  he was deputy head of the research area Social Policy and Labour Markets 
- at the Ifo Institute Munich. He holds a PhD in Economics from the Universi
- ty of Jena. In his research\, he uses micro-econometric methods to answer 
- policy relevant questions in the fields of health\, population and labor e
- conomics.\n\nWeekly seminar series\n\nAs part of our Centre's vibrant rese
- arch culture\, we host a weekly seminar series. Visiting and invited resea
- rchers present current research relating to the economics of health and we
- llbeing\, and the healthcare sector. Visitors are welcome to join these se
- ssions where discussion and debate is encouraged.\n\nFor further informati
- on on our seminar series\, please contact <a href="mailto:Trong-Anh.Trinh
- @monash.edu">Trong-Anh.Trinh@monash.edu</a>\n\n<a class="btn" href="https:
- //monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1">Join 
- Zoom</a>
-LOCATION:Caulfield campus\, Building H\, level 9\, room H9.14
-URL:https://www.monash.edu/business/events/che-seminar-series-the-impact-o
- f-margaret-sangers-birth-control-clinics-on-early-20th-century-u.s.-fertil
- ity-and-mortality
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:15th Australasian Workshop on Econometrics and Health Economics
 DTSTART:20260415T123000
 DTEND:20260417T123000
