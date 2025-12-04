@@ -2,6 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UniMelb FBE Economics Events//EN
 BEGIN:VEVENT
+SUMMARY:Applied Microeconomics Seminar Series - David Schönholzer (UC San
+ ta Cruz)
+DTSTART:20251202T110000
+DTEND:20251202T121500
+DESCRIPTION:Title & Abstract: TBC\n\nContact: Sebastian Tebbe & Kathryn Ba
+ ragwanath (sebastian.tebbe@unimelb.edu.au\; kathryn.baragwanath@unimelb.ed
+ u.au)
+URL:https://fbe.unimelb.edu.au/economics/events/applied-microeconomics/app
+ lied-microeconomics-seminar-series-david-schonholzer-uc-santa-cruz
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Experimental and Behavioural Economics Seminar Series - Peter Boss
  aerts (University of Cambridge)
 DTSTART:20251204T110000
@@ -32,25 +43,11 @@ URL:https://fbe.unimelb.edu.au/economics/events/experimental-and-behaviour
  ossaerts-university-of-cambridge
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PhD Completion Seminar
+SUMMARY:Xingyun (Claire) Tan PhD Completion Seminar
 DTSTART:20251210T110000
 DTEND:20251210T120000
-DESCRIPTION:Venue:FBE-315\n\nZoom:https://unimelb.zoom.us/j/84310033742?pw
- d=7KIvhzkbNuu34qtqbPVCpvRfHX42MH.1(Password: 050973)\n\nPresenter:Claire (
- Xingyun) Tan\n\nSupervisors:Enrique Calderin\, Benjamin Avanzi\, Bernard W
- ong & Gregory Taylor\n\nTitle:Modelling Cyber Frequency and Severity for I
- nsurance: Empirical Insights into Insurability Challenges\n\nAbstract:Cybe
- r insurance remains underdeveloped despite escalating organisational expos
- ure\, reflecting fundamental challenges to actuarial insurability criteria
-  including data sparsity and inconsistency\, interdependencies of cyber lo
- sses\, and rapid technological change which drives uncertainty. This thesi
- s navigates these constraints through targeted analytical approaches. We e
- stablish reliable frequency measurement amid data constraints\, quantify a
- ttacker behaviour to reveal otherwise-hidden portfolio interdependencies\,
-  and systematically extract information from underutilised text in severit
- y prediction. These contributions advance both cyber insurance practice an
- d provide methodological templates for emerging risks that challenge conve
- ntional actuarial assumptions.
+DESCRIPTION:Venue:FBE-315\n\nSupervisors:Enrique Calderin\, Benjamin Avanz
+ i\, Bernard Wong & Gregory Taylor\n\nAbstract & Title:TBC
 URL:https://fbe.unimelb.edu.au/economics/events/seminars/xingyun-claire-ta
  n-phd-completion-seminar
 END:VEVENT
