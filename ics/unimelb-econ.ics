@@ -2,53 +2,37 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UniMelb FBE Economics Events//EN
 BEGIN:VEVENT
-SUMMARY:Applied Microeconomics Seminar Series - David Schönholzer (UC San
- ta Cruz)
-DTSTART:20251202T110000
-DTEND:20251202T121500
-DESCRIPTION:Title & Abstract: TBC\n\nContact: Sebastian Tebbe & Kathryn Ba
- ragwanath (sebastian.tebbe@unimelb.edu.au\; kathryn.baragwanath@unimelb.ed
- u.au)
+SUMMARY:Econometrics Recruitment Seminar Series - Hugo Freeman (Michigan S
+ tate University)
+DTSTART:20251215T140000
+DTEND:20251215T150000
+DESCRIPTION:Title: Inference on Linear Regressions with Two-Way Unobserved
+  Heterogeneity (joint with Dennis Kristensen)\n\nAbstract: We develop a no
+ vel estimation and inference procedure for the common parameters in linear
+  panel data regression models with nonparametric two-way specification of 
+ unobserved heterogeneity. Our procedure builds on two main ingredients: Fi
+ rst\, we develop moment conditions for the common parameters that are Neym
+ an orthogonal with respect to nonparametric component to reduce the effect
+  of the first-step estimation of this. Second\, we develop a novel two-ste
+ p estimator of the nonparametric component\, where the second step assumes
+  that the nonparametric component is well-proxied by eigenfunctions estima
+ ted in the first step. Together\, these ensure that the resulting estimato
+ r of the common parameters is √NT–asymptotically normally distributed 
+ so that valid inference on the linear parameters in the model can be perfo
+ rmed. A numerical study shows that the proposed estimators perform well in
+  finite samples.\n\nContact: David Harris (harris.d@unimelb.edu.au)
+URL:https://fbe.unimelb.edu.au/economics/events/econometrics/econometrics-
+ recruitment-seminar-series-hugo-freeman-michigan-state-university
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applied Microeconomics Seminar Series - Damon Clarke (UC Irvine)
+DTSTART:20251216T110000
+DTEND:20251216T121500
+DESCRIPTION:Title: Why Do Smaller Classes Fail to Improve Student Learning
+ ? Quasi-Experimental Evidence from Surveys of Teachers\, Parents and Stude
+ nts\n\nAbstract: TBC\n\nContact: Sebastian Tebbe & Kathryn Baragwanath (se
+ bastian.tebbe@unimelb.edu.au\; kathryn.baragwanath@unimelb.edu.au)
 URL:https://fbe.unimelb.edu.au/economics/events/applied-microeconomics/app
- lied-microeconomics-seminar-series-david-schonholzer-uc-santa-cruz
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Experimental and Behavioural Economics Seminar Series - Peter Boss
- aerts (University of Cambridge)
-DTSTART:20251204T110000
-DTEND:20251204T121500
-DESCRIPTION:Title: How computational complexity can restore general equili
- brium in markets with indivisible goods\n\nAbstract: We study market equil
- ibrium in settings with indivisible goods and tight budget constraints\, w
- here a traditional Walrasian Equilibrium (WE) may fail to exist. We introd
- uce the Complexity Compensating Equilibrium (CCE)\, in which prices endoge
- nously render the budget problem computationally difficult. Complexity ind
- uces heterogeneous demands even among agents with homogeneous preferences\
- , as individuals allocate varying levels of cognitive effort. We define th
- e equilibrium region as the set of price configurations that satisfy the n
- ecessary computational and economic conditions for equilibrium to exist. I
- n this region\, price configurations maximize the difficulty of the budget
-  problem in addition to satisfying market clearing conditions. We evaluate
-  the predictions of CCE through 10 sessions of a laboratory experiment. We
-  find that trading prices consistently force the budget problem to the equ
- ilibrium region. Further supporting the CCE framework\, the equilibrium bu
- ndles of goods generate markedly different utility levels across agents. T
- his outcome contradicts a central feature of WE\, namely\, the equalizatio
- n of utilities. In a setting where it exists\, we reject WE on both prices
-  and utilities. Yet prices and utilities continue to satisfy CCE requireme
- nts.\n\nContact: Mia Tam & Max Grossmann (GrossmannM@unimelb.edu.au\; mia.
- tam@unimelb.edu.au)
-URL:https://fbe.unimelb.edu.au/economics/events/experimental-and-behaviour
- al-economics/experimental-and-behavioural-economics-seminar-series-peter-b
- ossaerts-university-of-cambridge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Xingyun (Claire) Tan PhD Completion Seminar
-DTSTART:20251210T110000
-DTEND:20251210T120000
-DESCRIPTION:Venue:FBE-315\n\nSupervisors:Enrique Calderin\, Benjamin Avanz
- i\, Bernard Wong & Gregory Taylor\n\nAbstract & Title:TBC
-URL:https://fbe.unimelb.edu.au/economics/events/seminars/xingyun-claire-ta
- n-phd-completion-seminar
+ lied-microeconomics-seminar-series-damon-clarke-uc-irvine
 END:VEVENT
 END:VCALENDAR
