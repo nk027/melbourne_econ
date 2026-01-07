@@ -48,134 +48,135 @@ DESCRIPTION:This workshop will provide a forum for the development and dis
  trongly encourage presentation and discussion of work in progress.</p><h3>
  Fees for invited participants</h3><div>Those invited to participate will b
  e asked to pay the registration fee in February 2026.</div><ul><li>Full re
- gistration: AU$580</li><li>PhD students: AU$200</li><li>Low and middle inc
+ gistration: AU$600</li><li>PhD students: AU$250</li><li>Low and middle inc
  ome countries: AU$300*</li></ul><p>*A citizen residing in a country on the
   <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519
  -world-bank-country-and-lending-groups">World Bank list</a> of low and mid
- dle income countries.</p><h4>Inclusions</h4><ul><li>Two nights' bed and br
- eakfast</li><li>All meals and accommodation for 16 and 17 April 2026</li><
- /ul><p>For additional nights\, you will need to organise them with the hot
- el directly.</p><h3>Submissions</h3><p>Electronic submission of papers is 
- required and can be uploaded using the link below. When submitting you wil
- l be able to choose whether you would like to present a paper\, discuss a 
- paper or chair a session.</p><p><a class="btn" href="https://monash.az1.qu
- altrics.com/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your paper
- </a></p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n<script>\nwi
- ndow.addEventListener('DOMContentLoaded'\, function() {\n\n        var LIB
- _CHECK_OBJECT_EXISTS = 'CHECK_OBJECT_EXISTS'\,\n            LIB_CHECK_ELEM
- ENT_EXISTS = 'CHECK_ELEMENT_EXISTS'\,\n            scriptIDPrefix = 'js-fr
- ontend-template-script--'\,\n            postLoadScripts = [\n            
-     {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n       
-              checkValue: scriptIDPrefix + 'page-filter'\,\n               
-      isRequired: $('.js-frontend-page-filter').length ? true : false\,\n  
-                   id:         scriptIDPrefix + 'page-filter'\,\n          
-           url:        'https://www.monash.edu/__data/assets/js_file_folder
- /0006/2019840/page_filter_basic.min.js?v=0.2.0'\n                }\,\n    
-             {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\
- n                    checkValue: scriptIDPrefix + 'page-filter-logic'\,\n 
-                    isRequired: $('.js-frontend-page-filter').length ? true
-  : false\,\n                    id:         scriptIDPrefix + 'page-filter-
- logic'\,\n                    url:        './?a=?v='\n                }\,\
- n                {\n                    check:      LIB_CHECK_ELEMENT_EXIS
- TS\,\n                    checkValue: scriptIDPrefix + 'complex-accordion'
- \,\n                    isRequired: $('.js-frontend-complex-accordion').le
- ngth ? true : false\,\n                    id:         scriptIDPrefix + 'c
- omplex-accordion'\,\n                    url:        'https://www.monash.e
- du/__data/assets/js_file/0003/2180262/complex-accordion-frontend.js?v=0.1.
- 60'\n                }\,\n                {\n                    check:   
-    LIB_CHECK_ELEMENT_EXISTS\,\n                    checkValue: scriptIDPre
- fix + 'complex-accordion'\,\n                    isRequired: $('.js-fronte
- nd-complex-accordion').length ? true : false\,\n                    id:   
-       scriptIDPrefix + 'complex-accordion'\,\n                    url:    
-     'https://www.monash.edu/__data/assets/js_file/0003/2180262/complex-acc
- ordion-frontend.js?v=0.1.60'\n                }\n            ]\,\n        
-     styleIDPrefix = 'js-frontend-template-style--'\,\n            \n      
-       postLoadStyles = [\n                {\n                    check:   
-    LIB_CHECK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPref
- ix + 'page-filter'\,\n                    isRequired: $('.js-frontend-page
- -filter').length ? true : false\,\n                    id:         styleID
- Prefix + 'page-filter'\,\n                    url:        'https://www.mon
- ash.edu/__data/assets/css_file/0011/2023031/page-filter-template.css?v=0.1
- .5'\n                }\,\n                {\n                    check:   
-    LIB_CHECK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPref
- ix + 'complex-accordion'\,\n                    isRequired: $('.js-fronten
- d-complex-accordion').length ? true : false\,\n                    id:    
-      styleIDPrefix + 'complex-accordion'\,\n                    url:      
-   'https://www.monash.edu/__data/assets/css_file/0005/2180264/complex-acco
- rdion-frontend.css?v=0.2.2'\n                }\n            ]\;\n\n       
-  var elementExists = function(check\, checkValue) {\n            if (check
-  === LIB_CHECK_OBJECT_EXISTS) {\n                return typeof checkValue 
- !== 'undefined'\;\n            }\n            if (check === LIB_CHECK_ELEM
- ENT_EXISTS) {\n                return document.getElementById(checkValue)\
- ;\n            }\n        }\;\n\n        // Load script libraries after DO
- M ready\n        postLoadScripts.forEach(function(scriptLibrary) {\n      
-       if (scriptLibrary.isRequired && !elementExists(scriptLibrary.check\,
-  scriptLibrary.checkValue)) {\n                var injectedScript = docume
- nt.createElement('script')\;\n                injectedScript.type = 'text/
- javascript'\;\n                injectedScript.id = scriptLibrary.id\;\n   
-              injectedScript.src = scriptLibrary.url\;\n                inj
- ectedScript.async = false\;\n                $('body').append(injectedScri
- pt)\;\n            }\n        })\;\n\n\n        // Load style libraries af
- ter DOM ready\n        postLoadStyles.forEach(function(styleLibrary) {\n  
-           if (styleLibrary.isRequired && !elementExists(styleLibrary.check
- \, styleLibrary.checkValue)) {\n                var injectedStyle = docume
- nt.createElement('link')\;\n                injectedStyle.type = 'text/css
- '\;\n                injectedStyle.rel = 'stylesheet'\;\n                i
- njectedStyle.id = styleLibrary.id\;\n                injectedStyle.href = 
- styleLibrary.url\;\n                $('body').append(injectedStyle)\;\n   
-          }\n        })\;\n\n    })\;\n    \n    /*\n// Fix mobile with re-
- initing the plugin.\ndocument.addEventListener('DOMContentLoaded'\, functi
- on() {\n  const container = document.getElementById('filter-container')\;\
- n\n  function updateIsotopeLayout() {\n    if (container) {\n      // Assu
- ming Isotope is globally available and initialized\n      Isotope.data(con
- tainer).layout()\;\n      //console.log('Isotope layout updated')\;\n    }
- \n  }\n\n  function debounce(fn\, delay) {\n    let timeoutID\;\n    retur
- n function() {\n      clearTimeout(timeoutID)\;\n      timeoutID = setTime
- out(() => fn.apply(this\, arguments)\, delay)\;\n    }\;\n  }\n\n  const d
- ebouncedUpdateIsotopeLayout = debounce(updateIsotopeLayout\, 500)\;\n\n  /
- / Attach the load event to images\n  const images = container.querySelecto
- rAll('img')\;\n  images.forEach(function(img) {\n    img.addEventListener(
- 'load'\, function() {\n      debouncedUpdateIsotopeLayout()\;\n    })\;\n\
- n    // Handle already loaded images (from cache)\n    if (img.complete) {
- \n      debouncedUpdateIsotopeLayout()\;\n    }\n  })\;\n\n})\;\n*/\n\n\n<
- /script>\n\n<span class="accTitle__icon"><svg><use href="https://www.monas
- h.edu/__data/assets/git_bridge/0009/2651868/dist/assets/images/icon-sprite
- sheet.svg?h=1d3ca15#copy"></use></svg></span>\n<span class="accTitle__text
- ">Paper submissions</span>\n<span class="accTitle__toggle-wrapper">\n<a cl
- ass="accTitle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="
- accTitle__toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><
- img alt="View" src="https://www.monash.edu/__data/assets/file/0011/2179901
- /arrow-outline-right.svg"/></span>\n</a>\n</span>\n\nPlease submit a full 
- draft of the paper OR a 1000-word (minimum) abstract by <strong>19 Decembe
- r 2025</strong>.\n\nAbstract criteria\n\nIf sending an abstract\, it shoul
- d be structured to include <strong>details of the aims</strong>\, the <str
- ong>econometric methods used</strong> (in the past some abstracts have not
-  contained econometric detail so we have been unable to properly assess th
- em)\, and <strong>results</strong>.\n\nResults should be included even if 
- they are preliminary. Abstracts containing no results or no details of the
-  econometric methods will be less likely to be accepted.\n\nAbstracts and 
- papers will be judged primarily on the quality of their econometrics conte
- nt. We strongly encourage presentation and discussion of work in progress.
- \n\nFees for invited participants\n\n*A citizen residing in a country on t
- he <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/9065
- 19-world-bank-country-and-lending-groups">World Bank list</a> of low and m
- iddle income countries.\n\nFor additional nights\, you will need to organi
- se them with the hotel directly.\n\nSubmissions\n\nElectronic submission o
- f papers is required and can be uploaded using the link below. When submit
- ting you will be able to choose whether you would like to present a paper\
- , discuss a paper or chair a session.\n\n<a class="btn" href="https://mona
- sh.az1.qualtrics.com/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit y
- our paper</a>\n\nSponsors\n\nOrganisers\n\n<a href="https://research.monas
- h.edu/en/persons/anthony-scott">Prof Anthony Scott</a>\, Director\, Centre
-  for Health Economics\, Monash Business School\n\n<a href="https://www.ste
- fanie-schurer.com/" target="_blank">Prof Stefanie Schurer</a>\, School of 
- Economics\, University of Sydney\n\n<a href="https://research.monash.edu/e
- n/persons/johannes-kunz">Dr Johannes Kunz</a>\, Centre for Health Economic
- s\, Monash Business School\n\n<a href="https://research.monash.edu/en/pers
- ons/michael-shields/">Prof Michael Shields</a>\, Centre for Health Economi
- cs\, Monash Business School\n\nEnquiries\n\nFor any enquiries regarding th
- e workshop please contact Aryan Rohanian at <a href="mailto:che_support@m
- onash.edu">che_support@monash.edu</a>
+ dle income countries.</p><h4>Inclusions</h4><ul><li>Two nights' accommodat
+ ion on Wednesday 15th and Thursday 16th of April</li><li>All meals from lu
+ nch on Wednesday 15th to lunch on the Friday 17th of April</li></ul><p>For
+  additional nights\, you will need to organise them with the hotel directl
+ y.</p><h3>Submissions</h3><p>Electronic submission of papers is required a
+ nd can be uploaded using the link below. When submitting you will be able 
+ to choose whether you would like to present a paper\, discuss a paper or c
+ hair a session.</p><p><a class="btn" href="https://monash.az1.qualtrics.co
+ m/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your paper</a></p>\n
+ </div>\n</div>\n</div>\n</div>\n</section>\n</div>\n<script>\nwindow.addEv
+ entListener('DOMContentLoaded'\, function() {\n\n        var LIB_CHECK_OBJ
+ ECT_EXISTS = 'CHECK_OBJECT_EXISTS'\,\n            LIB_CHECK_ELEMENT_EXISTS
+  = 'CHECK_ELEMENT_EXISTS'\,\n            scriptIDPrefix = 'js-frontend-tem
+ plate-script--'\,\n            postLoadScripts = [\n                {\n   
+                  check:      LIB_CHECK_ELEMENT_EXISTS\,\n                 
+    checkValue: scriptIDPrefix + 'page-filter'\,\n                    isReq
+ uired: $('.js-frontend-page-filter').length ? true : false\,\n            
+         id:         scriptIDPrefix + 'page-filter'\,\n                    
+ url:        'https://www.monash.edu/__data/assets/js_file_folder/0006/2019
+ 840/page_filter_basic.min.js?v=0.2.0'\n                }\,\n              
+   {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n         
+            checkValue: scriptIDPrefix + 'page-filter-logic'\,\n           
+          isRequired: $('.js-frontend-page-filter').length ? true : false\,
+ \n                    id:         scriptIDPrefix + 'page-filter-logic'\,\n
+                     url:        './?a=?v='\n                }\,\n         
+        {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n    
+                 checkValue: scriptIDPrefix + 'complex-accordion'\,\n      
+               isRequired: $('.js-frontend-complex-accordion').length ? tru
+ e : false\,\n                    id:         scriptIDPrefix + 'complex-acc
+ ordion'\,\n                    url:        'https://www.monash.edu/__data/
+ assets/js_file/0003/2180262/complex-accordion-frontend.js?v=0.1.60'\n     
+            }\,\n                {\n                    check:      LIB_CHE
+ CK_ELEMENT_EXISTS\,\n                    checkValue: scriptIDPrefix + 'com
+ plex-accordion'\,\n                    isRequired: $('.js-frontend-complex
+ -accordion').length ? true : false\,\n                    id:         scri
+ ptIDPrefix + 'complex-accordion'\,\n                    url:        'https
+ ://www.monash.edu/__data/assets/js_file/0003/2180262/complex-accordion-fro
+ ntend.js?v=0.1.60'\n                }\n            ]\,\n            styleI
+ DPrefix = 'js-frontend-template-style--'\,\n            \n            post
+ LoadStyles = [\n                {\n                    check:      LIB_CHE
+ CK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPrefix + 'page
+ -filter'\,\n                    isRequired: $('.js-frontend-page-filter').
+ length ? true : false\,\n                    id:         styleIDPrefix + '
+ page-filter'\,\n                    url:        'https://www.monash.edu/__
+ data/assets/css_file/0011/2023031/page-filter-template.css?v=0.1.5'\n     
+            }\,\n                {\n                    check:      LIB_CHE
+ CK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPrefix + 'comp
+ lex-accordion'\,\n                    isRequired: $('.js-frontend-complex-
+ accordion').length ? true : false\,\n                    id:         style
+ IDPrefix + 'complex-accordion'\,\n                    url:        'https:/
+ /www.monash.edu/__data/assets/css_file/0005/2180264/complex-accordion-fron
+ tend.css?v=0.2.2'\n                }\n            ]\;\n\n        var eleme
+ ntExists = function(check\, checkValue) {\n            if (check === LIB_C
+ HECK_OBJECT_EXISTS) {\n                return typeof checkValue !== 'undef
+ ined'\;\n            }\n            if (check === LIB_CHECK_ELEMENT_EXISTS
+ ) {\n                return document.getElementById(checkValue)\;\n       
+      }\n        }\;\n\n        // Load script libraries after DOM ready\n 
+        postLoadScripts.forEach(function(scriptLibrary) {\n            if (
+ scriptLibrary.isRequired && !elementExists(scriptLibrary.check\, scriptLib
+ rary.checkValue)) {\n                var injectedScript = document.createE
+ lement('script')\;\n                injectedScript.type = 'text/javascript
+ '\;\n                injectedScript.id = scriptLibrary.id\;\n             
+    injectedScript.src = scriptLibrary.url\;\n                injectedScrip
+ t.async = false\;\n                $('body').append(injectedScript)\;\n   
+          }\n        })\;\n\n\n        // Load style libraries after DOM re
+ ady\n        postLoadStyles.forEach(function(styleLibrary) {\n            
+ if (styleLibrary.isRequired && !elementExists(styleLibrary.check\, styleLi
+ brary.checkValue)) {\n                var injectedStyle = document.createE
+ lement('link')\;\n                injectedStyle.type = 'text/css'\;\n     
+            injectedStyle.rel = 'stylesheet'\;\n                injectedSty
+ le.id = styleLibrary.id\;\n                injectedStyle.href = styleLibra
+ ry.url\;\n                $('body').append(injectedStyle)\;\n            }
+ \n        })\;\n\n    })\;\n    \n    /*\n// Fix mobile with re-initing th
+ e plugin.\ndocument.addEventListener('DOMContentLoaded'\, function() {\n  
+ const container = document.getElementById('filter-container')\;\n\n  funct
+ ion updateIsotopeLayout() {\n    if (container) {\n      // Assuming Isoto
+ pe is globally available and initialized\n      Isotope.data(container).la
+ yout()\;\n      //console.log('Isotope layout updated')\;\n    }\n  }\n\n 
+  function debounce(fn\, delay) {\n    let timeoutID\;\n    return function
+ () {\n      clearTimeout(timeoutID)\;\n      timeoutID = setTimeout(() => 
+ fn.apply(this\, arguments)\, delay)\;\n    }\;\n  }\n\n  const debouncedUp
+ dateIsotopeLayout = debounce(updateIsotopeLayout\, 500)\;\n\n  // Attach t
+ he load event to images\n  const images = container.querySelectorAll('img'
+ )\;\n  images.forEach(function(img) {\n    img.addEventListener('load'\, f
+ unction() {\n      debouncedUpdateIsotopeLayout()\;\n    })\;\n\n    // Ha
+ ndle already loaded images (from cache)\n    if (img.complete) {\n      de
+ bouncedUpdateIsotopeLayout()\;\n    }\n  })\;\n\n})\;\n*/\n\n\n</script>\n
+ \n<span class="accTitle__icon"><svg><use href="https://www.monash.edu/__da
+ ta/assets/git_bridge/0009/2651868/dist/assets/images/icon-spritesheet.svg?
+ h=1d3ca15#copy"></use></svg></span>\n<span class="accTitle__text">Paper su
+ bmissions</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTi
+ tle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="accTitle__
+ toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="V
+ iew" src="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-out
+ line-right.svg"/></span>\n</a>\n</span>\n\nPlease submit a full draft of t
+ he paper OR a 1000-word (minimum) abstract by <strong>19 December 2025</st
+ rong>.\n\nAbstract criteria\n\nIf sending an abstract\, it should be struc
+ tured to include <strong>details of the aims</strong>\, the <strong>econom
+ etric methods used</strong> (in the past some abstracts have not contained
+  econometric detail so we have been unable to properly assess them)\, and 
+ <strong>results</strong>.\n\nResults should be included even if they are p
+ reliminary. Abstracts containing no results or no details of the econometr
+ ic methods will be less likely to be accepted.\n\nAbstracts and papers wil
+ l be judged primarily on the quality of their econometrics content. We str
+ ongly encourage presentation and discussion of work in progress.\n\nFees f
+ or invited participants\n\n*A citizen residing in a country on the <a href
+ ="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-b
+ ank-country-and-lending-groups">World Bank list</a> of low and middle inco
+ me countries.\n\nFor additional nights\, you will need to organise them wi
+ th the hotel directly.\n\nSubmissions\n\nElectronic submission of papers i
+ s required and can be uploaded using the link below. When submitting you w
+ ill be able to choose whether you would like to present a paper\, discuss 
+ a paper or chair a session.\n\n<a class="btn" href="https://monash.az1.qua
+ ltrics.com/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your paper<
+ /a>\n\nSponsors\n\nOrganisers\n\n<a href="https://research.monash.edu/en/p
+ ersons/anthony-scott">Prof Anthony Scott</a>\, Director\, Centre for Healt
+ h Economics\, Monash Business School\n\n<a href="https://www.stefanie-schu
+ rer.com/" target="_blank">Prof Stefanie Schurer</a>\, School of Economics\
+ , University of Sydney\n\n<a href="https://research.monash.edu/en/persons/
+ johannes-kunz">Dr Johannes Kunz</a>\, Centre for Health Economics\, Monash
+  Business School\n\n<a href="https://research.monash.edu/en/persons/michae
+ l-shields/">Prof Michael Shields</a>\, Centre for Health Economics\, Monas
+ h Business School\n\nEnquiries\n\nFor any enquiries regarding the workshop
+  please contact Aryan Rohanian at <a href="mailto:che_support@monash.edu"
+ >che_support@monash.edu</a>
 LOCATION:The Anchorage Hotel\, Port Stephens\, NSW
 URL:https://www.monash.edu/business/events/15th-australasian-workshop-on-e
  conometrics-and-health-economics
