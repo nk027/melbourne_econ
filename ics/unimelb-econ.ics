@@ -2,53 +2,54 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UniMelb FBE Economics Events//EN
 BEGIN:VEVENT
-SUMMARY:Applied Microeconomics Seminar Series - David Schönholzer (UC San
- ta Cruz)
-DTSTART:20251202T110000
-DTEND:20251202T121500
-DESCRIPTION:Title & Abstract: TBC\n\nContact: Sebastian Tebbe & Kathryn Ba
- ragwanath (sebastian.tebbe@unimelb.edu.au\; kathryn.baragwanath@unimelb.ed
- u.au)
-URL:https://fbe.unimelb.edu.au/economics/events/applied-microeconomics/app
- lied-microeconomics-seminar-series-david-schonholzer-uc-santa-cruz
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Experimental and Behavioural Economics Seminar Series - Peter Boss
- aerts (University of Cambridge)
-DTSTART:20251204T110000
-DTEND:20251204T121500
-DESCRIPTION:Title: How computational complexity can restore general equili
- brium in markets with indivisible goods\n\nAbstract: We study market equil
- ibrium in settings with indivisible goods and tight budget constraints\, w
- here a traditional Walrasian Equilibrium (WE) may fail to exist. We introd
- uce the Complexity Compensating Equilibrium (CCE)\, in which prices endoge
- nously render the budget problem computationally difficult. Complexity ind
- uces heterogeneous demands even among agents with homogeneous preferences\
- , as individuals allocate varying levels of cognitive effort. We define th
- e equilibrium region as the set of price configurations that satisfy the n
- ecessary computational and economic conditions for equilibrium to exist. I
- n this region\, price configurations maximize the difficulty of the budget
-  problem in addition to satisfying market clearing conditions. We evaluate
-  the predictions of CCE through 10 sessions of a laboratory experiment. We
-  find that trading prices consistently force the budget problem to the equ
- ilibrium region. Further supporting the CCE framework\, the equilibrium bu
- ndles of goods generate markedly different utility levels across agents. T
- his outcome contradicts a central feature of WE\, namely\, the equalizatio
- n of utilities. In a setting where it exists\, we reject WE on both prices
-  and utilities. Yet prices and utilities continue to satisfy CCE requireme
- nts.\n\nContact: Mia Tam & Max Grossmann (GrossmannM@unimelb.edu.au\; mia.
- tam@unimelb.edu.au)
-URL:https://fbe.unimelb.edu.au/economics/events/experimental-and-behaviour
- al-economics/experimental-and-behavioural-economics-seminar-series-peter-b
- ossaerts-university-of-cambridge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Xingyun (Claire) Tan PhD Completion Seminar
-DTSTART:20251210T110000
-DTEND:20251210T120000
-DESCRIPTION:Venue:FBE-315\n\nSupervisors:Enrique Calderin\, Benjamin Avanz
- i\, Bernard Wong & Gregory Taylor\n\nAbstract & Title:TBC
-URL:https://fbe.unimelb.edu.au/economics/events/seminars/xingyun-claire-ta
- n-phd-completion-seminar
+SUMMARY:Atibhav Chaudhry PhD Completion Seminar
+DTSTART:20260129T210000
+DTEND:20260129T220000
+DESCRIPTION:Presenter:Atibhav Chaudhry\n\nSupervisors:Rui Zhou\, Benjamin 
+ Avanzi\, Jan Dhaene (KUL) and Katrien Antonio (KUL)\n\nTitle:On Modelling 
+ Lifetimes\, Sharing Risk\, and Valuing Promises: Essays in Actuarial Scien
+ ce\n\nDay/Time:Thursday 29 January 2026\, 9 - 10pm Australian Eastern Dayl
+ ight Time Time (AEDT)\n\nMicrosoft Teams Link:https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_ZTY2NGNkNWQtZTkxMi00NjQzLWE0ZDgtZjE0ODU4ZjViZDd
+ k%40thread.v2/0?context=%7b%22Tid%22%3a%223973589b-9e40-4eb5-800e-b0b6383d
+ 1621%22%2c%22Oid%22%3a%224635721d-9028-4653-b4cb-4998f22fb087%22%7d\n\nAbs
+ tract:\n\nChapter 1: “Modelling mortality dependence with time series vi
+ ne copulas”\n\nWe propose time series vine copulas as a unified framewor
+ k for modelling both serial and cross-sectional mortality dependence acros
+ s multiple populations. Unlike VAR and ARIMA-copula approaches\, which imp
+ ose linearity or model dependence in separate steps\, time series vine cop
+ ulas allow flexible yet parsimonious joint dependence structures. Using mo
+ rtality data from four populations\, we show that S-vines and their specia
+ l cases (D-vines\, M-vines\, and stationary COPAR models) outperform exist
+ ing methods in fitting and forecasting accuracy. We further demonstrate th
+ at model choice can materially affect longevity bond pricing\, highlightin
+ g the practical relevance of flexible dependence modelling.\n\nChapter 2: 
+ “Compensation-based risk-sharing”\n\nThis chapter studies the mathemat
+ ical problem of allocating payouts (compensations) in an endowment conting
+ ency fund using a risk-sharing rule that satisfies full allocation. Beside
+ s the participants\, an administrator manages the fund by collecting ex-an
+ te contributions to establish the fund and distributing ex-post payouts to
+  members. Two types of administrators are considered. An ‘active’ admi
+ nistrator both invests in the fund and receives the payout of the fund whe
+ n no participant receives a payout. A ‘passive’ administrator performs
+  only administrative tasks and neither invests in nor receives a payout fr
+ om the fund. We analyze the actuarial fairness of both compensation-based 
+ risk-sharing schemes and provide general conditions under which fairness i
+ s achieved. The results extend earlier work by Denuit and Robert (2025) an
+ d Dhaene and Milevsky (2024)\, who focused on payouts based on Bernoulli d
+ istributions\, by allowing for general non-negative loss distributions.\n\
+ nChapter 3: “Information-constrained fair dynamic valuation of hybrid in
+ surance liabilities”\n\nWe propose a discrete-time\, multi-period valuat
+ ion framework for hybrid insurance claims that embeds three nested informa
+ tion filtrations\, capturing asset-price risk\, systematic risk\, and poli
+ cyholder-specific risk. The framework enforces a no-insider-trading requir
+ ement and supports valuations that are simultaneously market-consistent\, 
+ model-consistent\, and time-consistent. We show that\, in a multi-period s
+ etting\, the three-step hedge-based valuations of Linders (2023) and an ad
+ apted version of the two-step market evaluations of Pelsser and Stadje (20
+ 14) coincide with the class of fair dynamic valuations\, thereby unifying 
+ these approaches within a filtration-sensitive framework.
+URL:https://fbe.unimelb.edu.au/economics/events/seminars/atibhav-chaudhry-
+ phd-completion-seminar
 END:VEVENT
 END:VCALENDAR
