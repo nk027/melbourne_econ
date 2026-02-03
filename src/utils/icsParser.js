@@ -59,7 +59,7 @@ const cleanText = (text) => {
 };
 
 // Extract value from field, handling parameters like DTSTART;TZID=...
-const extractValue = (line, prefix) => {
+const extractValue = (line) => {
   const colonIndex = line.indexOf(':');
   return colonIndex > 0 ? line.substring(colonIndex + 1) : '';
 };

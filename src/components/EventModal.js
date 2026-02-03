@@ -66,8 +66,6 @@ export default function EventModal({ event, onClose }) {
     ignoreClickCloseRef.current = false;
   };
 
-  const createMarkup = (htmlString) => ({ __html: htmlString });
-
   const startTime = formatTime(event.start);
   const endTime = event.end ? formatTime(event.end) : null;
   const isAllDay = startTime === "00:00" && (!endTime || endTime === "00:00");

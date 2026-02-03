@@ -26,8 +26,7 @@ export const getSourceColor = (source, bright = false) => {
   };
 
   const PALETTE = bright ? PALETTE_BRIGHT : PALETTE_STRONG;
-
-  const keys = Object.keys(PALETTE);
+  const colorKeys = Object.keys(PALETTE);
   if (!source) return PALETTE.blue; // default fallback
 
   // Normalize to string name

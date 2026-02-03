@@ -1,7 +1,6 @@
 import React from 'react';
 import { getSourceColor } from '../utils/colorUtils';
-import { formatDate, formatTime } from '../utils/dateUtils';
-import { downloadICS } from '../utils/icsGenerator';
+import { formatTime } from '../utils/dateUtils';
 
 function EventItem({ event, onEventClick }) {
   const colors = getSourceColor(event.source, true);
@@ -10,11 +9,6 @@ function EventItem({ event, onEventClick }) {
   const endTime = event.end ? formatTime(event.end) : null;
   const isAllDay = startTime === '00:00' && (!endTime || endTime === '00:00');
   const displayTime = isAllDay ? 'All Day' : `${startTime}${endTime ? `–${endTime}` : ''}`;
-
-  const handleDownloadEventClick = (e) => {
-    e.stopPropagation();
-    downloadICS(event);
-  };
 
   return (
     <div
