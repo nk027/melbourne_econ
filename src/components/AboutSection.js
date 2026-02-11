@@ -77,7 +77,10 @@ export default function AboutSection({ type = "full" }) {
 
             <div>
               Also check out the{" "}
-              <a href="https://sites.google.com/view/melbournesummerinstitute/home">
+              <a
+                href="https://sites.google.com/view/melbournesummerinstitute/home"
+                className="text-blue-600 hover:underline"
+              >
                 Melbourne Summer Institute
               </a>{" "}
               for events in the area. Please reach out if you know of events or
