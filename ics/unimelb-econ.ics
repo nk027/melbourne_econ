@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UniMelb FBE Economics Events//EN
 BEGIN:VEVENT
-SUMMARY:Applied Microeconomics Seminar Series - Ranae Jabri (University of
-  Sydney)
-DTSTART:20260217T110000
-DTEND:20260217T121500
-DESCRIPTION:Title & Abstract TBC\n\nContact: Sebastian Tebbe & Kathryn Bar
- agwanath (sebastian.tebbe@unimelb.edu.au\; kathryn.baragwanath@unimelb.edu
- .au)
-URL:https://fbe.unimelb.edu.au/economics/events/applied-microeconomics/app
- lied-microeconomics-seminar-series-ranae-jabri-university-of-sydney
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Scarlett (Rong) He PhD Completion Seminar
 DTSTART:20260218T110000
 DTEND:20260218T120000
@@ -48,54 +37,5 @@ DESCRIPTION:Presenter:Scarlett (Rong) He\n\nSupervisors:David Pitt\, Shuan
  urance markets
 URL:https://fbe.unimelb.edu.au/economics/events/seminars/scarlett-rong-he-
  phd-completion-seminar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Macroeconomics Seminar Series - Terry Cheung (Academia Sinica)
-DTSTART:20260219T120000
-DTEND:20260219T131500
-DESCRIPTION:Title: From Slavery to Stagnation: Agricultural Technology and
-  Structural Transformation in the US South\n\nAbstract: This paper examine
- s how the legacy of American slavery shaped agricultural mechanization and
-  structural transformation in the U.S. South. Using county-level data\, we
-  document that areas with higher enslaved ratios in 1860 experienced persi
- stently lower farm wages\, slower tractor adoption\, and weaker subsequent
-  manufacturing growth. Instrumental-variable evidence indicates that discr
- iminatory labor-market institutions suppressed wages and reduced incentive
- s to adopt labor-saving technology. We then build and calibrate a county-l
- evel quantitative model that maps enslaved concentration into an agricultu
- ral wage wedge and incorporates tractor-embodied technological progress. O
- ur model-based decomposition shows that changes in wage suppression alone 
- account for 9 percent of the observed increase in tractor adoption and 28 
- percent of the decline in the agricultural employment share between 1940 a
- nd 1954.\n\nContact: Cristiano Mantovani & Aniket Baksy (cristiano.mantova
- ni@unimelb.edu.au\; aniket.baksy@unimelb.edu.au)
-URL:https://fbe.unimelb.edu.au/economics/events/macro/macroeconomics-semin
- ar-series-terry-cheung-academia-sinica
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Economic Theory Seminar Series - Joshua Gans (University of Toront
- o)
-DTSTART:20260220T110000
-DTEND:20260220T121500
-DESCRIPTION:Title: Price Discrimination with Costless Resale\n\nAbstract: 
- This paper shows that income effects create an endogenous barrier to arbit
- rage\, allowing price discrimination to survive costless resale. A monopol
- ist sells an indivisible good to consumers with heterogeneous incomes who 
- can freely resell. When the good is strictly normal\, a consumer’s reser
- vation price to resell increases as the purchase price decreases—lower p
- rices leave buyers wealthier and raise their valuation of the good. The mo
- nopolist exploits this by subsidising low-income consumers to raise their 
- reservation prices to a target that high-income consumers must also pay. T
- he optimal schedule increases dollar-for-dollar with income in the subsidi
- sed segment\, weakly dominates uniform pricing\, and achieves the first-be
- st allocation when the entire market is served. We show the mechanism exte
- nds beyond income effects: low substitutability with market alternatives g
- enerates large reservation-price responses even when income sensitivity is
-  modest. Sustaining discrimination requires market power at the individual
-  level—consumer-specific quantity limits—not merely aggregate output r
- estrictions. Extensions examine multiple monopolists and endogenous privac
- y choices.\n\nContact: Georgy Artemov (georgy.artemov@unimelb.edu.au)
-URL:https://fbe.unimelb.edu.au/economics/events/ecotheory/economic-theory-
- seminar-series-joshua-gans-university-of-toronto
 END:VEVENT
 END:VCALENDAR
