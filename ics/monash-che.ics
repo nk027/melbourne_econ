@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Monash Events//EN
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: Does warm weather cool voters down? How temper
- ature shocks impact climate concerns\, voting\, and policy preferences
-DTSTART:20260218T120000
-DTEND:20260218T130000
-DESCRIPTION:We explore how regional temperature variations in OECD countri
- es affect political behavior\, climate anxiety\, economic concerns about g
- reen policies\, and support for climate adaptation compensation. Using ind
- ividual-level survey data and election results\, we show that exposure to 
- higher temperatures reduces support for extreme/populist parties and incre
- ases climate concerns and support for parties with green agendas. Effects 
- are driven by older voters’ heightened climate and economic cost concern
- s: this group becomes “greener” but simultaneously demands policies de
- signed to mitigate these costs. Our results suggest that achieving widespr
- ead climate policy support requires parties to jointly advocate for green 
- agendas and targeted compensation.\n\nSpeaker profile\n\n<a href="https://
- sites.google.com/view/mariacotofan/home" target="_blank">Maria Cotofan</a>
-  is an Assistant Professor at King’s College London\, a Research Affilia
- te at the Centre for Economic Performance (CEP)\, a Visiting Fellow at the
-  London School of Economics\, and a Research Associate at the Wellbeing Re
- search Centre at the University of Oxford. Maria works at the intersection
-  of applied microeconomics\, behavioural economics\, and policy evaluation
- . Her research focuses on topics such as inequality\, the effects of depri
- vation and poor economic experiences\, labour market functioning\, and the
-  causes and consequences of poor mental health.\n\nWeekly seminar series\n
- \nAs part of our Centre's vibrant research culture\, we host a weekly semi
- nar series. Visiting and invited researchers present current research rela
- ting to the economics of health and wellbeing\, and the healthcare sector.
-  Visitors are welcome to join these sessions where discussion and debate i
- s encouraged.\n\nFor further information on our seminar series\, please co
- ntact <a href="mailto:Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.
- edu</a>\n\n<a class="btn" href="https://monash.zoom.us/j/83600802355?pwd=1
- F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1 ">Join Zoom</a>
-LOCATION:Caulfield campus\, Building H\, level 9\, room H9.02
-URL:https://www.monash.edu/business/events/che-seminar-series-does-warm-we
- ather-cool-voters-down-how-temperature-shocks-impact-climate-concerns,-vot
- ing,-and-policy-preferences
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHE Seminar Series: From data to impact - Using patient experience
   data to promote equitable health outcomes
 DTSTART:20260225T120000
@@ -74,10 +36,8 @@ DESCRIPTION:Patient experience data is increasingly captured throughout he
  \, and the healthcare sector. Visitors are welcome to join these sessions 
  where discussion and debate is encouraged.\n\nFor further information on o
  ur seminar series\, please contact <a href="mailto:Trong-Anh.Trinh@monash
- .edu">Trong-Anh.Trinh@monash.edu</a>\n\n<a class="btn" href="https://monas
- h.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1%20">Join Zoom
- </a>
-LOCATION:Caulfield campus\, Building C\, level 5\, room C5.08
+ .edu">Trong-Anh.Trinh@monash.edu</a>
+LOCATION:Caulfield campus\, Building C\, level 3\, room C302B
 URL:https://www.monash.edu/business/events/che-seminar-series-from-data-to
  -impact-using-patient-experience-data-to-promote-equitable-health-outcomes
 END:VEVENT
