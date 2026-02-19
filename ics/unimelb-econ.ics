@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UniMelb FBE Economics Events//EN
 BEGIN:VEVENT
-SUMMARY:Scarlett (Rong) He PhD Completion Seminar
-DTSTART:20260218T110000
-DTEND:20260218T120000
-DESCRIPTION:Presenter:Scarlett (Rong) He\n\nSupervisors:David Pitt\, Shuan
- ming Li\, Zhuo Jin (Macquarie Business School)\n\nTitle:Data-Driven Actuar
- ial Modelling of Cyber Risk: Frequency\, Severity\, and Insurance Pricing\
- n\nDay/Time:Wednesday 18 February 2026\, 11am - 12pm Australian Eastern Da
- ylight Time Time (AEDT)\n\nVenue:FBE-304\n\nZoom Link:https://unimelb.zoom
- .us/j/89762547188?pwd=5D8zMxbyg70viHWcZSaVNaRrnaxRZK.1(Password: 414939)\n
- \nAbstract:\n\nThis thesis investigates cyber risk through an integrated f
- ramework that links loss occurrence\, loss severity\, and insurance decisi
- on making under realistic information availability situations. Aninterdisc
- iplinary survey first synthesises existing research across fields includin
- g computer science\, business and economics\, and actuarial studies\, high
- lighting fragmentation in current approaches and motivating the need for u
- nified modelling frameworks.\n\nBuilding on these insights\, cyber loss fr
- equency is reinterpreted through an epidemic lens that captures temporal a
- nd feature dependent propagation dynamics\, while loss severity is studied
-  using both distributional approaches and modern machine learning and deep
-  learning methods\, taking into consideration that incident-specific chara
- cteristics are unobservable at the time of underwriting. Finally\, predict
- ive outputs are embedded into a reinforcement learning framework that expl
- ores deductible and coverage limit design under alternative pricing settin
- gs. The results from these studies demonstrate that epidemic-informed freq
- uency models improve incident count prediction\, that predicted incident t
- ypes can serve as an informative feature with only marginal loss of accura
- cy in severity prediction\, and that these predictive components can be ma
- pped into practical insurance contract design under different pricing obje
- ctives through a reinforcement learning module.\n\nOverall\, the thesis en
- riches actuarial modelling of cyber risk by drawing on epidemic processes 
- to accommodate cyber risk propagation and by bridging predictive analysis 
- and insurance decision making under the practical constraints of cyber ins
- urance markets
-URL:https://fbe.unimelb.edu.au/economics/events/seminars/scarlett-rong-he-
- phd-completion-seminar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Macroeconomics Seminar Series - Terry Cheung (Academia Sinica)
 DTSTART:20260219T120000
 DTEND:20260219T131500
@@ -62,28 +25,9 @@ URL:https://fbe.unimelb.edu.au/economics/events/macro/macroeconomics-semin
  ar-series-terry-cheung-academia-sinica
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Economic Theory Seminar Series - Joshua Gans (University of Toront
- o)
-DTSTART:20260220T110000
-DTEND:20260220T121500
-DESCRIPTION:Title: Price Discrimination with Costless Resale\n\nAbstract: 
- This paper shows that income effects create an endogenous barrier to arbit
- rage\, allowing price discrimination to survive costless resale. A monopol
- ist sells an indivisible good to consumers with heterogeneous incomes who 
- can freely resell. When the good is strictly normal\, a consumer’s reser
- vation price to resell increases as the purchase price decreases—lower p
- rices leave buyers wealthier and raise their valuation of the good. The mo
- nopolist exploits this by subsidising low-income consumers to raise their 
- reservation prices to a target that high-income consumers must also pay. T
- he optimal schedule increases dollar-for-dollar with income in the subsidi
- sed segment\, weakly dominates uniform pricing\, and achieves the first-be
- st allocation when the entire market is served. We show the mechanism exte
- nds beyond income effects: low substitutability with market alternatives g
- enerates large reservation-price responses even when income sensitivity is
-  modest. Sustaining discrimination requires market power at the individual
-  level—consumer-specific quantity limits—not merely aggregate output r
- estrictions. Extensions examine multiple monopolists and endogenous privac
- y choices.\n\nContact: Georgy Artemov (georgy.artemov@unimelb.edu.au)
+SUMMARY:
+DTSTART:20260219T120000
+DTEND:20260219T130000
 URL:https://fbe.unimelb.edu.au/economics/events/ecotheory/economic-theory-
  seminar-series-joshua-gans-university-of-toronto
 END:VEVENT
