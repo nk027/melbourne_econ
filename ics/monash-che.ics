@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Monash Events//EN
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: Does warm weather cool voters down? How temper
- ature shocks impact climate concerns\, voting\, and policy preferences
-DTSTART:20260218T120000
-DTEND:20260218T130000
-DESCRIPTION:We explore how regional temperature variations in OECD countri
- es affect political behavior\, climate anxiety\, economic concerns about g
- reen policies\, and support for climate adaptation compensation. Using ind
- ividual-level survey data and election results\, we show that exposure to 
- higher temperatures reduces support for extreme/populist parties and incre
- ases climate concerns and support for parties with green agendas. Effects 
- are driven by older voters’ heightened climate and economic cost concern
- s: this group becomes “greener” but simultaneously demands policies de
- signed to mitigate these costs. Our results suggest that achieving widespr
- ead climate policy support requires parties to jointly advocate for green 
- agendas and targeted compensation.\n\nSpeaker profile\n\n<a href="https://
- sites.google.com/view/mariacotofan/home" target="_blank">Maria Cotofan</a>
-  is an Assistant Professor at King’s College London\, a Research Affilia
- te at the Centre for Economic Performance (CEP)\, a Visiting Fellow at the
-  London School of Economics\, and a Research Associate at the Wellbeing Re
- search Centre at the University of Oxford. Maria works at the intersection
-  of applied microeconomics\, behavioural economics\, and policy evaluation
- . Her research focuses on topics such as inequality\, the effects of depri
- vation and poor economic experiences\, labour market functioning\, and the
-  causes and consequences of poor mental health.\n\nWeekly seminar series\n
- \nAs part of our Centre's vibrant research culture\, we host a weekly semi
- nar series. Visiting and invited researchers present current research rela
- ting to the economics of health and wellbeing\, and the healthcare sector.
-  Visitors are welcome to join these sessions where discussion and debate i
- s encouraged.\n\nFor further information on our seminar series\, please co
- ntact <a href="mailto:Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.
- edu</a>\n\n<a class="btn" href="https://monash.zoom.us/j/83600802355?pwd=1
- F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1 ">Join Zoom</a>
-LOCATION:Caulfield campus\, Building H\, level 9\, room H9.02
-URL:https://www.monash.edu/business/events/che-seminar-series-does-warm-we
- ather-cool-voters-down-how-temperature-shocks-impact-climate-concerns,-vot
- ing,-and-policy-preferences
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHE Seminar Series: From data to impact - Using patient experience
   data to promote equitable health outcomes
 DTSTART:20260225T120000
@@ -74,12 +36,74 @@ DESCRIPTION:Patient experience data is increasingly captured throughout he
  \, and the healthcare sector. Visitors are welcome to join these sessions 
  where discussion and debate is encouraged.\n\nFor further information on o
  ur seminar series\, please contact <a href="mailto:Trong-Anh.Trinh@monash
- .edu">Trong-Anh.Trinh@monash.edu</a>\n\n<a class="btn" href="https://monas
- h.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1%20">Join Zoom
- </a>
-LOCATION:Caulfield campus\, Building C\, level 5\, room C5.08
+ .edu">Trong-Anh.Trinh@monash.edu</a>
+LOCATION:Caulfield campus\, Building C\, level 3\, room C302B
 URL:https://www.monash.edu/business/events/che-seminar-series-from-data-to
  -impact-using-patient-experience-data-to-promote-equitable-health-outcomes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Insights on Disability and Health Equity
+DTSTART:20260227T153000
+DTEND:20260227T170000
+DESCRIPTION:Hosted by Monash Business School’s <a href="https://www.mona
+ sh.edu/business/che" target="_blank">Centre for Health Economics</a> and 
+ organised as part of <a href="http://www.ahead.org.au/" target="_blank">AH
+ EAD</a> – Achieving Health Equity for All People with Disability\, an NH
+ MRC-funded Centre of Research Excellence. This event will explore how hig
+ h-quality\, interdisciplinary evidence can inform more equitable health\, 
+ education\, and social policies for people with disabilities.\n\nBringing 
+ together international and Australian perspectives\, the session will exam
+ ine how disability shapes life outcomes\, and impacts families\, education
+ \, work\, wellbeing\, and participation in society.\n\nThis event will be 
+ held in-person and online via Zoom. Please select your preferred attendanc
+ e ticket when registering. Light snacks will be provided after the in-pers
+ on event.\n\nRegistration\n\n<a class="btn" href="https://events.humanitix
+ .com/copy-of-disability-wellbeing-index-launch" target="_blank">Register h
+ ere</a>\n\nThe program will feature international speakers alongside resea
+ rchers from the AHEAD Centre of Research Excellence\, who will share emerg
+ ing insights from Australian disability research. These contributions will
+  highlight current evidence gaps\, methodological challenges\, and practic
+ al considerations in generating and using evidence to inform policy and se
+ rvice design.\n\nDrawing on experiences across different systems and conte
+ xts\, the event will consider how economic\, public health\, and social sc
+ ience evidence can be better translated into decision-making to support mo
+ re inclusive and effective policies. The session will conclude with discus
+ sion and audience engagement on priorities for future disability research 
+ and evidence-informed policy.\n\nSpeakers\n\nDr Jarl is a health economist
+  with extensive experience in economic evaluations\, cost analysis\, and r
+ egister-based studies on consequences of disease and treatment. He has a p
+ articular interest in the impact of early onset disabilities on individual
+  and family outcomes\, in areas such as labour market productivity and fam
+ ily formation\, and how health and social intervention can improve health\
+ , societal participation\, and quality of life. His work focuses on the he
+ alth economic aspects of disabilities\, with a particular interest in cost
+ -effectiveness analysis and broad societal consequences.\n\nA/Prof Alrikss
+ on-Schmidt has worked at universities and federal agencies (the Centers fo
+ r Disease Control and Prevention) in the United States and Sweden. Most of
+  her work relates to congenital disabilities or childhood-onset disabiliti
+ es\, such as cerebral palsy and spina bifida. She is currently principal i
+ nvestigator of a six-year research program entitled MOVING-ON WITH CP. She
+  is a developmental psychologist by training but also holds an MSPH in pub
+ lic health (focus epidemiology). A/Prof Alriksson-Schmidt also serves as v
+ ice chairperson of CP Sweden\, which she co-founded in 2020.\n\nProf Dicki
+ nson’s expertise is in policy implementation and evaluation\, with a par
+ ticular interest in disability policies and programmes. She has published 
+ 20 books and over 100 peer-reviewed journal articles on these topics and i
+ s also a frequent commentator within mainstream media.\n\nIn 2015\, Prof D
+ ickinson was made a Victorian Fellow of the Institute of Public Administra
+ tion Australia\, and in 2019 made a Fellow of the Academy of Social Scienc
+ es.  In 2021\, she was named one of Apolitical’s 100 most influential 
+ academics in government. She has worked with a range of different levels o
+ f government\, community organisations and private organisations in Austra
+ lia\, the UK\, New Zealand and Europe on research and consultancy programm
+ es.\n\nLu Ye is a graduate researcher. Her research explores how social fa
+ ctors contribute to mental health inequalities for people with disability.
+  She has a strong interest in applying advanced epidemiological and statis
+ tical methods to the analysis of longitudinal surveys.
+LOCATION:Sky Room\, Level 14\, 30 Collins Street\, Melbourne\, 3000 or Onl
+ ine on Zoom
+URL:https://www.monash.edu/business/events/new-insights-on-disability-and-
+ health-equity
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15th Australasian Workshop on Econometrics and Health Economics
