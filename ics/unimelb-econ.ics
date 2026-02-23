@@ -2,92 +2,89 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UniMelb FBE Economics Events//EN
 BEGIN:VEVENT
-SUMMARY:Applied Microeconomics Seminar Series - Simon Franklin (Queen Mary
-  University)
-DTSTART:20260224T110000
-DTEND:20260224T121500
-DESCRIPTION:Title: No Place Like Home? The Causal Effect of Forced Relocat
- ion from Central Addis Ababa (with Gharad Bryan\, Tigabu Getahun\, and Sar
- ah Winton).\n\nAbstract: Do central slums provide essential economic and 
- social benefits to the poor? We study a large-scale forced slum clearance 
- program in Addis Ababa using bespoke panel data on 5\,000 households and a
-  regression-discontinuity design. Evicted households were offered subsidis
- ed housing further from the city center. We find persistent negative impac
- ts on geographically based social networks\, but no evidence of declines i
- n work\, earnings\, or consumption\, alongside improvements in housing qua
- lity and environmental amenity. Social costs are smaller when households a
- re relocated near former neighbors. Back-of-the-envelope accounting sugges
- ts compensation is fiscally feasible in this setting.\n\nContact: Sebastia
- n Tebbe & Kathryn Baragwanath (sebastian.tebbe@unimelb.edu.au\; kathryn.ba
- ragwanath@unimelb.edu.au)
-URL:https://fbe.unimelb.edu.au/economics/events/applied-microeconomics/app
- lied-microeconomics-seminar-series-simon-franklin-queen-mary-university
+SUMMARY:Scarlett (Rong) He PhD Completion Seminar
+DTSTART:20260218T110000
+DTEND:20260218T120000
+DESCRIPTION:Presenter:Scarlett (Rong) He\n\nSupervisors:David Pitt\, Shuan
+ ming Li\, Zhuo Jin (Macquarie Business School)\n\nTitle:Data-Driven Actuar
+ ial Modelling of Cyber Risk: Frequency\, Severity\, and Insurance Pricing\
+ n\nDay/Time:Wednesday 18 February 2026\, 11am - 12pm Australian Eastern Da
+ ylight Time Time (AEDT)\n\nVenue:FBE-304\n\nZoom Link:https://unimelb.zoom
+ .us/j/89762547188?pwd=5D8zMxbyg70viHWcZSaVNaRrnaxRZK.1(Password: 414939)\n
+ \nAbstract:\n\nThis thesis investigates cyber risk through an integrated f
+ ramework that links loss occurrence\, loss severity\, and insurance decisi
+ on making under realistic information availability situations. Aninterdisc
+ iplinary survey first synthesises existing research across fields includin
+ g computer science\, business and economics\, and actuarial studies\, high
+ lighting fragmentation in current approaches and motivating the need for u
+ nified modelling frameworks.\n\nBuilding on these insights\, cyber loss fr
+ equency is reinterpreted through an epidemic lens that captures temporal a
+ nd feature dependent propagation dynamics\, while loss severity is studied
+  using both distributional approaches and modern machine learning and deep
+  learning methods\, taking into consideration that incident-specific chara
+ cteristics are unobservable at the time of underwriting. Finally\, predict
+ ive outputs are embedded into a reinforcement learning framework that expl
+ ores deductible and coverage limit design under alternative pricing settin
+ gs. The results from these studies demonstrate that epidemic-informed freq
+ uency models improve incident count prediction\, that predicted incident t
+ ypes can serve as an informative feature with only marginal loss of accura
+ cy in severity prediction\, and that these predictive components can be ma
+ pped into practical insurance contract design under different pricing obje
+ ctives through a reinforcement learning module.\n\nOverall\, the thesis en
+ riches actuarial modelling of cyber risk by drawing on epidemic processes 
+ to accommodate cyber risk propagation and by bridging predictive analysis 
+ and insurance decision making under the practical constraints of cyber ins
+ urance markets
+URL:https://fbe.unimelb.edu.au/economics/events/seminars/scarlett-rong-he-
+ phd-completion-seminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Experimental and Behavioural Economics Seminar Series - Diogo Gera
- ldes (University College Dublin)
-DTSTART:20260226T110000
-DTEND:20260226T121500
-DESCRIPTION:Title: Closing the Gender Gap in Multilateral Negotiations Thr
- ough Institutional Design\n\nAbstract: Experimental evidence shows that m
- en earn more than women in majoritarian negotiations. Three stylized modes
-  of behavior emerge as potential reasons for the gap: Men sort into making
-  opening offers more often\, prefer to partner with other men\, and when p
- artnering with each other\, their coalitions are more stable compared to m
- ixed-gender ones. We design three experimental interventions to investigat
- e the explanatory role each channel plays in the emergence of the gap and\
- , consequently\, test potential solutions. We find that enabling everyone 
- to simultaneously make an initial proposal does not close the earnings gap
- \, if anything\, it weakly grows in magnitude. Hiding gender eliminates bi
- as in coalition partner choice and alters bargaining dynamics\, thereby eq
- ualizing mean earnings. Finally\, allowing for the option to commit in bar
- gaining closes the gap\, not only because mixed-gender coalitions become m
- ore stable\, but also because women become preferred partners. Our results
-  highlight how the attributes of the negotiation environment interact with
-  gender\, and suggest that the design of bargaining institutions can be le
- veraged to promote gender equity.\n\nContact: Mia Tam & Max Grossmann (Gro
- ssmannM@unimelb.edu.au\; mia.tam@unimelb.edu.au)
-URL:https://fbe.unimelb.edu.au/economics/events/experimental-and-behaviour
- al-economics/experimental-and-behavioural-economics-seminar-series-diogo-g
- eraldes-university-college-dublin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Macroeconomics Seminar Series - Wouter den Haan (London School of 
- Economics)
-DTSTART:20260226T120000
-DTEND:20260226T131500
-DESCRIPTION:Title: Battle of the ages: distributional and aggregate effect
- s of monetary policy in a model with age demographics.\n\nAbstract:  We 
- develop a model in which agents face unemployment risk\, but also age and 
- eventually retire. We study the impact of different retirement schemes on 
- life-cycle consumption and the monetary transmission mechanism. Agents sav
- e because of a fall in income upon retirement\, changes along the life-cyc
- le wage profile\, and unemployment risk. Changes in retirement policies af
- fect the distribution of available assets (bonds) among the middle aged an
- d the young\, which in turn can have a strong impact on the ability of the
-  young to insure themselves against unemployment risk. Interestingly\, it 
- is possible that an increase in retirement benefits leads to higher consum
- ption levels during sustained unemployment spells even though the associat
- ed increase in taxes reduces unemployment benefits. The reason is that thi
- s policy induces the middle aged to save less which leaves more of the ava
- ilable asset supply to the young. A reduction in the interest rate has a b
- igger impact on those for whom labor market conditions improve the most an
- d – due to a larger negative income effect – has a smaller impact on t
- hose who save more. In terms of the aggregate impact of monetary-policy sh
- ocks\, our paper confirms conventional wisdom that the expansion is magnif
- ied in the presence of incomplete markets\, since it is then accompanied b
- y a fall in precautionary savings. The novel aspect of our analysis is tha
- t the extent of the incompleteness\, i.e.\, the ability of those subject t
- o unemployment risk to insure themselves\, is endogenous. Specifically\, i
- t is reduced as the young (middle-aged) hold a larger (smaller) fraction o
- f the available asset supply and this distribution is not only affected by
-  retirement policies\, but also by government bond supply and the life-cyc
- le wage profile. Thus\, understanding the distribution of assets across di
- fferent age cohorts is not only important for understanding life-cycle con
- sumption patterns\, but also business cycles\n\nContact: Cristiano Mantova
- ni & Aniket Baksy (cristiano.mantovani@unimelb.edu.au\; aniket.baksy@unime
- lb.edu.au)
+SUMMARY:Macroeconomics Seminar Series - Terry Cheung (Academia Sinica)
+DTSTART:20260219T120000
+DTEND:20260219T131500
+DESCRIPTION:Title: From Slavery to Stagnation: Agricultural Technology and
+  Structural Transformation in the US South\n\nAbstract: This paper examine
+ s how the legacy of American slavery shaped agricultural mechanization and
+  structural transformation in the U.S. South. Using county-level data\, we
+  document that areas with higher enslaved ratios in 1860 experienced persi
+ stently lower farm wages\, slower tractor adoption\, and weaker subsequent
+  manufacturing growth. Instrumental-variable evidence indicates that discr
+ iminatory labor-market institutions suppressed wages and reduced incentive
+ s to adopt labor-saving technology. We then build and calibrate a county-l
+ evel quantitative model that maps enslaved concentration into an agricultu
+ ral wage wedge and incorporates tractor-embodied technological progress. O
+ ur model-based decomposition shows that changes in wage suppression alone 
+ account for 9 percent of the observed increase in tractor adoption and 28 
+ percent of the decline in the agricultural employment share between 1940 a
+ nd 1954.\n\nContact: Cristiano Mantovani & Aniket Baksy (cristiano.mantova
+ ni@unimelb.edu.au\; aniket.baksy@unimelb.edu.au)
 URL:https://fbe.unimelb.edu.au/economics/events/macro/macroeconomics-semin
- ar-series-wouter-den-haan-london-school-of-economics
+ ar-series-terry-cheung-academia-sinica
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Economic Theory Seminar Series - Joshua Gans (University of Toront
+ o)
+DTSTART:20260220T110000
+DTEND:20260220T121500
+DESCRIPTION:Title: Price Discrimination with Costless Resale\n\nAbstract: 
+ This paper shows that income effects create an endogenous barrier to arbit
+ rage\, allowing price discrimination to survive costless resale. A monopol
+ ist sells an indivisible good to consumers with heterogeneous incomes who 
+ can freely resell. When the good is strictly normal\, a consumer’s reser
+ vation price to resell increases as the purchase price decreases—lower p
+ rices leave buyers wealthier and raise their valuation of the good. The mo
+ nopolist exploits this by subsidising low-income consumers to raise their 
+ reservation prices to a target that high-income consumers must also pay. T
+ he optimal schedule increases dollar-for-dollar with income in the subsidi
+ sed segment\, weakly dominates uniform pricing\, and achieves the first-be
+ st allocation when the entire market is served. We show the mechanism exte
+ nds beyond income effects: low substitutability with market alternatives g
+ enerates large reservation-price responses even when income sensitivity is
+  modest. Sustaining discrimination requires market power at the individual
+  level—consumer-specific quantity limits—not merely aggregate output r
+ estrictions. Extensions examine multiple monopolists and endogenous privac
+ y choices.\n\nContact: Georgy Artemov (georgy.artemov@unimelb.edu.au)
+URL:https://fbe.unimelb.edu.au/economics/events/ecotheory/economic-theory-
+ seminar-series-joshua-gans-university-of-toronto
 END:VEVENT
 END:VCALENDAR
