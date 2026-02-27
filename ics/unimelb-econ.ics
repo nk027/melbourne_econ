@@ -2,89 +2,107 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//UniMelb FBE Economics Events//EN
 BEGIN:VEVENT
-SUMMARY:Scarlett (Rong) He PhD Completion Seminar
-DTSTART:20260218T110000
-DTEND:20260218T120000
-DESCRIPTION:Presenter:Scarlett (Rong) He\n\nSupervisors:David Pitt\, Shuan
- ming Li\, Zhuo Jin (Macquarie Business School)\n\nTitle:Data-Driven Actuar
- ial Modelling of Cyber Risk: Frequency\, Severity\, and Insurance Pricing\
- n\nDay/Time:Wednesday 18 February 2026\, 11am - 12pm Australian Eastern Da
- ylight Time Time (AEDT)\n\nVenue:FBE-304\n\nZoom Link:https://unimelb.zoom
- .us/j/89762547188?pwd=5D8zMxbyg70viHWcZSaVNaRrnaxRZK.1(Password: 414939)\n
- \nAbstract:\n\nThis thesis investigates cyber risk through an integrated f
- ramework that links loss occurrence\, loss severity\, and insurance decisi
- on making under realistic information availability situations. Aninterdisc
- iplinary survey first synthesises existing research across fields includin
- g computer science\, business and economics\, and actuarial studies\, high
- lighting fragmentation in current approaches and motivating the need for u
- nified modelling frameworks.\n\nBuilding on these insights\, cyber loss fr
- equency is reinterpreted through an epidemic lens that captures temporal a
- nd feature dependent propagation dynamics\, while loss severity is studied
-  using both distributional approaches and modern machine learning and deep
-  learning methods\, taking into consideration that incident-specific chara
- cteristics are unobservable at the time of underwriting. Finally\, predict
- ive outputs are embedded into a reinforcement learning framework that expl
- ores deductible and coverage limit design under alternative pricing settin
- gs. The results from these studies demonstrate that epidemic-informed freq
- uency models improve incident count prediction\, that predicted incident t
- ypes can serve as an informative feature with only marginal loss of accura
- cy in severity prediction\, and that these predictive components can be ma
- pped into practical insurance contract design under different pricing obje
- ctives through a reinforcement learning module.\n\nOverall\, the thesis en
- riches actuarial modelling of cyber risk by drawing on epidemic processes 
- to accommodate cyber risk propagation and by bridging predictive analysis 
- and insurance decision making under the practical constraints of cyber ins
- urance markets
-URL:https://fbe.unimelb.edu.au/economics/events/seminars/scarlett-rong-he-
- phd-completion-seminar
+SUMMARY:Applied Microeconomics Seminar Series - Yucheng Wang (University o
+ f Sydney)
+DTSTART:20260303T110000
+DTEND:20260303T121500
+DESCRIPTION:Title: Steering Adaptation: Firm Cost-Sharing\, Moral Hazard\,
+  and Driver Responses to Heat in the Trucking Industry\n\nAbstract: We 
+ study how firms steer workers’ adaptation behaviors to the negative impa
+ ct of climate risks. Using unique data from real-time GPS and AI-enhanced 
+ driver-monitoring systems tracking 10\,000 truck drivers over 15 months\, 
+ we show that exposure to extreme heat increases dangerous driving behavior
+ s and reduces productivity. Labor contracts play a central role in determi
+ ning drivers’ adaptation choices. Independent contractors—who own thei
+ r trucks and bear their own operating costs—are more sensitive to extrem
+ e heat than company-employed drivers\, largely because they reduce air-con
+ ditioning use to save on fuel. As a substitute\, contractors adapt by taki
+ ng more rest and adjusting their labor supply. Firms also directly mitigat
+ e negative productivity shocks by dispatching additional trucks. Our calcu
+ lation suggests that one additional hour of temperature above 33 Degrees C
+ elsius results in $0.77 million daily economic losses in China\, with 78% 
+ borne by other road users as externalities. Comparing adaptation costs to 
+ social benefits\, we show that private adaptation efforts fall short of so
+ cially optimal levels.\n\nContact: Sebastian Tebbe & Kathryn Baragwanath (
+ sebastian.tebbe@unimelb.edu.au\; kathryn.baragwanath@unimelb.edu.au)
+URL:https://fbe.unimelb.edu.au/economics/events/applied-microeconomics/app
+ lied-microeconomics-seminar-series-yucheng-wang-university-of-sydney
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Macroeconomics Seminar Series - Terry Cheung (Academia Sinica)
-DTSTART:20260219T120000
-DTEND:20260219T131500
-DESCRIPTION:Title: From Slavery to Stagnation: Agricultural Technology and
-  Structural Transformation in the US South\n\nAbstract: This paper examine
- s how the legacy of American slavery shaped agricultural mechanization and
-  structural transformation in the U.S. South. Using county-level data\, we
-  document that areas with higher enslaved ratios in 1860 experienced persi
- stently lower farm wages\, slower tractor adoption\, and weaker subsequent
-  manufacturing growth. Instrumental-variable evidence indicates that discr
- iminatory labor-market institutions suppressed wages and reduced incentive
- s to adopt labor-saving technology. We then build and calibrate a county-l
- evel quantitative model that maps enslaved concentration into an agricultu
- ral wage wedge and incorporates tractor-embodied technological progress. O
- ur model-based decomposition shows that changes in wage suppression alone 
- account for 9 percent of the observed increase in tractor adoption and 28 
- percent of the decline in the agricultural employment share between 1940 a
- nd 1954.\n\nContact: Cristiano Mantovani & Aniket Baksy (cristiano.mantova
- ni@unimelb.edu.au\; aniket.baksy@unimelb.edu.au)
+SUMMARY:Centre for Actuarial Studies Seminar Series - Mengyi Xu (Universit
+ y of New South Wales)
+DTSTART:20260304T130000
+DTEND:20260304T140000
+DESCRIPTION:Title: Fair Pricing in Long-Term Insurance: A Unified Framewor
+ k\n\nAbstract:  Extant literature on fair pricing methods for actuarial 
+ contexts has primarily focused on the regression setting. While such appro
+ aches are well-suited to short-term products\, it is unclear how they gene
+ ralize to long-term products\, whose pricing essentially relies on estimat
+ ing transition rates in multi-state models. To address this gap\, we propo
+ se a unified framework that recasts the estimation of any given multi-stat
+ e transition model as a set of Poisson regression problems. This reformula
+ tion enables the direct application of existing fair pricing methods\, whi
+ ch together constitute our proposed methodology. As an illustration\, we a
+ pply the framework to a fair pricing exercise for a stylized long-term car
+ e insurance product using data from the University of Michigan Health and 
+ Retirement Study (HRS)\, focusing on a post-processing approach. We furthe
+ r explain how the framework readily accommodates pre-processing and in-pro
+ cessing fairness methods\n\nContact: Han Li & Hamza Hanbali (han.li@unimel
+ b.edu.au\; hamza.hanbali@unimelb.edu.au)
+URL:https://fbe.unimelb.edu.au/economics/events/act/centre-for-actuarial-s
+ tudies-seminar-series-mengyi-xu-university-of-new-south-wales
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Experimental and Behavioural Economics Seminar Series - Andzrej Ba
+ ranksi  (NYU Abu Dhabi)
+DTSTART:20260305T110000
+DTEND:20260305T121500
+DESCRIPTION:Title: Coordination through Bargaining in Weakest-link Games\n
+ \nAbstract: Coordination problems are often modeled as weakest-link games\
+ , where the minimum-contributing agent determines their group's surplus to
+  be shared in equal parts. Yet in many settings\, the sharing of a jointly
+ -produced surplus occurs through bargaining\, which acts as a double-edged
+  sword: It can promote effort by disciplining low contributors or deter it
+  through the added uncertainty of returns. We present experimental evidenc
+ e that bargaining improves coordination by promoting equitable divisions t
+ hat reward higher contributions\, even in one-shot interactions. High cont
+ ributors are more likely than low contributors to propose allocations that
+  reward effort\, creating a reinforcement cycle that fosters efficiency. I
+ ncreasing institutional flexibility by allowing groups to endogenously sel
+ ect who can act proposers improves efficiency only when productive contrib
+ utions and bargaining power are aligned\, but backfires otherwise. These r
+ esults highlight the scope and limits of participatory surplus division me
+ chanisms in providing incentives for efficient coordination.\n\nContact: M
+ ia Tam & Max Grossmann (GrossmannM@unimelb.edu.au\; mia.tam@unimelb.edu.au
+ )
+URL:https://fbe.unimelb.edu.au/economics/events/experimental-and-behaviour
+ al-economics/experimental-and-behavioural-economics-seminar-series-andzrej
+ -baranksi-nyu-abu-dhabi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Macroeconomics Seminar Series - Pratiti Chatterjee (University of 
+ Western Australia)
+DTSTART:20260305T120000
+DTEND:20260305T131500
+DESCRIPTION:Title: Belief-Driven Monetary Policy Transmission – A Sentim
+ ent Channel\n\nAbstract: This article examines how macroeconomic sentiment
+  shapes the transmission of monetary policy. Using smooth diagnostic expec
+ tations to motivate a role for sentiments in DSGE models\, I show that ove
+ rreaction relative to a rational benchmark generates an additional transmi
+ ssion channel: an interaction between excess optimism or pessimism and mon
+ etary policy shocks that operates over and above conventional mechanisms. 
+ By mapping theory to data using forecast uncertainty ratios\, I provide em
+ pirical evidence that this overreaction-driven interaction effect is quant
+ itatively significant and alters the trajectories of macro and financial v
+ ariables in response to monetary policy shocks\, as identified in earlier 
+ work. The sentiment channel influences economic activity through financial
+  markets\, amplifying or dampening borrowing costs depending on whether op
+ timism or pessimism prevails. The findings offer a framework for quantifyi
+ ng the impact of sentiment on monetary policy transmission\, thereby isola
+ ting the mechanisms that generate fluctuations in policy potency.\n\nConta
+ ct: Cristiano Mantovani & Aniket Baksy (cristiano.mantovani@unimelb.edu.au
+ \; aniket.baksy@unimelb.edu.au)
 URL:https://fbe.unimelb.edu.au/economics/events/macro/macroeconomics-semin
- ar-series-terry-cheung-academia-sinica
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Economic Theory Seminar Series - Joshua Gans (University of Toront
- o)
-DTSTART:20260220T110000
-DTEND:20260220T121500
-DESCRIPTION:Title: Price Discrimination with Costless Resale\n\nAbstract: 
- This paper shows that income effects create an endogenous barrier to arbit
- rage\, allowing price discrimination to survive costless resale. A monopol
- ist sells an indivisible good to consumers with heterogeneous incomes who 
- can freely resell. When the good is strictly normal\, a consumer’s reser
- vation price to resell increases as the purchase price decreases—lower p
- rices leave buyers wealthier and raise their valuation of the good. The mo
- nopolist exploits this by subsidising low-income consumers to raise their 
- reservation prices to a target that high-income consumers must also pay. T
- he optimal schedule increases dollar-for-dollar with income in the subsidi
- sed segment\, weakly dominates uniform pricing\, and achieves the first-be
- st allocation when the entire market is served. We show the mechanism exte
- nds beyond income effects: low substitutability with market alternatives g
- enerates large reservation-price responses even when income sensitivity is
-  modest. Sustaining discrimination requires market power at the individual
-  level—consumer-specific quantity limits—not merely aggregate output r
- estrictions. Extensions examine multiple monopolists and endogenous privac
- y choices.\n\nContact: Georgy Artemov (georgy.artemov@unimelb.edu.au)
-URL:https://fbe.unimelb.edu.au/economics/events/ecotheory/economic-theory-
- seminar-series-joshua-gans-university-of-toronto
+ ar-series-pratiti-chatterjee-university-of-western-australia
 END:VEVENT
 END:VCALENDAR
