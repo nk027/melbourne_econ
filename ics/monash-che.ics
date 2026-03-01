@@ -2,84 +2,96 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Monash Events//EN
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: Does warm weather cool voters down? How temper
- ature shocks impact climate concerns\, voting\, and policy preferences
-DTSTART:20260218T120000
-DTEND:20260218T130000
-DESCRIPTION:We explore how regional temperature variations in OECD countri
- es affect political behavior\, climate anxiety\, economic concerns about g
- reen policies\, and support for climate adaptation compensation. Using ind
- ividual-level survey data and election results\, we show that exposure to 
- higher temperatures reduces support for extreme/populist parties and incre
- ases climate concerns and support for parties with green agendas. Effects 
- are driven by older voters’ heightened climate and economic cost concern
- s: this group becomes “greener” but simultaneously demands policies de
- signed to mitigate these costs. Our results suggest that achieving widespr
- ead climate policy support requires parties to jointly advocate for green 
- agendas and targeted compensation.\n\nSpeaker profile\n\n<a href="https://
- sites.google.com/view/mariacotofan/home" target="_blank">Maria Cotofan</a>
-  is an Assistant Professor at King’s College London\, a Research Affilia
- te at the Centre for Economic Performance (CEP)\, a Visiting Fellow at the
-  London School of Economics\, and a Research Associate at the Wellbeing Re
- search Centre at the University of Oxford. Maria works at the intersection
-  of applied microeconomics\, behavioural economics\, and policy evaluation
- . Her research focuses on topics such as inequality\, the effects of depri
- vation and poor economic experiences\, labour market functioning\, and the
-  causes and consequences of poor mental health.\n\nWeekly seminar series\n
- \nAs part of our Centre's vibrant research culture\, we host a weekly semi
- nar series. Visiting and invited researchers present current research rela
- ting to the economics of health and wellbeing\, and the healthcare sector.
-  Visitors are welcome to join these sessions where discussion and debate i
- s encouraged.\n\nFor further information on our seminar series\, please co
- ntact <a href="mailto:Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.
- edu</a>\n\n<a class="btn" href="https://monash.zoom.us/j/83600802355?pwd=1
- F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1 ">Join Zoom</a>
-LOCATION:Caulfield campus\, Building H\, level 9\, room H9.02
-URL:https://www.monash.edu/business/events/che-seminar-series-does-warm-we
- ather-cool-voters-down-how-temperature-shocks-impact-climate-concerns,-vot
- ing,-and-policy-preferences
+SUMMARY:CHE Seminar Series: Barriers to care under universal coverage: Evi
+ dence from Switzerland
+DTSTART:20260304T120000
+DTEND:20260304T130000
+DESCRIPTION:This seminar presents evidence on disparities in access to car
+ e from Switzerland\, combining administrative data\, small-area analyses\,
+  and a broader research agenda using quasi-experimental and experimental a
+ pproaches.\n\nThe first part discusses national evidence on socioeconomic 
+ inequalities in potentially avoidable hospitalisations\, a proxy for inade
+ quate access to community-based ambulatory care. The study documents a rob
+ ust socioeconomic gradient and substantial variation across cantons (Swiss
+  states). Exploiting Switzerland’s decentralised institutional structure
+ \, the analysis then examines policy correlates of these inequalities. Res
+ ults reveal positive associations between inequality and both the cost of 
+ mandatory health insurance and the regressivity of premium subsidy schemes
+ \, alongside a weaker negative association with general practitioner densi
+ ty. While descriptive\, these findings point to potential policy mechanism
+ s shaping equity in access.\n\nThe second study analyses paediatric emerge
+ ncy department utilisation in Geneva. In this dense urban setting\, where 
+ geographical access is less likely to be the primary constraint\, the resu
+ lts highlight the prominent role of socioeconomic vulnerability. The obser
+ ved patterns are consistent with disparities arising beyond physical acces
+ s constraints\, including potential informational frictions. The second pa
+ rt outlines forthcoming research examining mechanisms underlying access di
+ sparities\, studying responses to cost-sharing using Swiss insurance micro
+ data and the role of informational frictions through a field experiment.\n
+ \nSpeaker profile\n\n<a href="https://www.lche.ch/researchers/">Joachim Ma
+ rti</a> is an Associate Professor of Health Economics at the University of
+  Lausanne (Unisanté)\, Co-Lead of the Lausanne Centre for Health Economic
+ s\, and currently a Visiting Researcher at the Centre for Health Economics
+  (CHE). His work spans health economics\, health policy\, and health servi
+ ces research\, with a focus on efficiency and equity in healthcare\, healt
+ hcare utilisation\, health behaviours\, and patient and provider decision-
+ making. His current research studies how incentives\, insurance design\, a
+ nd market structures influence healthcare utilisation\, quality\, and ineq
+ ualities in access to care. This includes work on competition and cost-sha
+ ring in mental healthcare\, private insurance and inpatient treatment deci
+ sions\, methodological issues in choice experiments\, and analyses of long
+ -term care trajectories.\n\nWeekly seminar series\n\nAs part of our Centre
+ 's vibrant research culture\, we host a weekly seminar series. Visiting an
+ d invited researchers present current research relating to the economics o
+ f health and wellbeing\, and the healthcare sector. Visitors are welcome t
+ o join these sessions where discussion and debate is encouraged.\n\nFor fu
+ rther information on our seminar series\, please contact <a href="mailto:
+ Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a class="
+ btn" href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6
+ dZbAX5do.1" target="_blank">Join Zoom</a>
+LOCATION:Caulfield campus\, Building C\, level 1\, room C121
+URL:https://www.monash.edu/business/events/che-seminar-series-barriers-to-
+ care-under-universal-coverage-evidence-from-switzerland
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: From data to impact - Using patient experience
-  data to promote equitable health outcomes
-DTSTART:20260225T120000
-DTEND:20260225T130000
-DESCRIPTION:Patient experience data is increasingly captured throughout he
- alth services to identify gaps in service delivery. Despite a deluge of da
- ta\, inconsistent and inadequate application of these data in systems and 
- services contribute to limited visible change. This session will examine t
- he mechanisms currently employed to capture patient experiences\, their ut
- ility\, and application among diverse populations. A novel framework for c
- apturing and applying patient experience data will be presented\, along wi
- th future directions for this field of research.\n\nSpeaker profile\n\n<a 
- href="https://researchers.mq.edu.au/en/persons/reema-harrison/" target="_b
- lank">Professor Reema Harrison</a> (BSc hons Psychology\; MSc Health Psych
- ology\; PhD in Psychology of Patient Safety) is a translational health ser
- vices researcher who leads the Healthcare Engagement and Equity Research t
- eam at the Australian Institute of Health Innovation. Professor Harrison i
- s Adjunct Professor at the UNSW School of Population Health and has formal
-  affiliations with the University of Leeds\, UK.\n\n<a href="https://resea
- rchers.mq.edu.au/en/persons/corey-adams/" target="_blank">Corey Adams</a> 
- (RN\, GradDip Psych\, MBA) is a mixed-methods researcher with a strong foc
- us on Patient Experience and healthcare quality improvement. With over 20 
- years of healthcare experience\, including background as an ICU Registered
-  Nurse\, Corey has sought to identify strategic initiatives to improve exp
- eriences for both patients and staff in the healthcare setting. He has pub
- lished research on best-practice methods to evaluate and enhance healthcar
- e services\, including the use of co-design to improve healthcare experien
- ces and outcomes\, and is currently completing a Doctorate in Public Healt
- h.\n\nWeekly seminar series\n\nAs part of our Centre's vibrant research cu
- lture\, we host a weekly seminar series. Visiting and invited researchers 
- present current research relating to the economics of health and wellbeing
- \, and the healthcare sector. Visitors are welcome to join these sessions 
- where discussion and debate is encouraged.\n\nFor further information on o
- ur seminar series\, please contact <a href="mailto:Trong-Anh.Trinh@monash
- .edu">Trong-Anh.Trinh@monash.edu</a>\n\n<a class="btn" href="https://monas
- h.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1%20">Join Zoom
- </a>
-LOCATION:Caulfield campus\, Building C\, level 5\, room C5.08
-URL:https://www.monash.edu/business/events/che-seminar-series-from-data-to
- -impact-using-patient-experience-data-to-promote-equitable-health-outcomes
+SUMMARY:CHE Seminar Series: Born Too Soon? Policy-Induced Birth Timing and
+  Child Development
+DTSTART:20260311T120000
+DTEND:20260311T130000
+DESCRIPTION:We examine the impact of policy-induced changes in birth timin
+ g on children’s health and educational outcomes. We exploit a natural ex
+ periment in Spain: the abrupt termination of a generous child benefit at t
+ he end of 2010\, which led to a sharp increase in elective deliveries duri
+ ng the final week of December. Children born during this spike had shorter
+  gestation periods and lower birth-weight (within the normal range)\, and 
+ experienced a higher incidence of respiratory disorders during infancy. We
+  find that the affected cohort of children had significantly lower school 
+ performance at age seven\, suggesting large persistent effects on cognitiv
+ e development.\n\nSpeaker profile\n\n<a href="https://libertadgonzalez.com
+ /">Libertad González</a> is a Professor of Economics at Universitat Pompe
+ u Fabra and the Barcelona School of Economics\, specialising in labor\, pu
+ blic\, and gender economics. She holds a PhD in Economics from Northwester
+ n University. She has published in leading peer-reviewed journals such as 
+ the Economic Journal\, the Journal of the European Economic Association\, 
+ the American Economic Journal: Economic Policy\, the Journal of Labor Econ
+ omics\, the Journal of Public Economics\, the Journal of Human Resources\,
+  and the Journal of Health Economics. Her research accumulates more than 4
+ \,000 citations in Google Scholar. She was awarded an ERC Consolidator Gra
+ nt to study early-life interventions and child development. She served as 
+ President of the European Society for Population Economics (in 2023) and i
+ s currently vice-president of the Spanish Economic Association.\n\nWeekly 
+ seminar series\n\nAs part of our Centre's vibrant research culture\, we ho
+ st a weekly seminar series. Visiting and invited researchers present curre
+ nt research relating to the economics of health and wellbeing\, and the he
+ althcare sector. Visitors are welcome to join these sessions where discuss
+ ion and debate is encouraged.\n\nFor further information on our seminar se
+ ries\, please contact <a href="mailto:Trong-Anh.Trinh@monash.edu">Trong-A
+ nh.Trinh@monash.edu</a> .\n\n<a class="btn" href="https://monash.zoom.us/j
+ /83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1" target="_blank">Join Zo
+ om</a>
+LOCATION:Caulfield campus\, Building H\, level 9\, room H914
+URL:https://www.monash.edu/business/events/che-seminar-series-born-too-soo
+ n-policy-induced-birth-timing-and-child-development
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15th Australasian Workshop on Econometrics and Health Economics
