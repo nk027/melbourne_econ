@@ -15,7 +15,6 @@ export default function App() {
   // Use the calendar state hook
   const {
     events,
-    filteredEvents,
     sources,
     view,
     filters,

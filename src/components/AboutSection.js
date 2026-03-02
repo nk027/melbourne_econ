@@ -83,8 +83,10 @@ export default function AboutSection({ type = "full" }) {
               >
                 Melbourne Summer Institute
               </a>{" "}
-              for events in the area. Please reach out if you know of events or
-              series – ideally as a public ICS – to add!
+              for events in the area. Thanks to Max Grossmann and David Byrne
+              for making the Uni Melbourne Economics events available/ Please
+              reach out if you know of events or series – ideally as a public
+              ICS – to add!
             </div>
           </div>
         </div>

@@ -58,6 +58,27 @@ const cleanText = (text) => {
     .trim();
 };
 
+const extractVenueFromDescription = (description = '') => {
+  const text = description.replace(/\r\n?/g, '\n');
+  const patterns = [
+    /(?:^|\n)\s*Venue\s*[:-]\s*([^\n]+)/i,
+    /(?:^|\n)\s*Where\s*[:-]\s*([^\n]+)/i,
+    /(?:^|\n)\s*Location\s*[:-]\s*([^\n]+)/i,
+  ];
+
+  for (const pattern of patterns) {
+    const match = text.match(pattern);
+    if (!match || !match[1]) continue;
+
+    const venue = match[1].trim().replace(/\s{2,}/g, ' ');
+    if (venue.length >= 3 && venue.length <= 120) {
+      return venue;
+    }
+  }
+
+  return null;
+};
+
 // Extract value from field, handling parameters like DTSTART;TZID=...
 const extractValue = (line) => {
   const colonIndex = line.indexOf(':');
@@ -91,6 +112,10 @@ export const parseICS = (content, sourceName) => {
       inEvent = true;
       currentEvent = { source: sourceName };
     } else if (trimmedLine === 'END:VEVENT' && currentEvent) {
+      if (!currentEvent.location && currentEvent.description) {
+        currentEvent.location = extractVenueFromDescription(currentEvent.description);
+      }
+
       if (currentEvent.start && currentEvent.summary) {
         const twoYearsAgo = new Date();
         twoYearsAgo.setFullYear(twoYearsAgo.getFullYear() - 2);

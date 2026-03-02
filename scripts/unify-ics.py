@@ -8,6 +8,10 @@ Merge & normalize multiple ICS files into one:
  - Keeps all-day events as VALUE=DATE
  - Preserves SUMMARY, LOCATION, DESCRIPTION, URL, STATUS, TRANSP
  - De-duplicates by (UID, DTSTART, SUMMARY) keeping latest LAST-MODIFIED/DTSTAMP
+ - (Optional) Per-source same-start dedup: when two events from the same file
+   share a start time, keeps the richer one (most detail fields, then longest
+   DESCRIPTION).  Useful for calendars with recurring placeholder events and
+   detailed overrides.
  - Sorts by start time
  - (Optional) Formats DESCRIPTION and redacts signup links
 
@@ -18,6 +22,7 @@ Optional cleanup:
   --clean-description
   --redact-signup-links
   --redact-domain forms.gle --redact-domain mydept.edu/register
+  --dedup-same-start
 """
 
 from __future__ import annotations
@@ -217,7 +222,7 @@ def parse_events(lines: List[str], source_name: str) -> List[Dict[str, Any]]:
                     ev[key] = dt_from_prop(p)
                     if key == "DTSTART" and isinstance(ev[key], date) and not isinstance(ev[key], datetime):
                         ev["__all_day__"] = True
-                elif key in ("SUMMARY", "LOCATION", "DESCRIPTION", "UID", "SEQUENCE", "STATUS", "TRANSP", "URL"):
+                elif key in ("SUMMARY", "LOCATION", "DESCRIPTION", "UID", "SEQUENCE", "STATUS", "TRANSP", "URL", "RRULE"):
                     ev[key] = p[2].strip()
             ev["SUMMARY"] = sanitize_text(ev.get("SUMMARY", ""))
             events.append(ev)
@@ -285,6 +290,58 @@ def start_key(ev: Dict[str, Any]) -> str:
     if isinstance(v, date):
         return v.strftime("%Y%m%d")
     return ""
+
+RICHNESS_FIELDS = ("DESCRIPTION", "LOCATION", "URL")
+
+def _richness(ev: Dict[str, Any]) -> tuple:
+    """Score an event's richness: (field_count, description_length).
+
+    Higher is richer.  Used to decide which duplicate to keep.
+    """
+    field_count = sum(1 for f in RICHNESS_FIELDS if ev.get(f))
+    desc_len = len(ev.get("DESCRIPTION") or "")
+    return (field_count, desc_len)
+
+
+def dedup_same_start(events: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Remove duplicate events that share the same source file *and* start time.
+
+    When two (or more) events from the same .ics file start at the exact same
+    moment, keep only the richest one (most non-empty detail fields, then
+    longest DESCRIPTION).  This handles the common pattern where a recurring
+    placeholder event and a detailed override both appear for the same slot.
+    """
+    from collections import defaultdict as _dd
+
+    groups: Dict[tuple, List[int]] = _dd(list)
+    for idx, ev in enumerate(events):
+        key = (ev.get("__source__", ""), start_key(ev))
+        groups[key].append(idx)
+
+    keep: set[int] = set()
+    dropped = 0
+    for key, indices in groups.items():
+        if len(indices) == 1:
+            keep.add(indices[0])
+            continue
+        # Pick the richest event
+        best_idx = max(indices, key=lambda i: _richness(events[i]))
+        keep.add(best_idx)
+        for i in indices:
+            if i != best_idx:
+                dropped += 1
+                ev = events[i]
+                print(
+                    f"[dedup-same-start] Dropped '{ev.get('SUMMARY', '?')}'"
+                    f" from {ev.get('__source__', '?')}"
+                    f" (start={start_key(ev)})"
+                )
+
+    if dropped:
+        print(f"[dedup-same-start] Removed {dropped} duplicate(s) by same start time")
+
+    return [ev for idx, ev in enumerate(events) if idx in keep]
+
 
 def render_event(ev: Dict[str, Any], *, clean_desc: bool, redact_links: bool, extra_domains: Iterable[str]) -> str:
     lines: List[str] = []
@@ -357,6 +414,7 @@ def unify_ics(
         redact_links: bool,
         extra_domains: List[str],
         grep_patterns: List[str] | None = None,
+        same_start_dedup: bool = False,
 ) -> None:
     all_events: List[Dict[str, Any]] = []
     counts = defaultdict(int)
@@ -371,6 +429,9 @@ def unify_ics(
         all_events.extend(events)
 
     normalized = [normalize_event(e) for e in all_events]
+
+    if same_start_dedup:
+        normalized = dedup_same_start(normalized)
 
     dedup: Dict[tuple, Dict[str, Any]] = {}
     for ev in normalized:
@@ -434,6 +495,7 @@ def main():
     ap.add_argument("--redact-signup-links", action="store_true", help="Redact likely signup URLs in DESCRIPTION.")
     ap.add_argument("--redact-domain", action="append", default=[], help="Additional domain substring to treat as signup (repeatable).")
     ap.add_argument("--grep-sm", dest="grep_summary", action="append", default=[], help="Regex to match SUMMARY; keep events whose SUMMARY matches. Repeatable; any match passes.")
+    ap.add_argument("--dedup-same-start", action="store_true", help="Per-file dedup: when two events from the same source share a start time, keep the richer one (most detail fields, then longest DESCRIPTION).")
 
     args = ap.parse_args()
 
@@ -452,6 +514,7 @@ def main():
         redact_links=args.redact_signup_links,
         extra_domains=args.redact_domain,
         grep_patterns=args.grep_summary,
+        same_start_dedup=args.dedup_same_start,
     )
 
 if __name__ == "__main__":
