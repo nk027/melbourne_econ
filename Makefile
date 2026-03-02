@@ -12,14 +12,14 @@ ics:
 scrape:
 	@echo "Running python scrapers..."
 	@$(PYTHON) scripts/get-scrape_monash-che.py
-	@$(PYTHON) scripts/get-scrape_unimelb-econ.py
 
 format:
 	@echo "Formatting raw ICS files"
 	@mkdir -p public/ics raw/ics
-	@$(PYTHON) scripts/unify-ics.py --redact-signup-links -o public/ics/monash-ebs.ics raw/ics/monash-ebs.ics
+	@$(PYTHON) scripts/unify-ics.py --redact-signup-links --dedup-same-start -o public/ics/monash-ebs.ics raw/ics/monash-ebs.ics
 	@$(PYTHON) scripts/unify-ics.py --redact-signup-links -o public/ics/monash-econ.ics raw/ics/monash-econ.ics --grep-sm "workshop" --grep-sm "seminar" --grep-sm "conference"
 	@cp raw/ics/unimelb-ebe.ics public/ics/unimelb-ebe.ics
+	@cp raw/ics/unimelb-econ.ics public/ics/unimelb-econ.ics
 	@cp raw/ics/custom-events.ics public/ics/custom-events.ics
 
 # Declare phony targets (so they always run)

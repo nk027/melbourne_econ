@@ -1,90 +1,1140 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//UniMelb FBE Economics Events//EN
+PRODID:-//Dr Max Grossmann//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UoM Econ Seminars
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Australia/Melbourne
+BEGIN:STANDARD
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=10
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+END:DAYLIGHT
+END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Scarlett (Rong) He PhD Completion Seminar
-DTSTART:20260218T110000
-DTEND:20260218T120000
-DESCRIPTION:Presenter:Scarlett (Rong) He\n\nSupervisors:David Pitt\, Shuan
- ming Li\, Zhuo Jin (Macquarie Business School)\n\nTitle:Data-Driven Actuar
- ial Modelling of Cyber Risk: Frequency\, Severity\, and Insurance Pricing\
- n\nDay/Time:Wednesday 18 February 2026\, 11am - 12pm Australian Eastern Da
- ylight Time Time (AEDT)\n\nVenue:FBE-304\n\nZoom Link:https://unimelb.zoom
- .us/j/89762547188?pwd=5D8zMxbyg70viHWcZSaVNaRrnaxRZK.1(Password: 414939)\n
- \nAbstract:\n\nThis thesis investigates cyber risk through an integrated f
- ramework that links loss occurrence\, loss severity\, and insurance decisi
- on making under realistic information availability situations. Aninterdisc
- iplinary survey first synthesises existing research across fields includin
- g computer science\, business and economics\, and actuarial studies\, high
- lighting fragmentation in current approaches and motivating the need for u
- nified modelling frameworks.\n\nBuilding on these insights\, cyber loss fr
- equency is reinterpreted through an epidemic lens that captures temporal a
- nd feature dependent propagation dynamics\, while loss severity is studied
-  using both distributional approaches and modern machine learning and deep
-  learning methods\, taking into consideration that incident-specific chara
- cteristics are unobservable at the time of underwriting. Finally\, predict
- ive outputs are embedded into a reinforcement learning framework that expl
- ores deductible and coverage limit design under alternative pricing settin
- gs. The results from these studies demonstrate that epidemic-informed freq
- uency models improve incident count prediction\, that predicted incident t
- ypes can serve as an informative feature with only marginal loss of accura
- cy in severity prediction\, and that these predictive components can be ma
- pped into practical insurance contract design under different pricing obje
- ctives through a reinforcement learning module.\n\nOverall\, the thesis en
- riches actuarial modelling of cyber risk by drawing on epidemic processes 
- to accommodate cyber risk propagation and by bridging predictive analysis 
- and insurance decision making under the practical constraints of cyber ins
- urance markets
-URL:https://fbe.unimelb.edu.au/economics/events/seminars/scarlett-rong-he-
- phd-completion-seminar
+UID:520d6fe0f94212f292f3a257d2c051f8@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260311T121500
+DTEND;TZID=Australia/Melbourne:20260311T131500
+SUMMARY:Department Seminar – Aniket Baksy (University of Melbourne) – C
+ yber Risk in General Equilibrium
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Aniket Baksy: “Cyber Risk in General Equilibrium”\nhttps://
+ anikbak.github.io\n\nZoom: https://unimelb.zoom.us/j/87382843497\n\nGoogle
+  Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/87382843497
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Macroeconomics Seminar Series - Terry Cheung (Academia Sinica)
-DTSTART:20260219T120000
-DTEND:20260219T131500
-DESCRIPTION:Title: From Slavery to Stagnation: Agricultural Technology and
-  Structural Transformation in the US South\n\nAbstract: This paper examine
- s how the legacy of American slavery shaped agricultural mechanization and
-  structural transformation in the U.S. South. Using county-level data\, we
-  document that areas with higher enslaved ratios in 1860 experienced persi
- stently lower farm wages\, slower tractor adoption\, and weaker subsequent
-  manufacturing growth. Instrumental-variable evidence indicates that discr
- iminatory labor-market institutions suppressed wages and reduced incentive
- s to adopt labor-saving technology. We then build and calibrate a county-l
- evel quantitative model that maps enslaved concentration into an agricultu
- ral wage wedge and incorporates tractor-embodied technological progress. O
- ur model-based decomposition shows that changes in wage suppression alone 
- account for 9 percent of the observed increase in tractor adoption and 28 
- percent of the decline in the agricultural employment share between 1940 a
- nd 1954.\n\nContact: Cristiano Mantovani & Aniket Baksy (cristiano.mantova
- ni@unimelb.edu.au\; aniket.baksy@unimelb.edu.au)
-URL:https://fbe.unimelb.edu.au/economics/events/macro/macroeconomics-semin
- ar-series-terry-cheung-academia-sinica
+UID:7864fa933c05d0988fc70e4ca573eb21@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260318T121500
+DTEND;TZID=Australia/Melbourne:20260318T131500
+SUMMARY:Department Seminar – Georgy Artemov (University of Melbourne) –
+  Zoned Out: The Trade-off between School Choice and Desegregation
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Georgy Artemov: “Zoned Out: The Trade-off between School Choi
+ ce and Desegregation”\n\nZoom: https://unimelb.zoom.us/j/87382843497\n\n
+ Google Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/87382843497
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Economic Theory Seminar Series - Joshua Gans (University of Toront
- o)
-DTSTART:20260220T110000
-DTEND:20260220T121500
-DESCRIPTION:Title: Price Discrimination with Costless Resale\n\nAbstract: 
- This paper shows that income effects create an endogenous barrier to arbit
- rage\, allowing price discrimination to survive costless resale. A monopol
- ist sells an indivisible good to consumers with heterogeneous incomes who 
- can freely resell. When the good is strictly normal\, a consumer’s reser
- vation price to resell increases as the purchase price decreases—lower p
- rices leave buyers wealthier and raise their valuation of the good. The mo
- nopolist exploits this by subsidising low-income consumers to raise their 
- reservation prices to a target that high-income consumers must also pay. T
- he optimal schedule increases dollar-for-dollar with income in the subsidi
- sed segment\, weakly dominates uniform pricing\, and achieves the first-be
- st allocation when the entire market is served. We show the mechanism exte
- nds beyond income effects: low substitutability with market alternatives g
- enerates large reservation-price responses even when income sensitivity is
-  modest. Sustaining discrimination requires market power at the individual
-  level—consumer-specific quantity limits—not merely aggregate output r
- estrictions. Extensions examine multiple monopolists and endogenous privac
- y choices.\n\nContact: Georgy Artemov (georgy.artemov@unimelb.edu.au)
-URL:https://fbe.unimelb.edu.au/economics/events/ecotheory/economic-theory-
- seminar-series-joshua-gans-university-of-toronto
+UID:531e3958b63fd64023782be673ab7441@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260401T121500
+DTEND;TZID=Australia/Melbourne:20260401T131500
+SUMMARY:Department Seminar – Victoria Baranov (University of Melbourne) 
+ – Masculinity Around the World
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Victoria Baranov: “Masculinity Around the World”\n\nZoom: h
+ ttps://unimelb.zoom.us/j/87382843497\n\nGoogle Maps: https://maps.app.goo.
+ gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/87382843497
+END:VEVENT
+BEGIN:VEVENT
+UID:cba9f7c3edd2ccac1d4f554d59dc7c50@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260408T121500
+DTEND;TZID=Australia/Melbourne:20260408T131500
+SUMMARY:Department Seminar – Kathryn Baragwanath (University of Melbourne
+ ) – Divide and Deforest: The Perverse Incentives of Land Regularization 
+ in the Brazilian Amazon
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Kathryn Baragwanath: “Divide and Deforest: The Perverse Incen
+ tives of Land Regularization in the Brazilian Amazon”\n\nZoom: https://u
+ nimelb.zoom.us/j/87382843497\n\nGoogle Maps: https://maps.app.goo.gl/BirLk
+ JKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/87382843497
+END:VEVENT
+BEGIN:VEVENT
+UID:6723b6d867fb7fff715e5bc6d2fe64fa@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260415T121500
+DTEND;TZID=Australia/Melbourne:20260415T131500
+SUMMARY:Department Seminar – Zhenting Sun (University of Melbourne) – G
+ enerative Learning of Partially Identified Treatment Effects
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Zhenting Sun: “Generative Learning of Partially Identified Tr
+ eatment Effects”\n\nZoom: https://unimelb.zoom.us/j/87382843497\n\nGoogl
+ e Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/87382843497
+END:VEVENT
+BEGIN:VEVENT
+UID:3114f567cf51203b9b050630e49827cd@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260429T121500
+DTEND;TZID=Australia/Melbourne:20260429T131500
+SUMMARY:Department Seminar – Hans-Joachim Voth (University of Melbourne) 
+ – Griffin Lecturer Department Talk
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Hans-Joachim Voth: “Griffin Lecturer Department Talk”\n\nZo
+ om: https://unimelb.zoom.us/j/87382843497\n\nGoogle Maps: https://maps.app
+ .goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/87382843497
+END:VEVENT
+BEGIN:VEVENT
+UID:2b9ab9f4335524b457892e87318d266e@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260506T121500
+DTEND;TZID=Australia/Melbourne:20260506T131500
+SUMMARY:Department Seminar – Simon Loertscher (University of Melbourne) 
+ – The Biggar DWL
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Simon Loertscher: “The Biggar DWL”\n\nZoom: https://unimelb
+ .zoom.us/j/87382843497\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9
+ pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/87382843497
+END:VEVENT
+BEGIN:VEVENT
+UID:563f4da0239da57b3e3deb7a623eb07d@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260513T121500
+DTEND;TZID=Australia/Melbourne:20260513T131500
+SUMMARY:Department Seminar – Max Grossmann (University of Melbourne) – 
+ uproot: A Software Framework for Behavioral Experiments
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Max Grossmann: “uproot: A Software Framework for Behavioral E
+ xperiments”\n\nZoom: https://unimelb.zoom.us/j/87382843497\n\nGoogle Map
+ s: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/87382843497
+END:VEVENT
+BEGIN:VEVENT
+UID:e6a49f7619ba40a460d95ae04b30baf9@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260303T110000
+DTEND;TZID=Australia/Melbourne:20260303T121500
+SUMMARY:Applied Micro – Yucheng Wang (University of Sydney) – Steering 
+ Adaptation: Firm Cost-Sharing\, Moral Hazard\, and Driver Responses to He
+ at in the Trucking Industry
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Yucheng Wang: “Steering Adaptation: Firm Cost-Sharing\, Moral
+  Hazard\, and Driver Responses to Heat in the Trucking Industry”\n\nZ
+ oom: https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3
+ XaY.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8
+ \n\nABSTRACT:\nWe study how firms steer workers’ adaptation behaviors to
+  the negative impact of climate risks. Using unique data from real-time GP
+ S and AI-enhanced driver-monitoring systems tracking 10\,000 truck drivers
+  over 15 months\, we show that exposure to extreme heat increases dangerou
+ s driving behaviors and reduces productivity. Labor contracts play a centr
+ al role in determining drivers’ adaptation choices. Independent contract
+ ors—who own their trucks and bear their own operating costs—are more s
+ ensitive to extreme heat than company-employed drivers\, largely because t
+ hey reduce air-conditioning use to save on fuel. As a substitute\, contrac
+ tors adapt by taking more rest and adjusting their labor supply. Firms als
+ o directly mitigate negative productivity shocks by dispatching additional
+  trucks. Our calculation suggests that one additional hour of temperature 
+ above 33 Degrees Celsius results in $0.77 million daily economic losses in
+  China\, with 78% borne by other road users as externalities. Comparing ad
+ aptation costs to social benefits\, we show that private adaptation effort
+ s fall short of socially optimal levels.
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:389d04e81b9a9768f927367c3d205548@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260309T110000
+DTEND;TZID=Australia/Melbourne:20260309T121500
+SUMMARY:Applied Micro – Emir Kamenica (University of Chicago Booth School
+  of Business) – Commitment and Randomization in Communication
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Emir Kamenica: “Commitment and Randomization in Communication
+ ”\n\nZoom: https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2p
+ en75K6o3XaY.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKur
+ X9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:587e8419495eba4675e619457429f6b7@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260310T110000
+DTEND;TZID=Australia/Melbourne:20260310T121500
+SUMMARY:Applied Micro – Jonathan Zhang (Duke University) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Jonathan Zhang: “TBD”\n\nZoom: https://unimelb.zoom.us/j/89
+ 372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3XaY.1&from=addon\n\nGoogle Maps: 
+ https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:e5974a552f9531c5ccda3a59641ff9e1@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260317T110000
+DTEND;TZID=Australia/Melbourne:20260317T121500
+SUMMARY:Applied Micro – Laurenz Guenther (Tolouse School of Economics) 
+ – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Laurenz Guenther: “TBD”\n\nZoom: https://unimelb.zoom.us/j/
+ 89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3XaY.1&from=addon\n\nGoogle Maps
+ : https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:5b8252a6357ee11da5a1bde60e812638@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260324T110000
+DTEND;TZID=Australia/Melbourne:20260324T121500
+SUMMARY:Applied Micro – Huailu Li (Fudan University) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Huailu Li: “TBD”\n\nZoom: https://unimelb.zoom.us/j/8937281
+ 5664?pwd=hMmKuMrbVw8XIryww2pen75K6o3XaY.1&from=addon\n\nGoogle Maps: https
+ ://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:63c7a2bd92fd72447a59b085897595c1@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260331T110000
+DTEND;TZID=Australia/Melbourne:20260331T121500
+SUMMARY:Applied Micro – Konrad Burchardi (Insitute for International Econ
+ omic Studies) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Konrad Burchardi: “TBD”\n\nZoom: https://unimelb.zoom.us/j/
+ 89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3XaY.1&from=addon\n\nGoogle Maps
+ : https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:a85c36e7fdb10074562d8ccc8b83495f@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260414T110000
+DTEND;TZID=Australia/Melbourne:20260414T121500
+SUMMARY:Applied Micro – Clare Balboni (London School of Economics) – TB
+ D
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Clare Balboni: “TBD”\n\nZoom: https://unimelb.zoom.us/j/893
+ 72815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3XaY.1&from=addon\n\nGoogle Maps: h
+ ttps://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:d7e954a1a0431be65127562f5ede7b8c@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260429T110000
+DTEND;TZID=Australia/Melbourne:20260429T121500
+SUMMARY:Applied Micro – Hans-Joachim Voth (University of Zurich) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Hans-Joachim Voth: “TBD”\n\nZoom: https://unimelb.zoom.us/j
+ /89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3XaY.1&from=addon\n\nGoogle Map
+ s: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:9aa592e1755e85fc0dbf83f4b5357afd@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260505T110000
+DTEND;TZID=Australia/Melbourne:20260505T121500
+SUMMARY:Applied Micro – Nikolas Kushnig (Monash University) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Nikolas Kushnig: “TBD”\n\nZoom: https://unimelb.zoom.us/j/8
+ 9372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3XaY.1&from=addon\n\nGoogle Maps:
+  https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:783cd8a0319b4e1a9a4f1297bbd38710@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260512T110000
+DTEND;TZID=Australia/Melbourne:20260512T121500
+SUMMARY:Applied Micro – Daniel Fernadez Kranz (IE Spain) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Daniel Fernadez Kranz: “TBD”\n\nZoom: https://unimelb.zoom.
+ us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3XaY.1&from=addon\n\nGoogle
+  Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:4eee0cc04ce514dca3b273da310a2c84@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260526T110000
+DTEND;TZID=Australia/Melbourne:20260526T121500
+SUMMARY:Applied Micro – Meredith Fowlie (University of California at Berk
+ eley) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Meredith Fowlie: “TBD”\n\nZoom: https://unimelb.zoom.us/j/8
+ 9372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3XaY.1&from=addon\n\nGoogle Maps:
+  https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:806799b27d82d0cf17f7bb3f372323f6@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260602T110000
+DTEND;TZID=Australia/Melbourne:20260602T121500
+SUMMARY:Applied Micro – Ellen Stuart (University of Sydney) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Ellen Stuart: “TBD”\n\nZoom: https://unimelb.zoom.us/j/8937
+ 2815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3XaY.1&from=addon\n\nGoogle Maps: ht
+ tps://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:a09a09f5532fd02c63727907e6a09af7@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260226T110000
+DTEND;TZID=Australia/Melbourne:20260226T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Diogo Ger
+ aldes (University College Dublin) – Closing the Gender Gap in Multilater
+ al Negotiations Through Institutional Design
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Diogo Geraldes: “Closing the Gender Gap in Multilateral Negot
+ iations Through Institutional Design”\nhttps://diogogeraldes.com/\n\nZoo
+ m: https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
+ G.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n
+ \nABSTRACT:\nExperimental evidence shows that men earn more than women in 
+ majoritarian negotiations. Three stylized modes of behavior emerge as pote
+ ntial reasons for the gap: Men sort into making opening offers more often\
+ , prefer to partner with other men\, and when partnering with each other\,
+  their coalitions are more stable compared to mixed-gender ones. We design
+  three experimental interventions to investigate the explanatory role each
+  channel plays in the emergence of the gap and\, consequently\, test poten
+ tial solutions. We find that enabling everyone to simultaneously make an i
+ nitial proposal does not close the earnings gap\, if anything\, it weakly 
+ grows in magnitude. Hiding gender eliminates bias in coalition partner cho
+ ice and alters bargaining dynamics\, thereby equalizing mean earnings. Fin
+ ally\, allowing for the option to commit in bargaining closes the gap\, no
+ t only because mixed-gender coalitions become more stable\, but also becau
+ se women become preferred partners. Our results highlight how the attribut
+ es of the negotiation environment interact with gender\, and suggest that 
+ the design of bargaining institutions can be leveraged to promote gender e
+ quity.
+URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
+ G.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:1e888faa87d841ae84b4665239fe3dd0@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260326T110000
+DTEND;TZID=Australia/Melbourne:20260326T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Moritz Ja
+ nas (Gothenburg) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Moritz Janas: “TBD”\n\nZoom: https://unimelb.zoom.us/j/8265
+ 4401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAGG.1&from=addon\n\nGoogle Maps: ht
+ tps://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
+ G.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:0550432b3cdcf7917870236a07a20f76@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260402T110000
+DTEND;TZID=Australia/Melbourne:20260402T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Lucas Cof
+ fman (Boston) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Lucas Coffman: “TBD”\nhttps://sites.google.com/site/lucasco
+ ffman/\n\nZoom: https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2
+ Y5za5S7GjfbAGG.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJ
+ KurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
+ G.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:fff4b0a8eba3b24bbf584432de7c56c4@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260413T110000
+DTEND;TZID=Australia/Melbourne:20260413T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Ryan Opre
+ a (UC Berkeley) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Ryan Oprea: “TBD”\nhttps://www.ryanoprea.com/\n\nZoom: http
+ s://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAGG.1&fro
+ m=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTR
+ ACT:\nTBA
+URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
+ G.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:fea8858c454f12bf7d14d6aa36b7fcb5@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260414T110000
+DTEND;TZID=Australia/Melbourne:20260414T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – David Coo
+ per (University of Iowa\, UEA) – Unprompted Changes in Indefinitely Repe
+ ated PD Games
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:David Cooper: “Unprompted Changes in Indefinitely Repeated PD
+  Games”\nhttps://sites.google.com/view/davidjcooper13/home\n\nZoom: http
+ s://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAGG.1&fro
+ m=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTR
+ ACT:\nTBA
+URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
+ G.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:a8b516ac386bdcec0c4d2427a9cd0e13@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260416T110000
+DTEND;TZID=Australia/Melbourne:20260416T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Kristian 
+ López Vargas (UC Santa Cruz) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Kristian López Vargas: “TBD”\nhttps://kmlv.github.io/\n\nZ
+ oom: https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7Gjfb
+ AGG.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8
+ \n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
+ G.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:a89bd216d11792c872dde982a3ed6b82@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260430T110000
+DTEND;TZID=Australia/Melbourne:20260430T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Steve Wu 
+ (Purdue) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Steve Wu: “TBD”\nhttps://ag.purdue.edu/directory/sywu\n\nZo
+ om: https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbA
+ GG.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\
+ n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
+ G.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:68af468fb43e8b5097376028e1c8e563@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260514T110000
+DTEND;TZID=Australia/Melbourne:20260514T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Elif Ince
+ kara-Hafalir (UTS) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Elif Incekara-Hafalir: “TBD”\nhttps://sites.google.com/site
+ /incekara/\n\nZoom: https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRIL
+ VKO2Y5za5S7GjfbAGG.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/Bi
+ rLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
+ G.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:130717cb469a4f6ceae125fb9b39402e@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260528T110000
+DTEND;TZID=Australia/Melbourne:20260528T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Mehmet Yi
+ git Gurdal (Bogazici) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Mehmet Yigit Gurdal: “TBD”\nhttps://web.bogazici.edu.tr/gur
+ dal/\n\nZoom: https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5
+ za5S7GjfbAGG.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKu
+ rX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
+ G.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:98ed5f72610acbf7ea254fa5be863ff6@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260730T110000
+DTEND;TZID=Australia/Melbourne:20260730T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Romain Ga
+ uriot (Deakin) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Romain Gauriot: “TBD”\nhttps://sites.google.com/site/romain
+ gauriot/\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABST
+ RACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:fc37d7433342b9d0d7a54391d2d2b256@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260813T110000
+DTEND;TZID=Australia/Melbourne:20260813T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Kirby Nie
+ lsen (Caltech) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Kirby Nielsen: “TBD”\nhttps://kirbyknielsen.com/\n\nGoogle 
+ Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:d6d51a3cceedca1e00cbc4794085cd23@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260827T110000
+DTEND;TZID=Australia/Melbourne:20260827T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Ashley Cr
+ aig (ANU) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Ashley Craig: “TBD”\nhttps://www.ashleycraig.com/\n\nGoogle
+  Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:f01435fcd6bf505c5cf5f08d841dc749@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260910T110000
+DTEND;TZID=Australia/Melbourne:20260910T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – TBD – T
+ BD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:TBD: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKu
+ rX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:584cd84ada0cc22293b3392b1013bd57@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260924T110000
+DTEND;TZID=Australia/Melbourne:20260924T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Maroš Se
+ rvátka (Macquarie) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Maroš Servátka: “TBD”\nhttps://sites.google.com/site/maro
+ sservatka/\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nAB
+ STRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:be85c8c8a51448a678086ef03175d138@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261008T110000
+DTEND;TZID=Australia/Melbourne:20261008T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Ralph Bay
+ er (Adelaide) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Ralph Bayer: “TBD”\nhttps://researchers.adelaide.edu.au/pro
+ file/ralph.bayer\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8
+ \n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:fe69003f8212471e48c9ea8e2060ed97@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261022T110000
+DTEND;TZID=Australia/Melbourne:20261022T121500
+SUMMARY:Experimental and Behavioural Economics Seminar Series – Uzma Afza
+ l (RMIT) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Uzma Afzal: “TBD”\nhttps://www.uzmaafzal.com/\n\nGoogle Map
+ s: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:1cf28e1f76ad8b111087f993697a5a13@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260226T120000
+DTEND;TZID=Australia/Melbourne:20260226T131500
+SUMMARY:Macroeconomics – Wouter den Haan (LSE) – Battle of the ages: di
+ stributional and aggregate effects of monetary policy in a model with age 
+ demographics
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Wouter den Haan: “Battle of the ages: distributional and aggr
+ egate effects of monetary policy in a model with age demographics”\nhttp
+ s://www.wouterdenhaan.com/\n\nZoom: https://unimelb.zoom.us/j/84055677057?
+ pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://ma
+ ps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nWe develop a model in which 
+ agents face unemployment risk\, but also age and eventually retire. We stu
+ dy the impact of different retirement schemes on life-cycle consumption an
+ d the monetary transmission mechanism. Agents save because of a fall in in
+ come upon retirement\, changes along the life-cycle wage profile\, and une
+ mployment risk. Changes in retirement policies affect the distribution of 
+ available assets (bonds) among the middle aged and the young\, which in tu
+ rn can have a strong impact on the ability of the young to insure themselv
+ es against unemployment risk. Interestingly\, it is possible that an incre
+ ase in retirement benefits leads to higher consumption levels during susta
+ ined unemployment spells even though the associated increase in taxes redu
+ ces unemployment benefits. The reason is that this policy induces the midd
+ le aged to save less which leaves more of the available asset supply to th
+ e young. A reduction in the interest rate has a bigger impact on those for
+  whom labor market conditions improve the most and – due to a larger neg
+ ative income effect – has a smaller impact on those who save more. In te
+ rms of the aggregate impact of monetary-policy shocks\, our paper confirms
+  conventional wisdom that the expansion is magnified in the presence of in
+ complete markets\, since it is then accompanied by a fall in precautionary
+  savings. The novel aspect of our analysis is that the extent of the incom
+ pleteness\, i.e.\, the ability of those subject to unemployment risk to in
+ sure themselves\, is endogenous. Specifically\, it is reduced as the young
+  (middle-aged) hold a larger (smaller) fraction of the available asset sup
+ ply and this distribution is not only affected by retirement policies\, bu
+ t also by government bond supply and the life-cycle wage profile. Thus\, u
+ nderstanding the distribution of assets across different age cohorts is no
+ t only important for understanding life-cycle consumption patterns\, but a
+ lso business cycles.
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:d3f76754bb4fdd003aba3428ab49c108@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260305T120000
+DTEND;TZID=Australia/Melbourne:20260305T131500
+SUMMARY:Macroeconomics – Pratiti Chatterjee (UWA) – Belief-Driven Monet
+ ary Policy Transmission – A Sentiment Channel
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Pratiti Chatterjee: “Belief-Driven Monetary Policy Transmissi
+ on – A Sentiment Channel”\nhttps://sites.google.com/view/pratitichatte
+ rjee/homePratiti Chatterjee\n\nZoom: https://unimelb.zoom.us/j/84055677057
+ ?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://m
+ aps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nThis article examines how m
+ acroeconomic sentiment shapes the transmission of monetary policy. Using s
+ mooth diagnostic expectations to motivate a role for sentiments in DSGE mo
+ dels\, I show that overreaction relative to a rational benchmark generates
+  an additional transmission channel: an interaction between excess optimis
+ m or pessimism and monetary policy shocks that operates over and above con
+ ventional mechanisms. By mapping theory to data using forecast uncertainty
+  ratios\, I provide empirical evidence that this overreaction-driven inter
+ action effect is quantitatively significant and alters the trajectories of
+  macro and financial variables in response to monetary policy shocks\, as 
+ identified in earlier work. The sentiment channel influences economic acti
+ vity through financial markets\, amplifying or dampening borrowing costs d
+ epending on whether optimism or pessimism prevails. The findings offer a f
+ ramework for quantifying the impact of sentiment on monetary policy transm
+ ission\, thereby isolating the mechanisms that generate fluctuations in po
+ licy potency.
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:b4c83fd306ba4f15183e4bde5434ae88@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260310T120000
+DTEND;TZID=Australia/Melbourne:20260310T131500
+SUMMARY:Macroeconomics – Marla Ripoli (Pittsburgh) – Capital Accumulati
+ on\, Trade\, and China’s Economic Rise
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Marla Ripoli: “Capital Accumulation\, Trade\, and China’s E
+ conomic Rise”\nhttps://sites.google.com/view/marlaripoll\n\nZoom: https:
+ //unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vCa.1&from=
+ addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRAC
+ T:\nThis paper examines the effect of China’s economic rise on the globa
+ l trade of high-tech manufacturing goods and the capital accumulation dyna
+ mics around the world. We study these effects for a sample of resource-ric
+ h (RREs) and high-tech economies (HTEs)\, which exhibit distinct comparati
+ ve-advantage patterns. We use a dynamic Eaton-Kortum model of trade with c
+ apital accumulation to conduct our analysis. Regarding HTEs\, we find that
+  asymmetric bilateral trade costs with China play a key role explaining tr
+ ade patterns in high-tech goods and capital accumulation. While the lower 
+ trade cost of importing high-tech goods from China enhances investment amo
+ ng HTEs\, the higher trade costs of exporting to China during 2006-2014 da
+ mpened these effects. We find a positive impact of China’s rise on the i
+ mports of high-tech manufacturing goods\, investment\, and capital in RREs
+ \, despite the decrease in export diversification and the acceleration of 
+ deindustrialization. At the same time\, in developing RREs like Brazil\, l
+ ocal investment efficiency and sectoral productivity growth have larger ef
+ fects on capital accumulation and welfare than China’s economic rise.
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:89484bee9eeb81a11b82576f3460c16a@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260312T120000
+DTEND;TZID=Australia/Melbourne:20260312T131500
+SUMMARY:Macroeconomics – Henry Siu (UBC) – From Farm to Factory: Agricu
+ ltural Mechanization and Occupational Outcomes in Early Twentieth Century 
+ America
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Henry Siu: “From Farm to Factory: Agricultural Mechanization 
+ and Occupational Outcomes in Early Twentieth Century America”\nhttps://w
+ ww.henrysiu.com/\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1Kyfc
+ UkOWfMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.goo
+ .gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nThis paper examines the occupational o
+ utcomes of agricultural workers during the early twentieth century mechani
+ zation of American farming. To do so\, we use linked U.S. Census data from
+  1920-1950 and exploit geographical variation in tractor adoption. Reduced
+ -form OLS analysis reveals that agricultural workers in counties with grea
+ ter tractor penetration experienced improved \noccupational earnings\, con
+ sistent with the techno-optimist view of structural transformation and bro
+ ader economic development. However\, instrumental variables estimation sho
+ ws that \nmechanization directly displaced workers into lower-paying occup
+ ations\, with particularly severe effects on younger workers. These contra
+ dictory findings are reconciled by recognizing that agricultural mechaniza
+ tion coincided with rapid industrialization creating abundant manufacturin
+ g \nand other jobs in urban locales requiring similar skills. Unlike today
+ 's automation\, with substantial human capital and geographic barriers to 
+ occupational mobility\, the early twentieth century transformation not onl
+ y benefitted society broadly through economic growth\, but also generated 
+ higher earnings for the very workers displaced by the new technology.
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:afb6ca33390ac83b1080c4067dcfbd21@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260316T120000
+DTEND;TZID=Australia/Melbourne:20260316T131500
+SUMMARY:Macroeconomics – Daniele Coen-Pirani (Pittsburgh) – Do Mergers 
+ Increase Markups? Evidence from U.S. Public Firms joint with Hokyu Song.
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Daniele Coen-Pirani: “Do Mergers Increase Markups? Evidence f
+ rom U.S. Public Firms joint with Hokyu Song.”\nhttps://sites.google.com/
+ view/danielecoenpirani/home\n\nZoom: https://unimelb.zoom.us/j/84055677057
+ ?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://m
+ aps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nWe empirically investigate 
+ the impact of mergers and acquisitions (M&As) on firm-level markups\, prof
+ itability\, and productivity using data from Compustat for U.S. publicly t
+ raded firms and the complete set of U.S. domestic M&A deals from 1985 to 2
+ 019. The analysis relies on event studies and robust difference-in-differe
+ nces approaches with staggered adoption. By focusing on the impact of merg
+ ers within narrow industry groups\, we ensure that the estimated effects o
+ n markups are independent of the production function parameters required t
+ o measure markup levels. Our results show that M&As lead to small but stat
+ istically significant declines in acquirers’ markups. However\, mergers 
+ also result in higher profit rates for acquirers\, driven by a reduction i
+ n the relative importance of fixed costs and capital rental payments compa
+ red to sales. Finally\, we find that mergers have no significant effect on
+  labor productivity.
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a45da3afd05e600e481833862798af@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260326T120000
+DTEND;TZID=Australia/Melbourne:20260326T131500
+SUMMARY:Macroeconomics – Woan Foong Wong (Oregon) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Woan Foong Wong: “TBD”\nhttps://sites.google.com/site/wongw
+ oanfoong/home\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkO
+ WfMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl
+ /BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:88854fd04560b449a72e7c84476f16d3@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260402T120000
+DTEND;TZID=Australia/Melbourne:20260402T131500
+SUMMARY:Macroeconomics – James Graham (Sydney) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:James Graham: “TBD”\nhttps://www.jamesandrewgraham.com/\n\n
+ Zoom: https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh
+ 2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB
+ 8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:e002bdaf3e36c49bdb128291516a910e@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260416T120000
+DTEND;TZID=Australia/Melbourne:20260416T131500
+SUMMARY:Macroeconomics – Shang-Jin Wei (Columbia) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Shang-Jin Wei: “TBD”\nhttps://business.columbia.edu/faculty
+ /people/shang-jin-wei\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q
+ 1KyfcUkOWfMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.ap
+ p.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:accfa398336966916616872d5f28be2e@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260423T120000
+DTEND;TZID=Australia/Melbourne:20260423T131500
+SUMMARY:Macroeconomics – Satoshi Tanaka (UQ) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Satoshi Tanaka: “TBD”\nhttps://economics.uq.edu.au/profile/
+ 2351/satoshi-tanaka\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1K
+ yfcUkOWfMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.
+ goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:6723892af5c3a09557dbe4f7f3769cbf@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260507T120000
+DTEND;TZID=Australia/Melbourne:20260507T131500
+SUMMARY:Macroeconomics – Lukas Freund (Boston College) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Lukas Freund: “TBD”\nhttps://sites.google.com/site/lukasfre
+ undeconomics/home\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1Kyf
+ cUkOWfMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.go
+ o.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:d7250d27750babe17a47ff3936247989@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260514T120000
+DTEND;TZID=Australia/Melbourne:20260514T131500
+SUMMARY:Macroeconomics – Lu Wang (UWA) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Lu Wang: “TBD”\nhttps://sites.google.com/view/luwang\n\nZoo
+ m: https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n
+ \nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:5cf919724636d1dfa7e8ecdaa32e26bb@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260521T120000
+DTEND;TZID=Australia/Melbourne:20260521T131500
+SUMMARY:Macroeconomics – Kurt See (NUS) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Kurt See: “TBD”\nhttps://kurtsee.weebly.com/\n\nZoom: https
+ ://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vCa.1&from
+ =addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRA
+ CT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:e2be7fadf0d6ff6978277a43e9fd2fdd@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260730T120000
+DTEND;TZID=Australia/Melbourne:20260730T131500
+SUMMARY:Macroeconomics – Yasin Kursat Onder (Ghent) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Yasin Kursat Onder: “TBD”\nhttps://sites.google.com/view/ya
+ sin-kursat-onder\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8
+ \n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:a61aece2a19a6fd93eec30efed1d6412@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260806T120000
+DTEND;TZID=Australia/Melbourne:20260806T131500
+SUMMARY:Macroeconomics – Tommy Iao (RBA) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Tommy Iao: “TBD”\nhttps://tommyiao.github.io/\n\nGoogle Map
+ s: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:3f20ff574180e9e0e894230e2812c44d@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260813T120000
+DTEND;TZID=Australia/Melbourne:20260813T131500
+SUMMARY:Macroeconomics – Chansik Yoon (Adelaide) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Chansik Yoon: “TBD”\nhttps://sites.google.com/view/chansiky
+ oon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:
+ \nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:346da6c580a9bdc74746a14b52c8235e@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260820T120000
+DTEND;TZID=Australia/Melbourne:20260820T131500
+SUMMARY:Macroeconomics – Joseph Kachovec (RBA) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Joseph Kachovec: “TBD”\nhttps://www.rba.gov.au/research/res
+ earcher-profiles/joseph-kachovec.html\n\nGoogle Maps: https://maps.app.goo
+ .gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:9775dccfb1d1c8fa101137cc374001fe@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260910T120000
+DTEND;TZID=Australia/Melbourne:20260910T131500
+SUMMARY:Macroeconomics – Lukasz Rachel (UCL) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Lukasz Rachel: “TBD”\nhttps://sites.google.com/site/lukaszr
+ achel/\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRA
+ CT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:4d74938107fe06912ef1477fe29d2eb4@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261015T120000
+DTEND;TZID=Australia/Melbourne:20261015T131500
+SUMMARY:Macroeconomics – Morten Ravn (UCL) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Morten Ravn: “TBD”\nhttps://sites.google.com/view/mortenora
+ vn/home\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTR
+ ACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:b44471677784a12bc564214ff78f4fca@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260326T133000
+DTEND;TZID=Australia/Melbourne:20260326T144500
+SUMMARY:Econometrics – Yuya Sasaki (Vanderbilt University) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Yuya Sasaki: “TBD”\nhttps://sites.google.com/site/yuyasasak
+ i/\n\nZoom: https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9
+ M8a3jpA8CY.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX
+ 9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:eff0cda2dd1c8edfd3cd0289ae396c4d@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260417T133000
+DTEND;TZID=Australia/Melbourne:20260417T144500
+SUMMARY:Econometrics – Won-Ki Seo (USyd) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Won-Ki Seo: “TBD”\nhttps://sites.google.com/site/wkseo86/\n
+ \nZoom: https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3
+ jpA8CY.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSb
+ BB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:7601f4ec4de703702b6f6a2dacaa1a74@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260501T133000
+DTEND;TZID=Australia/Melbourne:20260501T144500
+SUMMARY:Econometrics – Jack Jewson (Monash) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Jack Jewson: “TBD”\nhttps://sites.google.com/view/jack-jews
+ on-academic-profile/home\n\nZoom: https://unimelb.zoom.us/j/82137514093?pw
+ d=KSb1ZXIyCKxNbsIkrno9M8a3jpA8CY.1&from=addon\n\nGoogle Maps: https://maps
+ .app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:ee78a496ae5b9f5e9b0991f45764c68b@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260515T133000
+DTEND;TZID=Australia/Melbourne:20260515T144500
+SUMMARY:Econometrics – Timothy Neal (UNSW) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Timothy Neal: “TBD”\nhttps://sites.google.com/site/tjrneal/
+ \n\nZoom: https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8
+ a3jpA8CY.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9p
+ SbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:c8abf67c095f2bc106b4bbac662ef469@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260529T133000
+DTEND;TZID=Australia/Melbourne:20260529T144500
+SUMMARY:Econometrics – Jackson Kwok (St Vincent's Institute) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Jackson Kwok: “TBD”\nhttps://www.svi.edu.au/researchers/dr-
+ chun-fung-jackson-kwok/\n\nZoom: https://unimelb.zoom.us/j/82137514093?pwd
+ =KSb1ZXIyCKxNbsIkrno9M8a3jpA8CY.1&from=addon\n\nGoogle Maps: https://maps.
+ app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:fbb3e4090544beee0c95e7ad11c295af@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260320T110000
+DTEND;TZID=Australia/Melbourne:20260320T111200
+SUMMARY:Economic Theory – Joshua Gans (UToronto) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Joshua Gans: “TBD”\nhttps://www.joshuagans.com/\n\nGoogle M
+ aps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:23dd71cb0f40acbc044145f3317b106c@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260327T110000
+DTEND;TZID=Australia/Melbourne:20260327T111200
+SUMMARY:Economic Theory – David Delacretaz (UManchester) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:David Delacretaz: “TBD”\nhttps://daviddelacretaz.net/\n\nGo
+ ogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:c97f1f9f5cc69f55b7f7ad9c093f96a8@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260417T110000
+DTEND;TZID=Australia/Melbourne:20260417T111200
+SUMMARY:Economic Theory – Francisco Silva (Deakin) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Francisco Silva: “TBD”\nhttps://sites.google.com/site/franc
+ iscosilva2909/\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n
+ \nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:c1d528600ef02aa7feee852532a02483@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260424T110000
+DTEND;TZID=Australia/Melbourne:20260424T111200
+SUMMARY:Economic Theory – Kate Huang (Monash) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Kate Huang: “TBD”\nhttps://wanyinghuang.com/\n\nGoogle Maps
+ : https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:ee98cf4ed5dc9946233041ba6624b9ba@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260501T110000
+DTEND;TZID=Australia/Melbourne:20260501T111200
+SUMMARY:Economic Theory – Andrew Wait (USydney) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Andrew Wait: “TBD”\nhttps://profiles.sydney.edu.au/andrew.w
+ ait\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:
+ \nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:458540e68e39ec13f02178575d71a466@generated
+DTSTAMP:20260302T115237Z
+LAST-MODIFIED:20260302T115237Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260508T110000
+DTEND;TZID=Australia/Melbourne:20260508T111200
+SUMMARY:Economic Theory – Mitch Watt (Monash) – TBD
+LOCATION:Room \, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Mitch Watt: “TBD”\nhttps://www.mitchellwatt.com/\n\nABSTRAC
+ T:\nTBA
 END:VEVENT
 END:VCALENDAR

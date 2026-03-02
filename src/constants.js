@@ -21,18 +21,19 @@ export const DEFAULT_SOURCES = [
     color: "orange",
   },
   {
+    name: "UniMelb Econ",
+    fullName: "Uni Melbourne Department of Economics",
+    url: "ics/unimelb-econ.ics",
+    sourceUrl: "https://e2mu.unimelb.edu.au/api/calendars/feed.php",
+    homeUrl: "https://fbe.unimelb.edu.au/economics/events",
+    color: "purple",
+  },
+  {
     name: "Monash CHE",
     fullName: "Monash Centre for Health Economics",
     url: "ics/monash-che.ics",
     homeUrl: "https://www.monash.edu/business/che/news-and-events/events",
     color: "green",
-  },
-  {
-    name: "UniMelb Econ",
-    fullName: "Uni Melbourne Department of Economics",
-    url: "ics/unimelb-econ.ics",
-    homeUrl: "https://fbe.unimelb.edu.au/economics/events",
-    color: "purple",
   },
   {
     name: "Various",
@@ -58,5 +59,11 @@ export const PRESET_TAGS = [
   "MIG",
   "HEELP",
   "CHE",
+  "Macro",
+  "Micro",
+  "Theory",
+  "Experiment",
+  "Behavior",
+  "Conference",
   "Workshop",
 ];
