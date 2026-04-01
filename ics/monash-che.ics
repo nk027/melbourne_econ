@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Monash Events//EN
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: Understanding the role of price caps in NDIS m
- arkets
-DTSTART:20260401T120000
-DTEND:20260401T130000
-DESCRIPTION:This paper examines how providers in the National Disability I
- nsurance Scheme (NDIS) adjust prices and service volumes in response to pr
- ice cap changes. Using detailed service usage data from Kismet\, a plan ma
- nager for the NDIS\, we analyse short-run responses in the weeks following
-  the 1 July 2025 price cap adjustments. Market prices respond quickly in b
- oth directions: a 1% increase in the cap raises provider prices by 0.61% o
- n average\, including providers that previously priced below the cap (“p
- ricing headroom”)\, while a 1% decrease lowers prices by 0.9%\, with lar
- ger reductions among providers previously at the cap. Service volumes rema
- in broadly stable\, with minor reductions concentrated among providers fac
- ing large cap cuts. These results highlight asymmetries in market response
- s and suggest that price cap adjustments affect both expenditure and servi
- ce provision\, underscoring the importance of ongoing monitoring of provid
- er behaviour.\n\nSpeaker profile\n\n<a href="https://spelinakyol.weebly.co
- m/" target="_blank">Pelin Akyol</a> is Research Manager at the e61 Institu
- te and an applied economist with a Ph.D. in Economics from Penn State Univ
- ersity. Her research focuses on education\, labour markets\, demographic c
- hange\, and health. Her recent work examines fertility decisions\, caregiv
- ing behaviour\, and gender differences in educational outcomes\, using sur
- vey and administrative data. Before joining e61\, she was an Assistant Pro
- fessor at Bilkent University. At e61\, she leads research on fertility and
-  demographic challenges\, care responsibilities\, and the National Disabil
- ity Insurance Scheme.\n\nWeekly seminar series\n\nAs part of our Centre's 
- vibrant research culture\, we host a weekly seminar series. Visiting and i
- nvited researchers present current research relating to the economics of h
- ealth and wellbeing\, and the healthcare sector. Visitors are welcome to j
- oin these sessions where discussion and debate is encouraged.\n\nFor furth
- er information on our seminar series\, please contact <a href="mailto:Tro
- ng-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a class="btn
- " href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZb
- AX5do.1" target="_blank">Join Zoom</a>
-LOCATION:Caulfield campus\, Building C\, level 1\, room C1.21
-URL:https://www.monash.edu/business/events/che-seminar-series-understandin
- g-the-role-of-price-caps-in-ndis-markets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:15th Australasian Workshop on Econometrics and Health Economics
 DTSTART:20260415T123000
 DTEND:20260417T123000
@@ -222,5 +182,82 @@ DESCRIPTION:This workshop will provide a forum for the development and dis
 LOCATION:The Anchorage Hotel\, Port Stephens\, NSW
 URL:https://www.monash.edu/business/events/15th-australasian-workshop-on-e
  conometrics-and-health-economics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHE Seminar Series: The incentive effects of sickness benefit for 
+ the unemployed – Analysis of a reduction in potential benefit duration
+DTSTART:20260422T120000
+DTEND:20260422T130000
+DESCRIPTION:We examine the impact of Hungary’s “sickness benefit for t
+ he unemployed” (SBU) on benefit claiming and employment. Before 2007\, i
+ n Hungary\, individuals could claim sickness benefits within three days of
+  job loss\, extending nonemployment benefits by up to 90 days. This create
+ d strong incentives to report sick at unemployment onset. In 2007\, the ma
+ ximum SBU duration was halved. We find that higher-income workers and thos
+ e with longer employment histories were more likely to claim sickness bene
+ fits\, even after controling for health status. Based on benefit rules the
+ y gained most from substituting sickness benefits for unemployment benefit
+ s. Following the reform\, many lost sickness benefit days were replaced by
+  unemployment insurance benefits. Finally\, the reform shifted job-finding
+  patterns: reducing exits from nonemployment immediately after the pre-ref
+ orm maximum and increasing exits after the new maximum duration. Our resul
+ ts contribute to the literature on the interplay between unemployment and 
+ sickness insurance benefits.\n\nSpeaker profile\n\n<a href="https://sites.
+ google.com/view/lilimrk/home">Lili Mark</a> is an applied microeconomist s
+ pecializing in labor\, health\, and public economics. She earned her PhD i
+ n Economics from Central European University in Vienna. Her research exami
+ nes how public policies—such as parental leave\, sickness benefits\, and
+  payroll taxes—affect labor market outcomes. She was a visiting student 
+ researcher at Columbia University in New York. Prior to her doctoral studi
+ es\, she worked as a policy analyst at the Budapest Institute for Policy A
+ nalysis and the Government Transparency Institute. She is currently based 
+ in Melbourne\, Australia.\n\nWeekly seminar series\n\nAs part of our Centr
+ e's vibrant research culture\, we host a weekly seminar series. Visiting a
+ nd invited researchers present current research relating to the economics 
+ of health and wellbeing\, and the healthcare sector. Visitors are welcome 
+ to join these sessions where discussion and debate is encouraged.\n\nFor f
+ urther information on our seminar series\, please contact <a href="mailto
+ :Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a class=
+ "btn" href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC
+ 6dZbAX5do.1" target="_blank">Join Zoom</a>
+LOCATION:Caulfield campus\, Building C\, level 1\, room C1.21
+URL:https://www.monash.edu/business/events/che-seminar-series-the-incentiv
+ e-effects-of-sickness-benefit-for-the-unemployed-analysis-of-a-reduction-i
+ n-potential-benefit-duration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHE Seminar Series: Profit pressures in nonprofit care - Executive
+  responses to financial incentives in hospitals
+DTSTART:20260429T120000
+DTEND:20260429T130000
+DESCRIPTION:This paper examines how executive backgrounds shape organizati
+ onal responses to financial incentives in mission-driven settings. Using U
+ .S. nonprofit hospitals\, I study whether clinically trained executives in
+ fluence behavior under pay-for-performance policies. Hospitals led by non-
+  clinical executives respond more strongly to quality-based financial ince
+ ntives than those led by clinically trained leaders. This difference refle
+ cts active management rather than organizational objectives and operates t
+ hrough two mechanisms: clinically trained leaders prioritize patient- cent
+ ered care and possess expertise that lowers the cost of quality improvemen
+ ts. These findings highlight the role of leadership in firm objectives and
+  suggest incentive design should account for managerial heterogeneity.\n\n
+ Speaker profile\n\n<a href="https://hannaglenn.github.io/">Hanna Glenn</a>
+  is a Lecturer of Economics at the University of Queensland in Brisbane. S
+ he recently relocated to Australia after completing her PhD at Emory Unive
+ rsity. Her research focuses on health economics\, exploring how healthcare
+  policy\, hospital governance\, and technology adoption shape outcomes for
+  patients and providers.\n\nWeekly seminar series\n\nAs part of our Centre
+ 's vibrant research culture\, we host a weekly seminar series. Visiting an
+ d invited researchers present current research relating to the economics o
+ f health and wellbeing\, and the healthcare sector. Visitors are welcome t
+ o join these sessions where discussion and debate is encouraged.\n\nFor fu
+ rther information on our seminar series\, please contact <a href="mailto:
+ Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a class="
+ btn" href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6
+ dZbAX5do.1" target="_blank">Join Zoom</a>
+LOCATION:Caulfield campus\, Building C\, level 1\, room C1.21
+URL:https://www.monash.edu/business/events/che-seminar-series-profit-press
+ ures-in-nonprofit-care-executive-responses-to-financial-incentives-in-hosp
+ itals
 END:VEVENT
 END:VCALENDAR
