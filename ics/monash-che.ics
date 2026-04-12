@@ -2,98 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Monash Events//EN
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: Barriers to care under universal coverage: Evi
- dence from Switzerland
-DTSTART:20260304T120000
-DTEND:20260304T130000
-DESCRIPTION:This seminar presents evidence on disparities in access to car
- e from Switzerland\, combining administrative data\, small-area analyses\,
-  and a broader research agenda using quasi-experimental and experimental a
- pproaches.\n\nThe first part discusses national evidence on socioeconomic 
- inequalities in potentially avoidable hospitalisations\, a proxy for inade
- quate access to community-based ambulatory care. The study documents a rob
- ust socioeconomic gradient and substantial variation across cantons (Swiss
-  states). Exploiting Switzerland’s decentralised institutional structure
- \, the analysis then examines policy correlates of these inequalities. Res
- ults reveal positive associations between inequality and both the cost of 
- mandatory health insurance and the regressivity of premium subsidy schemes
- \, alongside a weaker negative association with general practitioner densi
- ty. While descriptive\, these findings point to potential policy mechanism
- s shaping equity in access.\n\nThe second study analyses paediatric emerge
- ncy department utilisation in Geneva. In this dense urban setting\, where 
- geographical access is less likely to be the primary constraint\, the resu
- lts highlight the prominent role of socioeconomic vulnerability. The obser
- ved patterns are consistent with disparities arising beyond physical acces
- s constraints\, including potential informational frictions. The second pa
- rt outlines forthcoming research examining mechanisms underlying access di
- sparities\, studying responses to cost-sharing using Swiss insurance micro
- data and the role of informational frictions through a field experiment.\n
- \nSpeaker profile\n\n<a href="https://www.lche.ch/researchers/">Joachim Ma
- rti</a> is an Associate Professor of Health Economics at the University of
-  Lausanne (Unisanté)\, Co-Lead of the Lausanne Centre for Health Economic
- s\, and currently a Visiting Researcher at the Centre for Health Economics
-  (CHE). His work spans health economics\, health policy\, and health servi
- ces research\, with a focus on efficiency and equity in healthcare\, healt
- hcare utilisation\, health behaviours\, and patient and provider decision-
- making. His current research studies how incentives\, insurance design\, a
- nd market structures influence healthcare utilisation\, quality\, and ineq
- ualities in access to care. This includes work on competition and cost-sha
- ring in mental healthcare\, private insurance and inpatient treatment deci
- sions\, methodological issues in choice experiments\, and analyses of long
- -term care trajectories.\n\nWeekly seminar series\n\nAs part of our Centre
- 's vibrant research culture\, we host a weekly seminar series. Visiting an
- d invited researchers present current research relating to the economics o
- f health and wellbeing\, and the healthcare sector. Visitors are welcome t
- o join these sessions where discussion and debate is encouraged.\n\nFor fu
- rther information on our seminar series\, please contact <a href="mailto:
- Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a class="
- btn" href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6
- dZbAX5do.1" target="_blank">Join Zoom</a>
-LOCATION:Caulfield campus\, Building C\, level 1\, room C121
-URL:https://www.monash.edu/business/events/che-seminar-series-barriers-to-
- care-under-universal-coverage-evidence-from-switzerland
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: Born Too Soon? Policy-Induced Birth Timing and
-  Child Development
-DTSTART:20260311T120000
-DTEND:20260311T130000
-DESCRIPTION:We examine the impact of policy-induced changes in birth timin
- g on children’s health and educational outcomes. We exploit a natural ex
- periment in Spain: the abrupt termination of a generous child benefit at t
- he end of 2010\, which led to a sharp increase in elective deliveries duri
- ng the final week of December. Children born during this spike had shorter
-  gestation periods and lower birth-weight (within the normal range)\, and 
- experienced a higher incidence of respiratory disorders during infancy. We
-  find that the affected cohort of children had significantly lower school 
- performance at age seven\, suggesting large persistent effects on cognitiv
- e development.\n\nSpeaker profile\n\n<a href="https://libertadgonzalez.com
- /">Libertad González</a> is a Professor of Economics at Universitat Pompe
- u Fabra and the Barcelona School of Economics\, specialising in labor\, pu
- blic\, and gender economics. She holds a PhD in Economics from Northwester
- n University. She has published in leading peer-reviewed journals such as 
- the Economic Journal\, the Journal of the European Economic Association\, 
- the American Economic Journal: Economic Policy\, the Journal of Labor Econ
- omics\, the Journal of Public Economics\, the Journal of Human Resources\,
-  and the Journal of Health Economics. Her research accumulates more than 4
- \,000 citations in Google Scholar. She was awarded an ERC Consolidator Gra
- nt to study early-life interventions and child development. She served as 
- President of the European Society for Population Economics (in 2023) and i
- s currently vice-president of the Spanish Economic Association.\n\nWeekly 
- seminar series\n\nAs part of our Centre's vibrant research culture\, we ho
- st a weekly seminar series. Visiting and invited researchers present curre
- nt research relating to the economics of health and wellbeing\, and the he
- althcare sector. Visitors are welcome to join these sessions where discuss
- ion and debate is encouraged.\n\nFor further information on our seminar se
- ries\, please contact <a href="mailto:Trong-Anh.Trinh@monash.edu">Trong-A
- nh.Trinh@monash.edu</a> .\n\n<a class="btn" href="https://monash.zoom.us/j
- /83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1" target="_blank">Join Zo
- om</a>
-LOCATION:Caulfield campus\, Building H\, level 9\, room H914
-URL:https://www.monash.edu/business/events/che-seminar-series-born-too-soo
- n-policy-induced-birth-timing-and-child-development
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:15th Australasian Workshop on Econometrics and Health Economics
 DTSTART:20260415T123000
 DTEND:20260417T123000
@@ -119,158 +27,237 @@ DESCRIPTION:This workshop will provide a forum for the development and dis
  Paper submissions" data-type="nested" id="Paper_submissions-1" role="tab">
  \n<span class="accTitle__icon"><svg><use href="https://www.monash.edu/__da
  ta/assets/git_bridge/0009/2651868/dist/assets/images/icon-spritesheet.svg?
- h=1d3ca15#copy"></use></svg></span>\n<span class="accTitle__text">Paper su
- bmissions</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTi
- tle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="accTitle__
- toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="V
- iew" src="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-out
- line-right.svg"/></span>\n</a>\n</span>\n</h3>\n<div aria-labelledby="Pape
- r_submissions-1" class="accContent" role="tabpanel" style="display: none\;
- ">\n<div class="accContent__inner">\n<div class="accContent__wrapper">\n<d
- iv id="component_4157933">\n<p>Please submit a full draft of the paper OR 
- a 1000-word (minimum) abstract by <strong>19 December 2025</strong>.</p><h
- 3>Abstract criteria</h3><p>If sending an abstract\, it should be structure
- d to include <strong>details of the aims</strong>\, the <strong>econometri
- c methods used</strong> (in the past some abstracts have not contained eco
- nometric detail so we have been unable to properly assess them)\, and <str
- ong>results</strong>.</p><p>Results should be included even if they are pr
- eliminary. Abstracts containing no results or no details of the econometri
- c methods will be less likely to be accepted.</p><p>Abstracts and papers w
- ill be judged primarily on the quality of their econometrics content. We s
- trongly encourage presentation and discussion of work in progress.</p><h3>
- Fees for invited participants</h3><div>Those invited to participate will b
- e asked to pay the registration fee in February 2026.</div><ul><li>Full re
- gistration: AU$600</li><li>PhD students: AU$250</li><li>Low and middle inc
- ome countries: AU$300*</li></ul><p>*A citizen residing in a country on the
-  <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519
- -world-bank-country-and-lending-groups">World Bank list</a> of low and mid
- dle income countries.</p><h4>Inclusions</h4><ul><li>Two nights' accommodat
- ion on Wednesday 15th and Thursday 16th of April</li><li>All meals from lu
- nch on Wednesday 15th to lunch on the Friday 17th of April</li></ul><p>For
-  additional nights\, you will need to organise them with the hotel directl
- y.</p><h3>Submissions</h3><p>Electronic submission of papers is required a
- nd can be uploaded using the link below. When submitting you will be able 
- to choose whether you would like to present a paper\, discuss a paper or c
- hair a session.</p><p><a class="btn" href="https://monash.az1.qualtrics.co
- m/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your paper</a></p>\n
- </div>\n</div>\n</div>\n</div>\n</section>\n</div>\n<script>\nwindow.addEv
- entListener('DOMContentLoaded'\, function() {\n\n        var LIB_CHECK_OBJ
- ECT_EXISTS = 'CHECK_OBJECT_EXISTS'\,\n            LIB_CHECK_ELEMENT_EXISTS
-  = 'CHECK_ELEMENT_EXISTS'\,\n            scriptIDPrefix = 'js-frontend-tem
- plate-script--'\,\n            postLoadScripts = [\n                {\n   
-                  check:      LIB_CHECK_ELEMENT_EXISTS\,\n                 
-    checkValue: scriptIDPrefix + 'page-filter'\,\n                    isReq
- uired: $('.js-frontend-page-filter').length ? true : false\,\n            
-         id:         scriptIDPrefix + 'page-filter'\,\n                    
- url:        'https://www.monash.edu/__data/assets/js_file_folder/0006/2019
- 840/page_filter_basic.min.js?v=0.2.0'\n                }\,\n              
-   {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n         
-            checkValue: scriptIDPrefix + 'page-filter-logic'\,\n           
-          isRequired: $('.js-frontend-page-filter').length ? true : false\,
- \n                    id:         scriptIDPrefix + 'page-filter-logic'\,\n
-                     url:        './?a=?v='\n                }\,\n         
-        {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n    
-                 checkValue: scriptIDPrefix + 'complex-accordion'\,\n      
-               isRequired: $('.js-frontend-complex-accordion').length ? tru
- e : false\,\n                    id:         scriptIDPrefix + 'complex-acc
- ordion'\,\n                    url:        'https://www.monash.edu/__data/
- assets/js_file/0003/2180262/complex-accordion-frontend.js?v=0.1.60'\n     
-            }\,\n                {\n                    check:      LIB_CHE
- CK_ELEMENT_EXISTS\,\n                    checkValue: scriptIDPrefix + 'com
- plex-accordion'\,\n                    isRequired: $('.js-frontend-complex
- -accordion').length ? true : false\,\n                    id:         scri
- ptIDPrefix + 'complex-accordion'\,\n                    url:        'https
- ://www.monash.edu/__data/assets/js_file/0003/2180262/complex-accordion-fro
- ntend.js?v=0.1.60'\n                }\n            ]\,\n            styleI
- DPrefix = 'js-frontend-template-style--'\,\n            \n            post
- LoadStyles = [\n                {\n                    check:      LIB_CHE
- CK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPrefix + 'page
- -filter'\,\n                    isRequired: $('.js-frontend-page-filter').
- length ? true : false\,\n                    id:         styleIDPrefix + '
- page-filter'\,\n                    url:        'https://www.monash.edu/__
- data/assets/css_file/0011/2023031/page-filter-template.css?v=0.1.5'\n     
-            }\,\n                {\n                    check:      LIB_CHE
- CK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPrefix + 'comp
- lex-accordion'\,\n                    isRequired: $('.js-frontend-complex-
- accordion').length ? true : false\,\n                    id:         style
- IDPrefix + 'complex-accordion'\,\n                    url:        'https:/
- /www.monash.edu/__data/assets/css_file/0005/2180264/complex-accordion-fron
- tend.css?v=0.2.2'\n                }\n            ]\;\n\n        var eleme
- ntExists = function(check\, checkValue) {\n            if (check === LIB_C
- HECK_OBJECT_EXISTS) {\n                return typeof checkValue !== 'undef
- ined'\;\n            }\n            if (check === LIB_CHECK_ELEMENT_EXISTS
- ) {\n                return document.getElementById(checkValue)\;\n       
-      }\n        }\;\n\n        // Load script libraries after DOM ready\n 
-        postLoadScripts.forEach(function(scriptLibrary) {\n            if (
- scriptLibrary.isRequired && !elementExists(scriptLibrary.check\, scriptLib
- rary.checkValue)) {\n                var injectedScript = document.createE
- lement('script')\;\n                injectedScript.type = 'text/javascript
- '\;\n                injectedScript.id = scriptLibrary.id\;\n             
-    injectedScript.src = scriptLibrary.url\;\n                injectedScrip
- t.async = false\;\n                $('body').append(injectedScript)\;\n   
-          }\n        })\;\n\n\n        // Load style libraries after DOM re
- ady\n        postLoadStyles.forEach(function(styleLibrary) {\n            
- if (styleLibrary.isRequired && !elementExists(styleLibrary.check\, styleLi
- brary.checkValue)) {\n                var injectedStyle = document.createE
- lement('link')\;\n                injectedStyle.type = 'text/css'\;\n     
-            injectedStyle.rel = 'stylesheet'\;\n                injectedSty
- le.id = styleLibrary.id\;\n                injectedStyle.href = styleLibra
- ry.url\;\n                $('body').append(injectedStyle)\;\n            }
- \n        })\;\n\n    })\;\n    \n    /*\n// Fix mobile with re-initing th
- e plugin.\ndocument.addEventListener('DOMContentLoaded'\, function() {\n  
- const container = document.getElementById('filter-container')\;\n\n  funct
- ion updateIsotopeLayout() {\n    if (container) {\n      // Assuming Isoto
- pe is globally available and initialized\n      Isotope.data(container).la
- yout()\;\n      //console.log('Isotope layout updated')\;\n    }\n  }\n\n 
-  function debounce(fn\, delay) {\n    let timeoutID\;\n    return function
- () {\n      clearTimeout(timeoutID)\;\n      timeoutID = setTimeout(() => 
- fn.apply(this\, arguments)\, delay)\;\n    }\;\n  }\n\n  const debouncedUp
- dateIsotopeLayout = debounce(updateIsotopeLayout\, 500)\;\n\n  // Attach t
- he load event to images\n  const images = container.querySelectorAll('img'
- )\;\n  images.forEach(function(img) {\n    img.addEventListener('load'\, f
- unction() {\n      debouncedUpdateIsotopeLayout()\;\n    })\;\n\n    // Ha
- ndle already loaded images (from cache)\n    if (img.complete) {\n      de
- bouncedUpdateIsotopeLayout()\;\n    }\n  })\;\n\n})\;\n*/\n\n\n</script>\n
- \n<span class="accTitle__icon"><svg><use href="https://www.monash.edu/__da
- ta/assets/git_bridge/0009/2651868/dist/assets/images/icon-spritesheet.svg?
- h=1d3ca15#copy"></use></svg></span>\n<span class="accTitle__text">Paper su
- bmissions</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTi
- tle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="accTitle__
- toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="V
- iew" src="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-out
- line-right.svg"/></span>\n</a>\n</span>\n\nPlease submit a full draft of t
- he paper OR a 1000-word (minimum) abstract by <strong>19 December 2025</st
- rong>.\n\nAbstract criteria\n\nIf sending an abstract\, it should be struc
- tured to include <strong>details of the aims</strong>\, the <strong>econom
- etric methods used</strong> (in the past some abstracts have not contained
-  econometric detail so we have been unable to properly assess them)\, and 
- <strong>results</strong>.\n\nResults should be included even if they are p
+ h=6b88e020#copy"></use></svg></span>\n<span class="accTitle__text">Paper s
+ ubmissions</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accT
+ itle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="accTitle_
+ _toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="
+ View" src="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-ou
+ tline-right.svg"/></span>\n</a>\n</span>\n</h3>\n<div aria-labelledby="Pap
+ er_submissions-1" class="accContent" role="tabpanel" style="display: none\
+ ;">\n<div class="accContent__inner">\n<div class="accContent__wrapper">\n<
+ div id="component_4157933">\n<p>Please submit a full draft of the paper OR
+  a 1000-word (minimum) abstract by <strong>19 December 2025</strong>.</p><
+ h3>Abstract criteria</h3><p>If sending an abstract\, it should be structur
+ ed to include <strong>details of the aims</strong>\, the <strong>econometr
+ ic methods used</strong> (in the past some abstracts have not contained ec
+ onometric detail so we have been unable to properly assess them)\, and <st
+ rong>results</strong>.</p><p>Results should be included even if they are p
  reliminary. Abstracts containing no results or no details of the econometr
- ic methods will be less likely to be accepted.\n\nAbstracts and papers wil
- l be judged primarily on the quality of their econometrics content. We str
- ongly encourage presentation and discussion of work in progress.\n\nFees f
- or invited participants\n\n*A citizen residing in a country on the <a href
- ="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-b
- ank-country-and-lending-groups">World Bank list</a> of low and middle inco
- me countries.\n\nFor additional nights\, you will need to organise them wi
- th the hotel directly.\n\nSubmissions\n\nElectronic submission of papers i
- s required and can be uploaded using the link below. When submitting you w
- ill be able to choose whether you would like to present a paper\, discuss 
- a paper or chair a session.\n\n<a class="btn" href="https://monash.az1.qua
- ltrics.com/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your paper<
- /a>\n\nSponsors\n\nOrganisers\n\n<a href="https://research.monash.edu/en/p
- ersons/anthony-scott">Prof Anthony Scott</a>\, Director\, Centre for Healt
- h Economics\, Monash Business School\n\n<a href="https://www.stefanie-schu
- rer.com/" target="_blank">Prof Stefanie Schurer</a>\, School of Economics\
- , University of Sydney\n\n<a href="https://research.monash.edu/en/persons/
- johannes-kunz">Dr Johannes Kunz</a>\, Centre for Health Economics\, Monash
-  Business School\n\n<a href="https://research.monash.edu/en/persons/michae
- l-shields/">Prof Michael Shields</a>\, Centre for Health Economics\, Monas
- h Business School\n\nEnquiries\n\nFor any enquiries regarding the workshop
-  please contact Aryan Rohanian at <a href="mailto:che_support@monash.edu"
- >che_support@monash.edu</a>
+ ic methods will be less likely to be accepted.</p><p>Abstracts and papers 
+ will be judged primarily on the quality of their econometrics content. We 
+ strongly encourage presentation and discussion of work in progress.</p><h3
+ >Fees for invited participants</h3><div>Those invited to participate will 
+ be asked to pay the registration fee in February 2026.</div><ul><li>Full r
+ egistration: AU$600</li><li>PhD students: AU$250</li><li>Low and middle in
+ come countries: AU$300*</li></ul><p>*A citizen residing in a country on th
+ e <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/90651
+ 9-world-bank-country-and-lending-groups">World Bank list</a> of low and mi
+ ddle income countries.</p><h4>Inclusions</h4><ul><li>Two nights' accommoda
+ tion on Wednesday 15th and Thursday 16th of April</li><li>All meals from l
+ unch on Wednesday 15th to lunch on the Friday 17th of April</li></ul><p>Fo
+ r additional nights\, you will need to organise them with the hotel direct
+ ly.</p><h3>Submissions</h3><p>Electronic submission of papers is required 
+ and can be uploaded using the link below. When submitting you will be able
+  to choose whether you would like to present a paper\, discuss a paper or 
+ chair a session.</p><p><a class="btn" href="https://monash.az1.qualtrics.c
+ om/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your paper</a></p>\
+ n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n<script>\nwindow.addE
+ ventListener('DOMContentLoaded'\, function() {\n\n        var LIB_CHECK_OB
+ JECT_EXISTS = 'CHECK_OBJECT_EXISTS'\,\n            LIB_CHECK_ELEMENT_EXIST
+ S = 'CHECK_ELEMENT_EXISTS'\,\n            scriptIDPrefix = 'js-frontend-te
+ mplate-script--'\,\n            postLoadScripts = [\n                {\n  
+                   check:      LIB_CHECK_ELEMENT_EXISTS\,\n                
+     checkValue: scriptIDPrefix + 'page-filter'\,\n                    isRe
+ quired: $('.js-frontend-page-filter').length ? true : false\,\n           
+          id:         scriptIDPrefix + 'page-filter'\,\n                   
+  url:        'https://www.monash.edu/__data/assets/js_file_folder/0006/201
+ 9840/page_filter_basic.min.js?v=0.2.0'\n                }\,\n             
+    {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n        
+             checkValue: scriptIDPrefix + 'page-filter-logic'\,\n          
+           isRequired: $('.js-frontend-page-filter').length ? true : false\
+ ,\n                    id:         scriptIDPrefix + 'page-filter-logic'\,\
+ n                    url:        './?a=?v='\n                }\,\n        
+         {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n   
+                  checkValue: scriptIDPrefix + 'complex-accordion'\,\n     
+                isRequired: $('.js-frontend-complex-accordion').length ? tr
+ ue : false\,\n                    id:         scriptIDPrefix + 'complex-ac
+ cordion'\,\n                    url:        'https://www.monash.edu/__data
+ /assets/js_file/0003/2180262/complex-accordion-frontend.js?v=0.1.60'\n    
+             }\,\n                {\n                    check:      LIB_CH
+ ECK_ELEMENT_EXISTS\,\n                    checkValue: scriptIDPrefix + 'co
+ mplex-accordion'\,\n                    isRequired: $('.js-frontend-comple
+ x-accordion').length ? true : false\,\n                    id:         scr
+ iptIDPrefix + 'complex-accordion'\,\n                    url:        'http
+ s://www.monash.edu/__data/assets/js_file/0003/2180262/complex-accordion-fr
+ ontend.js?v=0.1.60'\n                }\n            ]\,\n            style
+ IDPrefix = 'js-frontend-template-style--'\,\n            \n            pos
+ tLoadStyles = [\n                {\n                    check:      LIB_CH
+ ECK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPrefix + 'pag
+ e-filter'\,\n                    isRequired: $('.js-frontend-page-filter')
+ .length ? true : false\,\n                    id:         styleIDPrefix + 
+ 'page-filter'\,\n                    url:        'https://www.monash.edu/_
+ _data/assets/css_file/0011/2023031/page-filter-template.css?v=0.1.5'\n    
+             }\,\n                {\n                    check:      LIB_CH
+ ECK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPrefix + 'com
+ plex-accordion'\,\n                    isRequired: $('.js-frontend-complex
+ -accordion').length ? true : false\,\n                    id:         styl
+ eIDPrefix + 'complex-accordion'\,\n                    url:        'https:
+ //www.monash.edu/__data/assets/css_file/0005/2180264/complex-accordion-fro
+ ntend.css?v=0.2.2'\n                }\n            ]\;\n\n        var elem
+ entExists = function(check\, checkValue) {\n            if (check === LIB_
+ CHECK_OBJECT_EXISTS) {\n                return typeof checkValue !== 'unde
+ fined'\;\n            }\n            if (check === LIB_CHECK_ELEMENT_EXIST
+ S) {\n                return document.getElementById(checkValue)\;\n      
+       }\n        }\;\n\n        // Load script libraries after DOM ready\n
+         postLoadScripts.forEach(function(scriptLibrary) {\n            if 
+ (scriptLibrary.isRequired && !elementExists(scriptLibrary.check\, scriptLi
+ brary.checkValue)) {\n                var injectedScript = document.create
+ Element('script')\;\n                injectedScript.type = 'text/javascrip
+ t'\;\n                injectedScript.id = scriptLibrary.id\;\n            
+     injectedScript.src = scriptLibrary.url\;\n                injectedScri
+ pt.async = false\;\n                $('body').append(injectedScript)\;\n  
+           }\n        })\;\n\n\n        // Load style libraries after DOM r
+ eady\n        postLoadStyles.forEach(function(styleLibrary) {\n           
+  if (styleLibrary.isRequired && !elementExists(styleLibrary.check\, styleL
+ ibrary.checkValue)) {\n                var injectedStyle = document.create
+ Element('link')\;\n                injectedStyle.type = 'text/css'\;\n    
+             injectedStyle.rel = 'stylesheet'\;\n                injectedSt
+ yle.id = styleLibrary.id\;\n                injectedStyle.href = styleLibr
+ ary.url\;\n                $('body').append(injectedStyle)\;\n            
+ }\n        })\;\n\n    })\;\n    \n    /*\n// Fix mobile with re-initing t
+ he plugin.\ndocument.addEventListener('DOMContentLoaded'\, function() {\n 
+  const container = document.getElementById('filter-container')\;\n\n  func
+ tion updateIsotopeLayout() {\n    if (container) {\n      // Assuming Isot
+ ope is globally available and initialized\n      Isotope.data(container).l
+ ayout()\;\n      //console.log('Isotope layout updated')\;\n    }\n  }\n\n
+   function debounce(fn\, delay) {\n    let timeoutID\;\n    return functio
+ n() {\n      clearTimeout(timeoutID)\;\n      timeoutID = setTimeout(() =>
+  fn.apply(this\, arguments)\, delay)\;\n    }\;\n  }\n\n  const debouncedU
+ pdateIsotopeLayout = debounce(updateIsotopeLayout\, 500)\;\n\n  // Attach 
+ the load event to images\n  const images = container.querySelectorAll('img
+ ')\;\n  images.forEach(function(img) {\n    img.addEventListener('load'\, 
+ function() {\n      debouncedUpdateIsotopeLayout()\;\n    })\;\n\n    // H
+ andle already loaded images (from cache)\n    if (img.complete) {\n      d
+ ebouncedUpdateIsotopeLayout()\;\n    }\n  })\;\n\n})\;\n*/\n\n\n</script>\
+ n\n<span class="accTitle__icon"><svg><use href="https://www.monash.edu/__d
+ ata/assets/git_bridge/0009/2651868/dist/assets/images/icon-spritesheet.svg
+ ?h=6b88e020#copy"></use></svg></span>\n<span class="accTitle__text">Paper 
+ submissions</span>\n<span class="accTitle__toggle-wrapper">\n<a class="acc
+ Title__toggle" href="#Paper_submissions-1" rel="1">\n<span class="accTitle
+ __toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt=
+ "View" src="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-o
+ utline-right.svg"/></span>\n</a>\n</span>\n\nPlease submit a full draft of
+  the paper OR a 1000-word (minimum) abstract by <strong>19 December 2025</
+ strong>.\n\nAbstract criteria\n\nIf sending an abstract\, it should be str
+ uctured to include <strong>details of the aims</strong>\, the <strong>econ
+ ometric methods used</strong> (in the past some abstracts have not contain
+ ed econometric detail so we have been unable to properly assess them)\, an
+ d <strong>results</strong>.\n\nResults should be included even if they are
+  preliminary. Abstracts containing no results or no details of the econome
+ tric methods will be less likely to be accepted.\n\nAbstracts and papers w
+ ill be judged primarily on the quality of their econometrics content. We s
+ trongly encourage presentation and discussion of work in progress.\n\nFees
+  for invited participants\n\n*A citizen residing in a country on the <a hr
+ ef="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world
+ -bank-country-and-lending-groups">World Bank list</a> of low and middle in
+ come countries.\n\nFor additional nights\, you will need to organise them 
+ with the hotel directly.\n\nSubmissions\n\nElectronic submission of papers
+  is required and can be uploaded using the link below. When submitting you
+  will be able to choose whether you would like to present a paper\, discus
+ s a paper or chair a session.\n\n<a class="btn" href="https://monash.az1.q
+ ualtrics.com/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your pape
+ r</a>\n\nSponsors\n\nOrganisers\n\n<a href="https://research.monash.edu/en
+ /persons/anthony-scott">Prof Anthony Scott</a>\, Director\, Centre for Hea
+ lth Economics\, Monash Business School\n\n<a href="https://www.stefanie-sc
+ hurer.com/" target="_blank">Prof Stefanie Schurer</a>\, School of Economic
+ s\, University of Sydney\n\n<a href="https://research.monash.edu/en/person
+ s/johannes-kunz">Dr Johannes Kunz</a>\, Centre for Health Economics\, Mona
+ sh Business School\n\n<a href="https://research.monash.edu/en/persons/mich
+ ael-shields/">Prof Michael Shields</a>\, Centre for Health Economics\, Mon
+ ash Business School\n\nEnquiries\n\nKindly note this event is by invite on
+ ly\, however if you would like to attend please email <a href="mailto:che
+ _support@monash.edu">che_support@monash.edu</a><br/>For any enquiries rega
+ rding the workshop please contact Aryan Rohanian at <a href="mailto:che_s
+ upport@monash.edu">che_support@monash.edu</a>
 LOCATION:The Anchorage Hotel\, Port Stephens\, NSW
 URL:https://www.monash.edu/business/events/15th-australasian-workshop-on-e
  conometrics-and-health-economics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHE Seminar Series: The incentive effects of sickness benefit for 
+ the unemployed – Analysis of a reduction in potential benefit duration
+DTSTART:20260422T120000
+DTEND:20260422T130000
+DESCRIPTION:We examine the impact of Hungary’s “sickness benefit for t
+ he unemployed” (SBU) on benefit claiming and employment. Before 2007\, i
+ n Hungary\, individuals could claim sickness benefits within three days of
+  job loss\, extending nonemployment benefits by up to 90 days. This create
+ d strong incentives to report sick at unemployment onset. In 2007\, the ma
+ ximum SBU duration was halved. We find that higher-income workers and thos
+ e with longer employment histories were more likely to claim sickness bene
+ fits\, even after controling for health status. Based on benefit rules the
+ y gained most from substituting sickness benefits for unemployment benefit
+ s. Following the reform\, many lost sickness benefit days were replaced by
+  unemployment insurance benefits. Finally\, the reform shifted job-finding
+  patterns: reducing exits from nonemployment immediately after the pre-ref
+ orm maximum and increasing exits after the new maximum duration. Our resul
+ ts contribute to the literature on the interplay between unemployment and 
+ sickness insurance benefits.\n\nSpeaker profile\n\n<a href="https://sites.
+ google.com/view/lilimrk/home">Lili Mark</a> is an applied microeconomist s
+ pecializing in labor\, health\, and public economics. She earned her PhD i
+ n Economics from Central European University in Vienna. Her research exami
+ nes how public policies—such as parental leave\, sickness benefits\, and
+  payroll taxes—affect labor market outcomes. She was a visiting student 
+ researcher at Columbia University in New York. Prior to her doctoral studi
+ es\, she worked as a policy analyst at the Budapest Institute for Policy A
+ nalysis and the Government Transparency Institute. She is currently based 
+ in Melbourne\, Australia.\n\nWeekly seminar series\n\nAs part of our Centr
+ e's vibrant research culture\, we host a weekly seminar series. Visiting a
+ nd invited researchers present current research relating to the economics 
+ of health and wellbeing\, and the healthcare sector. Visitors are welcome 
+ to join these sessions where discussion and debate is encouraged.\n\nFor f
+ urther information on our seminar series\, please contact <a href="mailto
+ :Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a class=
+ "btn" href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC
+ 6dZbAX5do.1" target="_blank">Join Zoom</a>
+LOCATION:Caulfield campus\, Building C\, level 1\, room C1.21
+URL:https://www.monash.edu/business/events/che-seminar-series-the-incentiv
+ e-effects-of-sickness-benefit-for-the-unemployed-analysis-of-a-reduction-i
+ n-potential-benefit-duration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHE Seminar Series: Profit pressures in nonprofit care - Executive
+  responses to financial incentives in hospitals
+DTSTART:20260429T120000
+DTEND:20260429T130000
+DESCRIPTION:This paper examines how executive backgrounds shape organizati
+ onal responses to financial incentives in mission-driven settings. Using U
+ .S. nonprofit hospitals\, I study whether clinically trained executives in
+ fluence behavior under pay-for-performance policies. Hospitals led by non-
+  clinical executives respond more strongly to quality-based financial ince
+ ntives than those led by clinically trained leaders. This difference refle
+ cts active management rather than organizational objectives and operates t
+ hrough two mechanisms: clinically trained leaders prioritize patient- cent
+ ered care and possess expertise that lowers the cost of quality improvemen
+ ts. These findings highlight the role of leadership in firm objectives and
+  suggest incentive design should account for managerial heterogeneity.\n\n
+ Speaker profile\n\n<a href="https://hannaglenn.github.io/">Hanna Glenn</a>
+  is a Lecturer of Economics at the University of Queensland in Brisbane. S
+ he recently relocated to Australia after completing her PhD at Emory Unive
+ rsity. Her research focuses on health economics\, exploring how healthcare
+  policy\, hospital governance\, and technology adoption shape outcomes for
+  patients and providers.\n\nWeekly seminar series\n\nAs part of our Centre
+ 's vibrant research culture\, we host a weekly seminar series. Visiting an
+ d invited researchers present current research relating to the economics o
+ f health and wellbeing\, and the healthcare sector. Visitors are welcome t
+ o join these sessions where discussion and debate is encouraged.\n\nFor fu
+ rther information on our seminar series\, please contact <a href="mailto:
+ Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a class="
+ btn" href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6
+ dZbAX5do.1" target="_blank">Join Zoom</a>
+LOCATION:Caulfield campus\, Building C\, level 1\, room C1.21
+URL:https://www.monash.edu/business/events/che-seminar-series-profit-press
+ ures-in-nonprofit-care-executive-responses-to-financial-incentives-in-hosp
+ itals
 END:VEVENT
 END:VCALENDAR
