@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2b9ab9f4335524b457892e87318d266e@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260506T121500
 DTEND;TZID=Australia/Melbourne:20260506T131500
@@ -41,8 +41,8 @@ URL:https://unimelb.zoom.us/j/87382843497?pwd=vPHwqsEHhImdxY1FKvVzHR4rgf9Nm
 END:VEVENT
 BEGIN:VEVENT
 UID:563f4da0239da57b3e3deb7a623eb07d@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260513T121500
 DTEND;TZID=Australia/Melbourne:20260513T131500
@@ -58,8 +58,8 @@ URL:https://unimelb.zoom.us/j/87382843497?pwd=vPHwqsEHhImdxY1FKvVzHR4rgf9Nm
 END:VEVENT
 BEGIN:VEVENT
 UID:d7e954a1a0431be65127562f5ede7b8c@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260429T110000
 DTEND;TZID=Australia/Melbourne:20260429T121500
@@ -73,8 +73,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:a60c5f28bc6cce6800db006d10e9aaa9@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260505T110000
 DTEND;TZID=Australia/Melbourne:20260505T121500
@@ -88,8 +88,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:3bf568740519ccda71d3a867a07bd328@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260512T110000
 DTEND;TZID=Australia/Melbourne:20260512T121500
@@ -125,8 +125,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:4eee0cc04ce514dca3b273da310a2c84@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260526T110000
 DTEND;TZID=Australia/Melbourne:20260526T121500
@@ -141,8 +141,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:806799b27d82d0cf17f7bb3f372323f6@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260602T110000
 DTEND;TZID=Australia/Melbourne:20260602T121500
@@ -156,8 +156,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:c5f4b363b913df58461d4cb0f86b1208@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260430T110000
 DTEND;TZID=Australia/Melbourne:20260430T121500
@@ -190,8 +190,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:d15f6afb753b8c9c854cea179bb2c479@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260514T110000
 DTEND;TZID=Australia/Melbourne:20260514T121500
@@ -218,8 +218,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:130717cb469a4f6ceae125fb9b39402e@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260528T110000
 DTEND;TZID=Australia/Melbourne:20260528T121500
@@ -234,8 +234,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:98ed5f72610acbf7ea254fa5be863ff6@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260730T110000
 DTEND;TZID=Australia/Melbourne:20260730T121500
@@ -247,8 +247,8 @@ DESCRIPTION:Romain Gauriot: “TBD”\nhttps://sites.google.com/site/romain
 END:VEVENT
 BEGIN:VEVENT
 UID:fc37d7433342b9d0d7a54391d2d2b256@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260813T110000
 DTEND;TZID=Australia/Melbourne:20260813T121500
@@ -259,8 +259,8 @@ DESCRIPTION:Kirby Nielsen: “TBD”\nhttps://kirbyknielsen.com/\n\nGoogle
 END:VEVENT
 BEGIN:VEVENT
 UID:d6d51a3cceedca1e00cbc4794085cd23@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260827T110000
 DTEND;TZID=Australia/Melbourne:20260827T121500
@@ -271,8 +271,8 @@ DESCRIPTION:Ashley Craig: “TBD”\nhttps://www.ashleycraig.com/\n\nGoogle
 END:VEVENT
 BEGIN:VEVENT
 UID:bc5e60effc0c23a51ddba55bd5e77cce@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T110000
 DTEND;TZID=Australia/Melbourne:20260910T121500
@@ -284,8 +284,8 @@ DESCRIPTION:Lionel Page: “TBD”\nhttps://sites.google.com/site/liopage/h
 END:VEVENT
 BEGIN:VEVENT
 UID:584cd84ada0cc22293b3392b1013bd57@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T110000
 DTEND;TZID=Australia/Melbourne:20260924T121500
@@ -297,8 +297,8 @@ DESCRIPTION:Maroš Servátka: “TBD”\nhttps://sites.google.com/site/maro
 END:VEVENT
 BEGIN:VEVENT
 UID:be85c8c8a51448a678086ef03175d138@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261008T110000
 DTEND;TZID=Australia/Melbourne:20261008T121500
@@ -310,8 +310,8 @@ DESCRIPTION:Ralph Bayer: “TBD”\nhttps://researchers.adelaide.edu.au/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:fe69003f8212471e48c9ea8e2060ed97@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261022T110000
 DTEND;TZID=Australia/Melbourne:20261022T121500
@@ -322,8 +322,8 @@ DESCRIPTION:Uzma Afzal: “TBD”\nhttps://www.uzmaafzal.com/\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:196df18caa4b44d6cb2b43a7bbd0e8aa@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T110000
 DTEND;TZID=Australia/Melbourne:20261015T121500
@@ -334,8 +334,8 @@ DESCRIPTION:Steve Wu: “TBD”\nhttps://ag.purdue.edu/directory/sywu\n\nGo
 END:VEVENT
 BEGIN:VEVENT
 UID:accfa398336966916616872d5f28be2e@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260423T120000
 DTEND;TZID=Australia/Melbourne:20260423T131500
@@ -350,8 +350,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:6723892af5c3a09557dbe4f7f3769cbf@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260507T120000
 DTEND;TZID=Australia/Melbourne:20260507T131500
@@ -366,8 +366,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:d7250d27750babe17a47ff3936247989@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260514T120000
 DTEND;TZID=Australia/Melbourne:20260514T131500
@@ -382,8 +382,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:5cf919724636d1dfa7e8ecdaa32e26bb@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260521T120000
 DTEND;TZID=Australia/Melbourne:20260521T131500
@@ -398,8 +398,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:e2be7fadf0d6ff6978277a43e9fd2fdd@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260730T120000
 DTEND;TZID=Australia/Melbourne:20260730T131500
@@ -411,8 +411,8 @@ DESCRIPTION:Yasin Kursat Onder: “TBD”\nhttps://sites.google.com/view/ya
 END:VEVENT
 BEGIN:VEVENT
 UID:a61aece2a19a6fd93eec30efed1d6412@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260806T120000
 DTEND;TZID=Australia/Melbourne:20260806T131500
@@ -423,8 +423,8 @@ DESCRIPTION:Tommy Iao: “TBD”\nhttps://tommyiao.github.io/\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf58dba3bc9e1ea57b54088221551fd@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260917T120000
 DTEND;TZID=Australia/Melbourne:20260917T131500
@@ -447,8 +447,8 @@ DESCRIPTION:Chansik Yoon: “Growth in the Shaded Sun: The Role of Internat
 END:VEVENT
 BEGIN:VEVENT
 UID:7292f4c0f5b44beeab4b59600dc5d162@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260921T120000
 DTEND;TZID=Australia/Melbourne:20260921T131500
@@ -460,8 +460,8 @@ DESCRIPTION:Romina Ruprecht: “TBD”\nhttps://sites.google.com/view/romin
 END:VEVENT
 BEGIN:VEVENT
 UID:acdca22b7a26552a87228a77fdbd6695@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T120000
 DTEND;TZID=Australia/Melbourne:20260924T131500
@@ -473,8 +473,8 @@ DESCRIPTION:Joseph Kachovec: “TBD”\nhttps://www.rba.gov.au/research/res
 END:VEVENT
 BEGIN:VEVENT
 UID:9775dccfb1d1c8fa101137cc374001fe@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T120000
 DTEND;TZID=Australia/Melbourne:20260910T131500
@@ -486,8 +486,8 @@ DESCRIPTION:Lukasz Rachel: “TBD”\nhttps://sites.google.com/site/lukaszr
 END:VEVENT
 BEGIN:VEVENT
 UID:4d74938107fe06912ef1477fe29d2eb4@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T120000
 DTEND;TZID=Australia/Melbourne:20261015T131500
@@ -498,27 +498,9 @@ DESCRIPTION:Morten Ravn: “TBD”\nhttps://sites.google.com/view/mortenora
  ACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
-UID:2dc08c07224e87b9369cc0d14e4d2bae@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260417T133000
-DTEND;TZID=Australia/Melbourne:20260417T144500
-SUMMARY:Econometrics – Won-Ki Seo (USyd) – Functional Data Analysis for
-  the Economic Impact of Climate Change
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Won-Ki Seo: “Functional Data Analysis for the Economic Impact
-  of Climate Change”\nhttps://sites.google.com/site/wkseo86/\n\nZoom: htt
- ps://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8CY.1&fr
- om=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABST
- RACT:\nTBA
-URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
- Y.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
 UID:938a4080484f31dc578d98646efc8efd@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260501T133000
 DTEND;TZID=Australia/Melbourne:20260501T144500
@@ -548,8 +530,8 @@ URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
 END:VEVENT
 BEGIN:VEVENT
 UID:ea870c6c84590a24cbdea0d517b6c51d@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260515T133000
 DTEND;TZID=Australia/Melbourne:20260515T144500
@@ -577,8 +559,8 @@ URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
 END:VEVENT
 BEGIN:VEVENT
 UID:1fd2de79f472542e543d78fba0a4fe93@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T133000
 DTEND;TZID=Australia/Melbourne:20260529T144500
@@ -613,38 +595,9 @@ URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
  Y.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
-UID:eb709f60d0ca78993c717e5ffee9dab3@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260417T110000
-DTEND;TZID=Australia/Melbourne:20260417T122000
-SUMMARY:Economic Theory – Francisco Silva (Deakin) – Diagnostic agency:
-  Mechanism Design versus Information Design (joint with Juan S. Pereyra)
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Francisco Silva: “Diagnostic agency: Mechanism Design versus 
- Information Design (joint with Juan S. Pereyra)”\nhttps://sites.google.c
- om/site/franciscosilva2909/\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJ
- KurX9pSbBB8\n\nABSTRACT:\nWe study a diagnostic agency problem in which in
- formation acquisition is costly\, centrally financed\, and privately consu
- med\, creating incentives for agents to over-acquire diagnostic informatio
- n. Motivated by centralized healthcare\, we consider a physician who choos
- es diagnostic tests and then makes a binary treatment decision. A designer
-  values decision accuracy net of testing costs and can intervene either by
-  controlling treatment decisions (mechanism design) or by designing the in
- formation structure (information design). When the designer can regulate o
- nly the total amount of diagnostic information\, but not the composition o
- f tests\, the optimal mechanism distorts ex post treatment decisions: trea
- tment approval requires stronger evidence when more tests are ordered. By 
- contrast\, if the designer can fully control the diagnostic information\, 
- it is optimal to delegate treatment to the physician as long as reductions
-  in false positives and false negatives are sufficiently close cost substi
- tutes.
-END:VEVENT
-BEGIN:VEVENT
 UID:af8f3effeea0a4ccc6e5ad8cbfc63c44@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260424T110000
 DTEND;TZID=Australia/Melbourne:20260424T122000
@@ -667,8 +620,8 @@ DESCRIPTION:Kate Huang: “On the inefficiency of social learning”\nhttps
 END:VEVENT
 BEGIN:VEVENT
 UID:ee98cf4ed5dc9946233041ba6624b9ba@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260501T110000
 DTEND;TZID=Australia/Melbourne:20260501T122000
@@ -680,8 +633,8 @@ DESCRIPTION:Andrew Wait: “TBD”\nhttps://profiles.sydney.edu.au/andrew.w
 END:VEVENT
 BEGIN:VEVENT
 UID:458540e68e39ec13f02178575d71a466@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260508T110000
 DTEND;TZID=Australia/Melbourne:20260508T122000
@@ -691,92 +644,9 @@ DESCRIPTION:Mitch Watt: “TBD”\nhttps://www.mitchellwatt.com/\n\nABSTRAC
  T:\nTBA
 END:VEVENT
 BEGIN:VEVENT
-UID:1647584b2fac2cc770b742ed94c3dadc@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260417T133000
-DTEND;TZID=Australia/Melbourne:20260417T141000
-SUMMARY:PhD Brown Bag Seminar – Anthony Van Den Berg (University of Melbo
- urne) – Private Ambition\, Public Pressure: How Observability Determines
-  Optimal Goal Design
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Anthony Van Den Berg: “Private Ambition\, Public Pressure: Ho
- w Observability Determines Optimal Goal Design”\n\nGoogle Maps: https://
- maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nHow do autonomy and observ
- ability shape the effectiveness of goals? This paper studies whether the p
- referred mode of goal setting in terms of motivating effort depends on whe
- ther goals and goal outcomes are private or public. A theoretical framewor
- k combining reference-dependent preferences and social image concerns pred
- icts that externally set goals outperform self-set goals when private\, bu
- t that public observability can reverse this ranking. These predictions ar
- e tested in a laboratory experiment\, in which participants complete real-
- effort tasks over multiple sessions and can set or receive a performance-b
- ased goal for their future selves. In a 2×2 design\, goals are either sel
- f-set or externally assigned\, and outcomes are either private or publicly
-  disclosed through a leaderboard. The results inform how policymakers can 
- utilize observability for optimal goal designs
-END:VEVENT
-BEGIN:VEVENT
-UID:5d5bdb5f9a3cad9cbc282cedc344bbf6@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260417T141000
-DTEND;TZID=Australia/Melbourne:20260417T145000
-SUMMARY:PhD Brown Bag Seminar – Charon Yang (University of Melbourne) –
-  Apps Matter: Search Dynamics and Platform Design
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Charon Yang: “Apps Matter: Search Dynamics and Platform Desig
- n”\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT
- :\nThis paper studies how search platform design shapes consumer search be
- havior. We develop a stylised model in which a mobile app lowers search co
- sts and introduces asymmetric push notifications for price decreases\, imp
- lying higher overall search and\, if push effects dominate\, weaker search
-  asymmetry. We test these predictions using FuelCheck in New South Wales\,
-  Australia\, combining daily station-level price data with the universe of
-  individual-level searches from 2016 to 2019. Under web-based search\, usa
- ge responds temporarily to price shocks and is asymmetric\, with consumers
-  searching more after price increases than after price decreases. After th
- e app launch\, search becomes higher and more persistent\, but asymmetry d
- oes not significantly decline. The evidence suggests that the app changed 
- the technology of monitoring without generating a dominant directional pus
- h effect\, likely because of design frictions. More broadly\, the results 
- show that the effectiveness of transparency policies depends not only on d
- isclosure\, but also on platform design.
-END:VEVENT
-BEGIN:VEVENT
-UID:252f99fb641eabb9c5ffc4f162740858@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260417T145000
-DTEND;TZID=Australia/Melbourne:20260417T153000
-SUMMARY:PhD Brown Bag Seminar – Lindsay Robinson (University of Melbourne
- ) – Autonomous Algorithmic Collusion: Efficient Learning with Q-Function
-  Approximation
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Lindsay Robinson: “Autonomous Algorithmic Collusion: Efficien
- t Learning with Q-Function Approximation”\n\nGoogle Maps: https://maps.a
- pp.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nAutonomous algorithmic collusion
-  occurs when firms delegate to autonomous algorithms that learn to collude
-  with each other through repeated interaction.  In this paper\, I show how
-  efficient learning algorithms can dramatically increase the speed and per
- fection of autonomous algorithmic collusion.  I consider Q-learning pricin
- g algorithms with a parsimonious Q-function that scales linearly in the di
- mension of the state representation.  This allows the algorithms to condit
- ion on a higher dimensional representation of the price history\, and to b
- etter distinguish between temporary and sustained competitor deviation fro
- m collusive prices.  The algorithms can coordinate quickly on symmetric jo
- int-profit-maximizing collusive prices in a repeated simultaneous oligopol
- y pricing game.  I explore the robustness of collusive prices to the algor
- ithms’ parametrization and the strategic environment\, and conclude with
-  implications for competition policy.
-END:VEVENT
-BEGIN:VEVENT
 UID:e261f2e466f80bd7f59e074dea7004ff@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260424T133000
 DTEND;TZID=Australia/Melbourne:20260424T141000
@@ -805,8 +675,8 @@ DESCRIPTION:Annik Ketterle: “Central Bank Transfers and Sovereign Risk”
 END:VEVENT
 BEGIN:VEVENT
 UID:532b638e82c42feee32fb825fd8b2ab8@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260424T141000
 DTEND;TZID=Australia/Melbourne:20260424T145000
@@ -820,8 +690,8 @@ DESCRIPTION:Manting Huang: “Evaluating Recent Macroeconomic Policy in an
 END:VEVENT
 BEGIN:VEVENT
 UID:384e0c071bb332ba78f74f352d3616a2@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260501T133000
 DTEND;TZID=Australia/Melbourne:20260501T141000
@@ -849,8 +719,8 @@ DESCRIPTION:Jinjing Chen: “Air Pollution and Road Safety: The Role of Agr
 END:VEVENT
 BEGIN:VEVENT
 UID:cb72d21e53a175cbac85f93444d2c9d2@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260501T141000
 DTEND;TZID=Australia/Melbourne:20260501T145000
@@ -877,8 +747,8 @@ DESCRIPTION:Kaiyue Chen: “Eﬀicient Allocation of Public Electric Vehicl
 END:VEVENT
 BEGIN:VEVENT
 UID:4b1fd235a537c10898253a5008074bbb@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260508T133000
 DTEND;TZID=Australia/Melbourne:20260508T141000
@@ -892,8 +762,8 @@ DESCRIPTION:Daniel Tiong: “The Quantile Factor Vector Autoregressive Mode
 END:VEVENT
 BEGIN:VEVENT
 UID:cb4f2c510ed23d42692ab02bfb390735@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260508T141000
 DTEND;TZID=Australia/Melbourne:20260508T145000
@@ -905,8 +775,8 @@ DESCRIPTION:Longcan Li: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/B
 END:VEVENT
 BEGIN:VEVENT
 UID:4673eba4d71ff3ff65e6ab6411ee5ba8@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260508T145000
 DTEND;TZID=Australia/Melbourne:20260508T153000
@@ -918,8 +788,8 @@ DESCRIPTION:Pengyun Chen: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl
 END:VEVENT
 BEGIN:VEVENT
 UID:03dd2c3e0e8a1b77afe5ffadc5e54aad@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260515T133000
 DTEND;TZID=Australia/Melbourne:20260515T141000
@@ -931,8 +801,8 @@ DESCRIPTION:Adam Wang: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/Bi
 END:VEVENT
 BEGIN:VEVENT
 UID:58565c55589d0f8e1cd05eeaa6efba82@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260515T141000
 DTEND;TZID=Australia/Melbourne:20260515T145000
@@ -944,8 +814,8 @@ DESCRIPTION:Nicholas Chiang: “TBD”\n\nGoogle Maps: https://maps.app.goo
 END:VEVENT
 BEGIN:VEVENT
 UID:cae67935f64723e16176a214fc5d4fda@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260515T145000
 DTEND;TZID=Australia/Melbourne:20260515T153000
@@ -957,8 +827,8 @@ DESCRIPTION:Ray Gomez: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/Bi
 END:VEVENT
 BEGIN:VEVENT
 UID:5ca8179b6d68a5787848a20a95b86b6d@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260522T133000
 DTEND;TZID=Australia/Melbourne:20260522T141000
@@ -970,8 +840,8 @@ DESCRIPTION:Filipo Dell'Andrea: “The Economics of Speed Limits”\n\nGoog
 END:VEVENT
 BEGIN:VEVENT
 UID:62c9ae1ca99aa557c6ecf2165ec45867@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260522T141000
 DTEND;TZID=Australia/Melbourne:20260522T145000
@@ -983,8 +853,8 @@ DESCRIPTION:Martina Repetto: “TBD”\n\nGoogle Maps: https://maps.app.goo
 END:VEVENT
 BEGIN:VEVENT
 UID:6151d9275365eee3c6a5469c9b1a5f31@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260522T145000
 DTEND;TZID=Australia/Melbourne:20260522T153000
@@ -996,8 +866,8 @@ DESCRIPTION:Sonia Ma: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/Bir
 END:VEVENT
 BEGIN:VEVENT
 UID:9b2e47d3e66e9e512ae99c5923cb9a2f@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T133000
 DTEND;TZID=Australia/Melbourne:20260529T141000
@@ -1009,8 +879,8 @@ DESCRIPTION:Abhirupa Das: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl
 END:VEVENT
 BEGIN:VEVENT
 UID:9c79090235be9e604269ed1d0c2e6859@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T141000
 DTEND;TZID=Australia/Melbourne:20260529T145000
@@ -1022,8 +892,8 @@ DESCRIPTION:Ellie Peppa: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/
 END:VEVENT
 BEGIN:VEVENT
 UID:f3df2041fdece4f1c8021350a6c7b341@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T145000
 DTEND;TZID=Australia/Melbourne:20260529T153000
@@ -1035,8 +905,8 @@ DESCRIPTION:Emily Tran: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/B
 END:VEVENT
 BEGIN:VEVENT
 UID:d09fdfedcefdea0c24afc829fe603c7f@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260423T121500
 DTEND;TZID=Australia/Melbourne:20260423T131500
@@ -1067,8 +937,8 @@ DESCRIPTION:Nadja Milewski: “New approaches to studying migrant fertility
 END:VEVENT
 BEGIN:VEVENT
 UID:be2b195d7cb6cdac5576ac7c62a20bf0@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260430T121500
 DTEND;TZID=Australia/Melbourne:20260430T131500
@@ -1095,8 +965,8 @@ DESCRIPTION:Nicole Black: “Dynamic Effects of Out-of-Home Care on Childre
 END:VEVENT
 BEGIN:VEVENT
 UID:36e9345d95b550eaa2802e61dabe7ba3@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260507T121500
 DTEND;TZID=Australia/Melbourne:20260507T131500
@@ -1128,8 +998,8 @@ DESCRIPTION:Donn Feir: “Institutional Drift\, Property Rights\, and Econo
 END:VEVENT
 BEGIN:VEVENT
 UID:a22e141966a4cb12f2b3013cd9bb7a01@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260514T121500
 DTEND;TZID=Australia/Melbourne:20260514T131500
@@ -1141,8 +1011,8 @@ DESCRIPTION:Massimo Anelli: “TBD”\nhttps://www.massimoanelli.com/\n\nGo
 END:VEVENT
 BEGIN:VEVENT
 UID:ef3cab3ac35000ecced987ee39844c69@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260521T121500
 DTEND;TZID=Australia/Melbourne:20260521T131500
@@ -1154,8 +1024,8 @@ DESCRIPTION:Richard Luger: “TBD”\nhttps://richardluger.github.io/\n\nGo
 END:VEVENT
 BEGIN:VEVENT
 UID:4d0b3932d1149f8d012e483bbc833f63@generated
-DTSTAMP:20260423T200231Z
-LAST-MODIFIED:20260423T200231Z
+DTSTAMP:20260424T194415Z
+LAST-MODIFIED:20260424T194415Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260604T121500
 DTEND;TZID=Australia/Melbourne:20260604T131500
