@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2b9ab9f4335524b457892e87318d266e@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260506T121500
 DTEND;TZID=Australia/Melbourne:20260506T131500
@@ -41,8 +41,8 @@ URL:https://unimelb.zoom.us/j/87382843497?pwd=vPHwqsEHhImdxY1FKvVzHR4rgf9Nm
 END:VEVENT
 BEGIN:VEVENT
 UID:563f4da0239da57b3e3deb7a623eb07d@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260513T121500
 DTEND;TZID=Australia/Melbourne:20260513T131500
@@ -58,8 +58,8 @@ URL:https://unimelb.zoom.us/j/87382843497?pwd=vPHwqsEHhImdxY1FKvVzHR4rgf9Nm
 END:VEVENT
 BEGIN:VEVENT
 UID:21dec51f71cda1aabbf626cf98b0e50f@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260505T110000
 DTEND;TZID=Australia/Melbourne:20260505T121500
@@ -92,8 +92,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:3bf568740519ccda71d3a867a07bd328@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260512T110000
 DTEND;TZID=Australia/Melbourne:20260512T121500
@@ -129,8 +129,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:4eee0cc04ce514dca3b273da310a2c84@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260526T110000
 DTEND;TZID=Australia/Melbourne:20260526T121500
@@ -145,8 +145,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:806799b27d82d0cf17f7bb3f372323f6@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260602T110000
 DTEND;TZID=Australia/Melbourne:20260602T121500
@@ -160,8 +160,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:ac519288c257ca7aca6f5d256cfcdcac@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260507T110000
 DTEND;TZID=Australia/Melbourne:20260507T121500
@@ -194,8 +194,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:d15f6afb753b8c9c854cea179bb2c479@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260514T110000
 DTEND;TZID=Australia/Melbourne:20260514T121500
@@ -222,8 +222,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:130717cb469a4f6ceae125fb9b39402e@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260528T110000
 DTEND;TZID=Australia/Melbourne:20260528T121500
@@ -238,8 +238,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:98ed5f72610acbf7ea254fa5be863ff6@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260730T110000
 DTEND;TZID=Australia/Melbourne:20260730T121500
@@ -251,8 +251,8 @@ DESCRIPTION:Romain Gauriot: “TBD”\nhttps://sites.google.com/site/romain
 END:VEVENT
 BEGIN:VEVENT
 UID:fc37d7433342b9d0d7a54391d2d2b256@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260813T110000
 DTEND;TZID=Australia/Melbourne:20260813T121500
@@ -263,8 +263,8 @@ DESCRIPTION:Kirby Nielsen: “TBD”\nhttps://kirbyknielsen.com/\n\nGoogle
 END:VEVENT
 BEGIN:VEVENT
 UID:d6d51a3cceedca1e00cbc4794085cd23@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260827T110000
 DTEND;TZID=Australia/Melbourne:20260827T121500
@@ -275,8 +275,8 @@ DESCRIPTION:Ashley Craig: “TBD”\nhttps://www.ashleycraig.com/\n\nGoogle
 END:VEVENT
 BEGIN:VEVENT
 UID:bc5e60effc0c23a51ddba55bd5e77cce@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T110000
 DTEND;TZID=Australia/Melbourne:20260910T121500
@@ -288,8 +288,8 @@ DESCRIPTION:Lionel Page: “TBD”\nhttps://sites.google.com/site/liopage/h
 END:VEVENT
 BEGIN:VEVENT
 UID:584cd84ada0cc22293b3392b1013bd57@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T110000
 DTEND;TZID=Australia/Melbourne:20260924T121500
@@ -301,8 +301,8 @@ DESCRIPTION:Maroš Servátka: “TBD”\nhttps://sites.google.com/site/maro
 END:VEVENT
 BEGIN:VEVENT
 UID:be85c8c8a51448a678086ef03175d138@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261008T110000
 DTEND;TZID=Australia/Melbourne:20261008T121500
@@ -314,8 +314,8 @@ DESCRIPTION:Ralph Bayer: “TBD”\nhttps://researchers.adelaide.edu.au/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:fe69003f8212471e48c9ea8e2060ed97@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261022T110000
 DTEND;TZID=Australia/Melbourne:20261022T121500
@@ -326,8 +326,8 @@ DESCRIPTION:Uzma Afzal: “TBD”\nhttps://www.uzmaafzal.com/\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:196df18caa4b44d6cb2b43a7bbd0e8aa@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T110000
 DTEND;TZID=Australia/Melbourne:20261015T121500
@@ -338,8 +338,8 @@ DESCRIPTION:Steve Wu: “TBD”\nhttps://ag.purdue.edu/directory/sywu\n\nGo
 END:VEVENT
 BEGIN:VEVENT
 UID:6a3d03a132f3e0c1db9b8b5705c9f270@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260507T120000
 DTEND;TZID=Australia/Melbourne:20260507T131500
@@ -366,8 +366,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:b1ba5b0bc8d54be470bc74519ad460da@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260514T120000
 DTEND;TZID=Australia/Melbourne:20260514T131500
@@ -391,8 +391,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:3635d4412b3e5676c89a9a20d80cb4b8@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260521T120000
 DTEND;TZID=Australia/Melbourne:20260521T131500
@@ -417,8 +417,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:e2be7fadf0d6ff6978277a43e9fd2fdd@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260730T120000
 DTEND;TZID=Australia/Melbourne:20260730T131500
@@ -430,8 +430,8 @@ DESCRIPTION:Yasin Kursat Onder: “TBD”\nhttps://sites.google.com/view/ya
 END:VEVENT
 BEGIN:VEVENT
 UID:a61aece2a19a6fd93eec30efed1d6412@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260806T120000
 DTEND;TZID=Australia/Melbourne:20260806T131500
@@ -442,8 +442,8 @@ DESCRIPTION:Tommy Iao: “TBD”\nhttps://tommyiao.github.io/\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf58dba3bc9e1ea57b54088221551fd@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260917T120000
 DTEND;TZID=Australia/Melbourne:20260917T131500
@@ -466,8 +466,8 @@ DESCRIPTION:Chansik Yoon: “Growth in the Shaded Sun: The Role of Internat
 END:VEVENT
 BEGIN:VEVENT
 UID:7292f4c0f5b44beeab4b59600dc5d162@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260921T120000
 DTEND;TZID=Australia/Melbourne:20260921T131500
@@ -479,8 +479,8 @@ DESCRIPTION:Romina Ruprecht: “TBD”\nhttps://sites.google.com/view/romin
 END:VEVENT
 BEGIN:VEVENT
 UID:acdca22b7a26552a87228a77fdbd6695@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T120000
 DTEND;TZID=Australia/Melbourne:20260924T131500
@@ -492,8 +492,8 @@ DESCRIPTION:Joseph Kachovec: “TBD”\nhttps://www.rba.gov.au/research/res
 END:VEVENT
 BEGIN:VEVENT
 UID:9775dccfb1d1c8fa101137cc374001fe@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T120000
 DTEND;TZID=Australia/Melbourne:20260910T131500
@@ -505,8 +505,8 @@ DESCRIPTION:Lukasz Rachel: “TBD”\nhttps://sites.google.com/site/lukaszr
 END:VEVENT
 BEGIN:VEVENT
 UID:4d74938107fe06912ef1477fe29d2eb4@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T120000
 DTEND;TZID=Australia/Melbourne:20261015T131500
@@ -517,40 +517,9 @@ DESCRIPTION:Morten Ravn: “TBD”\nhttps://sites.google.com/view/mortenora
  ACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
-UID:938a4080484f31dc578d98646efc8efd@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260501T133000
-DTEND;TZID=Australia/Melbourne:20260501T144500
-SUMMARY:Econometrics – Jack Jewson (Monash) – Bayesian computation for 
- high-dimensional Gaussian Graphical Models with spike-and-slab priors
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Jack Jewson: “Bayesian computation for high-dimensional Gauss
- ian Graphical Models with spike-and-slab priors”\nhttps://sites.google.c
- om/view/jack-jewson-academic-profile/home\n\nZoom: https://unimelb.zoom.us
- /j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8CY.1&from=addon\n\nGoogle M
- aps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nGaussian grap
- hical models are widely used to infer dependence structures in data. Bayes
- ian methods are appealing to quantify uncertainty associated with structur
- al learning and to incorporate available prior and external information in
- to analyses. However\, computational demands have limited their applicatio
- n when the number of variables is large. We propose fully Bayesian algorit
- hms that probably scale well to high dimensions when the data-generating p
- recision matrix is sparse. We further show how the spike-and-slab prior fr
- amework allows for the incorporation of external network data to help impr
- ove inference and interpretability when the number of observations is smal
- l relative to the number of variables. We use our methodology to investiga
- te dependence structures in COVID-19 cases across the US and to explore wh
- ether connectedness on facebook can explain partial correlations between g
- eographically distant counties.
-URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
- Y.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
 UID:ea870c6c84590a24cbdea0d517b6c51d@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260515T133000
 DTEND;TZID=Australia/Melbourne:20260515T144500
@@ -578,8 +547,8 @@ URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
 END:VEVENT
 BEGIN:VEVENT
 UID:1fd2de79f472542e543d78fba0a4fe93@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T133000
 DTEND;TZID=Australia/Melbourne:20260529T144500
@@ -614,39 +583,9 @@ URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
  Y.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
-UID:f66883981c0fabd1f8b3b10bbb92fbbe@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260501T110000
-DTEND;TZID=Australia/Melbourne:20260501T122000
-SUMMARY:Economic Theory – Andrew Wait (USydney) – Managerial contributi
- on and direction in principal-agent models
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Andrew Wait: “Managerial contribution and direction in princi
- pal-agent models”\nhttps://profiles.sydney.edu.au/andrew.wait\n\nGoogle 
- Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nProjects are
-  often initiated by a single person - a principal - who then decides wheth
- er to form a team by sharing project value with an agent. When does a prin
- cipal form a team\, when complete the project on their own\, and when does
-  the principal delegated the project in its entirety to the agent? With a 
- linear contract\, common with nonfinancial output or in entrepreneurial ve
- ntures\, there is too much single execution\; that is\, the principal does
-  not form a team often enough\, and there is either too little joint execu
- tion when one of the workers has low productivity or too little delegation
-  otherwise. Overall\, the inefficiency in project execution (due to moral 
- hazard) appears less severe than the inefficiency in the principal’s tea
- m formation decision (due to project hoarding). We also examine a framewor
- k in which a principal can direct agent effort\, at a cost. This effort ca
- n either crowd-in or crowd-out agent effort\, depending on whether manager
- ial direction and agent self-directed efforts are complements or substitut
- es. We show that in large teams managerial direction can completely crowd-
- out agent effort.
-END:VEVENT
-BEGIN:VEVENT
 UID:5b48508af7e0daca9c46713d468dfa89@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260508T110000
 DTEND;TZID=Australia/Melbourne:20260508T122000
@@ -672,66 +611,9 @@ DESCRIPTION:Mitch Watt: “Topping Up and Optimal Subsidies”\nhttps://www
  ion margins\, provide free baselines\, or restrict topping up.
 END:VEVENT
 BEGIN:VEVENT
-UID:384e0c071bb332ba78f74f352d3616a2@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260501T133000
-DTEND;TZID=Australia/Melbourne:20260501T141000
-SUMMARY:PhD Brown Bag Seminar – Jinjing Chen (University of Melbourne) 
- – Air Pollution and Road Safety: The Role of Agricultural Burning in Pak
- istan
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Jinjing Chen: “Air Pollution and Road Safety: The Role of Agr
- icultural Burning in Pakistan”\n\nGoogle Maps: https://maps.app.goo.gl/B
- irLkJKurX9pSbBB8\n\nABSTRACT:\nRoad traffic accidents impose substantial s
- ocial costs\, especially in low- and middle-income countries\, yet the env
- ironmental determinants of accident risk remain poorly understood. Using a
- dministrative emergency accident records\, this paper studies the effect o
- f agricultural burning on road accidents in Punjab\, Pakistan\, from 2022 
- to 2025. I combine VIIRS active-fire detections with HYSPLIT-simulated smo
- ke plume trajectories to predict whether smoke from fires outside a local 
- area is transported into it\, and use this predicted smoke exposure as an 
- instrument for local smog exposure. I then use this variation to estimate 
- the causal effect of agricultural burning-related smoke on road accidents.
-  In addition\, I  disentangle the roles of air pollution and reduced visib
- ility\, quantify the contribution of transboundary smoke from Indian Punja
- b\, and identify the upwind burn locations that generate the largest downs
- tream road-safety externalities\, with implications for spatially targeted
-  enforcement.
-END:VEVENT
-BEGIN:VEVENT
-UID:cb72d21e53a175cbac85f93444d2c9d2@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260501T141000
-DTEND;TZID=Australia/Melbourne:20260501T145000
-SUMMARY:PhD Brown Bag Seminar – Kaiyue Chen (University of Melbourne) –
-  Eﬀicient Allocation of Public Electric Vehicle Chargers
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Kaiyue Chen: “Eﬀicient Allocation of Public Electric Vehicl
- e Chargers”\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\
- nABSTRACT:\nAs demand for electric vehicles (EVs) and public charging grow
- s\, efficiently allocating scarce charging capacity becomes increasingly i
- mportant. This paper examines alternative pricing mechanisms for allocatin
- g public Level 2 EV chargers to users with the highest marginal value. A t
- heoretical framework incorporates drivers’ heterogeneous willingness to 
- pay (WTP) and inconvenience costs of vacating\, and compares three mechani
- sms: flat electricity pricing\, flat pricing with an idle fee\, and flat p
- ricing with a spot occupancy fee.\n\nSimulations suggest that spot fees te
- nd to achieve higher welfare\, especially under high congestion\, by reall
- ocating charger access toward higher-WTP users and inducing earlier depart
- ures among users with lower vacate costs. These results are robust to exte
- nsions with charging-time limits and implementation frictions in departure
-  timing. A field experiment is proposed to identify the causal effects of 
- pricing on behavior and to recover key structural parameters for counterfa
- ctual welfare analysis.
-END:VEVENT
-BEGIN:VEVENT
 UID:e0418d19fa053c2e193bf3d684a49a53@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260508T133000
 DTEND;TZID=Australia/Melbourne:20260508T141000
@@ -759,8 +641,8 @@ DESCRIPTION:Nicholas Chiang: “Childhood Exposure to Social Assistance and
 END:VEVENT
 BEGIN:VEVENT
 UID:213bb739350ec2c775d449ff5fbb16f7@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260508T141000
 DTEND;TZID=Australia/Melbourne:20260508T145000
@@ -793,8 +675,8 @@ DESCRIPTION:Longcan Li: “A Flexible Multiplicative Unobserved Component M
 END:VEVENT
 BEGIN:VEVENT
 UID:2a670d9e205e3d949cf075616ae93639@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260508T145000
 DTEND;TZID=Australia/Melbourne:20260508T153000
@@ -823,8 +705,8 @@ DESCRIPTION:Adam Wang: “Bayesian Semiparametric Multitask Learning with S
 END:VEVENT
 BEGIN:VEVENT
 UID:cb4d82edb8f68b2f8e050cbbed5f91f9@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260515T133000
 DTEND;TZID=Australia/Melbourne:20260515T141000
@@ -838,8 +720,8 @@ DESCRIPTION:Daniel Tiong: “The Quantile Factor Vector Autoregressive Mode
 END:VEVENT
 BEGIN:VEVENT
 UID:5948369a681d838cfefa2ca792f23fbd@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260515T141000
 DTEND;TZID=Australia/Melbourne:20260515T145000
@@ -867,8 +749,8 @@ DESCRIPTION:Pengyun CHen: “Are Green Bonds Financially Distinct? Evidence
 END:VEVENT
 BEGIN:VEVENT
 UID:c0511cdd6a97b0f501e8c9a39f30e47e@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260515T145000
 DTEND;TZID=Australia/Melbourne:20260515T153000
@@ -896,22 +778,34 @@ DESCRIPTION:Ray Gomez: “A Decision-Focused Learning Approach to Poverty T
   post-transfer poverty.
 END:VEVENT
 BEGIN:VEVENT
-UID:d6595a02c7441673ee0895a934b1bc22@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+UID:7e375abb8a1dc6374b71ddae83d7de4e@generated
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260522T133000
 DTEND;TZID=Australia/Melbourne:20260522T141000
 SUMMARY:PhD Brown Bag Seminar – Abhirupa Das (University of Melbourne) 
- – TBD
+ – Effect of Social Learning when Corruption “Greases the Wheels”: An
+  Experimental Study
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Abhirupa Das: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl
- /BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+DESCRIPTION:Abhirupa Das: “Effect of Social Learning when Corruption “G
+ reases the Wheels”: An Experimental Study”\n\nGoogle Maps: https://map
+ s.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nI propose a laboratory experi
+ ment to empirically study how social learning and peer observability influ
+ ence the evolution of bribe-setting behaviour among public service provide
+ rs in a networked environment where bribes have certain welfare-enhancing 
+ properties. Particularly\, the experiment would examine how exposure to pe
+ ers' bribe-setting choices affects extortionary corruption\, and whether s
+ uch exposure leads to norm convergence\, learning\, or crowding-in of unet
+ hical behaviour. This study aims to contribute to the understanding of beh
+ avioural mechanisms underlying corruption and has important implications f
+ or institutional design\, especially where service delivery agents operate
+  with high discretion and limited oversight.
 END:VEVENT
 BEGIN:VEVENT
 UID:e9a5406cca5ac41e91266581a2d36f54@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260522T141000
 DTEND;TZID=Australia/Melbourne:20260522T145000
@@ -923,8 +817,8 @@ DESCRIPTION:Ellie Peppa: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/
 END:VEVENT
 BEGIN:VEVENT
 UID:2956d4024414e97b3dc716a0f5ff61eb@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260522T145000
 DTEND;TZID=Australia/Melbourne:20260522T153000
@@ -935,8 +829,8 @@ DESCRIPTION:: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9
 END:VEVENT
 BEGIN:VEVENT
 UID:ee0d12639b7322f0418d604935091825@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T132000
 DTEND;TZID=Australia/Melbourne:20260529T140000
@@ -948,8 +842,8 @@ DESCRIPTION:Filippo Dell'Andrea: “The Economics of Speed Limits”\n\nGoo
 END:VEVENT
 BEGIN:VEVENT
 UID:2bb72fafe778a78757695e52c80e3f51@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T140000
 DTEND;TZID=Australia/Melbourne:20260529T144000
@@ -961,8 +855,8 @@ DESCRIPTION:Martina Repetto: “TBD”\n\nGoogle Maps: https://maps.app.goo
 END:VEVENT
 BEGIN:VEVENT
 UID:305816ea5290b02f470b5bff73b6a0d3@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T144000
 DTEND;TZID=Australia/Melbourne:20260529T152000
@@ -992,8 +886,8 @@ DESCRIPTION:Sonia Ma: “Gender norms and Confucian legacies in\nRepublican
 END:VEVENT
 BEGIN:VEVENT
 UID:36e9345d95b550eaa2802e61dabe7ba3@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260507T121500
 DTEND;TZID=Australia/Melbourne:20260507T131500
@@ -1024,35 +918,68 @@ DESCRIPTION:Donn Feir: “Institutional Drift\, Property Rights\, and Econo
  ed ways.
 END:VEVENT
 BEGIN:VEVENT
-UID:a22e141966a4cb12f2b3013cd9bb7a01@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+UID:fad0d673af524cc7c24e8f850d534098@generated
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260514T121500
 DTEND;TZID=Australia/Melbourne:20260514T131500
 SUMMARY:Melbourne Institute Seminar – Massimo Anelli (Bocconi University)
-  – TBD
+  – The Departed: Italian Migration and the American Mafia
 LOCATION:Room 615\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Massimo Anelli: “TBD”\nhttps://www.massimoanelli.com/\n\nGo
- ogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB11\n\nABSTRACT:\nTBA
+DESCRIPTION:Massimo Anelli: “The Departed: Italian Migration and the Amer
+ ican Mafia”\nhttps://www.massimoanelli.com/\n\nGoogle Maps: https://maps
+ .app.goo.gl/BirLkJKurX9pSbBB11\n\nABSTRACT:\nWe document the transplantati
+ on of the Sicilian Mafia to the United States in the 1920s\, when a large-
+ scale repression campaign in Italy targeted Mafia strongholds and forced m
+ any Mafiosi to migrate\, and study the resulting short- and long-term effe
+ cts across neighborhoods in U.S. cities. Using newly linked administrative
+  and historical data from the U.S. Census\, Social Security records\, and 
+ declassified files of the Federal Bureau of Narcotics\, we show that neigh
+ borhoods hosting enclaves of migrants from Sicilian Mafia strongholds targ
+ eted by the repression later became centers of Italo-American Mafia activi
+ ty. These neighborhoods experienced higher violence\, incarceration\, and 
+ financial exclusion in the short run\, but higher income\, employment\, an
+ d educational attainment in the long run. The results suggest that while t
+ he arrival of organized criminal networks initially intensified conflict a
+ nd exclusion\, their subsequent consolidation generated localized economic
+  benefits\, helping to explain the long-term resilience and persistence of
+  organized crime.
 END:VEVENT
 BEGIN:VEVENT
-UID:ef3cab3ac35000ecced987ee39844c69@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+UID:63c63fe236bf51b0e5f7aa55dbde533e@generated
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260521T121500
 DTEND;TZID=Australia/Melbourne:20260521T131500
 SUMMARY:Melbourne Institute Seminar – Richard Luger (Université Laval) 
- – TBD
+ – Multiple Testing for the Topology of Financial Networks
 LOCATION:Room 615\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Richard Luger: “TBD”\nhttps://richardluger.github.io/\n\nGo
- ogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB12\n\nABSTRACT:\nTBA
+DESCRIPTION:Richard Luger: “Multiple Testing for the Topology of Financia
+ l Networks”\nhttps://richardluger.github.io/\n\nGoogle Maps: https://map
+ s.app.goo.gl/BirLkJKurX9pSbBB12\n\nABSTRACT:\nThis paper advances the econ
+ ometric analysis of network connectedness by introducing exact simulation-
+ based inference methods to assess pairwise and aggregated spillover effect
+ s among variables in vector autoregressive models. While the estimation of
+  connectedness using forecast error variance decompositions is well establ
+ ished\, our contribution lies in developing hypothesis testing procedures 
+ that provide a statistical foundation for assessing the significance of co
+ nnectedness measures. To address the resulting multiple testing problem\, 
+ we present algorithms for both single-step and step-down p-value adjustmen
+ ts that control the familywise error rate in finite samples. We also exten
+ d the methodology to group-based analysis\, thereby broadening its applica
+ bility. Simulation results show that our procedures ensure simultaneous fi
+ nite-sample correctness while maintaining good statistical power. We illus
+ trate the proposed inference procedures through empirical analyses of retu
+ rn and volatility spillovers among global stock markets\, revealing new in
+ sights into financial market linkages and the vulnerability of financial n
+ etworks to contagion.
 END:VEVENT
 BEGIN:VEVENT
 UID:4d0b3932d1149f8d012e483bbc833f63@generated
-DTSTAMP:20260507T200754Z
-LAST-MODIFIED:20260507T200754Z
+DTSTAMP:20260508T200351Z
+LAST-MODIFIED:20260508T200351Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260604T121500
 DTEND;TZID=Australia/Melbourne:20260604T131500
