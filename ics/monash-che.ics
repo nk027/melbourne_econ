@@ -2,275 +2,459 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Monash Events//EN
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: Barriers to care under universal coverage: Evi
- dence from Switzerland
-DTSTART:20260304T120000
-DTEND:20260304T130000
-DESCRIPTION:This seminar presents evidence on disparities in access to car
- e from Switzerland\, combining administrative data\, small-area analyses\,
-  and a broader research agenda using quasi-experimental and experimental a
- pproaches.\n\nThe first part discusses national evidence on socioeconomic 
- inequalities in potentially avoidable hospitalisations\, a proxy for inade
- quate access to community-based ambulatory care. The study documents a rob
- ust socioeconomic gradient and substantial variation across cantons (Swiss
-  states). Exploiting Switzerland’s decentralised institutional structure
- \, the analysis then examines policy correlates of these inequalities. Res
- ults reveal positive associations between inequality and both the cost of 
- mandatory health insurance and the regressivity of premium subsidy schemes
- \, alongside a weaker negative association with general practitioner densi
- ty. While descriptive\, these findings point to potential policy mechanism
- s shaping equity in access.\n\nThe second study analyses paediatric emerge
- ncy department utilisation in Geneva. In this dense urban setting\, where 
- geographical access is less likely to be the primary constraint\, the resu
- lts highlight the prominent role of socioeconomic vulnerability. The obser
- ved patterns are consistent with disparities arising beyond physical acces
- s constraints\, including potential informational frictions. The second pa
- rt outlines forthcoming research examining mechanisms underlying access di
- sparities\, studying responses to cost-sharing using Swiss insurance micro
- data and the role of informational frictions through a field experiment.\n
- \nSpeaker profile\n\n<a href="https://www.lche.ch/researchers/">Joachim Ma
- rti</a> is an Associate Professor of Health Economics at the University of
-  Lausanne (Unisanté)\, Co-Lead of the Lausanne Centre for Health Economic
- s\, and currently a Visiting Researcher at the Centre for Health Economics
-  (CHE). His work spans health economics\, health policy\, and health servi
- ces research\, with a focus on efficiency and equity in healthcare\, healt
- hcare utilisation\, health behaviours\, and patient and provider decision-
- making. His current research studies how incentives\, insurance design\, a
- nd market structures influence healthcare utilisation\, quality\, and ineq
- ualities in access to care. This includes work on competition and cost-sha
- ring in mental healthcare\, private insurance and inpatient treatment deci
- sions\, methodological issues in choice experiments\, and analyses of long
- -term care trajectories.\n\nWeekly seminar series\n\nAs part of our Centre
- 's vibrant research culture\, we host a weekly seminar series. Visiting an
- d invited researchers present current research relating to the economics o
- f health and wellbeing\, and the healthcare sector. Visitors are welcome t
- o join these sessions where discussion and debate is encouraged.\n\nFor fu
- rther information on our seminar series\, please contact <a href="mailto:
- Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a class="
- btn" href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6
- dZbAX5do.1" target="_blank">Join Zoom</a>
-LOCATION:Caulfield campus\, Building C\, level 1\, room C121
-URL:https://www.monash.edu/business/events/che-seminar-series-barriers-to-
- care-under-universal-coverage-evidence-from-switzerland
+SUMMARY:CHE Seminar Series: Maternity benefits\, consumption and labor sup
+ ply - Estimating causal effects with bank transaction data
+DTSTART:20260513T120000
+DTEND:20260513T130000
+DESCRIPTION:We estimate the causal effects of a generous maternity benefit
+  introduced in Madrid in 2022 (MMB)\, which granted €500 per month from 
+ the fifth month of pregnancy until a child’s second birthday to mothers 
+ under age 31 with low or moderate income. We exploit the sharp eligibility
+  cutoff on January 1\, 2022\, using a regression discontinuity design and 
+ high-frequency bank transaction data covering daily spending\, earnings\, 
+ and account balances. Eligible mothers received\, on average\, over €7\,
+ 000 in MMB payments during the 29 months surrounding childbirth. Total spe
+ nding increased by about €1\,200\, implying an average MPC of 0.16\, wit
+ h strong heterogeneity: the MPC is zero among higher-income mothers and ri
+ ses to 0.41 among lower-income mothers\, who show sizable increases in bas
+ ic-necessity spending and sharp\, short-lived spikes in expenditure after 
+ each deposit. Higher-income mothers exhibit no meaningful change in consum
+ ption and save more than half of the benefit\, with no robust evidence of 
+ changes in labor earnings. Across administrative\, survey\, and transactio
+ n data\, we find no aggregate decline in employment. Overall\, the benefit
+  alleviates liquidity constraints for lower-income mothers while leaving l
+ abor supply largely unaffected\, with some evidence consistent with modest
+  positive responses.\n\nSpeaker profile\n\n<a href="https://sites.google.c
+ om/view/danielfernandezkranz/home">Daniel Fernández Kranz</a> is an Assoc
+ iate (Tenured) Professor of Economics\, Chair of the Economics Department\
+ , and Vice-Dean for Economics at IE University School of Politics\, Econom
+ ics and Global Affairs in Madrid. He is also a Research Fellow at IZA Inst
+ itute of Labor Economics and serves as the Academic Director of the Master
+  in Applied Economics at IE University.\n\nDaniel is an empirical microeco
+ nomist whose research focuses on the economics of the family\, gender\, he
+ alth\, and public policy evaluation. He combines administrative data and l
+ arge-scale survey data to analyze the impact of public policies on gender 
+ outcomes\, with particular attention to labor market behavior\, health\, m
+ arriage\, and fertility decisions. His work also examines how policies and
+  social contexts shape gender norms and their effects on marriage\, fertil
+ ity\, and overall well-being.\n\nWeekly seminar series\n\nAs part of our C
+ entre's vibrant research culture\, we host a weekly seminar series. Visiti
+ ng and invited researchers present current research relating to the econom
+ ics of health and wellbeing\, and the healthcare sector. Visitors are welc
+ ome to join these sessions where discussion and debate is encouraged.\n\nF
+ or further information on our seminar series\, please contact <a href="ma
+ ilto:Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a cl
+ ass="btn" href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzE
+ WsMC6dZbAX5do.1" target="_blank">Join Zoom</a>
+LOCATION:Caulfield campus\, Building C\, level 1\, room C1.21
+URL:https://www.monash.edu/business/events/che-seminar-series-maternity-be
+ nefits-consumption-and-labor-supply-estimating-causal-effects-with-bank-tr
+ ansaction-data
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: Born Too Soon? Policy-Induced Birth Timing and
-  Child Development
-DTSTART:20260311T120000
-DTEND:20260311T130000
-DESCRIPTION:We examine the impact of policy-induced changes in birth timin
- g on children’s health and educational outcomes. We exploit a natural ex
- periment in Spain: the abrupt termination of a generous child benefit at t
- he end of 2010\, which led to a sharp increase in elective deliveries duri
- ng the final week of December. Children born during this spike had shorter
-  gestation periods and lower birth-weight (within the normal range)\, and 
- experienced a higher incidence of respiratory disorders during infancy. We
-  find that the affected cohort of children had significantly lower school 
- performance at age seven\, suggesting large persistent effects on cognitiv
- e development.\n\nSpeaker profile\n\n<a href="https://libertadgonzalez.com
- /">Libertad González</a> is a Professor of Economics at Universitat Pompe
- u Fabra and the Barcelona School of Economics\, specialising in labor\, pu
- blic\, and gender economics. She holds a PhD in Economics from Northwester
- n University. She has published in leading peer-reviewed journals such as 
- the Economic Journal\, the Journal of the European Economic Association\, 
- the American Economic Journal: Economic Policy\, the Journal of Labor Econ
- omics\, the Journal of Public Economics\, the Journal of Human Resources\,
-  and the Journal of Health Economics. Her research accumulates more than 4
- \,000 citations in Google Scholar. She was awarded an ERC Consolidator Gra
- nt to study early-life interventions and child development. She served as 
- President of the European Society for Population Economics (in 2023) and i
- s currently vice-president of the Spanish Economic Association.\n\nWeekly 
- seminar series\n\nAs part of our Centre's vibrant research culture\, we ho
- st a weekly seminar series. Visiting and invited researchers present curre
- nt research relating to the economics of health and wellbeing\, and the he
- althcare sector. Visitors are welcome to join these sessions where discuss
- ion and debate is encouraged.\n\nFor further information on our seminar se
- ries\, please contact <a href="mailto:Trong-Anh.Trinh@monash.edu">Trong-A
- nh.Trinh@monash.edu</a> .\n\n<a class="btn" href="https://monash.zoom.us/j
- /83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1" target="_blank">Join Zo
- om</a>
-LOCATION:Caulfield campus\, Building H\, level 9\, room H914
-URL:https://www.monash.edu/business/events/che-seminar-series-born-too-soo
- n-policy-induced-birth-timing-and-child-development
+SUMMARY:CHE Seminar Series: Who benefits from food tax exemptions in lower
+  income settings? Evidence on pass-through and incidence
+DTSTART:20260520T120000
+DTEND:20260520T130000
+DESCRIPTION:Tax exemptions for basic items exist worldwide\, typically jus
+ tified by governments as a way to reduce the cost of living for poorer hou
+ seholds. We study the unanticipated removal of consumption taxes on select
+ ed food items in Papua New Guinea by conducting a difference-in-difference
+ s analysis using administrative data\, a supermarket price census\, web-sc
+ raped online prices\, and a nationally representative\, household phone su
+ rvey panel. We find complete pass-through in formal supermarkets in centra
+ l urban districts\, where retail competition is strong\, but no pass-throu
+ gh in informal stores or rural areas\, where poorer households mainly shop
+ . For every dollar of foregone revenue\, only five cents accrued to the po
+ orest quintile\, while the richest quintile and store owners each accrued 
+ one-third of the benefits. This degree of regressivity was not unanticipat
+ ed by 237 experts who participated in a prediction survey. Our findings de
+ monstrate that food tax exemptions are inherently regressive in lower-inco
+ me settings\, due to high informality\, substantial market segmentation\, 
+ and positive income elasticity of demand for basic food.\n\nSpeaker profil
+ e\n\n<a href="https://chrishoyeconomist.wordpress.com/">Christopher Hoy</a
+ > is an applied microeconomist working on development economics\, politica
+ l economy\, and public finance. His research has been published in leading
+  journals\, including the American Economic Journal: Economic Policy\, the
+  Journal of Development Economics\, and the Journal of Economic Behavior a
+ nd Organization. His work has also been featured in major media outlets su
+ ch as the New York Times\, The Economist\, and the BBC\, and has been cite
+ d more than 2\,000 times. He received the 2025 Sir Tony Atkinson Prize fro
+ m the Society for the Study of Economic Inequality.\n\nHe is currently a M
+ cKenzie Research Fellow at the University of Melbourne\, based in the Melb
+ ourne Institute\, and is on external leave from the World Bank. He is affi
+ liated with the MIT Poverty Action Lab (J-PAL)\, the World Bank Tax Data L
+ ab (DATAX)\, the Institute for Fiscal Studies (IFS)\, and the Tax and Tran
+ sfer Policy Institute. Before joining the World Bank as a Young Profession
+ al\, he was a Research Fellow\, equivalent to an Assistant Professor\, at 
+ the Australian National University. He has also worked for a range of orga
+ nisations\, including UNICEF\, ADB\, ODI\, J-PAL/IPA\, and the Australian 
+ Government.\n\nWeekly seminar series\n\nAs part of our Centre's vibrant re
+ search culture\, we host a weekly seminar series. Visiting and invited res
+ earchers present current research relating to the economics of health and 
+ wellbeing\, and the healthcare sector. Visitors are welcome to join these 
+ sessions where discussion and debate is encouraged.\n\nFor further informa
+ tion on our seminar series\, please contact <a href="mailto:Trong-Anh.Tri
+ nh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a class="btn" href="ht
+ tps://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1" t
+ arget="_blank">Join Zoom</a>
+LOCATION:Caulfield campus\, Building C\, level 1\, room C1.21
+URL:https://www.monash.edu/business/events/che-seminar-series-for-shorter-
+ or-poorer-attitudes-toward-the-trade-off-between-poverty-and-mortality
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:15th Australasian Workshop on Econometrics and Health Economics
-DTSTART:20260415T123000
-DTEND:20260417T123000
-DESCRIPTION:This workshop will provide a forum for the development and dis
- semination of applications of econometrics and other quantitative approach
- es in health economics. It will follow the format of the long-running Euro
- pean workshops on econometrics and health economics.\n\nWe are now calling
-  for papers for presentation\, with up to 14 papers to be accepted. Presen
- tations by doctoral students and early career researchers are encouraged.\
- n\nPapers accepted for presentation will each be allocated a 55-minute ses
- sion\, including 30 minutes for a presentation\, 10 minutes for an appoint
- ed discussant and 10 minutes for general discussion.\n\nThe number of work
- shop participants is strictly limited\, and participants will be expected 
- to attend the full workshop.\n\nPlease see the drop-down below for more in
- formation on papers\, including the submission deadline.\n\n<!-- false -->
- \n<div class="accordion nested-accordion js-frontend-complex-accordion" id
- ="Component-4158062" role="tablist">\n<div class="hidden">\n<span class="h
- idden nested-accordion__expand-text">View</span>\n<span class="hidden nest
- ed-accordion__collapse_text">Close</span>\n</div>\n<section class="panel s
- ection1 Paper_submissions-1 close">\n<h3 aria-controls="Paper_submissions-
- 1" aria-expanded="false" class="accTitle" data-click-event="monash.accordi
- on.toggle" data-expanded-by-default="false" data-position="1" data-title="
- Paper submissions" data-type="nested" id="Paper_submissions-1" role="tab">
- \n<span class="accTitle__icon"><svg><use href="https://www.monash.edu/__da
- ta/assets/git_bridge/0009/2651868/dist/assets/images/icon-spritesheet.svg?
- h=1d3ca15#copy"></use></svg></span>\n<span class="accTitle__text">Paper su
- bmissions</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTi
- tle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="accTitle__
- toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="V
- iew" src="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-out
- line-right.svg"/></span>\n</a>\n</span>\n</h3>\n<div aria-labelledby="Pape
- r_submissions-1" class="accContent" role="tabpanel" style="display: none\;
- ">\n<div class="accContent__inner">\n<div class="accContent__wrapper">\n<d
- iv id="component_4157933">\n<p>Please submit a full draft of the paper OR 
- a 1000-word (minimum) abstract by <strong>19 December 2025</strong>.</p><h
- 3>Abstract criteria</h3><p>If sending an abstract\, it should be structure
- d to include <strong>details of the aims</strong>\, the <strong>econometri
- c methods used</strong> (in the past some abstracts have not contained eco
- nometric detail so we have been unable to properly assess them)\, and <str
- ong>results</strong>.</p><p>Results should be included even if they are pr
- eliminary. Abstracts containing no results or no details of the econometri
- c methods will be less likely to be accepted.</p><p>Abstracts and papers w
- ill be judged primarily on the quality of their econometrics content. We s
- trongly encourage presentation and discussion of work in progress.</p><h3>
- Fees for invited participants</h3><div>Those invited to participate will b
- e asked to pay the registration fee in February 2026.</div><ul><li>Full re
- gistration: AU$600</li><li>PhD students: AU$250</li><li>Low and middle inc
- ome countries: AU$300*</li></ul><p>*A citizen residing in a country on the
-  <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519
- -world-bank-country-and-lending-groups">World Bank list</a> of low and mid
- dle income countries.</p><h4>Inclusions</h4><ul><li>Two nights' accommodat
- ion on Wednesday 15th and Thursday 16th of April</li><li>All meals from lu
- nch on Wednesday 15th to lunch on the Friday 17th of April</li></ul><p>For
-  additional nights\, you will need to organise them with the hotel directl
- y.</p><h3>Submissions</h3><p>Electronic submission of papers is required a
- nd can be uploaded using the link below. When submitting you will be able 
- to choose whether you would like to present a paper\, discuss a paper or c
- hair a session.</p><p><a class="btn" href="https://monash.az1.qualtrics.co
- m/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your paper</a></p>\n
- </div>\n</div>\n</div>\n</div>\n</section>\n</div>\n<script>\nwindow.addEv
- entListener('DOMContentLoaded'\, function() {\n\n        var LIB_CHECK_OBJ
- ECT_EXISTS = 'CHECK_OBJECT_EXISTS'\,\n            LIB_CHECK_ELEMENT_EXISTS
-  = 'CHECK_ELEMENT_EXISTS'\,\n            scriptIDPrefix = 'js-frontend-tem
- plate-script--'\,\n            postLoadScripts = [\n                {\n   
-                  check:      LIB_CHECK_ELEMENT_EXISTS\,\n                 
-    checkValue: scriptIDPrefix + 'page-filter'\,\n                    isReq
- uired: $('.js-frontend-page-filter').length ? true : false\,\n            
-         id:         scriptIDPrefix + 'page-filter'\,\n                    
- url:        'https://www.monash.edu/__data/assets/js_file_folder/0006/2019
- 840/page_filter_basic.min.js?v=0.2.0'\n                }\,\n              
-   {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n         
-            checkValue: scriptIDPrefix + 'page-filter-logic'\,\n           
-          isRequired: $('.js-frontend-page-filter').length ? true : false\,
- \n                    id:         scriptIDPrefix + 'page-filter-logic'\,\n
-                     url:        './?a=?v='\n                }\,\n         
-        {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n    
-                 checkValue: scriptIDPrefix + 'complex-accordion'\,\n      
+SUMMARY:CHE Seminar Series: Who benefits from food tax exemptions in lower
+  income settings? Evidence on pass-through and incidence
+DTSTART:20260520T120000
+DTEND:20260520T130000
+DESCRIPTION:Tax exemptions for basic items exist worldwide\, typically jus
+ tified by governments as a way to reduce the cost of living for poorer hou
+ seholds. We study the unanticipated removal of consumption taxes on select
+ ed food items in Papua New Guinea by conducting a difference-in-difference
+ s analysis using administrative data\, a supermarket price census\, web-sc
+ raped online prices\, and a nationally representative\, household phone su
+ rvey panel. We find complete pass-through in formal supermarkets in centra
+ l urban districts\, where retail competition is strong\, but no pass-throu
+ gh in informal stores or rural areas\, where poorer households mainly shop
+ . For every dollar of foregone revenue\, only five cents accrued to the po
+ orest quintile\, while the richest quintile and store owners each accrued 
+ one-third of the benefits. This degree of regressivity was not unanticipat
+ ed by 237 experts who participated in a prediction survey. Our findings de
+ monstrate that food tax exemptions are inherently regressive in lower-inco
+ me settings\, due to high informality\, substantial market segmentation\, 
+ and positive income elasticity of demand for basic food.\n\nSpeaker profil
+ e\n\n<a href="https://chrishoyeconomist.wordpress.com/">Christopher Hoy</a
+ > is an applied microeconomist working on development economics\, politica
+ l economy\, and public finance. His research has been published in leading
+  journals\, including the American Economic Journal: Economic Policy\, the
+  Journal of Development Economics\, and the Journal of Economic Behavior a
+ nd Organization. His work has also been featured in major media outlets su
+ ch as the New York Times\, The Economist\, and the BBC\, and has been cite
+ d more than 2\,000 times. He received the 2025 Sir Tony Atkinson Prize fro
+ m the Society for the Study of Economic Inequality.\n\nHe is currently a M
+ cKenzie Research Fellow at the University of Melbourne\, based in the Melb
+ ourne Institute\, and is on external leave from the World Bank. He is affi
+ liated with the MIT Poverty Action Lab (J-PAL)\, the World Bank Tax Data L
+ ab (DATAX)\, the Institute for Fiscal Studies (IFS)\, and the Tax and Tran
+ sfer Policy Institute. Before joining the World Bank as a Young Profession
+ al\, he was a Research Fellow\, equivalent to an Assistant Professor\, at 
+ the Australian National University. He has also worked for a range of orga
+ nisations\, including UNICEF\, ADB\, ODI\, J-PAL/IPA\, and the Australian 
+ Government.\n\nWeekly seminar series\n\nAs part of our Centre's vibrant re
+ search culture\, we host a weekly seminar series. Visiting and invited res
+ earchers present current research relating to the economics of health and 
+ wellbeing\, and the healthcare sector. Visitors are welcome to join these 
+ sessions where discussion and debate is encouraged.\n\nFor further informa
+ tion on our seminar series\, please contact <a href="mailto:Trong-Anh.Tri
+ nh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a class="btn" href="ht
+ tps://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1" t
+ arget="_blank">Join Zoom</a>
+LOCATION:Caulfield campus\, Building C\, level 1\, room C1.21
+URL:https://www.monash.edu/business/events/CHE-Seminar-Series-Who-benefits
+ -from-food-tax-exemptions-in-lower-income-settings-Evidence-on-pass-throug
+ h-and-incidence
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short courses in health economics 2026
+DTSTART:20260526T093000
+DTEND:20260527T170000
+DESCRIPTION:The <a href="https://www.monash.edu/business/che">Centre for 
+ Health Economics (CHE)</a> offers regular short courses.\n\nThese courses 
+ aim to increase knowledge of health economics and health economic methods\
+ , particularly in their application to the Australian health care system.\
+ n\n<strong>We recommend completing our two May 2026 courses concurrently. 
+ A discount is available for participants who purchase both the Economics o
+ f Primary Care and the Economics of Mixed Health Systems courses in a sing
+ le transaction.</strong>\n\n<!-- false -->\n<div class="accordion nested-a
+ ccordion js-frontend-complex-accordion" id="Accordion-3981177" role="tabli
+ st">\n<div class="hidden">\n<span class="hidden nested-accordion__expand-t
+ ext">View</span>\n<span class="hidden nested-accordion__collapse_text">Clo
+ se</span>\n</div>\n<section class="panel section1 Economics_of_Primary_Car
+ e_26_May_2026-1 close">\n<h3 aria-controls="Economics_of_Primary_Care_26_M
+ ay_2026-1" aria-expanded="false" class="accTitle" data-click-event="monash
+ .accordion.toggle" data-expanded-by-default="false" data-position="1" data
+ -title="Economics of Primary Care (26 May 2026)" data-type="nested" id="Ec
+ onomics_of_Primary_Care_26_May_2026-1" role="tab">\n<span class="accTitle_
+ _icon"><svg><use href="https://www.monash.edu/__data/assets/git_bridge/000
+ 9/2651868/dist/assets/images/icon-spritesheet.svg?h=0444725a#calendar-2"><
+ /use></svg></span>\n<span class="accTitle__text">Economics of Primary Care
+  (26 May 2026)</span>\n<span class="accTitle__toggle-wrapper">\n<a class="
+ accTitle__toggle" href="#Economics_of_Primary_Care_26_May_2026-1" rel="1">
+ \n<span class="accTitle__toggle-text">View</span>\n<span class="accTitle__
+ toggle-arrow"><img alt="View" src="https://www.monash.edu/__data/assets/fi
+ le/0011/2179901/arrow-outline-right.svg"/></span>\n</a>\n</span>\n</h3>\n<
+ div aria-labelledby="Economics_of_Primary_Care_26_May_2026-1" class="accCo
+ ntent" role="tabpanel" style="display: none\;">\n<div class="accContent__i
+ nner">\n<div class="accContent__wrapper">\n<div id="component_3981182">\n<
+ h3>Date and time</h3><p>Tuesday\, 26 May 2026\, 9.30am – 5pm</p><h3>Loc
+ ation</h3><p>Monash College\, 750 Collins St\, Docklands VIC 3008</p><h3>O
+ verview</h3><p>Our Economics of Primary Care course introduces participant
+ s to evidence on the key economic issues facing primary care. The course c
+ ontent covers the role and impact of primary care in health systems\, the 
+ effects of different financing and payment models on primary care\, and th
+ e economics of the primary care workforce.</p><p>The course will explain k
+ ey economic concepts and equip participants with up-to-date understanding 
+ of how economists think about primary care and the relevant economic evide
+ nce. Participants will be guided through worked examples demonstrating how
+  and why economics can be applied to improve policy and practice.</p><h3>L
+ earning outcomes</h3><p>At the end of the course\, participants will:</p><
+ ul type="square"><li>Understand how economists think about key issues rele
+ vant to primary care.</li><li>Be familiar with the latest high-quality aca
+ demic empirical evidence.</li><li>Be able to use economic thinking to help
+  improve policy and practice.</li><li>Be able to analyse and predict the i
+ ntended and unintended effects of policy interventions.</li></ul><h3>Who s
+ hould attend?</h3><p>The courses are suitable for those who want to increa
+ se their familiarity with the application of economic concepts and economi
+ c thinking to current policy issues and debates using the latest evidence.
+   No previous knowledge of economics is required\, and the material will
+  be presented in a non-technical way.</p><p>The courses will be suitable f
+ or:</p><ul><li>Public servants and health policy analysts working for gove
+ rnment and non-government agencies.</li><li>Health service managers across
+  the public and private health sectors.</li><li>Health professionals.</li>
+ <li>Consultants working in the health and human services sector.</li></ul>
+ <h3>Cost</h3><ul><li>$950AUD for a single course\, or $1800AUD for the two
+ -course package.<ul><li><strong>Volume discounts are also available for mo
+ re than three participants</strong> from the same organisation. Please <a 
+ href="https://www.monash.edu/business/che/contact-us">contact us</a> direc
+ tly for further information about how to take advantage of the volume disc
+ ounts.</li></ul><p>Fees include attendance at a full day of face-to-face s
+ eminars and group work\, catered lunch\, morning and afternoon tea.</p></l
+ i></ul><h3>Teaching staff</h3><h4><a href="https://research.monash.edu/en/
+ persons/anthony-scott"><img alt="Anthony Scott" height="175" src="https://
+ www.monash.edu/__data/assets/image/0007/3704722/sq-anthony-scott.jpg" styl
+ e="float: right\; margin: 1em 0px 1em 1em\;" width="175"/>Professor Anthon
+ y Scott</a>\, Director\, Centre for Health Economics\, Monash Business Sch
+ ool\, Monash University</h4><p>Prof Scott is an elected Fellow of the Acad
+ emy of the Social Sciences in Australia\, a Past President of the Australi
+ an Health Economics Society\, and was a Board Director of the Internationa
+ l Health Economics Association. His research interests are in the health c
+ are labour markets\, physician behaviour\, and healthcare financing and in
+ centives.</p><h3>Enrolments</h3><p><a class="btn" href="https://events.hum
+ anitix.com/centre-for-health-economics-short-courses-26-and-27-may" target
+ ="_blank">Enrol now</a></p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<
+ section class="panel section2 Economics_of_Mixed_Health_Systems_27_May_202
+ 6-2">\n<h3 aria-controls="Economics_of_Mixed_Health_Systems_27_May_2026-2"
+  aria-expanded="false" class="accTitle" data-click-event="monash.accordion
+ .toggle" data-position="2" data-title="Economics of Mixed Health Systems (
+ 27 May 2026)" data-type="nested" id="Economics_of_Mixed_Health_Systems_27_
+ May_2026-2" role="tab">\n<span class="accTitle__icon"><svg><use href="http
+ s://www.monash.edu/__data/assets/git_bridge/0009/2651868/dist/assets/image
+ s/icon-spritesheet.svg?h=0444725a#calendar-2"></use></svg></span>\n<span c
+ lass="accTitle__text">Economics of Mixed Health Systems (27 May 2026)</spa
+ n>\n<span class="accTitle__toggle-wrapper">\n<a class="accTitle__toggle" h
+ ref="#Economics_of_Mixed_Health_Systems_27_May_2026-2" rel="2">\n<span cla
+ ss="accTitle__toggle-text">View</span>\n<span class="accTitle__toggle-arro
+ w"><img alt="View" src="https://www.monash.edu/__data/assets/file/0011/217
+ 9901/arrow-outline-right.svg"/></span>\n</a>\n</span>\n</h3>\n<div aria-la
+ belledby="Economics_of_Mixed_Health_Systems_27_May_2026-2" class="accConte
+ nt" role="tabpanel" style="display: none\;">\n<div class="accContent__inne
+ r">\n<div class="accContent__wrapper">\n<div id="component_3981186">\n<h3>
+ Date and time</h3><p>Wednesday 27 May 2026\, 9.30am – 5pm</p><h3>Locatio
+ n</h3><p>Monash College\, 750 Collins St\, Docklands VIC 3008</p><h3>Overv
+ iew</h3><p>The Economics of Mixed Systems short course introduces particip
+ ants to the economic principles underlying Australia's complex public-priv
+ ate health care system. Topics include understanding the role of private h
+ ealth insurance\, consumer demand for public and private care\, waiting ti
+ me dynamics\, supply-side factors such as physician dual practice and crea
+ m-skimming\, and contemporary issues facing the sector.</p><h3>Learning ou
+ tcomes</h3><p>At the end of the course\, participants will be able to:</p>
+ <ul><li aria-level="1" style="list-style-type:disc">Understand how economi
+ sts conceptualise demand for public and private health care\, including th
+ e costs of waiting.</li><li aria-level="1" style="list-style-type:disc">Ev
+ aluate the rationale for—and effectiveness of—private health insurance
+  incentives.</li><li aria-level="1" style="list-style-type:disc">Analyse s
+ upply-side dynamics including dual practice\, co-location\, and cream-skim
+ ming behaviour.</li><li aria-level="1" style="list-style-type:disc">Apply 
+ economic thinking to assess intended and unintended effects of policy inte
+ rventions.</li><li aria-level="1" style="list-style-type:disc">Critically 
+ assess claims about the role of private health in relieving public system 
+ pressures.</li></ul><h3>Who should attend?</h3><p>The course is designed f
+ or those seeking to apply economic concepts and evidence to current health
+  policy issues. No prior economics knowledge is required\; material is pre
+ sented in a non-technical way with opportunities for group discussion.</p>
+ <p>Suitable for:</p><ul><li aria-level="1" style="list-style-type:disc">Pu
+ blic servants and health policy analysts.</li><li aria-level="1" style="li
+ st-style-type:disc">Health service managers across public and private sect
+ ors.</li><li aria-level="1" style="list-style-type:disc">Health profession
+ als.</li><li aria-level="1" style="list-style-type:disc">Consultants in he
+ alth and human services.</li></ul><h3>Cost</h3><ul><li>$950AUD for a singl
+ e course\, or $1800AUD for the two-course package. <ul><li><strong>Volume 
+ discounts are also available for more than three participants</strong> fro
+ m the same organisation. Please <a href="https://www.monash.edu/business/c
+ he/contact-us">contact us</a> directly for further information about how t
+ o take advantage of the volume discounts.</li></ul><p>Fees include attenda
+ nce at a full day of face-to-face seminars and group work\, catered lunch\
+ , morning and afternoon tea.</p></li></ul><h3>Teaching staff</h3><h4><a hr
+ ef="https://research.monash.edu/en/persons/terence-cheng"><img alt="Terenc
+ e Cheng" height="175" src="https://www.monash.edu/__data/assets/image/0009
+ /3888360/sq_Terence_Cheng.jpg" style="float: right\; margin: 1em 0px 1em 1
+ em\;" width="175"/>Associate Professor Terence Cheng</a>\, Theme Lead (Hea
+ lth Financing and Market Organisation)\, Centre for Health Economics\, Mon
+ ash Business School</h4><p>A/Prof Cheng is an expert on the economics of p
+ ublic and private health systems. He has published extensively in leading 
+ international journals on topics covering public and private healthcare an
+ d insurance\, medical labour markets\, international markets for healthcar
+ e\, and health and well-being. He is currently on the editorial board of t
+ he international journal <em>Health Systems and Reform</em>.</p><p>A/Prof 
+ Cheng has held academic and research appointments at universities in Austr
+ alia\, Singapore and the United States. He returned to Australia in 2024 a
+ fter a three-year stint as a Research Scientist of Health Systems Research
+  and Policy at the Harvard T.H. Chan School of Public Health. He has consu
+ lted for the World Health Organisation\, the World Bank and various govern
+ ment departments in Australia.</p><h3>Enrolments</h3><p><a class="btn" hre
+ f="https://events.humanitix.com/centre-for-health-economics-short-courses-
+ 26-and-27-may" target="_blank">Enrol now</a></p>\n</div>\n</div>\n</div>\n
+ </div>\n</section>\n</div>\n<script>\nwindow.addEventListener('DOMContentL
+ oaded'\, function() {\n\n        var LIB_CHECK_OBJECT_EXISTS = 'CHECK_OBJE
+ CT_EXISTS'\,\n            LIB_CHECK_ELEMENT_EXISTS = 'CHECK_ELEMENT_EXISTS
+ '\,\n            scriptIDPrefix = 'js-frontend-template-script--'\,\n     
+        postLoadScripts = [\n                {\n                    check: 
+      LIB_CHECK_ELEMENT_EXISTS\,\n                    checkValue: scriptIDP
+ refix + 'page-filter'\,\n                    isRequired: $('.js-frontend-p
+ age-filter').length ? true : false\,\n                    id:         scri
+ ptIDPrefix + 'page-filter'\,\n                    url:        'https://www
+ .monash.edu/__data/assets/js_file_folder/0006/2019840/page_filter_basic.mi
+ n.js?v=0.2.0'\n                }\,\n                {\n                   
+  check:      LIB_CHECK_ELEMENT_EXISTS\,\n                    checkValue: s
+ criptIDPrefix + 'page-filter-logic'\,\n                    isRequired: $('
+ .js-frontend-page-filter').length ? true : false\,\n                    id
+ :         scriptIDPrefix + 'page-filter-logic'\,\n                    url:
+         './?a=?v='\n                }\,\n                {\n              
+       check:      LIB_CHECK_ELEMENT_EXISTS\,\n                    checkVal
+ ue: scriptIDPrefix + 'complex-accordion'\,\n                    isRequired
+ : $('.js-frontend-complex-accordion').length ? true : false\,\n           
+          id:         scriptIDPrefix + 'complex-accordion'\,\n             
+        url:        'https://www.monash.edu/__data/assets/js_file/0003/2180
+ 262/complex-accordion-frontend.js?v=0.1.60'\n                }\,\n        
+         {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n   
+                  checkValue: scriptIDPrefix + 'complex-accordion'\,\n     
+                isRequired: $('.js-frontend-complex-accordion').length ? tr
+ ue : false\,\n                    id:         scriptIDPrefix + 'complex-ac
+ cordion'\,\n                    url:        'https://www.monash.edu/__data
+ /assets/js_file/0003/2180262/complex-accordion-frontend.js?v=0.1.60'\n    
+             }\n            ]\,\n            styleIDPrefix = 'js-frontend-t
+ emplate-style--'\,\n            \n            postLoadStyles = [\n        
+         {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n   
+                  checkValue: styleIDPrefix + 'page-filter'\,\n            
+         isRequired: $('.js-frontend-page-filter').length ? true : false\,\
+ n                    id:         styleIDPrefix + 'page-filter'\,\n        
+             url:        'https://www.monash.edu/__data/assets/css_file/001
+ 1/2023031/page-filter-template.css?v=0.1.5'\n                }\,\n        
+         {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n   
+                  checkValue: styleIDPrefix + 'complex-accordion'\,\n      
                isRequired: $('.js-frontend-complex-accordion').length ? tru
- e : false\,\n                    id:         scriptIDPrefix + 'complex-acc
- ordion'\,\n                    url:        'https://www.monash.edu/__data/
- assets/js_file/0003/2180262/complex-accordion-frontend.js?v=0.1.60'\n     
-            }\,\n                {\n                    check:      LIB_CHE
- CK_ELEMENT_EXISTS\,\n                    checkValue: scriptIDPrefix + 'com
- plex-accordion'\,\n                    isRequired: $('.js-frontend-complex
- -accordion').length ? true : false\,\n                    id:         scri
- ptIDPrefix + 'complex-accordion'\,\n                    url:        'https
- ://www.monash.edu/__data/assets/js_file/0003/2180262/complex-accordion-fro
- ntend.js?v=0.1.60'\n                }\n            ]\,\n            styleI
- DPrefix = 'js-frontend-template-style--'\,\n            \n            post
- LoadStyles = [\n                {\n                    check:      LIB_CHE
- CK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPrefix + 'page
- -filter'\,\n                    isRequired: $('.js-frontend-page-filter').
- length ? true : false\,\n                    id:         styleIDPrefix + '
- page-filter'\,\n                    url:        'https://www.monash.edu/__
- data/assets/css_file/0011/2023031/page-filter-template.css?v=0.1.5'\n     
-            }\,\n                {\n                    check:      LIB_CHE
- CK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPrefix + 'comp
- lex-accordion'\,\n                    isRequired: $('.js-frontend-complex-
- accordion').length ? true : false\,\n                    id:         style
- IDPrefix + 'complex-accordion'\,\n                    url:        'https:/
- /www.monash.edu/__data/assets/css_file/0005/2180264/complex-accordion-fron
- tend.css?v=0.2.2'\n                }\n            ]\;\n\n        var eleme
- ntExists = function(check\, checkValue) {\n            if (check === LIB_C
- HECK_OBJECT_EXISTS) {\n                return typeof checkValue !== 'undef
- ined'\;\n            }\n            if (check === LIB_CHECK_ELEMENT_EXISTS
- ) {\n                return document.getElementById(checkValue)\;\n       
-      }\n        }\;\n\n        // Load script libraries after DOM ready\n 
-        postLoadScripts.forEach(function(scriptLibrary) {\n            if (
- scriptLibrary.isRequired && !elementExists(scriptLibrary.check\, scriptLib
- rary.checkValue)) {\n                var injectedScript = document.createE
- lement('script')\;\n                injectedScript.type = 'text/javascript
- '\;\n                injectedScript.id = scriptLibrary.id\;\n             
-    injectedScript.src = scriptLibrary.url\;\n                injectedScrip
- t.async = false\;\n                $('body').append(injectedScript)\;\n   
-          }\n        })\;\n\n\n        // Load style libraries after DOM re
- ady\n        postLoadStyles.forEach(function(styleLibrary) {\n            
- if (styleLibrary.isRequired && !elementExists(styleLibrary.check\, styleLi
- brary.checkValue)) {\n                var injectedStyle = document.createE
- lement('link')\;\n                injectedStyle.type = 'text/css'\;\n     
-            injectedStyle.rel = 'stylesheet'\;\n                injectedSty
- le.id = styleLibrary.id\;\n                injectedStyle.href = styleLibra
- ry.url\;\n                $('body').append(injectedStyle)\;\n            }
- \n        })\;\n\n    })\;\n    \n    /*\n// Fix mobile with re-initing th
- e plugin.\ndocument.addEventListener('DOMContentLoaded'\, function() {\n  
- const container = document.getElementById('filter-container')\;\n\n  funct
- ion updateIsotopeLayout() {\n    if (container) {\n      // Assuming Isoto
- pe is globally available and initialized\n      Isotope.data(container).la
- yout()\;\n      //console.log('Isotope layout updated')\;\n    }\n  }\n\n 
-  function debounce(fn\, delay) {\n    let timeoutID\;\n    return function
- () {\n      clearTimeout(timeoutID)\;\n      timeoutID = setTimeout(() => 
- fn.apply(this\, arguments)\, delay)\;\n    }\;\n  }\n\n  const debouncedUp
- dateIsotopeLayout = debounce(updateIsotopeLayout\, 500)\;\n\n  // Attach t
- he load event to images\n  const images = container.querySelectorAll('img'
- )\;\n  images.forEach(function(img) {\n    img.addEventListener('load'\, f
- unction() {\n      debouncedUpdateIsotopeLayout()\;\n    })\;\n\n    // Ha
- ndle already loaded images (from cache)\n    if (img.complete) {\n      de
- bouncedUpdateIsotopeLayout()\;\n    }\n  })\;\n\n})\;\n*/\n\n\n</script>\n
- \n<span class="accTitle__icon"><svg><use href="https://www.monash.edu/__da
- ta/assets/git_bridge/0009/2651868/dist/assets/images/icon-spritesheet.svg?
- h=1d3ca15#copy"></use></svg></span>\n<span class="accTitle__text">Paper su
- bmissions</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTi
- tle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="accTitle__
- toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="V
- iew" src="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-out
- line-right.svg"/></span>\n</a>\n</span>\n\nPlease submit a full draft of t
- he paper OR a 1000-word (minimum) abstract by <strong>19 December 2025</st
- rong>.\n\nAbstract criteria\n\nIf sending an abstract\, it should be struc
- tured to include <strong>details of the aims</strong>\, the <strong>econom
- etric methods used</strong> (in the past some abstracts have not contained
-  econometric detail so we have been unable to properly assess them)\, and 
- <strong>results</strong>.\n\nResults should be included even if they are p
- reliminary. Abstracts containing no results or no details of the econometr
- ic methods will be less likely to be accepted.\n\nAbstracts and papers wil
- l be judged primarily on the quality of their econometrics content. We str
- ongly encourage presentation and discussion of work in progress.\n\nFees f
- or invited participants\n\n*A citizen residing in a country on the <a href
- ="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-b
- ank-country-and-lending-groups">World Bank list</a> of low and middle inco
- me countries.\n\nFor additional nights\, you will need to organise them wi
- th the hotel directly.\n\nSubmissions\n\nElectronic submission of papers i
- s required and can be uploaded using the link below. When submitting you w
- ill be able to choose whether you would like to present a paper\, discuss 
- a paper or chair a session.\n\n<a class="btn" href="https://monash.az1.qua
- ltrics.com/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your paper<
- /a>\n\nSponsors\n\nOrganisers\n\n<a href="https://research.monash.edu/en/p
- ersons/anthony-scott">Prof Anthony Scott</a>\, Director\, Centre for Healt
- h Economics\, Monash Business School\n\n<a href="https://www.stefanie-schu
- rer.com/" target="_blank">Prof Stefanie Schurer</a>\, School of Economics\
- , University of Sydney\n\n<a href="https://research.monash.edu/en/persons/
- johannes-kunz">Dr Johannes Kunz</a>\, Centre for Health Economics\, Monash
-  Business School\n\n<a href="https://research.monash.edu/en/persons/michae
- l-shields/">Prof Michael Shields</a>\, Centre for Health Economics\, Monas
- h Business School\n\nEnquiries\n\nFor any enquiries regarding the workshop
-  please contact Aryan Rohanian at <a href="mailto:che_support@monash.edu"
- >che_support@monash.edu</a>
-LOCATION:The Anchorage Hotel\, Port Stephens\, NSW
-URL:https://www.monash.edu/business/events/15th-australasian-workshop-on-e
- conometrics-and-health-economics
+ e : false\,\n                    id:         styleIDPrefix + 'complex-acco
+ rdion'\,\n                    url:        'https://www.monash.edu/__data/a
+ ssets/css_file/0005/2180264/complex-accordion-frontend.css?v=0.2.2'\n     
+            }\n            ]\;\n\n        var elementExists = function(chec
+ k\, checkValue) {\n            if (check === LIB_CHECK_OBJECT_EXISTS) {\n 
+                return typeof checkValue !== 'undefined'\;\n            }\n
+             if (check === LIB_CHECK_ELEMENT_EXISTS) {\n                ret
+ urn document.getElementById(checkValue)\;\n            }\n        }\;\n\n 
+        // Load script libraries after DOM ready\n        postLoadScripts.f
+ orEach(function(scriptLibrary) {\n            if (scriptLibrary.isRequired
+  && !elementExists(scriptLibrary.check\, scriptLibrary.checkValue)) {\n   
+              var injectedScript = document.createElement('script')\;\n    
+             injectedScript.type = 'text/javascript'\;\n                inj
+ ectedScript.id = scriptLibrary.id\;\n                injectedScript.src = 
+ scriptLibrary.url\;\n                injectedScript.async = false\;\n     
+            $('body').append(injectedScript)\;\n            }\n        })\;
+ \n\n\n        // Load style libraries after DOM ready\n        postLoadSty
+ les.forEach(function(styleLibrary) {\n            if (styleLibrary.isRequi
+ red && !elementExists(styleLibrary.check\, styleLibrary.checkValue)) {\n  
+               var injectedStyle = document.createElement('link')\;\n      
+           injectedStyle.type = 'text/css'\;\n                injectedStyle
+ .rel = 'stylesheet'\;\n                injectedStyle.id = styleLibrary.id\
+ ;\n                injectedStyle.href = styleLibrary.url\;\n              
+   $('body').append(injectedStyle)\;\n            }\n        })\;\n\n    })
+ \;\n    \n    /*\n// Fix mobile with re-initing the plugin.\ndocument.addE
+ ventListener('DOMContentLoaded'\, function() {\n  const container = docume
+ nt.getElementById('filter-container')\;\n\n  function updateIsotopeLayout(
+ ) {\n    if (container) {\n      // Assuming Isotope is globally available
+  and initialized\n      Isotope.data(container).layout()\;\n      //consol
+ e.log('Isotope layout updated')\;\n    }\n  }\n\n  function debounce(fn\, 
+ delay) {\n    let timeoutID\;\n    return function() {\n      clearTimeout
+ (timeoutID)\;\n      timeoutID = setTimeout(() => fn.apply(this\, argument
+ s)\, delay)\;\n    }\;\n  }\n\n  const debouncedUpdateIsotopeLayout = debo
+ unce(updateIsotopeLayout\, 500)\;\n\n  // Attach the load event to images\
+ n  const images = container.querySelectorAll('img')\;\n  images.forEach(fu
+ nction(img) {\n    img.addEventListener('load'\, function() {\n      debou
+ ncedUpdateIsotopeLayout()\;\n    })\;\n\n    // Handle already loaded imag
+ es (from cache)\n    if (img.complete) {\n      debouncedUpdateIsotopeLayo
+ ut()\;\n    }\n  })\;\n\n})\;\n*/\n\n\n</script>\n\n<span class="accTitle_
+ _icon"><svg><use href="https://www.monash.edu/__data/assets/git_bridge/000
+ 9/2651868/dist/assets/images/icon-spritesheet.svg?h=0444725a#calendar-2"><
+ /use></svg></span>\n<span class="accTitle__text">Economics of Primary Care
+  (26 May 2026)</span>\n<span class="accTitle__toggle-wrapper">\n<a class="
+ accTitle__toggle" href="#Economics_of_Primary_Care_26_May_2026-1" rel="1">
+ \n<span class="accTitle__toggle-text">View</span>\n<span class="accTitle__
+ toggle-arrow"><img alt="View" src="https://www.monash.edu/__data/assets/fi
+ le/0011/2179901/arrow-outline-right.svg"/></span>\n</a>\n</span>\n\nDate a
+ nd time\n\nTuesday\, 26 May 2026\, 9.30am – 5pm\n\nLocation\n\nMonash C
+ ollege\, 750 Collins St\, Docklands VIC 3008\n\nOverview\n\nOur Economics 
+ of Primary Care course introduces participants to evidence on the key econ
+ omic issues facing primary care. The course content covers the role and im
+ pact of primary care in health systems\, the effects of different financin
+ g and payment models on primary care\, and the economics of the primary ca
+ re workforce.\n\nThe course will explain key economic concepts and equip p
+ articipants with up-to-date understanding of how economists think about pr
+ imary care and the relevant economic evidence. Participants will be guided
+  through worked examples demonstrating how and why economics can be applie
+ d to improve policy and practice.\n\nLearning outcomes\n\nAt the end of th
+ e course\, participants will:\n\nWho should attend?\n\nThe courses are sui
+ table for those who want to increase their familiarity with the applicatio
+ n of economic concepts and economic thinking to current policy issues and 
+ debates using the latest evidence.  No previous knowledge of economics i
+ s required\, and the material will be presented in a non-technical way.\n\
+ nThe courses will be suitable for:\n\nCost\n\nFees include attendance at a
+  full day of face-to-face seminars and group work\, catered lunch\, mornin
+ g and afternoon tea.\n\nTeaching staff\n\nProf Scott is an elected Fellow 
+ of the Academy of the Social Sciences in Australia\, a Past President of t
+ he Australian Health Economics Society\, and was a Board Director of the I
+ nternational Health Economics Association. His research interests are in t
+ he health care labour markets\, physician behaviour\, and healthcare finan
+ cing and incentives.\n\nEnrolments\n\n<a class="btn" href="https://events.
+ humanitix.com/centre-for-health-economics-short-courses-26-and-27-may" tar
+ get="_blank">Enrol now</a>\n\n<span class="accTitle__icon"><svg><use href=
+ "https://www.monash.edu/__data/assets/git_bridge/0009/2651868/dist/assets/
+ images/icon-spritesheet.svg?h=0444725a#calendar-2"></use></svg></span>\n<s
+ pan class="accTitle__text">Economics of Mixed Health Systems (27 May 2026)
+ </span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTitle__togg
+ le" href="#Economics_of_Mixed_Health_Systems_27_May_2026-2" rel="2">\n<spa
+ n class="accTitle__toggle-text">View</span>\n<span class="accTitle__toggle
+ -arrow"><img alt="View" src="https://www.monash.edu/__data/assets/file/001
+ 1/2179901/arrow-outline-right.svg"/></span>\n</a>\n</span>\n\nDate and tim
+ e\n\nWednesday 27 May 2026\, 9.30am – 5pm\n\nLocation\n\nMonash College\
+ , 750 Collins St\, Docklands VIC 3008\n\nOverview\n\nThe Economics of Mixe
+ d Systems short course introduces participants to the economic principles 
+ underlying Australia's complex public-private health care system. Topics i
+ nclude understanding the role of private health insurance\, consumer deman
+ d for public and private care\, waiting time dynamics\, supply-side factor
+ s such as physician dual practice and cream-skimming\, and contemporary is
+ sues facing the sector.\n\nLearning outcomes\n\nAt the end of the course\,
+  participants will be able to:\n\nWho should attend?\n\nThe course is desi
+ gned for those seeking to apply economic concepts and evidence to current 
+ health policy issues. No prior economics knowledge is required\; material 
+ is presented in a non-technical way with opportunities for group discussio
+ n.\n\nSuitable for:\n\nCost\n\nFees include attendance at a full day of fa
+ ce-to-face seminars and group work\, catered lunch\, morning and afternoon
+  tea.\n\nTeaching staff\n\nA/Prof Cheng is an expert on the economics of p
+ ublic and private health systems. He has published extensively in leading 
+ international journals on topics covering public and private healthcare an
+ d insurance\, medical labour markets\, international markets for healthcar
+ e\, and health and well-being. He is currently on the editorial board of t
+ he international journal <em>Health Systems and Reform</em>.\n\nA/Prof Che
+ ng has held academic and research appointments at universities in Australi
+ a\, Singapore and the United States. He returned to Australia in 2024 afte
+ r a three-year stint as a Research Scientist of Health Systems Research an
+ d Policy at the Harvard T.H. Chan School of Public Health. He has consulte
+ d for the World Health Organisation\, the World Bank and various governmen
+ t departments in Australia.\n\nEnrolments\n\n<a class="btn" href="https://
+ events.humanitix.com/centre-for-health-economics-short-courses-26-and-27-m
+ ay" target="_blank">Enrol now</a>\n\nEnquiries\n\nFor enquiries\, please e
+ mail <a href="mailto:che_support@monash.edu">CHE Support</a>.
+LOCATION:Monash College\, 750 Collins St\, Docklands VIC 3008
+URL:https://www.monash.edu/business/events/short-courses-in-health-economi
+ cs-2026
 END:VEVENT
 END:VCALENDAR
