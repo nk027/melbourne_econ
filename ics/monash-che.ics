@@ -2,56 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Monash Events//EN
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: Maternity benefits\, consumption and labor sup
- ply - Estimating causal effects with bank transaction data
-DTSTART:20260513T120000
-DTEND:20260513T130000
-DESCRIPTION:We estimate the causal effects of a generous maternity benefit
-  introduced in Madrid in 2022 (MMB)\, which granted €500 per month from 
- the fifth month of pregnancy until a child’s second birthday to mothers 
- under age 31 with low or moderate income. We exploit the sharp eligibility
-  cutoff on January 1\, 2022\, using a regression discontinuity design and 
- high-frequency bank transaction data covering daily spending\, earnings\, 
- and account balances. Eligible mothers received\, on average\, over €7\,
- 000 in MMB payments during the 29 months surrounding childbirth. Total spe
- nding increased by about €1\,200\, implying an average MPC of 0.16\, wit
- h strong heterogeneity: the MPC is zero among higher-income mothers and ri
- ses to 0.41 among lower-income mothers\, who show sizable increases in bas
- ic-necessity spending and sharp\, short-lived spikes in expenditure after 
- each deposit. Higher-income mothers exhibit no meaningful change in consum
- ption and save more than half of the benefit\, with no robust evidence of 
- changes in labor earnings. Across administrative\, survey\, and transactio
- n data\, we find no aggregate decline in employment. Overall\, the benefit
-  alleviates liquidity constraints for lower-income mothers while leaving l
- abor supply largely unaffected\, with some evidence consistent with modest
-  positive responses.\n\nSpeaker profile\n\n<a href="https://sites.google.c
- om/view/danielfernandezkranz/home">Daniel Fernández Kranz</a> is an Assoc
- iate (Tenured) Professor of Economics\, Chair of the Economics Department\
- , and Vice-Dean for Economics at IE University School of Politics\, Econom
- ics and Global Affairs in Madrid. He is also a Research Fellow at IZA Inst
- itute of Labor Economics and serves as the Academic Director of the Master
-  in Applied Economics at IE University.\n\nDaniel is an empirical microeco
- nomist whose research focuses on the economics of the family\, gender\, he
- alth\, and public policy evaluation. He combines administrative data and l
- arge-scale survey data to analyze the impact of public policies on gender 
- outcomes\, with particular attention to labor market behavior\, health\, m
- arriage\, and fertility decisions. His work also examines how policies and
-  social contexts shape gender norms and their effects on marriage\, fertil
- ity\, and overall well-being.\n\nWeekly seminar series\n\nAs part of our C
- entre's vibrant research culture\, we host a weekly seminar series. Visiti
- ng and invited researchers present current research relating to the econom
- ics of health and wellbeing\, and the healthcare sector. Visitors are welc
- ome to join these sessions where discussion and debate is encouraged.\n\nF
- or further information on our seminar series\, please contact <a href="ma
- ilto:Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a cl
- ass="btn" href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzE
- WsMC6dZbAX5do.1" target="_blank">Join Zoom</a>
-LOCATION:Caulfield campus\, Building C\, level 1\, room C1.21
-URL:https://www.monash.edu/business/events/che-seminar-series-maternity-be
- nefits-consumption-and-labor-supply-estimating-causal-effects-with-bank-tr
- ansaction-data
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHE Seminar Series: Who benefits from food tax exemptions in lower
   income settings? Evidence on pass-through and incidence
 DTSTART:20260520T120000
