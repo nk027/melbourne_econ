@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:4eee0cc04ce514dca3b273da310a2c84@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260526T110000
 DTEND;TZID=Australia/Melbourne:20260526T121500
@@ -41,8 +41,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:806799b27d82d0cf17f7bb3f372323f6@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260602T110000
 DTEND;TZID=Australia/Melbourne:20260602T121500
@@ -55,53 +55,38 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
  Y.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
-UID:d15f6afb753b8c9c854cea179bb2c479@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260514T110000
-DTEND;TZID=Australia/Melbourne:20260514T121500
-SUMMARY:Experimental/Behavioural – Elif Incekara-Hafalir (UTS) – When D
- o You Expect to Be Paid? Expectations Shape Patience
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Elif Incekara-Hafalir: “When Do You Expect to Be Paid? Expect
- ations Shape Patience”\nhttps://sites.google.com/site/incekara/\n\nZoom:
-  https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAGG.
- 1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\n
- ABSTRACT:\nTime preferences shape decisions about saving\, education\, and
-  health\, yet research has largely overlooked how expectations about payme
- nt timing influence elicited measures of time preferences. We provide caus
- al evidence that such expectations systematically affect intertemporal cho
- ices. In a pre-registered experiment\, we manipulate payment-timing expect
- ations while holding choice menus fixed. Participants expecting payment in
-  the future choose more patient options than those expecting payment today
- \, despite identical rewards and delays. A reference-dependent model\, whe
- re expected timing serves as a temporal reference point\, explains these s
- hifts. The findings illuminate patterns in the time preference literature 
- and suggest a low-cost policy lever.
-URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
- G.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
-UID:130717cb469a4f6ceae125fb9b39402e@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+UID:fa513005cd3ba13a0ffec15923f55f1c@generated
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260528T110000
 DTEND;TZID=Australia/Melbourne:20260528T121500
-SUMMARY:Experimental/Behavioural – Mehmet Yigit Gurdal (Bogazici) – TBD
+SUMMARY:Experimental/Behavioural – Mehmet Yigit Gurdal (Bogazici) – A G
+ raphical Representation for Binarized Scoring Rule
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Mehmet Yigit Gurdal: “TBD”\nhttps://web.bogazici.edu.tr/gur
- dal/\n\nZoom: https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5
- za5S7GjfbAGG.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKu
- rX9pSbBB8\n\nABSTRACT:\nTBA
+DESCRIPTION:Mehmet Yigit Gurdal: “A Graphical Representation for Binariz
+ ed Scoring Rule”\nhttps://web.bogazici.edu.tr/gurdal/\n\nZoom: https://u
+ nimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAGG.1&from=add
+ on\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\
+ nBinarized Scoring Rule (BSR) impose significant cognitive burdens on expe
+ rimental subjects. We introduce a graphical representation of the BSR that
+  translates its incentive structure into an intuitive visual interface\, a
+ llowing subjects to observe in real time how reported beliefs map into rew
+ ard probabilities. We compare this design to three alternatives: a standar
+ d BSR implementation\, a No-Information treatment following Danz et al. (2
+ 022)\, and the Paired-Uniform Scoring Rule of Wilson and Vespa (2018). The
+  graphical interface is rated as easier to understand than competing metho
+ ds and yields accuracy comparable to the baseline BSR and Paired-Uniform t
+ reatments\, while reducing decision time and center-pull bias. The No-Info
+ rmation treatment produces the lowest rate of false reports overall\, thou
+ gh errors\, when they occur\, are larger in magnitude.
 URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
  G.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
 UID:98ed5f72610acbf7ea254fa5be863ff6@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260730T110000
 DTEND;TZID=Australia/Melbourne:20260730T121500
@@ -113,8 +98,8 @@ DESCRIPTION:Romain Gauriot: “TBD”\nhttps://sites.google.com/site/romain
 END:VEVENT
 BEGIN:VEVENT
 UID:7af1987c51bccbf9e389c3bb8e2bf586@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260806T110000
 DTEND;TZID=Australia/Melbourne:20260806T121500
@@ -126,8 +111,8 @@ DESCRIPTION:Jay Lu (Joint with ET): “TBD”\nhttp://www.econ.ucla.edu/jay
 END:VEVENT
 BEGIN:VEVENT
 UID:fc37d7433342b9d0d7a54391d2d2b256@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260813T110000
 DTEND;TZID=Australia/Melbourne:20260813T121500
@@ -138,8 +123,8 @@ DESCRIPTION:Kirby Nielsen: “TBD”\nhttps://kirbyknielsen.com/\n\nGoogle
 END:VEVENT
 BEGIN:VEVENT
 UID:d6d51a3cceedca1e00cbc4794085cd23@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260827T110000
 DTEND;TZID=Australia/Melbourne:20260827T121500
@@ -150,8 +135,8 @@ DESCRIPTION:Ashley Craig: “TBD”\nhttps://www.ashleycraig.com/\n\nGoogle
 END:VEVENT
 BEGIN:VEVENT
 UID:bc5e60effc0c23a51ddba55bd5e77cce@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T110000
 DTEND;TZID=Australia/Melbourne:20260910T121500
@@ -163,8 +148,8 @@ DESCRIPTION:Lionel Page: “TBD”\nhttps://sites.google.com/site/liopage/h
 END:VEVENT
 BEGIN:VEVENT
 UID:584cd84ada0cc22293b3392b1013bd57@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T110000
 DTEND;TZID=Australia/Melbourne:20260924T121500
@@ -176,8 +161,8 @@ DESCRIPTION:Maroš Servátka: “TBD”\nhttps://sites.google.com/site/maro
 END:VEVENT
 BEGIN:VEVENT
 UID:be85c8c8a51448a678086ef03175d138@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261008T110000
 DTEND;TZID=Australia/Melbourne:20261008T121500
@@ -189,8 +174,8 @@ DESCRIPTION:Ralph Bayer: “TBD”\nhttps://researchers.adelaide.edu.au/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:fe69003f8212471e48c9ea8e2060ed97@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261022T110000
 DTEND;TZID=Australia/Melbourne:20261022T121500
@@ -201,8 +186,8 @@ DESCRIPTION:Uzma Afzal: “TBD”\nhttps://www.uzmaafzal.com/\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:196df18caa4b44d6cb2b43a7bbd0e8aa@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T110000
 DTEND;TZID=Australia/Melbourne:20261015T121500
@@ -212,34 +197,9 @@ DESCRIPTION:Steve Wu: “TBD”\nhttps://ag.purdue.edu/directory/sywu\n\nGo
  ogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
-UID:b1ba5b0bc8d54be470bc74519ad460da@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260514T120000
-DTEND;TZID=Australia/Melbourne:20260514T131500
-SUMMARY:Macroeconomics – Lu Wang (UWA) – Hysteresis in Asset Liquidity
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Lu Wang: “Hysteresis in Asset Liquidity”\nhttps://sites.goo
- gle.com/view/luwang\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1K
- yfcUkOWfMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.
- goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nThis paper presents a New Monetaris
- t model where liquidity acts as a form of capital. That is\, liquidity inc
- reases as agents invest in the capacity to accept an asset as a medium of 
- exchange and depreciates as investment slows. Because this process is self
- -reinforcing\, the economy admits multiple equilibria and hysteresis\, whe
- re temporary shocks can permanently alter which assets become liquid and h
- ow they are priced. As a result\, inflation also exhibits inertia. Applied
-  to dollarization\, the model explains persistent dollarization\, even lon
- g after inflation subsides. In markets with competing assets\, history sha
- pes which asset becomes dominant.
-URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
- a.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
 UID:3635d4412b3e5676c89a9a20d80cb4b8@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260521T120000
 DTEND;TZID=Australia/Melbourne:20260521T131500
@@ -264,8 +224,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:e2be7fadf0d6ff6978277a43e9fd2fdd@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260730T120000
 DTEND;TZID=Australia/Melbourne:20260730T131500
@@ -277,8 +237,8 @@ DESCRIPTION:Yasin Kursat Onder: “TBD”\nhttps://sites.google.com/view/ya
 END:VEVENT
 BEGIN:VEVENT
 UID:a61aece2a19a6fd93eec30efed1d6412@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260806T120000
 DTEND;TZID=Australia/Melbourne:20260806T131500
@@ -289,8 +249,8 @@ DESCRIPTION:Tommy Iao: “TBD”\nhttps://tommyiao.github.io/\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf58dba3bc9e1ea57b54088221551fd@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260917T120000
 DTEND;TZID=Australia/Melbourne:20260917T131500
@@ -313,8 +273,8 @@ DESCRIPTION:Chansik Yoon: “Growth in the Shaded Sun: The Role of Internat
 END:VEVENT
 BEGIN:VEVENT
 UID:7292f4c0f5b44beeab4b59600dc5d162@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260921T120000
 DTEND;TZID=Australia/Melbourne:20260921T131500
@@ -326,8 +286,8 @@ DESCRIPTION:Romina Ruprecht: “TBD”\nhttps://sites.google.com/view/romin
 END:VEVENT
 BEGIN:VEVENT
 UID:acdca22b7a26552a87228a77fdbd6695@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T120000
 DTEND;TZID=Australia/Melbourne:20260924T131500
@@ -339,8 +299,8 @@ DESCRIPTION:Joseph Kachovec: “TBD”\nhttps://www.rba.gov.au/research/res
 END:VEVENT
 BEGIN:VEVENT
 UID:9775dccfb1d1c8fa101137cc374001fe@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T120000
 DTEND;TZID=Australia/Melbourne:20260910T131500
@@ -352,8 +312,8 @@ DESCRIPTION:Lukasz Rachel: “TBD”\nhttps://sites.google.com/site/lukaszr
 END:VEVENT
 BEGIN:VEVENT
 UID:4d74938107fe06912ef1477fe29d2eb4@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T120000
 DTEND;TZID=Australia/Melbourne:20261015T131500
@@ -365,8 +325,8 @@ DESCRIPTION:Morten Ravn: “TBD”\nhttps://sites.google.com/view/mortenora
 END:VEVENT
 BEGIN:VEVENT
 UID:ea870c6c84590a24cbdea0d517b6c51d@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260515T133000
 DTEND;TZID=Australia/Melbourne:20260515T144500
@@ -394,8 +354,8 @@ URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
 END:VEVENT
 BEGIN:VEVENT
 UID:1fd2de79f472542e543d78fba0a4fe93@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T133000
 DTEND;TZID=Australia/Melbourne:20260529T144500
@@ -431,8 +391,8 @@ URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
 END:VEVENT
 BEGIN:VEVENT
 UID:cb4d82edb8f68b2f8e050cbbed5f91f9@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260515T133000
 DTEND;TZID=Australia/Melbourne:20260515T141000
@@ -446,8 +406,8 @@ DESCRIPTION:Daniel Tiong: “The Quantile Factor Vector Autoregressive Mode
 END:VEVENT
 BEGIN:VEVENT
 UID:5948369a681d838cfefa2ca792f23fbd@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260515T141000
 DTEND;TZID=Australia/Melbourne:20260515T145000
@@ -475,8 +435,8 @@ DESCRIPTION:Pengyun CHen: “Are Green Bonds Financially Distinct? Evidence
 END:VEVENT
 BEGIN:VEVENT
 UID:c0511cdd6a97b0f501e8c9a39f30e47e@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260515T145000
 DTEND;TZID=Australia/Melbourne:20260515T153000
@@ -505,8 +465,8 @@ DESCRIPTION:Ray Gomez: “A Decision-Focused Learning Approach to Poverty T
 END:VEVENT
 BEGIN:VEVENT
 UID:7e375abb8a1dc6374b71ddae83d7de4e@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260522T133000
 DTEND;TZID=Australia/Melbourne:20260522T141000
@@ -530,8 +490,8 @@ DESCRIPTION:Abhirupa Das: “Effect of Social Learning when Corruption “G
 END:VEVENT
 BEGIN:VEVENT
 UID:fce71d5a9b251449c6bfe4e14a92a847@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260522T141000
 DTEND;TZID=Australia/Melbourne:20260522T145000
@@ -544,8 +504,8 @@ DESCRIPTION:Ellie Peppa: “Gender identity and competition: Going beyond b
 END:VEVENT
 BEGIN:VEVENT
 UID:2956d4024414e97b3dc716a0f5ff61eb@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260522T145000
 DTEND;TZID=Australia/Melbourne:20260522T153000
@@ -556,8 +516,8 @@ DESCRIPTION:: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9
 END:VEVENT
 BEGIN:VEVENT
 UID:ee0d12639b7322f0418d604935091825@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T132000
 DTEND;TZID=Australia/Melbourne:20260529T140000
@@ -569,8 +529,8 @@ DESCRIPTION:Filippo Dell'Andrea: “The Economics of Speed Limits”\n\nGoo
 END:VEVENT
 BEGIN:VEVENT
 UID:12e4acbaa7fdf82609a313994382fc4a@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T140000
 DTEND;TZID=Australia/Melbourne:20260529T144000
@@ -598,8 +558,8 @@ DESCRIPTION:Martina Repetto: “From Awareness to Action: Help-Seeking and
 END:VEVENT
 BEGIN:VEVENT
 UID:305816ea5290b02f470b5bff73b6a0d3@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T144000
 DTEND;TZID=Australia/Melbourne:20260529T152000
@@ -628,38 +588,9 @@ DESCRIPTION:Sonia Ma: “Gender norms and Confucian legacies in\nRepublican
  .
 END:VEVENT
 BEGIN:VEVENT
-UID:fad0d673af524cc7c24e8f850d534098@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260514T121500
-DTEND;TZID=Australia/Melbourne:20260514T131500
-SUMMARY:Melbourne Institute Seminar – Massimo Anelli (Bocconi University)
-  – The Departed: Italian Migration and the American Mafia
-LOCATION:Room 615\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Massimo Anelli: “The Departed: Italian Migration and the Amer
- ican Mafia”\nhttps://www.massimoanelli.com/\n\nGoogle Maps: https://maps
- .app.goo.gl/BirLkJKurX9pSbBB11\n\nABSTRACT:\nWe document the transplantati
- on of the Sicilian Mafia to the United States in the 1920s\, when a large-
- scale repression campaign in Italy targeted Mafia strongholds and forced m
- any Mafiosi to migrate\, and study the resulting short- and long-term effe
- cts across neighborhoods in U.S. cities. Using newly linked administrative
-  and historical data from the U.S. Census\, Social Security records\, and 
- declassified files of the Federal Bureau of Narcotics\, we show that neigh
- borhoods hosting enclaves of migrants from Sicilian Mafia strongholds targ
- eted by the repression later became centers of Italo-American Mafia activi
- ty. These neighborhoods experienced higher violence\, incarceration\, and 
- financial exclusion in the short run\, but higher income\, employment\, an
- d educational attainment in the long run. The results suggest that while t
- he arrival of organized criminal networks initially intensified conflict a
- nd exclusion\, their subsequent consolidation generated localized economic
-  benefits\, helping to explain the long-term resilience and persistence of
-  organized crime.
-END:VEVENT
-BEGIN:VEVENT
 UID:63c63fe236bf51b0e5f7aa55dbde533e@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260521T121500
 DTEND;TZID=Australia/Melbourne:20260521T131500
@@ -688,8 +619,8 @@ DESCRIPTION:Richard Luger: “Multiple Testing for the Topology of Financia
 END:VEVENT
 BEGIN:VEVENT
 UID:4d0b3932d1149f8d012e483bbc833f63@generated
-DTSTAMP:20260520T205704Z
-LAST-MODIFIED:20260520T205704Z
+DTSTAMP:20260521T204527Z
+LAST-MODIFIED:20260521T204527Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260604T121500
 DTEND;TZID=Australia/Melbourne:20260604T131500
