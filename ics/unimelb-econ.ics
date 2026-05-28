@@ -24,9 +24,162 @@ TZNAME:AEDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:05ef79abf7c90e3f5aa79a0ba5d97cec@generated
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260805T121500
+DTEND;TZID=Australia/Melbourne:20260805T131500
+SUMMARY:Department Seminar – Phil McCalman (University of Melbourne) – 
+ The Big Screen: Foreign Investment Review as a Real Option
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Phil McCalman: “The Big Screen: Foreign Investment Review as 
+ a Real Option”\n\nZoom: https://unimelb.zoom.us/j/83457027983?pwd=7agWSD
+ 3Oez70j4RZxmm6J4zxme8a8V.1&from=addon\n\nGoogle Maps: https://maps.app.goo
+ .gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
+ V.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:04de1ffd0c2c82b1b43421cbe1b522f7@generated
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260812T121500
+DTEND;TZID=Australia/Melbourne:20260812T131500
+SUMMARY:Department Seminar – Andrew Ireland (University of Melbourne) –
+  Resilient or Scarred? Migration\, Mortality\, and Morbidity after Natural
+  Disasters
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Andrew Ireland: “Resilient or Scarred? Migration\, Mortality\
+ , and Morbidity after Natural Disasters”\n\nZoom: https://unimelb.zoom.u
+ s/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8V.1&from=addon\n\nGoogle 
+ Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
+ V.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:4b33a1fa01f9003958405313f31ac1c0@generated
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260819T121500
+DTEND;TZID=Australia/Melbourne:20260819T131500
+SUMMARY:Department Seminar – David Byrne (University of Melbourne) – Di
+ stributional Demand Elasticity in Retail Gasoline Markets
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:David Byrne: “Distributional Demand Elasticity in Retail Gaso
+ line Markets”\n\nZoom: https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3
+ Oez70j4RZxmm6J4zxme8a8V.1&from=addon\n\nGoogle Maps: https://maps.app.goo.
+ gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
+ V.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:cb2f36701655a8efec9cc04fa57696a2@generated
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260902T121500
+DTEND;TZID=Australia/Melbourne:20260902T131500
+SUMMARY:Department Seminar – Aaron Barkley (University of Melbourne) – 
+ Auction Identification with Unobserved Rejected Offers
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Aaron Barkley: “Auction Identification with Unobserved Reject
+ ed Offers”\n\nZoom: https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez
+ 70j4RZxmm6J4zxme8a8V.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/
+ BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
+ V.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:246a7cbe21243dfd9a956460e0bfd9da@generated
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260909T121500
+DTEND;TZID=Australia/Melbourne:20260909T131500
+SUMMARY:Department Seminar – Mia Tam (University of Melbourne) – Compar
+ ative Learnings
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Mia Tam: “Comparative Learnings”\n\nZoom: https://unimelb.z
+ oom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8V.1&from=addon\n\nGo
+ ogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
+ V.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:062c68cd1896ff47bd67736564cd3f66@generated
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260916T121500
+DTEND;TZID=Australia/Melbourne:20260916T131500
+SUMMARY:Department Seminar – May Li (University of Melbourne) – Interba
+ nk Asset Trading and Financial Instability
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:May Li: “Interbank Asset Trading and Financial Instability”
+ \n\nZoom: https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4
+ zxme8a8V.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9p
+ SbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
+ V.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:222519234a4b166fad1f1727aab338d0@generated
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260930T121500
+DTEND;TZID=Australia/Melbourne:20260930T131500
+SUMMARY:Department Seminar – Reshad Ahsan (University of Melbourne) – E
+ xport Responses to Externally Influenced Labor Standards
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Reshad Ahsan: “Export Responses to Externally Influenced Labo
+ r Standards”\n\nZoom: https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3O
+ ez70j4RZxmm6J4zxme8a8V.1&from=addon\n\nGoogle Maps: https://maps.app.goo.g
+ l/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
+ V.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:7e52127fe1d7f7ff0adbcf77c4a656f6@generated
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261007T121500
+DTEND;TZID=Australia/Melbourne:20261007T131500
+SUMMARY:Department Seminar – Marc Chan (University of Melbourne) – FPCD
+ ID
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Marc Chan: “FPCDID”\n\nZoom: https://unimelb.zoom.us/j/8345
+ 7027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8V.1&from=addon\n\nGoogle Maps: ht
+ tps://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
+ V.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:ce6b6b2486056974d1e1e434b75cd3df@generated
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261014T121500
+DTEND;TZID=Australia/Melbourne:20261014T131500
+SUMMARY:Department Seminar – Alexandra de Gendre (University of Melbourne
+ ) – AI-Based University Admissions Advice for Better Higher Education Ma
+ tches
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Alexandra de Gendre: “AI-Based University Admissions Advice f
+ or Better Higher Education Matches”\n\nZoom: https://unimelb.zoom.us/j/8
+ 3457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8V.1&from=addon\n\nGoogle Maps:
+  https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
+ V.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
 UID:4eee0cc04ce514dca3b273da310a2c84@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260526T110000
 DTEND;TZID=Australia/Melbourne:20260526T121500
@@ -41,8 +194,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:df23d0efb6a12f1ac46bd0a2da6827fe@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260602T110000
 DTEND;TZID=Australia/Melbourne:20260602T121500
@@ -60,8 +213,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:fa513005cd3ba13a0ffec15923f55f1c@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260528T110000
 DTEND;TZID=Australia/Melbourne:20260528T121500
@@ -89,8 +242,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:98ed5f72610acbf7ea254fa5be863ff6@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260730T110000
 DTEND;TZID=Australia/Melbourne:20260730T121500
@@ -102,8 +255,8 @@ DESCRIPTION:Romain Gauriot: “TBD”\nhttps://sites.google.com/site/romain
 END:VEVENT
 BEGIN:VEVENT
 UID:7af1987c51bccbf9e389c3bb8e2bf586@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260806T110000
 DTEND;TZID=Australia/Melbourne:20260806T121500
@@ -115,8 +268,8 @@ DESCRIPTION:Jay Lu (Joint with ET): “TBD”\nhttp://www.econ.ucla.edu/jay
 END:VEVENT
 BEGIN:VEVENT
 UID:fc37d7433342b9d0d7a54391d2d2b256@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260813T110000
 DTEND;TZID=Australia/Melbourne:20260813T121500
@@ -127,8 +280,8 @@ DESCRIPTION:Kirby Nielsen: “TBD”\nhttps://kirbyknielsen.com/\n\nGoogle
 END:VEVENT
 BEGIN:VEVENT
 UID:d6d51a3cceedca1e00cbc4794085cd23@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260827T110000
 DTEND;TZID=Australia/Melbourne:20260827T121500
@@ -139,8 +292,8 @@ DESCRIPTION:Ashley Craig: “TBD”\nhttps://www.ashleycraig.com/\n\nGoogle
 END:VEVENT
 BEGIN:VEVENT
 UID:bc5e60effc0c23a51ddba55bd5e77cce@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T110000
 DTEND;TZID=Australia/Melbourne:20260910T121500
@@ -152,8 +305,8 @@ DESCRIPTION:Lionel Page: “TBD”\nhttps://sites.google.com/site/liopage/h
 END:VEVENT
 BEGIN:VEVENT
 UID:584cd84ada0cc22293b3392b1013bd57@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T110000
 DTEND;TZID=Australia/Melbourne:20260924T121500
@@ -165,8 +318,8 @@ DESCRIPTION:Maroš Servátka: “TBD”\nhttps://sites.google.com/site/maro
 END:VEVENT
 BEGIN:VEVENT
 UID:be85c8c8a51448a678086ef03175d138@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261008T110000
 DTEND;TZID=Australia/Melbourne:20261008T121500
@@ -178,8 +331,8 @@ DESCRIPTION:Ralph Bayer: “TBD”\nhttps://researchers.adelaide.edu.au/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:fe69003f8212471e48c9ea8e2060ed97@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261022T110000
 DTEND;TZID=Australia/Melbourne:20261022T121500
@@ -190,8 +343,8 @@ DESCRIPTION:Uzma Afzal: “TBD”\nhttps://www.uzmaafzal.com/\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:196df18caa4b44d6cb2b43a7bbd0e8aa@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T110000
 DTEND;TZID=Australia/Melbourne:20261015T121500
@@ -201,35 +354,9 @@ DESCRIPTION:Steve Wu: “TBD”\nhttps://ag.purdue.edu/directory/sywu\n\nGo
  ogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
-UID:3635d4412b3e5676c89a9a20d80cb4b8@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260521T120000
-DTEND;TZID=Australia/Melbourne:20260521T131500
-SUMMARY:Macroeconomics – Kurt See (NUS) – The Implications of Labor Mar
- ket Heterogeneity for Unemployment Insurance Design
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Kurt See: “The Implications of Labor Market Heterogeneity for
-  Unemployment Insurance Design”\nhttps://kurtsee.weebly.com/\n\nZoom: ht
- tps://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vCa.1&f
- rom=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABS
- TRACT:\nWe estimate unemployment insurance (UI) eligibility\, take-up\, an
- d replacement rates at the individual level and document how they vary wit
- h earnings\, wealth\, and unemployment duration. We extend a widely used f
- ramework that combines an incomplete-markets model with a frictional labor
-  market to match our findings. We show that the optimal UI policy becomes 
- substantially more generous. The gap between optimal policies in the two m
- odels is largely driven by endogenous UI take-up\, which entails a utility
-  cost: only those who value UI the most choose to take it. The welfare gai
- ns from insuring these workers outweigh losses from increased take-up.
-URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
- a.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
 UID:e2be7fadf0d6ff6978277a43e9fd2fdd@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260730T120000
 DTEND;TZID=Australia/Melbourne:20260730T131500
@@ -241,8 +368,8 @@ DESCRIPTION:Yasin Kursat Onder: “TBD”\nhttps://sites.google.com/view/ya
 END:VEVENT
 BEGIN:VEVENT
 UID:a61aece2a19a6fd93eec30efed1d6412@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260806T120000
 DTEND;TZID=Australia/Melbourne:20260806T131500
@@ -253,8 +380,8 @@ DESCRIPTION:Tommy Iao: “TBD”\nhttps://tommyiao.github.io/\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf58dba3bc9e1ea57b54088221551fd@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260917T120000
 DTEND;TZID=Australia/Melbourne:20260917T131500
@@ -277,8 +404,8 @@ DESCRIPTION:Chansik Yoon: “Growth in the Shaded Sun: The Role of Internat
 END:VEVENT
 BEGIN:VEVENT
 UID:7292f4c0f5b44beeab4b59600dc5d162@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260921T120000
 DTEND;TZID=Australia/Melbourne:20260921T131500
@@ -290,8 +417,8 @@ DESCRIPTION:Romina Ruprecht: “TBD”\nhttps://sites.google.com/view/romin
 END:VEVENT
 BEGIN:VEVENT
 UID:acdca22b7a26552a87228a77fdbd6695@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T120000
 DTEND;TZID=Australia/Melbourne:20260924T131500
@@ -303,8 +430,8 @@ DESCRIPTION:Joseph Kachovec: “TBD”\nhttps://www.rba.gov.au/research/res
 END:VEVENT
 BEGIN:VEVENT
 UID:9775dccfb1d1c8fa101137cc374001fe@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T120000
 DTEND;TZID=Australia/Melbourne:20260910T131500
@@ -316,8 +443,8 @@ DESCRIPTION:Lukasz Rachel: “TBD”\nhttps://sites.google.com/site/lukaszr
 END:VEVENT
 BEGIN:VEVENT
 UID:4d74938107fe06912ef1477fe29d2eb4@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T120000
 DTEND;TZID=Australia/Melbourne:20261015T131500
@@ -329,8 +456,8 @@ DESCRIPTION:Morten Ravn: “TBD”\nhttps://sites.google.com/view/mortenora
 END:VEVENT
 BEGIN:VEVENT
 UID:1fd2de79f472542e543d78fba0a4fe93@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T133000
 DTEND;TZID=Australia/Melbourne:20260529T144500
@@ -366,8 +493,8 @@ URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
 END:VEVENT
 BEGIN:VEVENT
 UID:7e375abb8a1dc6374b71ddae83d7de4e@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260522T133000
 DTEND;TZID=Australia/Melbourne:20260522T141000
@@ -391,8 +518,8 @@ DESCRIPTION:Abhirupa Das: “Effect of Social Learning when Corruption “G
 END:VEVENT
 BEGIN:VEVENT
 UID:fce71d5a9b251449c6bfe4e14a92a847@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260522T141000
 DTEND;TZID=Australia/Melbourne:20260522T145000
@@ -405,8 +532,8 @@ DESCRIPTION:Ellie Peppa: “Gender identity and competition: Going beyond b
 END:VEVENT
 BEGIN:VEVENT
 UID:2956d4024414e97b3dc716a0f5ff61eb@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260522T145000
 DTEND;TZID=Australia/Melbourne:20260522T153000
@@ -417,8 +544,8 @@ DESCRIPTION:: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9
 END:VEVENT
 BEGIN:VEVENT
 UID:ee0d12639b7322f0418d604935091825@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T132000
 DTEND;TZID=Australia/Melbourne:20260529T140000
@@ -430,8 +557,8 @@ DESCRIPTION:Filippo Dell'Andrea: “The Economics of Speed Limits”\n\nGoo
 END:VEVENT
 BEGIN:VEVENT
 UID:12e4acbaa7fdf82609a313994382fc4a@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T140000
 DTEND;TZID=Australia/Melbourne:20260529T144000
@@ -459,8 +586,8 @@ DESCRIPTION:Martina Repetto: “From Awareness to Action: Help-Seeking and
 END:VEVENT
 BEGIN:VEVENT
 UID:305816ea5290b02f470b5bff73b6a0d3@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260529T144000
 DTEND;TZID=Australia/Melbourne:20260529T152000
@@ -489,39 +616,9 @@ DESCRIPTION:Sonia Ma: “Gender norms and Confucian legacies in\nRepublican
  .
 END:VEVENT
 BEGIN:VEVENT
-UID:63c63fe236bf51b0e5f7aa55dbde533e@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260521T121500
-DTEND;TZID=Australia/Melbourne:20260521T131500
-SUMMARY:Melbourne Institute Seminar – Richard Luger (Université Laval) 
- – Multiple Testing for the Topology of Financial Networks
-LOCATION:Room 615\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Richard Luger: “Multiple Testing for the Topology of Financia
- l Networks”\nhttps://richardluger.github.io/\n\nGoogle Maps: https://map
- s.app.goo.gl/BirLkJKurX9pSbBB12\n\nABSTRACT:\nThis paper advances the econ
- ometric analysis of network connectedness by introducing exact simulation-
- based inference methods to assess pairwise and aggregated spillover effect
- s among variables in vector autoregressive models. While the estimation of
-  connectedness using forecast error variance decompositions is well establ
- ished\, our contribution lies in developing hypothesis testing procedures 
- that provide a statistical foundation for assessing the significance of co
- nnectedness measures. To address the resulting multiple testing problem\, 
- we present algorithms for both single-step and step-down p-value adjustmen
- ts that control the familywise error rate in finite samples. We also exten
- d the methodology to group-based analysis\, thereby broadening its applica
- bility. Simulation results show that our procedures ensure simultaneous fi
- nite-sample correctness while maintaining good statistical power. We illus
- trate the proposed inference procedures through empirical analyses of retu
- rn and volatility spillovers among global stock markets\, revealing new in
- sights into financial market linkages and the vulnerability of financial n
- etworks to contagion.
-END:VEVENT
-BEGIN:VEVENT
 UID:4d0b3932d1149f8d012e483bbc833f63@generated
-DTSTAMP:20260527T205817Z
-LAST-MODIFIED:20260527T205817Z
+DTSTAMP:20260528T210247Z
+LAST-MODIFIED:20260528T210247Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260604T121500
 DTEND;TZID=Australia/Melbourne:20260604T131500
