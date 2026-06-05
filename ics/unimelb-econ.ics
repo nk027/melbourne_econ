@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:05ef79abf7c90e3f5aa79a0ba5d97cec@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260805T121500
 DTEND;TZID=Australia/Melbourne:20260805T131500
@@ -42,8 +42,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:04de1ffd0c2c82b1b43421cbe1b522f7@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260812T121500
 DTEND;TZID=Australia/Melbourne:20260812T131500
@@ -60,8 +60,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:4b33a1fa01f9003958405313f31ac1c0@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260819T121500
 DTEND;TZID=Australia/Melbourne:20260819T131500
@@ -77,8 +77,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:cb2f36701655a8efec9cc04fa57696a2@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260902T121500
 DTEND;TZID=Australia/Melbourne:20260902T131500
@@ -94,8 +94,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:246a7cbe21243dfd9a956460e0bfd9da@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260909T121500
 DTEND;TZID=Australia/Melbourne:20260909T131500
@@ -110,8 +110,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:062c68cd1896ff47bd67736564cd3f66@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260916T121500
 DTEND;TZID=Australia/Melbourne:20260916T131500
@@ -127,8 +127,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:222519234a4b166fad1f1727aab338d0@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260930T121500
 DTEND;TZID=Australia/Melbourne:20260930T131500
@@ -144,8 +144,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:7e52127fe1d7f7ff0adbcf77c4a656f6@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261007T121500
 DTEND;TZID=Australia/Melbourne:20261007T131500
@@ -160,8 +160,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:ce6b6b2486056974d1e1e434b75cd3df@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261014T121500
 DTEND;TZID=Australia/Melbourne:20261014T131500
@@ -178,8 +178,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:c81298fa23da2d963c165deaf7e39ca2@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260609T110000
 DTEND;TZID=Australia/Melbourne:20260609T121500
@@ -197,8 +197,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:98ed5f72610acbf7ea254fa5be863ff6@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260730T110000
 DTEND;TZID=Australia/Melbourne:20260730T121500
@@ -210,8 +210,8 @@ DESCRIPTION:Romain Gauriot: “TBD”\nhttps://sites.google.com/site/romain
 END:VEVENT
 BEGIN:VEVENT
 UID:7af1987c51bccbf9e389c3bb8e2bf586@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260806T110000
 DTEND;TZID=Australia/Melbourne:20260806T121500
@@ -223,8 +223,8 @@ DESCRIPTION:Jay Lu (Joint with ET): “TBD”\nhttp://www.econ.ucla.edu/jay
 END:VEVENT
 BEGIN:VEVENT
 UID:fc37d7433342b9d0d7a54391d2d2b256@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260813T110000
 DTEND;TZID=Australia/Melbourne:20260813T121500
@@ -235,8 +235,8 @@ DESCRIPTION:Kirby Nielsen: “TBD”\nhttps://kirbyknielsen.com/\n\nGoogle
 END:VEVENT
 BEGIN:VEVENT
 UID:d6d51a3cceedca1e00cbc4794085cd23@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260827T110000
 DTEND;TZID=Australia/Melbourne:20260827T121500
@@ -247,8 +247,8 @@ DESCRIPTION:Ashley Craig: “TBD”\nhttps://www.ashleycraig.com/\n\nGoogle
 END:VEVENT
 BEGIN:VEVENT
 UID:bc5e60effc0c23a51ddba55bd5e77cce@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T110000
 DTEND;TZID=Australia/Melbourne:20260910T121500
@@ -260,8 +260,8 @@ DESCRIPTION:Lionel Page: “TBD”\nhttps://sites.google.com/site/liopage/h
 END:VEVENT
 BEGIN:VEVENT
 UID:584cd84ada0cc22293b3392b1013bd57@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T110000
 DTEND;TZID=Australia/Melbourne:20260924T121500
@@ -273,8 +273,8 @@ DESCRIPTION:Maroš Servátka: “TBD”\nhttps://sites.google.com/site/maro
 END:VEVENT
 BEGIN:VEVENT
 UID:be85c8c8a51448a678086ef03175d138@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261008T110000
 DTEND;TZID=Australia/Melbourne:20261008T121500
@@ -286,8 +286,8 @@ DESCRIPTION:Ralph Bayer: “TBD”\nhttps://researchers.adelaide.edu.au/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:fe69003f8212471e48c9ea8e2060ed97@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261022T110000
 DTEND;TZID=Australia/Melbourne:20261022T121500
@@ -298,8 +298,8 @@ DESCRIPTION:Uzma Afzal: “TBD”\nhttps://www.uzmaafzal.com/\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:196df18caa4b44d6cb2b43a7bbd0e8aa@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T110000
 DTEND;TZID=Australia/Melbourne:20261015T121500
@@ -310,8 +310,8 @@ DESCRIPTION:Steve Wu: “TBD”\nhttps://ag.purdue.edu/directory/sywu\n\nGo
 END:VEVENT
 BEGIN:VEVENT
 UID:e2be7fadf0d6ff6978277a43e9fd2fdd@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260730T120000
 DTEND;TZID=Australia/Melbourne:20260730T131500
@@ -323,8 +323,8 @@ DESCRIPTION:Yasin Kursat Onder: “TBD”\nhttps://sites.google.com/view/ya
 END:VEVENT
 BEGIN:VEVENT
 UID:a61aece2a19a6fd93eec30efed1d6412@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260806T120000
 DTEND;TZID=Australia/Melbourne:20260806T131500
@@ -335,8 +335,8 @@ DESCRIPTION:Tommy Iao: “TBD”\nhttps://tommyiao.github.io/\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf58dba3bc9e1ea57b54088221551fd@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260917T120000
 DTEND;TZID=Australia/Melbourne:20260917T131500
@@ -359,8 +359,8 @@ DESCRIPTION:Chansik Yoon: “Growth in the Shaded Sun: The Role of Internat
 END:VEVENT
 BEGIN:VEVENT
 UID:7292f4c0f5b44beeab4b59600dc5d162@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260921T120000
 DTEND;TZID=Australia/Melbourne:20260921T131500
@@ -372,8 +372,8 @@ DESCRIPTION:Romina Ruprecht: “TBD”\nhttps://sites.google.com/view/romin
 END:VEVENT
 BEGIN:VEVENT
 UID:acdca22b7a26552a87228a77fdbd6695@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T120000
 DTEND;TZID=Australia/Melbourne:20260924T131500
@@ -385,8 +385,8 @@ DESCRIPTION:Joseph Kachovec: “TBD”\nhttps://www.rba.gov.au/research/res
 END:VEVENT
 BEGIN:VEVENT
 UID:9775dccfb1d1c8fa101137cc374001fe@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T120000
 DTEND;TZID=Australia/Melbourne:20260910T131500
@@ -398,8 +398,8 @@ DESCRIPTION:Lukasz Rachel: “TBD”\nhttps://sites.google.com/site/lukaszr
 END:VEVENT
 BEGIN:VEVENT
 UID:4d74938107fe06912ef1477fe29d2eb4@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T120000
 DTEND;TZID=Australia/Melbourne:20261015T131500
@@ -410,119 +410,9 @@ DESCRIPTION:Morten Ravn: “TBD”\nhttps://sites.google.com/view/mortenora
  ACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
-UID:1fd2de79f472542e543d78fba0a4fe93@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260529T133000
-DTEND;TZID=Australia/Melbourne:20260529T144500
-SUMMARY:Econometrics – Jackson Kwok (St Vincent's Institute) – Comparis
- on of AI-integrated pathways with human-AI interaction in population mammo
- graphic screening for breast cancer
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Jackson Kwok: “Comparison of AI-integrated pathways with huma
- n-AI interaction in population mammographic screening for breast cancer”
- \nhttps://www.svi.edu.au/researchers/dr-chun-fung-jackson-kwok/\n\nZoom: h
- ttps://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8CY.1&
- from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nAB
- STRACT:\nI’ll talk about how well Artificial Intelligence (AI) readers o
- f mammograms compare to individual radiologists in detecting breast cancer
- \, and how human-AI collaboration can match or even outperform the multi-r
- eader systems used by screening programs in countries such as Australia\, 
- Sweden\, and the UK. Our study uses a large\, high-quality retrospective m
- ammography dataset from Victoria\, Australia to conduct detailed simulatio
- ns of five potential AI-integrated screening pathways and examines human-A
- I interaction effects to explore automation bias. Operating an AI reader a
- s a second reader or as a high confidence filter improves current screenin
- g outcomes by 1.9-2.5% in sensitivity and up to 0.6% in specificity\, achi
- eving a 4.6-10.9% reduction in assessments and 48-80.7% reduction in human
-  reads. Automation bias degrades performance in multi-reader settings but 
- improves it for single readers. This study provides insight into feasible 
- approaches for AI-integrated screening pathways and prospective studies ne
- cessary prior to clinical adoption\, with a randomised controlled trial cu
- rrently underway to evaluate these pathways. Beyond the study findings\, t
- he talk will also cover the key models and techniques underpinning the AI 
- readers and discuss recent developments in AI in medical imaging.
-URL:https://unimelb.zoom.us/j/82137514093?pwd=KSb1ZXIyCKxNbsIkrno9M8a3jpA8C
- Y.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
-UID:ee0d12639b7322f0418d604935091825@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260529T132000
-DTEND;TZID=Australia/Melbourne:20260529T140000
-SUMMARY:PhD Brown Bag Seminar – Filippo Dell'Andrea (University of Melbou
- rne) – The Economics of Speed Limits
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Filippo Dell'Andrea: “The Economics of Speed Limits”\n\nGoo
- gle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-END:VEVENT
-BEGIN:VEVENT
-UID:12e4acbaa7fdf82609a313994382fc4a@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260529T140000
-DTEND;TZID=Australia/Melbourne:20260529T144000
-SUMMARY:PhD Brown Bag Seminar – Martina Repetto (University of Melbourne)
-  – From Awareness to Action: Help-Seeking and Femicides after Gender-Bas
- ed Violence Campaigns in Italy
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Martina Repetto: “From Awareness to Action: Help-Seeking and 
- Femicides after Gender-Based Violence Campaigns in Italy”\n\nGoogle Maps
- : https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nThis paper exami
- nes whether public awareness campaigns affect help-seeking behaviour and s
- evere violence outcomes in the context of gender-based violence (GBV). We 
- focus on the annual campaign surrounding the International Day for the Eli
- mination of Violence against Women (November 25)\, leveraging the unusuall
- y high level of public attention observed in Italy in 2023--2024. Using ad
- ministrative data on helpline calls and femicides\, we estimate a differen
- ce-in-differences model comparing outcomes before and after the campaign p
- eriod across years of varying intensity. We find that helpline calls incre
- ase by about 5 additional calls per week in an average-sized province foll
- owing the high-intensity campaign\, while femicides decrease by approximat
- ely 1 every four months in an average-sized region. Placebo tests and even
- t-study specifications support a causal interpretation. These findings sug
- gest that awareness campaigns may contribute to the prevention of severe f
- orms of gender-based violence.
-END:VEVENT
-BEGIN:VEVENT
-UID:305816ea5290b02f470b5bff73b6a0d3@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260529T144000
-DTEND;TZID=Australia/Melbourne:20260529T152000
-SUMMARY:PhD Brown Bag Seminar – Sonia Ma (University of Melbourne) – Ge
- nder norms and Confucian legacies in\nRepublican China
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Sonia Ma: “Gender norms and Confucian legacies in\nRepublican
-  China”\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABS
- TRACT:\nHow do traditional cultural norms shape women’s roles during soc
- ial and political transition? We examine this question in Republican China
-  (1911-1949)\, a time of ideological conflict between Confucian values and
-  emerging Western ideals of democracy\, science\, and women’s emancipati
- on. We study the relationship between traditional gender norms and three d
- imensions of women’s emancipation using newly compiled county-level data
- : tertiary education enrolment\, recognition as members of the social elit
- e\, and participation in the early communist movement. We construct a nove
- l county-level index of Confucian influence based on the prevalence of the
-  term lienü (chaste women) in local histories—women celebrated posthumo
- usly for their virtue in accordance with Confucian moral codes. To address
-  endogeneity concerns\, we employ an instrumental variables approach using
-  proximity to the birthplaces of two Confucian female sages. Our 2SLS esti
- mates show that stronger Confucian influence discouraged women’s educati
- on and political activism\, but was associated with a greater overall pres
- ence of notable women in elite roles. Our study contributes new data and a
-  novel approach to understanding cultural persistence amid societal change
- .
-END:VEVENT
-BEGIN:VEVENT
 UID:30ae2df2143340d2c57feeaa5d4eeb6f@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260604T121500
 DTEND;TZID=Australia/Melbourne:20260604T131500
@@ -535,8 +425,8 @@ DESCRIPTION:André Sztutman: “(Cancelled)”\nhttps://andresztutman.com/\
 END:VEVENT
 BEGIN:VEVENT
 UID:888cd7a157fbb33178ec73c3a3deec6c@generated
-DTSTAMP:20260604T205357Z
-LAST-MODIFIED:20260604T205357Z
+DTSTAMP:20260605T204525Z
+LAST-MODIFIED:20260605T204525Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261106T121500
 DTEND;TZID=Australia/Melbourne:20261106T131500
