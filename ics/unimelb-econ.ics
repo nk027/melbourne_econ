@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:05ef79abf7c90e3f5aa79a0ba5d97cec@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260805T121500
 DTEND;TZID=Australia/Melbourne:20260805T131500
@@ -42,8 +42,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:04de1ffd0c2c82b1b43421cbe1b522f7@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260812T121500
 DTEND;TZID=Australia/Melbourne:20260812T131500
@@ -60,8 +60,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:4b33a1fa01f9003958405313f31ac1c0@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260819T121500
 DTEND;TZID=Australia/Melbourne:20260819T131500
@@ -77,8 +77,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:cb2f36701655a8efec9cc04fa57696a2@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260902T121500
 DTEND;TZID=Australia/Melbourne:20260902T131500
@@ -94,8 +94,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:246a7cbe21243dfd9a956460e0bfd9da@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260909T121500
 DTEND;TZID=Australia/Melbourne:20260909T131500
@@ -110,8 +110,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:062c68cd1896ff47bd67736564cd3f66@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260916T121500
 DTEND;TZID=Australia/Melbourne:20260916T131500
@@ -127,8 +127,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:222519234a4b166fad1f1727aab338d0@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260930T121500
 DTEND;TZID=Australia/Melbourne:20260930T131500
@@ -144,8 +144,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:7e52127fe1d7f7ff0adbcf77c4a656f6@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261007T121500
 DTEND;TZID=Australia/Melbourne:20261007T131500
@@ -160,8 +160,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:ce6b6b2486056974d1e1e434b75cd3df@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261014T121500
 DTEND;TZID=Australia/Melbourne:20261014T131500
@@ -178,8 +178,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:98ed5f72610acbf7ea254fa5be863ff6@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260730T110000
 DTEND;TZID=Australia/Melbourne:20260730T121500
@@ -191,8 +191,8 @@ DESCRIPTION:Romain Gauriot: “TBD”\nhttps://sites.google.com/site/romain
 END:VEVENT
 BEGIN:VEVENT
 UID:7af1987c51bccbf9e389c3bb8e2bf586@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260806T110000
 DTEND;TZID=Australia/Melbourne:20260806T121500
@@ -204,8 +204,8 @@ DESCRIPTION:Jay Lu (Joint with ET): “TBD”\nhttp://www.econ.ucla.edu/jay
 END:VEVENT
 BEGIN:VEVENT
 UID:fc37d7433342b9d0d7a54391d2d2b256@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260813T110000
 DTEND;TZID=Australia/Melbourne:20260813T121500
@@ -216,8 +216,8 @@ DESCRIPTION:Kirby Nielsen: “TBD”\nhttps://kirbyknielsen.com/\n\nGoogle
 END:VEVENT
 BEGIN:VEVENT
 UID:d6d51a3cceedca1e00cbc4794085cd23@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260827T110000
 DTEND;TZID=Australia/Melbourne:20260827T121500
@@ -228,8 +228,8 @@ DESCRIPTION:Ashley Craig: “TBD”\nhttps://www.ashleycraig.com/\n\nGoogle
 END:VEVENT
 BEGIN:VEVENT
 UID:bc5e60effc0c23a51ddba55bd5e77cce@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T110000
 DTEND;TZID=Australia/Melbourne:20260910T121500
@@ -241,8 +241,8 @@ DESCRIPTION:Lionel Page: “TBD”\nhttps://sites.google.com/site/liopage/h
 END:VEVENT
 BEGIN:VEVENT
 UID:584cd84ada0cc22293b3392b1013bd57@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T110000
 DTEND;TZID=Australia/Melbourne:20260924T121500
@@ -254,8 +254,8 @@ DESCRIPTION:Maroš Servátka: “TBD”\nhttps://sites.google.com/site/maro
 END:VEVENT
 BEGIN:VEVENT
 UID:be85c8c8a51448a678086ef03175d138@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261008T110000
 DTEND;TZID=Australia/Melbourne:20261008T121500
@@ -267,8 +267,8 @@ DESCRIPTION:Ralph Bayer: “TBD”\nhttps://researchers.adelaide.edu.au/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:fe69003f8212471e48c9ea8e2060ed97@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261022T110000
 DTEND;TZID=Australia/Melbourne:20261022T121500
@@ -279,8 +279,8 @@ DESCRIPTION:Uzma Afzal: “TBD”\nhttps://www.uzmaafzal.com/\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:196df18caa4b44d6cb2b43a7bbd0e8aa@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T110000
 DTEND;TZID=Australia/Melbourne:20261015T121500
@@ -291,103 +291,206 @@ DESCRIPTION:Steve Wu: “TBD”\nhttps://ag.purdue.edu/directory/sywu\n\nGo
 END:VEVENT
 BEGIN:VEVENT
 UID:e2be7fadf0d6ff6978277a43e9fd2fdd@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260730T120000
 DTEND;TZID=Australia/Melbourne:20260730T131500
 SUMMARY:Macroeconomics – Yasin Kursat Onder (Ghent) – TBD
 LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
 DESCRIPTION:Yasin Kursat Onder: “TBD”\nhttps://sites.google.com/view/ya
- sin-kursat-onder\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8
- \n\nABSTRACT:\nTBA
+ sin-kursat-onder\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1Kyfc
+ UkOWfMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.goo
+ .gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
-UID:a61aece2a19a6fd93eec30efed1d6412@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+UID:2bc5e6004e4968ce4eabf4eb7f1d910c@generated
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260806T120000
-DTEND;TZID=Australia/Melbourne:20260806T131500
+DTSTART;TZID=Australia/Melbourne:20260813T120000
+DTEND;TZID=Australia/Melbourne:20260813T131500
+SUMMARY:Macroeconomics – Sephorah Mangin (ANU) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Sephorah Mangin: “TBD”\nhttp://www.sephorahmangin.info/inde
+ x.htm\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThC
+ Ysc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJK
+ urX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:85577c82d5ec52211f5eef50846ae705@generated
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260820T120000
+DTEND;TZID=Australia/Melbourne:20260820T131500
+SUMMARY:Macroeconomics – Nic Kozeniauskas (Bank of Portugal) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Nic Kozeniauskas: “TBD”\nhttps://nicjkoz.com/\n\nZoom: http
+ s://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vCa.1&fro
+ m=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTR
+ ACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:4673a52a37a10aba791b57b6834e7453@generated
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260827T120000
+DTEND;TZID=Australia/Melbourne:20260827T131500
+SUMMARY:Macroeconomics – Maxime Gravoueille (Monash) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Maxime Gravoueille: “TBD”\nhttps://www.maximegravoueille.co
+ m/\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc
+ 9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX
+ 9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:25d420f1c1794bfa9592cba42baa6b2d@generated
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260903T120000
+DTEND;TZID=Australia/Melbourne:20260903T131500
 SUMMARY:Macroeconomics – Tommy Iao (RBA) – TBD
 LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Tommy Iao: “TBD”\nhttps://tommyiao.github.io/\n\nGoogle Map
- s: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-END:VEVENT
-BEGIN:VEVENT
-UID:bbf58dba3bc9e1ea57b54088221551fd@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260917T120000
-DTEND;TZID=Australia/Melbourne:20260917T131500
-SUMMARY:Macroeconomics – Chansik Yoon (Adelaide) – Growth in the Shaded
-  Sun: The Role of International Development Finance and Corruption
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Chansik Yoon: “Growth in the Shaded Sun: The Role of Internat
- ional Development Finance and Corruption”\nhttps://sites.google.com/view
- /chansikyoon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\n
- ABSTRACT:\nI study how developing-country governments decide the amount\, 
- sources\, and sectoral allocation of development finance (DF) as China has
-  emerged alongside traditional donors. Using project-level data from nearl
- y 110 countries (2000–2021)\, I document systematic patterns in DF alloc
- ation across countries\, sectors\, and providers that vary with corruption
-  and monitoring intensity. I develop a growth model in which governments a
- llocate DF while choosing how much investment to divert under provider-spe
- cific monitoring and financing conditions. Calibrating the model to 108 co
- untries shows heterogeneous welfare implications of Chinese DF: about 15% 
- of countries gain while roughly 55% may experience welfare losses.
-END:VEVENT
-BEGIN:VEVENT
-UID:7292f4c0f5b44beeab4b59600dc5d162@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260921T120000
-DTEND;TZID=Australia/Melbourne:20260921T131500
-SUMMARY:Macroeconomics – Romina Ruprecht (FRB) – TBD
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Romina Ruprecht: “TBD”\nhttps://sites.google.com/view/romin
- aruprecht/home\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n
- \nABSTRACT:\nTBA
-END:VEVENT
-BEGIN:VEVENT
-UID:acdca22b7a26552a87228a77fdbd6695@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260924T120000
-DTEND;TZID=Australia/Melbourne:20260924T131500
-SUMMARY:Macroeconomics – Joseph Kachovec (RBA) – TBD
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Joseph Kachovec: “TBD”\nhttps://www.rba.gov.au/research/res
- earcher-profiles/joseph-kachovec.html\n\nGoogle Maps: https://maps.app.goo
- .gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+DESCRIPTION:Tommy Iao: “TBD”\nhttps://tommyiao.github.io/\n\nZoom: http
+ s://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vCa.1&fro
+ m=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTR
+ ACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
 UID:9775dccfb1d1c8fa101137cc374001fe@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T120000
 DTEND;TZID=Australia/Melbourne:20260910T131500
 SUMMARY:Macroeconomics – Lukasz Rachel (UCL) – TBD
 LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
 DESCRIPTION:Lukasz Rachel: “TBD”\nhttps://sites.google.com/site/lukaszr
- achel/\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRA
- CT:\nTBA
+ achel/\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfETh
+ CYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJ
+ KurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:2e2b6121b2ac318a96ca5ae75f8a25ce@generated
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260917T120000
+DTEND;TZID=Australia/Melbourne:20260917T131500
+SUMMARY:Macroeconomics – Christian Bayer (Bonn) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Christian Bayer: “TBD”\nhttps://www.wiwi.uni-bonn.de/bayer/
+ \n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9f
+ s2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9p
+ SbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:7292f4c0f5b44beeab4b59600dc5d162@generated
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260921T120000
+DTEND;TZID=Australia/Melbourne:20260921T131500
+SUMMARY:Macroeconomics – Romina Ruprecht (FRB) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Romina Ruprecht: “TBD”\nhttps://sites.google.com/view/romin
+ aruprecht/home\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUk
+ OWfMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.goo.g
+ l/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:acdca22b7a26552a87228a77fdbd6695@generated
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20260924T120000
+DTEND;TZID=Australia/Melbourne:20260924T131500
+SUMMARY:Macroeconomics – Joseph Kachovec (RBA) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Joseph Kachovec: “TBD”\nhttps://www.rba.gov.au/research/res
+ earcher-profiles/joseph-kachovec.html\n\nZoom: https://unimelb.zoom.us/j/8
+ 4055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps:
+  https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:e9bfe0b8d5b47c6fc85730dd6615dd3c@generated
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261001T120000
+DTEND;TZID=Australia/Melbourne:20261001T131500
+SUMMARY:Macroeconomics – Jenny Chan (BoE) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Jenny Chan: “TBD”\nhttps://jenncha.github.io/\n\nZoom: http
+ s://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vCa.1&fro
+ m=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTR
+ ACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:ff491a19485315341b69addf8afdf4cf@generated
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261008T120000
+DTEND;TZID=Australia/Melbourne:20261008T131500
+SUMMARY:Macroeconomics – Chansik Yoon (Adelaide) – Growth in the Shaded
+  Sun: The Role of International Development Finance and Corruption
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Chansik Yoon: “Growth in the Shaded Sun: The Role of Internat
+ ional Development Finance and Corruption”\nhttps://sites.google.com/view
+ /chansikyoon\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOW
+ fMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/
+ BirLkJKurX9pSbBB8\n\nABSTRACT:\nI study how developing-country governments
+  decide the amount\, sources\, and sectoral allocation of development fina
+ nce (DF) as China has emerged alongside traditional donors. Using project-
+ level data from nearly 110 countries (2000–2021)\, I document systematic
+  patterns in DF allocation across countries\, sectors\, and providers that
+  vary with corruption and monitoring intensity. I develop a growth model i
+ n which governments allocate DF while choosing how much investment to dive
+ rt under provider-specific monitoring and financing conditions. Calibratin
+ g the model to 108 countries shows heterogeneous welfare implications of C
+ hinese DF: about 15% of countries gain while roughly 55% may experience we
+ lfare losses.
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
 UID:4d74938107fe06912ef1477fe29d2eb4@generated
-DTSTAMP:20260628T200624Z
-LAST-MODIFIED:20260628T200624Z
+DTSTAMP:20260629T204311Z
+LAST-MODIFIED:20260629T204311Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T120000
 DTEND;TZID=Australia/Melbourne:20261015T131500
 SUMMARY:Macroeconomics – Morten Ravn (UCL) – TBD
 LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
 DESCRIPTION:Morten Ravn: “TBD”\nhttps://sites.google.com/view/mortenora
- vn/home\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTR
- ACT:\nTBA
+ vn/home\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfET
+ hCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLk
+ JKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
 END:VEVENT
 END:VCALENDAR
