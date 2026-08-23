@@ -2,275 +2,441 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Monash Events//EN
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: Barriers to care under universal coverage: Evi
- dence from Switzerland
-DTSTART:20260304T120000
-DTEND:20260304T130000
-DESCRIPTION:This seminar presents evidence on disparities in access to car
- e from Switzerland\, combining administrative data\, small-area analyses\,
-  and a broader research agenda using quasi-experimental and experimental a
- pproaches.\n\nThe first part discusses national evidence on socioeconomic 
- inequalities in potentially avoidable hospitalisations\, a proxy for inade
- quate access to community-based ambulatory care. The study documents a rob
- ust socioeconomic gradient and substantial variation across cantons (Swiss
-  states). Exploiting Switzerland’s decentralised institutional structure
- \, the analysis then examines policy correlates of these inequalities. Res
- ults reveal positive associations between inequality and both the cost of 
- mandatory health insurance and the regressivity of premium subsidy schemes
- \, alongside a weaker negative association with general practitioner densi
- ty. While descriptive\, these findings point to potential policy mechanism
- s shaping equity in access.\n\nThe second study analyses paediatric emerge
- ncy department utilisation in Geneva. In this dense urban setting\, where 
- geographical access is less likely to be the primary constraint\, the resu
- lts highlight the prominent role of socioeconomic vulnerability. The obser
- ved patterns are consistent with disparities arising beyond physical acces
- s constraints\, including potential informational frictions. The second pa
- rt outlines forthcoming research examining mechanisms underlying access di
- sparities\, studying responses to cost-sharing using Swiss insurance micro
- data and the role of informational frictions through a field experiment.\n
- \nSpeaker profile\n\n<a href="https://www.lche.ch/researchers/">Joachim Ma
- rti</a> is an Associate Professor of Health Economics at the University of
-  Lausanne (Unisanté)\, Co-Lead of the Lausanne Centre for Health Economic
- s\, and currently a Visiting Researcher at the Centre for Health Economics
-  (CHE). His work spans health economics\, health policy\, and health servi
- ces research\, with a focus on efficiency and equity in healthcare\, healt
- hcare utilisation\, health behaviours\, and patient and provider decision-
- making. His current research studies how incentives\, insurance design\, a
- nd market structures influence healthcare utilisation\, quality\, and ineq
- ualities in access to care. This includes work on competition and cost-sha
- ring in mental healthcare\, private insurance and inpatient treatment deci
- sions\, methodological issues in choice experiments\, and analyses of long
- -term care trajectories.\n\nWeekly seminar series\n\nAs part of our Centre
- 's vibrant research culture\, we host a weekly seminar series. Visiting an
- d invited researchers present current research relating to the economics o
- f health and wellbeing\, and the healthcare sector. Visitors are welcome t
- o join these sessions where discussion and debate is encouraged.\n\nFor fu
- rther information on our seminar series\, please contact <a href="mailto:
- Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a class="
- btn" href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6
- dZbAX5do.1" target="_blank">Join Zoom</a>
-LOCATION:Caulfield campus\, Building C\, level 1\, room C121
-URL:https://www.monash.edu/business/events/che-seminar-series-barriers-to-
- care-under-universal-coverage-evidence-from-switzerland
+SUMMARY:CHE Seminar Series: Mother nature\, mother nurture - Intergenerati
+ onal persistence in two-mother families
+DTSTART:20260826T120000
+DTEND:20260826T130000
+DESCRIPTION:Why do children of more educated mothers tend to do better in 
+ education themselves? We propose a novel strategy to answer this question 
+ using unique data from the Netherlands. By comparing donor-conceived child
+ ren raised in two-mother families\, we disentangle the influences of biolo
+ gical and social motherhood. We find that children's test scores are more 
+ strongly associated with the education of their biological mother than tha
+ t of their co-mother. Strikingly\, even within the same family (where chil
+ dren are raised by the same two mothers)\, those with the more educated bi
+ ological mother perform substantially better. These estimates capture the 
+ combined effects of genetic endowments\, in-utero conditions\, and early m
+ other–child interactions. We find no evidence that children of more educ
+ ated mothers are healthier at birth\, and only limited evidence that they 
+ receive greater maternal investments in early childhood. Taken together\, 
+ our results point to a prominent role for education-related heritable fact
+ ors in explaining intergenerational persistence.\n\nSpeaker profile\n\n<a 
+ href="https://sanderdevries.github.io/" target="_blank">Sander de Vries</a
+ > is an economist whose research focuses on economic inequality\, intergen
+ erational mobility\, and the economics of education. He uses large adminis
+ trative datasets together with causal inference and machine learning metho
+ ds to study these topics. He is currently a postdoctoral researcher at the
+  University of Technology Sydney\, where he contributes to the Australian 
+ Research Council Discovery Project Inequality and Intergenerational Mobili
+ ty: Measuring What Matters and Why\, alongside Peter Siminski\, Nathan Deu
+ tscher\, Roger Wilkins\, and Bhaskar Mazumder.\n\nWeekly seminar series\n
+ \nAs part of our Centre's vibrant research culture\, we host a weekly semi
+ nar series. Visiting and invited researchers present current research rela
+ ting to the economics of health and wellbeing\, and the healthcare sector.
+  Visitors are welcome to join these sessions where discussion and debate i
+ s encouraged.\n\nFor further information on our seminar series\, please co
+ ntact <a href="mailto:Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.
+ edu</a>\n\n<a class="btn" href="https://monash.zoom.us/j/83600802355?pwd=1
+ F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1%20">Join Zoom</a>
+LOCATION:Caulfield campus\, Building H\, level 9\, room H9.21
+URL:https://www.monash.edu/business/events/che-seminar-series-mother-natur
+ e,-mother-nurture-intergenerational-persistence-in-two-mother-families
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: Born Too Soon? Policy-Induced Birth Timing and
-  Child Development
-DTSTART:20260311T120000
-DTEND:20260311T130000
-DESCRIPTION:We examine the impact of policy-induced changes in birth timin
- g on children’s health and educational outcomes. We exploit a natural ex
- periment in Spain: the abrupt termination of a generous child benefit at t
- he end of 2010\, which led to a sharp increase in elective deliveries duri
- ng the final week of December. Children born during this spike had shorter
-  gestation periods and lower birth-weight (within the normal range)\, and 
- experienced a higher incidence of respiratory disorders during infancy. We
-  find that the affected cohort of children had significantly lower school 
- performance at age seven\, suggesting large persistent effects on cognitiv
- e development.\n\nSpeaker profile\n\n<a href="https://libertadgonzalez.com
- /">Libertad González</a> is a Professor of Economics at Universitat Pompe
- u Fabra and the Barcelona School of Economics\, specialising in labor\, pu
- blic\, and gender economics. She holds a PhD in Economics from Northwester
- n University. She has published in leading peer-reviewed journals such as 
- the Economic Journal\, the Journal of the European Economic Association\, 
- the American Economic Journal: Economic Policy\, the Journal of Labor Econ
- omics\, the Journal of Public Economics\, the Journal of Human Resources\,
-  and the Journal of Health Economics. Her research accumulates more than 4
- \,000 citations in Google Scholar. She was awarded an ERC Consolidator Gra
- nt to study early-life interventions and child development. She served as 
- President of the European Society for Population Economics (in 2023) and i
- s currently vice-president of the Spanish Economic Association.\n\nWeekly 
- seminar series\n\nAs part of our Centre's vibrant research culture\, we ho
- st a weekly seminar series. Visiting and invited researchers present curre
- nt research relating to the economics of health and wellbeing\, and the he
- althcare sector. Visitors are welcome to join these sessions where discuss
- ion and debate is encouraged.\n\nFor further information on our seminar se
- ries\, please contact <a href="mailto:Trong-Anh.Trinh@monash.edu">Trong-A
- nh.Trinh@monash.edu</a> .\n\n<a class="btn" href="https://monash.zoom.us/j
- /83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1" target="_blank">Join Zo
- om</a>
-LOCATION:Caulfield campus\, Building H\, level 9\, room H914
-URL:https://www.monash.edu/business/events/che-seminar-series-born-too-soo
- n-policy-induced-birth-timing-and-child-development
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15th Australasian Workshop on Econometrics and Health Economics
-DTSTART:20260415T123000
-DTEND:20260417T123000
-DESCRIPTION:This workshop will provide a forum for the development and dis
- semination of applications of econometrics and other quantitative approach
- es in health economics. It will follow the format of the long-running Euro
- pean workshops on econometrics and health economics.\n\nWe are now calling
-  for papers for presentation\, with up to 14 papers to be accepted. Presen
- tations by doctoral students and early career researchers are encouraged.\
- n\nPapers accepted for presentation will each be allocated a 55-minute ses
- sion\, including 30 minutes for a presentation\, 10 minutes for an appoint
- ed discussant and 10 minutes for general discussion.\n\nThe number of work
- shop participants is strictly limited\, and participants will be expected 
- to attend the full workshop.\n\nPlease see the drop-down below for more in
- formation on papers\, including the submission deadline.\n\n<!-- false -->
- \n<div class="accordion nested-accordion js-frontend-complex-accordion" id
- ="Component-4158062" role="tablist">\n<div class="hidden">\n<span class="h
- idden nested-accordion__expand-text">View</span>\n<span class="hidden nest
- ed-accordion__collapse_text">Close</span>\n</div>\n<section class="panel s
- ection1 Paper_submissions-1 close">\n<h3 aria-controls="Paper_submissions-
- 1" aria-expanded="false" class="accTitle" data-click-event="monash.accordi
- on.toggle" data-expanded-by-default="false" data-position="1" data-title="
- Paper submissions" data-type="nested" id="Paper_submissions-1" role="tab">
- \n<span class="accTitle__icon"><svg><use href="https://www.monash.edu/__da
- ta/assets/git_bridge/0009/2651868/dist/assets/images/icon-spritesheet.svg?
- h=1d3ca15#copy"></use></svg></span>\n<span class="accTitle__text">Paper su
- bmissions</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTi
- tle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="accTitle__
- toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="V
- iew" src="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-out
- line-right.svg"/></span>\n</a>\n</span>\n</h3>\n<div aria-labelledby="Pape
- r_submissions-1" class="accContent" role="tabpanel" style="display: none\;
- ">\n<div class="accContent__inner">\n<div class="accContent__wrapper">\n<d
- iv id="component_4157933">\n<p>Please submit a full draft of the paper OR 
- a 1000-word (minimum) abstract by <strong>19 December 2025</strong>.</p><h
- 3>Abstract criteria</h3><p>If sending an abstract\, it should be structure
- d to include <strong>details of the aims</strong>\, the <strong>econometri
- c methods used</strong> (in the past some abstracts have not contained eco
- nometric detail so we have been unable to properly assess them)\, and <str
- ong>results</strong>.</p><p>Results should be included even if they are pr
- eliminary. Abstracts containing no results or no details of the econometri
- c methods will be less likely to be accepted.</p><p>Abstracts and papers w
- ill be judged primarily on the quality of their econometrics content. We s
- trongly encourage presentation and discussion of work in progress.</p><h3>
- Fees for invited participants</h3><div>Those invited to participate will b
- e asked to pay the registration fee in February 2026.</div><ul><li>Full re
- gistration: AU$600</li><li>PhD students: AU$250</li><li>Low and middle inc
- ome countries: AU$300*</li></ul><p>*A citizen residing in a country on the
-  <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519
- -world-bank-country-and-lending-groups">World Bank list</a> of low and mid
- dle income countries.</p><h4>Inclusions</h4><ul><li>Two nights' accommodat
- ion on Wednesday 15th and Thursday 16th of April</li><li>All meals from lu
- nch on Wednesday 15th to lunch on the Friday 17th of April</li></ul><p>For
-  additional nights\, you will need to organise them with the hotel directl
- y.</p><h3>Submissions</h3><p>Electronic submission of papers is required a
- nd can be uploaded using the link below. When submitting you will be able 
- to choose whether you would like to present a paper\, discuss a paper or c
- hair a session.</p><p><a class="btn" href="https://monash.az1.qualtrics.co
- m/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your paper</a></p>\n
- </div>\n</div>\n</div>\n</div>\n</section>\n</div>\n<script>\nwindow.addEv
- entListener('DOMContentLoaded'\, function() {\n\n        var LIB_CHECK_OBJ
- ECT_EXISTS = 'CHECK_OBJECT_EXISTS'\,\n            LIB_CHECK_ELEMENT_EXISTS
-  = 'CHECK_ELEMENT_EXISTS'\,\n            scriptIDPrefix = 'js-frontend-tem
- plate-script--'\,\n            postLoadScripts = [\n                {\n   
-                  check:      LIB_CHECK_ELEMENT_EXISTS\,\n                 
-    checkValue: scriptIDPrefix + 'page-filter'\,\n                    isReq
- uired: $('.js-frontend-page-filter').length ? true : false\,\n            
-         id:         scriptIDPrefix + 'page-filter'\,\n                    
- url:        'https://www.monash.edu/__data/assets/js_file_folder/0006/2019
- 840/page_filter_basic.min.js?v=0.2.0'\n                }\,\n              
-   {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n         
-            checkValue: scriptIDPrefix + 'page-filter-logic'\,\n           
-          isRequired: $('.js-frontend-page-filter').length ? true : false\,
- \n                    id:         scriptIDPrefix + 'page-filter-logic'\,\n
-                     url:        './?a=?v='\n                }\,\n         
-        {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n    
-                 checkValue: scriptIDPrefix + 'complex-accordion'\,\n      
-               isRequired: $('.js-frontend-complex-accordion').length ? tru
- e : false\,\n                    id:         scriptIDPrefix + 'complex-acc
- ordion'\,\n                    url:        'https://www.monash.edu/__data/
- assets/js_file/0003/2180262/complex-accordion-frontend.js?v=0.1.60'\n     
-            }\,\n                {\n                    check:      LIB_CHE
- CK_ELEMENT_EXISTS\,\n                    checkValue: scriptIDPrefix + 'com
- plex-accordion'\,\n                    isRequired: $('.js-frontend-complex
- -accordion').length ? true : false\,\n                    id:         scri
- ptIDPrefix + 'complex-accordion'\,\n                    url:        'https
- ://www.monash.edu/__data/assets/js_file/0003/2180262/complex-accordion-fro
- ntend.js?v=0.1.60'\n                }\n            ]\,\n            styleI
- DPrefix = 'js-frontend-template-style--'\,\n            \n            post
- LoadStyles = [\n                {\n                    check:      LIB_CHE
- CK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPrefix + 'page
- -filter'\,\n                    isRequired: $('.js-frontend-page-filter').
- length ? true : false\,\n                    id:         styleIDPrefix + '
- page-filter'\,\n                    url:        'https://www.monash.edu/__
- data/assets/css_file/0011/2023031/page-filter-template.css?v=0.1.5'\n     
-            }\,\n                {\n                    check:      LIB_CHE
- CK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPrefix + 'comp
- lex-accordion'\,\n                    isRequired: $('.js-frontend-complex-
- accordion').length ? true : false\,\n                    id:         style
- IDPrefix + 'complex-accordion'\,\n                    url:        'https:/
- /www.monash.edu/__data/assets/css_file/0005/2180264/complex-accordion-fron
- tend.css?v=0.2.2'\n                }\n            ]\;\n\n        var eleme
- ntExists = function(check\, checkValue) {\n            if (check === LIB_C
- HECK_OBJECT_EXISTS) {\n                return typeof checkValue !== 'undef
- ined'\;\n            }\n            if (check === LIB_CHECK_ELEMENT_EXISTS
- ) {\n                return document.getElementById(checkValue)\;\n       
-      }\n        }\;\n\n        // Load script libraries after DOM ready\n 
-        postLoadScripts.forEach(function(scriptLibrary) {\n            if (
- scriptLibrary.isRequired && !elementExists(scriptLibrary.check\, scriptLib
- rary.checkValue)) {\n                var injectedScript = document.createE
- lement('script')\;\n                injectedScript.type = 'text/javascript
- '\;\n                injectedScript.id = scriptLibrary.id\;\n             
-    injectedScript.src = scriptLibrary.url\;\n                injectedScrip
- t.async = false\;\n                $('body').append(injectedScript)\;\n   
-          }\n        })\;\n\n\n        // Load style libraries after DOM re
- ady\n        postLoadStyles.forEach(function(styleLibrary) {\n            
- if (styleLibrary.isRequired && !elementExists(styleLibrary.check\, styleLi
- brary.checkValue)) {\n                var injectedStyle = document.createE
- lement('link')\;\n                injectedStyle.type = 'text/css'\;\n     
-            injectedStyle.rel = 'stylesheet'\;\n                injectedSty
- le.id = styleLibrary.id\;\n                injectedStyle.href = styleLibra
- ry.url\;\n                $('body').append(injectedStyle)\;\n            }
- \n        })\;\n\n    })\;\n    \n    /*\n// Fix mobile with re-initing th
- e plugin.\ndocument.addEventListener('DOMContentLoaded'\, function() {\n  
- const container = document.getElementById('filter-container')\;\n\n  funct
- ion updateIsotopeLayout() {\n    if (container) {\n      // Assuming Isoto
- pe is globally available and initialized\n      Isotope.data(container).la
- yout()\;\n      //console.log('Isotope layout updated')\;\n    }\n  }\n\n 
-  function debounce(fn\, delay) {\n    let timeoutID\;\n    return function
- () {\n      clearTimeout(timeoutID)\;\n      timeoutID = setTimeout(() => 
- fn.apply(this\, arguments)\, delay)\;\n    }\;\n  }\n\n  const debouncedUp
- dateIsotopeLayout = debounce(updateIsotopeLayout\, 500)\;\n\n  // Attach t
- he load event to images\n  const images = container.querySelectorAll('img'
- )\;\n  images.forEach(function(img) {\n    img.addEventListener('load'\, f
- unction() {\n      debouncedUpdateIsotopeLayout()\;\n    })\;\n\n    // Ha
- ndle already loaded images (from cache)\n    if (img.complete) {\n      de
- bouncedUpdateIsotopeLayout()\;\n    }\n  })\;\n\n})\;\n*/\n\n\n</script>\n
- \n<span class="accTitle__icon"><svg><use href="https://www.monash.edu/__da
- ta/assets/git_bridge/0009/2651868/dist/assets/images/icon-spritesheet.svg?
- h=1d3ca15#copy"></use></svg></span>\n<span class="accTitle__text">Paper su
- bmissions</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTi
- tle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="accTitle__
- toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="V
- iew" src="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-out
- line-right.svg"/></span>\n</a>\n</span>\n\nPlease submit a full draft of t
- he paper OR a 1000-word (minimum) abstract by <strong>19 December 2025</st
- rong>.\n\nAbstract criteria\n\nIf sending an abstract\, it should be struc
- tured to include <strong>details of the aims</strong>\, the <strong>econom
- etric methods used</strong> (in the past some abstracts have not contained
-  econometric detail so we have been unable to properly assess them)\, and 
- <strong>results</strong>.\n\nResults should be included even if they are p
- reliminary. Abstracts containing no results or no details of the econometr
- ic methods will be less likely to be accepted.\n\nAbstracts and papers wil
- l be judged primarily on the quality of their econometrics content. We str
- ongly encourage presentation and discussion of work in progress.\n\nFees f
- or invited participants\n\n*A citizen residing in a country on the <a href
- ="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-b
- ank-country-and-lending-groups">World Bank list</a> of low and middle inco
- me countries.\n\nFor additional nights\, you will need to organise them wi
- th the hotel directly.\n\nSubmissions\n\nElectronic submission of papers i
- s required and can be uploaded using the link below. When submitting you w
- ill be able to choose whether you would like to present a paper\, discuss 
- a paper or chair a session.\n\n<a class="btn" href="https://monash.az1.qua
- ltrics.com/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your paper<
- /a>\n\nSponsors\n\nOrganisers\n\n<a href="https://research.monash.edu/en/p
- ersons/anthony-scott">Prof Anthony Scott</a>\, Director\, Centre for Healt
- h Economics\, Monash Business School\n\n<a href="https://www.stefanie-schu
- rer.com/" target="_blank">Prof Stefanie Schurer</a>\, School of Economics\
- , University of Sydney\n\n<a href="https://research.monash.edu/en/persons/
- johannes-kunz">Dr Johannes Kunz</a>\, Centre for Health Economics\, Monash
-  Business School\n\n<a href="https://research.monash.edu/en/persons/michae
- l-shields/">Prof Michael Shields</a>\, Centre for Health Economics\, Monas
- h Business School\n\nEnquiries\n\nFor any enquiries regarding the workshop
-  please contact Aryan Rohanian at <a href="mailto:che_support@monash.edu"
- >che_support@monash.edu</a>
-LOCATION:The Anchorage Hotel\, Port Stephens\, NSW
-URL:https://www.monash.edu/business/events/15th-australasian-workshop-on-e
- conometrics-and-health-economics
+SUMMARY:Centre for Health Economics Policy Symposium 2026
+DTSTART:20260901T093000
+DTEND:20260901T170000
+DESCRIPTION:<em>Sustainable Care: The next decade of policy reform</em>\n
+ \nThis symposium brings together researchers\, policymakers\, practitioner
+ s and consumers to examine how Australia’s health\, aged care and disabi
+ lity systems need to evolve over the coming decade. The full-day conferenc
+ e will focus on the future of the care economy\; exploring:\n\nCombined\, 
+ the sessions aim to identify practical\, evidence‑based reforms to stren
+ gthen the long‑term sustainability and effectiveness of care systems\n\n
+ Registration\n\nRegistration is open. Early bird tickets are now sold out.
+ \n\n<a class="btn" href="https://events.humanitix.com/centre-for-health-ec
+ onomics-policy-symposium-2026">Register</a>\n\nWhat does the future of the
+  care economy hold\, and how are health\, aged care\, and disability polic
+ ies evolving to meet the challenges of tomorrow?\n\nHow can we optimise th
+ e architecture of our care system? How can we balance universality\, means
+ - testing\, and out-of-pocket costs to improve overall wellbeing?\n\nHow d
+ o we define and measure productivity in a sector where the primary output 
+ is wellbeing rather than just volume and profit?  How can better measure
+ ment support accountability\, smarter decisions and more person-centred ca
+ re?\n\nPrices can provide strong incentives for both patients and provider
+ s. How should we set prices across the care economy? Can better price sign
+ als lift quality\, reduce unnecessary care and improve the sustainability 
+ of the system?\n\nReflection on the day and priorities for future research
+ .\n\nHost\n\n<img alt="" height="175" src="https://www.monash.edu/__data/a
+ ssets/image/0004/4373482/Tony-Scott.png" style="float: right\; margin: 1em
+  0px 1em 1em\;" width="175"/>\n\nPProf Scott’s goal is to influence heal
+ th policy using high quality research.  He is a health economist and an
+  elected Fellow of the Academy of the Social Sciences in Australia\, Past 
+ President of the Australian Health Economics Society\, and a former Board 
+ Director of the International Health Economics Association\, ARC Future Fe
+ llow and NHMRC Principal Research Fellow.\n\nHis research expertise includ
+ e the evaluation of national health policy\, the behaviour of healthcare p
+ roviders\, health and care labour markets\, funding and incentives\, with 
+ a focus on primary care. He has published in leading international academi
+ c journals and impacted on policy through his academic and policy research
+  and work on government committees\n\n<br/>Keynote Speaker\n\n<img alt="" 
+ height="175" src="https://www.monash.edu/__data/assets/image/0005/4373483/
+ 250130_BillShortenPortraits_HiRes-1-1.jpg" style="float: right\; margin: 1
+ em 0px 1em 1em\;" width="175"/>\n\nProf Shorten became Vice-Chancellor and
+  President of the University of Canberra in January 2025\, after a career 
+ that included leadership roles with the Australian Workers’ Union and 18
+  years serving federal politics\, including six as Leader of the Oppositio
+ n. Prof Shorten studied law at Monash University.<br/> <br/>Prof Shorten
+ ’s belief in the transformative power of education drew him to UC and th
+ e role. He arrived at a time of significant change for the university and 
+ the broader higher education sector. It is a circumstance he views as an o
+ pportunity to drive UC’s rejuvenation.\n\nSpeakers\n\n<img alt="" height
+ ="175" src="https://www.monash.edu/__data/assets/image/0009/4373496/Blair.
+ png" style="float: right\; margin: 1em 0px 1em 1em\;" width="175"/>\n\nMr 
+ Comley commenced as the Secretary of the Department of Health\, Disability
+  and Ageing on 17 July 2023. He has served as the Secretary of the Commonw
+ ealth Department of Climate Change and Energy Efficiency and the Secretary
+  of the Commonwealth Department of Resources\, Energy and Tourism. Mr Coml
+ ey has also served as Secretary of the NSW Department of Premier and Cabin
+ et\, NSW’s most senior public servant.\n\nPrior to these positions\, he 
+ held senior leadership positions in the Department of Treasury and as the 
+ Acting Chief Executive of the Australian Office of Financial Management\, 
+ with responsibility for managing the Commonwealth’s debt and derivative 
+ portfolio. Mr Comley has had extensive engagement with Commonwealth State 
+ relations\, including reform of the Federation and Health funding in his r
+ ole as Secretary of the Department of Premier and Cabinet in the NSW Gover
+ nment.\n\n<img alt="" height="175" src="https://www.monash.edu/__data/asse
+ ts/image/0007/4373494/Stephen-Duckett.jpg" style="float: right\; margin: 1
+ em 0px 1em 1em\;" width="175"/>\n\nProf Duckett is a health economist with
+  expertise in costing and pricing hospital services and the design of hosp
+ ital payment systems. He is an Honorary Enterprise Professor in the School
+  of Population and Global Health and the Department of General Practice an
+ d Primary Care at the University of Melbourne. He is also a Fellow of the 
+ Academy of the Social Sciences in Australia\, the Australian Academy of He
+ alth and Medical Sciences and the Australian Institute of Company Director
+ s.<br/> <br/>Professor Duckett is also currently Deputy Chancellor of RMIT
+  University. He was made a Member of the Order of Australia in January 202
+ 3.<br/> <br/>He has held top health sector leadership positions in Austral
+ ia and Canada\, and literally wrote the book on the Australian health care
+  system (<em>The Australian Health Care System</em>\, Oxford University Pr
+ ess\, 6e\, 2022).\n\n<img alt="" height="175" src="https://www.monash.edu/
+ __data/assets/image/0007/4373485/Elizabeth-dreaming-2.jpg" style="float: r
+ ight\; margin: 1em 0px 1em 1em\;" width="175"/>\n\nDr Deveny leads the CHF
+ A\, which is the national voice for health consumers.\n\nShe has worked ac
+ ross digital health\, primary care\, and health funding\, always with a fo
+ cus on equity\, access\, and making sure policy reflects the voices of the
+  people it affects — and while she’s not a health economist\, she know
+ s value for money when she sees it.\n\n<img alt="" height="175" src="https
+ ://www.monash.edu/__data/assets/image/0006/4373493/Emily-Lanscar.png" styl
+ e="float: right\; margin: 1em 0px 1em 1em\;" width="175"/>\n\nProf Lancsar
+  commenced as the Chief Health Economist in the department in April 2024. 
+ Prior to this\, Prof Lancsar spent 25 years in academia\, most recently as
+  Head of the Department of Health Economics Wellbeing and Society at the A
+ ustralian National University (ANU). She also served as Associate Dean (Po
+ licy and Practice) in the College of Health and Medicine at the ANU from 2
+ 020–2022\, where she remains a Professor.<br/> <br/>Prof Lancsar has als
+ o held academic appointments at Monash University (where she remains an Ad
+ junct Professor)\, the University of Newcastle Upon Tyne in the United Kin
+ gdom\, the University of Sydney and University of Technology\, Sydney. Pro
+ f Lancsar holds PhD\, Masters\, and Bachelors degrees in Economics\, a Pos
+ tgrad Diploma in Health Economics and Evaluation\, and a Bachelor of Arts 
+ (Asian Studies).\n\n<!-- false -->\n<div class="accordion nested-accordion
+  js-frontend-complex-accordion" id="Component-4373352" role="tablist">\n<d
+ iv class="hidden">\n<span class="hidden nested-accordion__expand-text">Vie
+ w</span>\n<span class="hidden nested-accordion__collapse_text">Close</span
+ >\n</div>\n<section class="panel section1 Additional_Speakers_and_Chairs-1
+  close">\n<h3 aria-controls="Additional_Speakers_and_Chairs-1" aria-expand
+ ed="false" class="accTitle" data-click-event="monash.accordion.toggle" dat
+ a-expanded-by-default="false" data-position="1" data-title="Additional Spe
+ akers and Chairs" data-type="nested" id="Additional_Speakers_and_Chairs-1"
+  role="tab">\n<span class="accTitle__icon"><svg><use href="https://www.mon
+ ash.edu/__data/assets/git_bridge/0009/2651868/dist/assets/images/icon-spri
+ tesheet.svg?h=00fceca7#people"></use></svg></span>\n<span class="accTitle_
+ _text">Additional Speakers and Chairs</span>\n<span class="accTitle__toggl
+ e-wrapper">\n<a class="accTitle__toggle" href="#Additional_Speakers_and_Ch
+ airs-1" rel="1">\n<span class="accTitle__toggle-text">View</span>\n<span c
+ lass="accTitle__toggle-arrow"><img alt="View" src="https://www.monash.edu/
+ __data/assets/file/0011/2179901/arrow-outline-right.svg"/></span>\n</a>\n<
+ /span>\n</h3>\n<div aria-labelledby="Additional_Speakers_and_Chairs-1" cla
+ ss="accContent" role="tabpanel" style="display: none\;">\n<div class="accC
+ ontent__inner">\n<div class="accContent__wrapper">\n<div id="component_437
+ 3358">\n<ul><li><a href="https://research.monash.edu/en/persons/nicole-bla
+ ck/">A/Prof Nicole Black</a>\, Centre for Health Economics\, Monash Busine
+ ss School</li><li><a href="https://crawford.anu.edu.au/people/robert-breun
+ ig">Prof Bob Breunig</a>\, Australian National University</li><li><a href=
+ "https://research.monash.edu/en/persons/terence-cheng/">A/Prof Terence Che
+ ng</a>\, Centre for Health Economics\, Monash Business School</li><li><a h
+ ref="https://www.monash.edu/business/our-people/bronwyn-croxson">Prof Bron
+ wyn Croxson</a>\, Chief Economist\, New Zealand Ministry of Health</li><li
+ ><a href="https://research.unsw.edu.au/people/professor-helen-dickinson">P
+ rof Helen Dickinson</a>\, Professor of Public Service Research\, School o
+ f Business\, UNSW</li><li><a href="https://opan.org.au/our-people/samantha
+ -edmonds/">Samantha Edmonds</a>\, Older Persons Advocacy Network</li><li><
+ a href="https://law.unimelb.edu.au/about/staff/allan-fels">Prof Allan Fels
+  AO</a>\, Monash University and University of Melbourne</li><li><a href="h
+ ttps://www.abs.gov.au/about/our-organisation/organisation-chart/data-and-s
+ tatistical-practices-group">Dr Phillip Gould</a>\,  Deputy Australian St
+ atistician\,  Australian Bureau of Statiatics</li><li><a href="https://r
+ egnet.anu.edu.au/people/chelsea-hunnisett">Chelsea Hunnisett</a>\, Laureat
+ e PhD Scholar\, Australian National University</li><li><a href="https://re
+ search.monash.edu/en/persons/david-johnston/">Prof David Johnston</a>\, Ce
+ ntre for Health Economics\, Monash Business School</li><li><a href="https:
+ //www.linkedin.com/in/george-leipnik-53041399/?isSelfProfile=false">George
+  Leipnik</a>\, Manager Public Sector\, McKinnon</li><li><a href="https://w
+ ww.linkedin.com/in/anthea-long-696a967b/?isSelfProfile=false">Anthea Long<
+ /a>\, First Assistant Secretary\, Department of Health\, Disability and Ag
+ eing</li><li><a href="https://www.ahpa.com.au/leadership-governance">Bronw
+ yn Morris-Donovan</a>\, CEO\, Allied Health Professions Australia</li><li>
+ <a href="https://research.monash.edu/en/persons/dennis-petrie/">Prof Denni
+ s Petrie</a>\, Centre for Health Economics\, Monash Business School</li><l
+ i><a href="https://www.monash.edu/business/events/centre-for-health-econom
+ ics-policy-symposium-2026/louise-rawlings">Dr Louise Rawlings</a>\, Chief 
+ Economist\,  Department of Prime Minister and Cabinet</li><li><a href="h
+ ttps://www.pc.gov.au/about/commissioners/alison-roberts/">Dr Alison Robert
+ s</a>\, Commissioner\, Productivity Commission</li><li><a href="https://ww
+ w.monash.edu/business/events/centre-for-health-economics-policy-symposium-
+ 2026/ross-shafer">Ross Shafer</a>\, First Assistant Secretary\, Carers\, 
+ Autism\, Markets and Safeguards\, Department of Health\, Disability and Ag
+ eing</li><li><a href="https://profiles.sydney.edu.au/kees.vangool">Prof Ke
+ es van Gool</a>\, Independent Hospital and Aged Care Pricing Authority & U
+ niversity of Sydney</li><li><a href="https://www.monash.edu/business/our-p
+ eople/professor-simon-wilkie">Prof Simon Wilkie</a>\, Dean\, Faculty of Bu
+ siness and Economics\, Head of Monash Business School</li><li><a href="htt
+ ps://www.unsw.edu.au/staff/michael-wright">Dr Michael Wright</a>\, Preside
+ nt\, Royal Australian College of General Practitioners and University of N
+ ew South Wales</li></ul>\n</div>\n</div>\n</div>\n</div>\n</section>\n<sec
+ tion class="panel section2 Program-2">\n<h3 aria-controls="Program-2" aria
+ -expanded="false" class="accTitle" data-click-event="monash.accordion.togg
+ le" data-position="2" data-title="Program" data-type="nested" id="Program-
+ 2" role="tab">\n<span class="accTitle__icon"><svg><use href="https://www.m
+ onash.edu/__data/assets/git_bridge/0009/2651868/dist/assets/images/icon-sp
+ ritesheet.svg?h=00fceca7#calendar"></use></svg></span>\n<span class="accTi
+ tle__text">Program</span>\n<span class="accTitle__toggle-wrapper">\n<a cla
+ ss="accTitle__toggle" href="#Program-2" rel="2">\n<span class="accTitle__t
+ oggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="Vi
+ ew" src="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-outl
+ ine-right.svg"/></span>\n</a>\n</span>\n</h3>\n<div aria-labelledby="Progr
+ am-2" class="accContent" role="tabpanel" style="display: none\;">\n<div cl
+ ass="accContent__inner">\n<div class="accContent__wrapper">\n<div id="comp
+ onent_4373367">\n<table id="table17462"><tbody><tr><td><strong>9.00 - 9.30
+ am</strong></td><td>Arrival and registration</td></tr><tr><td><strong>9.30
+  - 9.35am</strong></td><td>Opening remarks</td></tr><tr><td><strong>9.35 -
+  9.45am</strong></td><td>Welcome to Country</td></tr><tr><td><strong>9.45 
+ - 10.15am</strong></td><td><strong>Keynote Address</strong><br/><a href="h
+ ttps://www.canberra.edu.au/about-uc/senior-management/office-of-the-vice-c
+ hancellor" target="_blank">Professor The Honourable Bill Shorten</a>\, Uni
+ versity of Canberra<br/><br/><strong>Chair</strong><br/><a href="https://w
+ ww.monash.edu/business/our-people/professor-simon-wilkie" target="_blank">
+ Professor Simon Wilkie</a>\, Head Monash Business School & Dean of faculty
+  of Business and Economics\, Monash University</td></tr><tr><td><strong>10
+ .15 - 11.00am</strong></td><td><strong>Session 1: Health and Care Policy O
+ utlook</strong><br/><em>What does the future of the care economy hold\, an
+ d how are health\, aged care\, and disability policies evolving to meet th
+ e challenges of tomorrow?</em><br/><br/><strong>Chair</strong><br/><a href
+ ="https://www.pc.gov.au/about/commissioners/alison-roberts/" target="_blan
+ k">Dr. Alison Roberts</a>\, Commissioner\, Productivity Commission<br/> <b
+ r/><a href="https://www.monash.edu/business/events/centre-for-health-econo
+ mics-policy-symposium-2026/louise-rawlings/_nocache" target="_blank">Louis
+ e Rawlings</a>\, Chief Economist\, Department of Prime Minister and Cabine
+ t<br/><a href="https://www.health.gov.au/contacts/secretary-of-the-departm
+ ent-of-health-disability-and-ageing?language=en" target="_blank">Blair Com
+ ely PSM</a>\, Secretary\, Department of Health\, Disability and Ageing<br/
+ ><a href="https://www.education.gov.au/accord-implementation-advisory-comm
+ ittee-members#toc-professor-stephen-duckett-am" target="_blank">Prof. Step
+ hen Duckett AM</a>\, Enterprise Professor\, University of Melbourne</td></
+ tr><tr><td><strong>11.00 - 11.30am</strong></td><td><strong>Break</strong>
+ </td></tr><tr><td><strong>11.30 - 12.30pm</strong></td><td><strong>Session
+  2: System design: Universality\, means testing\, and out of pocket costs<
+ /strong>  <br/><em>How can we optimize the architecture of our care syst
+ em? How can we balance universality\, means testing\, and out of pocket co
+ sts to improve overall well-being?</em><br/> <br/><strong>Chair</strong> <
+ br/><a href="https://www.linkedin.com/in/anthea-long-696a967b/?isSelfProfi
+ le=false" target="_blank">Anthea Long</a>\, First Assistant Secretary\, De
+ partment of Health\, Disabilty and Ageing   <br/> <br/><a href="https://
+ crawford.anu.edu.au/people/robert-breunig" target="_blank">Prof. Bob Breun
+ ig</a>\, Australian National University   <br/><a href="https://research
+ .unsw.edu.au/people/professor-helen-dickinson" target="_blank">Prof. Helen
+  Dickinson</a>\, Uniervsity of New South Wales   <br/> <a href="https://
+ research.monash.edu/en/persons/terence-cheng/" target="_blank">A/Prof. Ter
+ ence Cheng</a>\, Monash University   <br/><a href="https://www.chf.org.a
+ u/about-us/our-team" target="_blank">Dr. Elizabeth Deveny</a>\, CEO\, Cons
+ umer Health Forum</td></tr><tr><td><strong>12.30 - 1.15pm</strong></td><td
+ ><strong>Lunch</strong></td></tr><tr><td><strong>1.15 - 2.15pm</strong></t
+ d><td><strong>Session 3: Improving the measurement of productivity in heal
+ th\, aged and disability care  </strong><br/> <em>How do we define and m
+ easure "productivity" in a sector where the primary output is well-being r
+ ather than just volume and profit? How can better measurement support acco
+ untability\, smarter decisions and more person-centred care?</em>  <br/>
+ <br/> <strong>Chair</strong><br/><a href="https://www.monash.edu/business/
+ our-people/bronwyn-croxson" target="_blank">Prof. Bronwyn Croxson</a>\, Ch
+ ief Health Economist New Zealand Ministry of Health & Adjunct Professor\, 
+ Monash University  <br/> <br/><a href="https://www.abs.gov.au/about/our-
+ organisation/organisation-chart/data-and-statistical-practices-group" targ
+ et="_blank">Dr. Phillip Gould</a>\, Deputy Australian Statistician\, Austr
+ alian Bureau of Statistics  <br/> <a href="https://regnet.anu.edu.au/peo
+ ple/chelsea-hunnisett" target="_blank">Chelsea Hunniset</a>\, Australian N
+ ational University  <br/> <a href="https://research.monash.edu/en/person
+ s/dennis-petrie/" target="_blank">Prof. Dennis Petrie</a>\, Monash Univers
+ ity  <br/> <a href="https://www.unsw.edu.au/staff/michael-wright" target
+ ="_blank">Dr. Michael Wright</a>\, University of New South Wales and Royal
+  Australian College of General Practitioners</td></tr><tr><td><strong>2.15
+  - 2.45pm</strong></td><td><strong>Break</strong></td></tr><tr><td><strong
+ >2.45 - 3.45pm</strong></td><td><strong>Session 4: Pricing\, funding and i
+ ncentivising value</strong>  <br/> <em>Prices can provide strong incenti
+ ves for both patients and providers. How should we set prices across the c
+ are economy? Can better price signals lift quality\, reduce unnecessary ca
+ re and improve the sustainability of the system? </em> <br/><br/> <stron
+ g>Chair</strong><br/><a href="https://www.monash.edu/business/events/centr
+ e-for-health-economics-policy-symposium-2026/ross-shafer" target="_blank">
+ Ross Shafer</a>\,  Department of Health\, Disability and Ageing<br/> <br/
+ > <a href="https://law.unimelb.edu.au/about/staff/allan-fels" target="_bla
+ nk">Prof. Allan Fels AO</a>\, Monash University and University of Melbourn
+ e  <br/> <a href="https://profiles.sydney.edu.au/kees.vangool" target="_
+ blank">Prof. Kees van Gool</a>\, Independent Hospital and Aged Care Pricin
+ g Authority & University of Sydney  <br/> <a href="https://research.mona
+ sh.edu/en/persons/nicole-black/" target="_blank">A/Prof. Nicole Black</a>
+ \, Monash University  <br/> <a href="https://www.ahpa.com.au/leadership-
+ governance" target="_blank">Bronwyn Morris Donovan</a>\, CEO\, Allied Heal
+ th Professions Australia</td></tr><tr><td><strong>3.45 - 4.30pm</strong></
+ td><td><strong>Session 5: Priorities for policy research  </strong><br/>
+  <em>Reflection on the day and priorities for future researchy</em><br/> <
+ br/><strong>Chair</strong><br/><a href="https://www.linkedin.com/in/george
+ -leipnik-53041399/?isSelfProfile=false" target="_blank">George Leipnik</a>
+ \, Manage Public Sector\, McKinnon <br/> <br/> <a href="https://www.heal
+ th.gov.au/topics/about-the-department/who-we-are/leadership" target="_blan
+ k">Prof. Emily Lancsar</a>\, Chief Health Economist\, Department of Health
+ \, Disability and Ageing  <br/> <a href="https://research.monash.edu/en/
+ persons/david-johnston/" target="_blank">Prof. David Johnston</a>\, Monash
+  University<br/><a href="https://opan.org.au/our-people/samantha-edmonds/"
+ >Samantha Edmonds</a>\, Older Persons Advocacy Network</td></tr><tr><td><s
+ trong>4.30pm</strong></td><td><strong>Closing remarks</strong><br/><a href
+ ="https://research.monash.edu/en/persons/anthony-scott/" target="_blank">P
+ rofessor Anthony Scott</a>\, Monash University</td></tr></tbody></table>\n
+ </div>\n</div>\n</div>\n</div>\n</section>\n<section class="panel section3
+  Contact-3">\n<h3 aria-controls="Contact-3" aria-expanded="false" class="a
+ ccTitle" data-click-event="monash.accordion.toggle" data-position="3" data
+ -title="Contact" data-type="nested" id="Contact-3" role="tab">\n<span clas
+ s="accTitle__icon"><svg><use href="https://www.monash.edu/__data/assets/gi
+ t_bridge/0009/2651868/dist/assets/images/icon-spritesheet.svg?h=00fceca7#m
+ ail"></use></svg></span>\n<span class="accTitle__text">Contact</span>\n<sp
+ an class="accTitle__toggle-wrapper">\n<a class="accTitle__toggle" href="#C
+ ontact-3" rel="3">\n<span class="accTitle__toggle-text">View</span>\n<span
+  class="accTitle__toggle-arrow"><img alt="View" src="https://www.monash.ed
+ u/__data/assets/file/0011/2179901/arrow-outline-right.svg"/></span>\n</a>
+ \n</span>\n</h3>\n<div aria-labelledby="Contact-3" class="accContent" role
+ ="tabpanel" style="display: none\;">\n<div class="accContent__inner">\n<di
+ v class="accContent__wrapper">\n<div id="component_4373363">\n<p><strong>A
+ ryan Rohanian</strong><br/><strong>E: </strong><a href="mailto:che_suppor
+ t@monash.edu">che_support@monash.edu</a></p><p><strong>Juliet Sagar</stron
+ g><br/><strong>E: </strong><a href="mailto:juliet.sagar@monash.edu">julie
+ t.sagar@monash.edu</a></p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</
+ div>\n<script>\nwindow.addEventListener('DOMContentLoaded'\, function() {
+ \n\n        var LIB_CHECK_OBJECT_EXISTS = 'CHECK_OBJECT_EXISTS'\,\n       
+      LIB_CHECK_ELEMENT_EXISTS = 'CHECK_ELEMENT_EXISTS'\,\n            scri
+ ptIDPrefix = 'js-frontend-template-script--'\,\n            postLoadScript
+ s = [\n                {\n                    check:      LIB_CHECK_ELEMEN
+ T_EXISTS\,\n                    checkValue: scriptIDPrefix + 'page-filter'
+ \,\n                    isRequired: $('.js-frontend-page-filter').length ?
+  true : false\,\n                    id:         scriptIDPrefix + 'page-fi
+ lter'\,\n                    url:        'https://www.monash.edu/__data/as
+ sets/js_file_folder/0006/2019840/page_filter_basic.min.js?v=0.2.0'\n      
+           }\,\n                {\n                    check:      LIB_CHEC
+ K_ELEMENT_EXISTS\,\n                    checkValue: scriptIDPrefix + 'page
+ -filter-logic'\,\n                    isRequired: $('.js-frontend-page-fil
+ ter').length ? true : false\,\n                    id:         scriptIDPre
+ fix + 'page-filter-logic'\,\n                    url:        './?a=?v='\n 
+                }\,\n                {\n                    check:      LIB
+ _CHECK_ELEMENT_EXISTS\,\n                    checkValue: scriptIDPrefix + 
+ 'complex-accordion'\,\n                    isRequired: $('.js-frontend-com
+ plex-accordion').length ? true : false\,\n                    id:         
+ scriptIDPrefix + 'complex-accordion'\,\n                    url:        'h
+ ttps://www.monash.edu/__data/assets/js_file/0003/2180262/complex-accordion
+ -frontend.js?v=0.4.0'\n                }\,\n                {\n           
+          check:      LIB_CHECK_ELEMENT_EXISTS\,\n                    check
+ Value: scriptIDPrefix + 'complex-accordion'\,\n                    isRequi
+ red: $('.js-frontend-complex-accordion').length ? true : false\,\n        
+             id:         scriptIDPrefix + 'complex-accordion'\,\n          
+           url:        'https://www.monash.edu/__data/assets/js_file/0003/2
+ 180262/complex-accordion-frontend.js?v=0.4.0'\n                }\n        
+     ]\,\n            styleIDPrefix = 'js-frontend-template-style--'\,\n   
+          \n            postLoadStyles = [\n                {\n            
+         check:      LIB_CHECK_ELEMENT_EXISTS\,\n                    checkV
+ alue: styleIDPrefix + 'page-filter'\,\n                    isRequired: $('
+ .js-frontend-page-filter').length ? true : false\,\n                    id
+ :         styleIDPrefix + 'page-filter'\,\n                    url:       
+  'https://www.monash.edu/__data/assets/css_file/0011/2023031/page-filter-t
+ emplate.css?v=0.1.5'\n                }\,\n                {\n            
+         check:      LIB_CHECK_ELEMENT_EXISTS\,\n                    checkV
+ alue: styleIDPrefix + 'complex-accordion'\,\n                    isRequire
+ d: $('.js-frontend-complex-accordion').length ? true : false\,\n          
+           id:         styleIDPrefix + 'complex-accordion'\,\n             
+        url:        'https://www.monash.edu/__data/assets/css_file/0005/218
+ 0264/complex-accordion-frontend.css?v=0.2.2'\n                }\n         
+    ]\;\n\n        var elementExists = function(check\, checkValue) {\n    
+         if (check === LIB_CHECK_OBJECT_EXISTS) {\n                return t
+ ypeof checkValue !== 'undefined'\;\n            }\n            if (check =
+ == LIB_CHECK_ELEMENT_EXISTS) {\n                return document.getElement
+ ById(checkValue)\;\n            }\n        }\;\n\n        // Load script l
+ ibraries after DOM ready\n        postLoadScripts.forEach(function(scriptL
+ ibrary) {\n            if (scriptLibrary.isRequired && !elementExists(scri
+ ptLibrary.check\, scriptLibrary.checkValue)) {\n                var inject
+ edScript = document.createElement('script')\;\n                injectedScr
+ ipt.type = 'text/javascript'\;\n                injectedScript.id = script
+ Library.id\;\n                injectedScript.src = scriptLibrary.url\;\n  
+               injectedScript.async = false\;\n                $('body').ap
+ pend(injectedScript)\;\n            }\n        })\;\n\n\n        // Load s
+ tyle libraries after DOM ready\n        postLoadStyles.forEach(function(st
+ yleLibrary) {\n            if (styleLibrary.isRequired && !elementExists(s
+ tyleLibrary.check\, styleLibrary.checkValue)) {\n                var injec
+ tedStyle = document.createElement('link')\;\n                injectedStyle
+ .type = 'text/css'\;\n                injectedStyle.rel = 'stylesheet'\;\n
+                 injectedStyle.id = styleLibrary.id\;\n                inje
+ ctedStyle.href = styleLibrary.url\;\n                $('body').append(inje
+ ctedStyle)\;\n            }\n        })\;\n\n    })\;\n    \n    /*\n// Fi
+ x mobile with re-initing the plugin.\ndocument.addEventListener('DOMConten
+ tLoaded'\, function() {\n  const container = document.getElementById('filt
+ er-container')\;\n\n  function updateIsotopeLayout() {\n    if (container)
+  {\n      // Assuming Isotope is globally available and initialized\n     
+  Isotope.data(container).layout()\;\n      //console.log('Isotope layout u
+ pdated')\;\n    }\n  }\n\n  function debounce(fn\, delay) {\n    let timeo
+ utID\;\n    return function() {\n      clearTimeout(timeoutID)\;\n      ti
+ meoutID = setTimeout(() => fn.apply(this\, arguments)\, delay)\;\n    }\;
+ \n  }\n\n  const debouncedUpdateIsotopeLayout = debounce(updateIsotopeLayo
+ ut\, 500)\;\n\n  // Attach the load event to images\n  const images = cont
+ ainer.querySelectorAll('img')\;\n  images.forEach(function(img) {\n    img
+ .addEventListener('load'\, function() {\n      debouncedUpdateIsotopeLayou
+ t()\;\n    })\;\n\n    // Handle already loaded images (from cache)\n    i
+ f (img.complete) {\n      debouncedUpdateIsotopeLayout()\;\n    }\n  })\;
+ \n\n})\;\n*/\n\n\n</script>\n\n<span class="accTitle__icon"><svg><use href
+ ="https://www.monash.edu/__data/assets/git_bridge/0009/2651868/dist/assets
+ /images/icon-spritesheet.svg?h=00fceca7#people"></use></svg></span>\n<span
+  class="accTitle__text">Additional Speakers and Chairs</span>\n<span class
+ ="accTitle__toggle-wrapper">\n<a class="accTitle__toggle" href="#Additiona
+ l_Speakers_and_Chairs-1" rel="1">\n<span class="accTitle__toggle-text">Vie
+ w</span>\n<span class="accTitle__toggle-arrow"><img alt="View" src="https:
+ //www.monash.edu/__data/assets/file/0011/2179901/arrow-outline-right.svg"/
+ ></span>\n</a>\n</span>\n\n<span class="accTitle__icon"><svg><use href="ht
+ tps://www.monash.edu/__data/assets/git_bridge/0009/2651868/dist/assets/ima
+ ges/icon-spritesheet.svg?h=00fceca7#calendar"></use></svg></span>\n<span c
+ lass="accTitle__text">Program</span>\n<span class="accTitle__toggle-wrappe
+ r">\n<a class="accTitle__toggle" href="#Program-2" rel="2">\n<span class="
+ accTitle__toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><
+ img alt="View" src="https://www.monash.edu/__data/assets/file/0011/2179901
+ /arrow-outline-right.svg"/></span>\n</a>\n</span>\n\n<span class="accTitle
+ __icon"><svg><use href="https://www.monash.edu/__data/assets/git_bridge/00
+ 09/2651868/dist/assets/images/icon-spritesheet.svg?h=00fceca7#mail"></use>
+ </svg></span>\n<span class="accTitle__text">Contact</span>\n<span class="a
+ ccTitle__toggle-wrapper">\n<a class="accTitle__toggle" href="#Contact-3" r
+ el="3">\n<span class="accTitle__toggle-text">View</span>\n<span class="acc
+ Title__toggle-arrow"><img alt="View" src="https://www.monash.edu/__data/as
+ sets/file/0011/2179901/arrow-outline-right.svg"/></span>\n</a>\n</span>\n
+ \n<strong>Aryan Rohanian</strong><br/><strong>E: </strong><a href="mailto
+ :che_support@monash.edu">che_support@monash.edu</a>\n\n<strong>Juliet Saga
+ r</strong><br/><strong>E: </strong><a href="mailto:juliet.sagar@monash.ed
+ u">juliet.sagar@monash.edu</a>
+LOCATION:Rydges Canberra - 17 Canberra Avenue\, Forrest\, Canberra\, ACT 2
+ 603
+URL:https://www.monash.edu/business/events/centre-for-health-economics-pol
+ icy-symposium-2026
 END:VEVENT
 END:VCALENDAR
