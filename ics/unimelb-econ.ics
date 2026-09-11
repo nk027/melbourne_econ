@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:e6ee6f4963bed6024ded34a82578dd9e@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260909T121500
 DTEND;TZID=Australia/Melbourne:20260909T131500
@@ -42,8 +42,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:aac38882a1431c9ed444111ed94f0cc8@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260916T121500
 DTEND;TZID=Australia/Melbourne:20260916T131500
@@ -59,8 +59,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:222519234a4b166fad1f1727aab338d0@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260930T121500
 DTEND;TZID=Australia/Melbourne:20260930T131500
@@ -76,8 +76,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:7e52127fe1d7f7ff0adbcf77c4a656f6@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261007T121500
 DTEND;TZID=Australia/Melbourne:20261007T131500
@@ -92,8 +92,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:ce6b6b2486056974d1e1e434b75cd3df@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261014T121500
 DTEND;TZID=Australia/Melbourne:20261014T131500
@@ -110,8 +110,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:027ac3c381240a17f375e26f5c02aeaf@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260922T110000
 DTEND;TZID=Australia/Melbourne:20260922T121500
@@ -126,8 +126,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:b341dff2321485b4e7d2b0318dbbcc06@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261006T110000
 DTEND;TZID=Australia/Melbourne:20261006T121500
@@ -142,8 +142,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:08baf9ff73778e2ca30e47be5e848ee4@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261013T110000
 DTEND;TZID=Australia/Melbourne:20261013T121500
@@ -158,8 +158,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:9a3b3bb3ec32c145cae607a26c81383c@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261020T110000
 DTEND;TZID=Australia/Melbourne:20261020T121500
@@ -174,8 +174,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:469bcda0f19d540692e4128a8f210343@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261027T110000
 DTEND;TZID=Australia/Melbourne:20261027T121500
@@ -191,8 +191,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:38bd0b45a94ba2b2b30b94fb60d31c56@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261110T110000
 DTEND;TZID=Australia/Melbourne:20261110T121500
@@ -207,8 +207,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:1dd198f9b4e9a08052bd2cc926246e70@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261117T110000
 DTEND;TZID=Australia/Melbourne:20261117T121500
@@ -224,8 +224,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:e6355c8a3c82d58598331ff0e1e8ced0@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261201T110000
 DTEND;TZID=Australia/Melbourne:20261201T121500
@@ -240,8 +240,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:afd263e1a90611cf7ba908e2d533e58f@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261208T110000
 DTEND;TZID=Australia/Melbourne:20261208T121500
@@ -256,8 +256,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:3d10c90a44285402d8bdf0ca0a43817c@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T111500
 DTEND;TZID=Australia/Melbourne:20260910T123000
@@ -290,8 +290,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:fb76bff64da3ad215c1fffb21aae6867@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260917T111500
 DTEND;TZID=Australia/Melbourne:20260917T123000
@@ -306,8 +306,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:4bcedcdcde7437181eac91f96e2fcea4@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T111500
 DTEND;TZID=Australia/Melbourne:20260924T123000
@@ -322,8 +322,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:4d7ead8355be60453e9975368146a487@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261001T111500
 DTEND;TZID=Australia/Melbourne:20261001T123000
@@ -356,8 +356,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:bfd46adb6d5294491394e37835b724ff@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261008T111500
 DTEND;TZID=Australia/Melbourne:20261008T123000
@@ -372,8 +372,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:746bd2528140ed50bc6fdc14613b0007@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T111500
 DTEND;TZID=Australia/Melbourne:20261030T123000
@@ -388,8 +388,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:2ac2a820ca2977a6d11fe7062e64a1e8@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261105T140000
 DTEND;TZID=Australia/Melbourne:20261105T151500
@@ -404,8 +404,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:657ad3c2ac9ed9c280ef3d28e4340c04@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T120000
 DTEND;TZID=Australia/Melbourne:20260910T131500
@@ -431,8 +431,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:fa72b3ddf55284edba652bb3f8c96b58@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260917T120000
 DTEND;TZID=Australia/Melbourne:20260917T131500
@@ -460,8 +460,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:7292f4c0f5b44beeab4b59600dc5d162@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260921T120000
 DTEND;TZID=Australia/Melbourne:20260921T131500
@@ -476,8 +476,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:acdca22b7a26552a87228a77fdbd6695@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260924T120000
 DTEND;TZID=Australia/Melbourne:20260924T131500
@@ -492,8 +492,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:e9bfe0b8d5b47c6fc85730dd6615dd3c@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261001T120000
 DTEND;TZID=Australia/Melbourne:20261001T131500
@@ -508,8 +508,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:ff491a19485315341b69addf8afdf4cf@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261008T120000
 DTEND;TZID=Australia/Melbourne:20261008T131500
@@ -536,8 +536,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:4d74938107fe06912ef1477fe29d2eb4@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T120000
 DTEND;TZID=Australia/Melbourne:20261015T131500
@@ -552,8 +552,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:3b638698a380569e953e419b9bd442b1@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260911T110000
 DTEND;TZID=Australia/Melbourne:20260911T121500
@@ -574,8 +574,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:20872a88b7526707fc1c83ea822b8e2c@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261009T110000
 DTEND;TZID=Australia/Melbourne:20261009T121500
@@ -590,8 +590,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:772f8b820872d0ba12091a4aed8ac616@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T110000
 DTEND;TZID=Australia/Melbourne:20261016T121500
@@ -606,8 +606,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:b47e1c62c78f8c72e5b35cda3dde4d09@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261023T110000
 DTEND;TZID=Australia/Melbourne:20261023T121500
@@ -622,8 +622,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:822ff5055e47c917ccd792bc085d4eb7@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261203T110000
 DTEND;TZID=Australia/Melbourne:20261203T121500
@@ -638,8 +638,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:9de498bf6163fcfb6d0cbaf3c1a9e499@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260918T110000
 DTEND;TZID=Australia/Melbourne:20260918T122000
@@ -673,8 +673,8 @@ DESCRIPTION:Bing Liu: “The Shape and Size of Nonlinear Pricing Menus”\n
 END:VEVENT
 BEGIN:VEVENT
 UID:4735c8e83906adcaf6db38c516917508@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261023T110000
 DTEND;TZID=Australia/Melbourne:20261023T122000
@@ -700,8 +700,8 @@ DESCRIPTION:Jiemai Wu: “Group cascades in strategic voting”\nhttps://ww
 END:VEVENT
 BEGIN:VEVENT
 UID:327276b55128268232fd749e8711e02e@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261029T110000
 DTEND;TZID=Australia/Melbourne:20261029T122000
@@ -713,8 +713,8 @@ DESCRIPTION:Federico Echenique: “TBD”\nhttps://econ.berkeley.edu/profil
 END:VEVENT
 BEGIN:VEVENT
 UID:d1894ace1fd6279983ca2eee7b1955e6@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261106T110000
 DTEND;TZID=Australia/Melbourne:20261106T122000
@@ -726,8 +726,8 @@ DESCRIPTION:Arthur Campbell: “TBD”\nhttps://sites.google.com/site/arthu
 END:VEVENT
 BEGIN:VEVENT
 UID:23b9b68d63d518dd3c19fc7bf5a2da19@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261113T110000
 DTEND;TZID=Australia/Melbourne:20261113T122000
@@ -738,8 +738,8 @@ DESCRIPTION:Feng Zhu: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/Bir
 END:VEVENT
 BEGIN:VEVENT
 UID:a90179f383c243af4a4f8ed07851ad6b@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260910T121500
 DTEND;TZID=Australia/Melbourne:20260910T131500
@@ -752,8 +752,8 @@ DESCRIPTION:Katrien Stevens: “TBD”\nhttps://profiles.sydney.edu.au/katr
 END:VEVENT
 BEGIN:VEVENT
 UID:e195d8798e0dd83ad26fef4c341e0685@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261008T121500
 DTEND;TZID=Australia/Melbourne:20261008T131500
@@ -765,8 +765,8 @@ DESCRIPTION:Claudio Labanca: “TBD”\nhttps://sites.google.com/monash.edu
 END:VEVENT
 BEGIN:VEVENT
 UID:93393ec39480e9f0a3568b67ab502571@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T121500
 DTEND;TZID=Australia/Melbourne:20261015T131500
@@ -779,8 +779,8 @@ DESCRIPTION:Warn N. Lekfuangfu: “TBD”\nhttps://npwarn.wixsite.com/warn-
 END:VEVENT
 BEGIN:VEVENT
 UID:36bfdc121fdfda2e09358ae8f4063986@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261022T121500
 DTEND;TZID=Australia/Melbourne:20261022T131500
@@ -792,8 +792,8 @@ DESCRIPTION:Ha Vu: “TBD”\nhttps://sites.google.com/view/havu-havueconom
 END:VEVENT
 BEGIN:VEVENT
 UID:d324fe21b300d0187c537cc800fff911@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261105T121500
 DTEND;TZID=Australia/Melbourne:20261105T131500
@@ -805,8 +805,8 @@ DESCRIPTION:Simon Franklin: “TBD”\nhttps://www.simonfranklin.co/\n\nGoo
 END:VEVENT
 BEGIN:VEVENT
 UID:1206808f47b929961a104f6b82975ab3@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261119T121500
 DTEND;TZID=Australia/Melbourne:20261119T131500
@@ -818,8 +818,8 @@ DESCRIPTION:Pascuel Plotkin: “TBD”\nhttps://pascuel.github.io/\n\nGoogl
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8659b43f5459e1dccdc31996eaa60d@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261210T121500
 DTEND;TZID=Australia/Melbourne:20261210T131500
@@ -831,90 +831,9 @@ DESCRIPTION:Annika Herr: “TBD”\nhttps://www.ihe.uni-hannover.de/en/herr
  TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:76ee30091c5fe137f1a0005ab308c53a@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260904T133000
-DTEND;TZID=Australia/Melbourne:20260904T141000
-SUMMARY:PhD Brown Bag Seminar – Jinjing Chen (University of Melbourne) 
- – Air Pollution and Road Safety: The Role of Agricultural Burning in Pak
- istan
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3057
-DESCRIPTION:Jinjing Chen: “Air Pollution and Road Safety: The Role of Agr
- icultural Burning in Pakistan”\n\nZoom: https://unimelb.zoom.us/j/813472
- 71549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.ap
- p.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nRoad traffic accidents impose sub
- stantial social costs\, especially in low- and middle-income countries\, y
- et the environmental determinants of accident risk remain poorly understoo
- d. This paper studies the effect of agricultural burning induced air pollu
- tion on road accidents in Punjab\, Pakistan\, from 2022 to 2025\, using ad
- ministrative emergency accident records. I combine VIIRS active-fire detec
- tions with HYSPLIT-simulated smoke plume trajectories to predict whether s
- moke from fires outside a local area is transported into it\, and use this
-  predicted smoke exposure as an instrument for local air pollution exposur
- e. This approach allows me to estimate the causal effect of agricultural-b
- urning-induced air pollution on road accidents. I then examine the mechani
- sms underlying this effect by disentangling two channels: an air-pollution
-  channel\, through which pollution may impair cognitive performance and dr
- iving behavior\, and a visibility channel\, through which smoke reduces si
- ght distance and worsens driving conditions. Finally\, I quantify the cont
- ribution of transboundary smoke from Indian Punjab and identify the upwind
-  burn locations that generate the largest downstream road-safety externali
- ties\, with implications for spatially targeted enforcement.
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
-END:VEVENT
-BEGIN:VEVENT
-UID:bf5bb10d1f05b0ebe605436ec0dac9f2@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260904T141000
-DTEND;TZID=Australia/Melbourne:20260904T145000
-SUMMARY:PhD Brown Bag Seminar – Kaiyue Chen (University of Melbourne) –
-  Public EV Charging Stations in the Workplace
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3058
-DESCRIPTION:Kaiyue Chen: “Public EV Charging Stations in the Workplace”
- \n\nZoom: https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65k
- UhzrKAvS.1\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nAB
- STRACT:\nMidday electricity is increasingly cheap and clean\, making workp
- lace EV charging an attractive way to shift charging toward hours of abund
- ant renewable generation. But as electricity becomes cheaper\, scarcity sh
- ifts from energy to access to charging bays. Existing per-kWh prices do li
- ttle to allocate this scarce capacity: chargers are often allocated on a f
- irst-come\, first-served basis\, and drivers may continue occupying bays a
- fter charging is complete. We develop a model of parking pricing in which 
- drivers differ in their willingness to pay for charging and their costs of
-  moving vehicles\, and study how parking prices affect whether drivers cha
- rge\, how long they occupy a charger\, and ultimately allocative efficienc
- y. We will later extend the model to endogenize arrival decisions and cong
- estion\, characterize the resulting equilibrium\, and use simulations to c
- ompare alternative policies in terms of social welfare.
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
-END:VEVENT
-BEGIN:VEVENT
-UID:fa7f5e11d56c83d13c70ebf4bc1b3dde@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20260904T145000
-DTEND;TZID=Australia/Melbourne:20260904T153000
-SUMMARY:PhD Brown Bag Seminar – Meiling Li (University of Melbourne) – 
- Global versus Local Damages from Coal Power Plants: Evidence from China
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3059
-DESCRIPTION:Meiling Li: “Global versus Local Damages from Coal Power Plan
- ts: Evidence from China”\n\nZoom: https://unimelb.zoom.us/j/81347271549?
- pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.app.goo.
- gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
-END:VEVENT
-BEGIN:VEVENT
 UID:0aa05cacf6bcbcd70e03bf05ed04381c@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260911T133000
 DTEND;TZID=Australia/Melbourne:20260911T141000
@@ -922,32 +841,29 @@ SUMMARY:PhD Brown Bag Seminar – Ellie Peppa (University of Melbourne) –
   Same-Sex Parenting\, Child Outcomes\, and the Role of Stigma
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3060
 DESCRIPTION:Ellie Peppa: “Same-Sex Parenting\, Child Outcomes\, and the R
- ole of Stigma”\n\nZoom: https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJ
- kLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJK
- urX9pSbBB8\n\nABSTRACT:\nA growing body of evidence suggests children rais
- ed by same-sex parents fare comparably to those growing up by different-se
- x parents when it comes to educational outcomes. However\, important gaps 
- remain: existing studies have examined outcome measures within a single st
- age of life among children of female same-sex couples\, and rarely test wh
- ether the well-documented "no-difference" pattern depends on the social co
- ntext families live in. This paper addresses these gaps by studying same-s
- ex versus different-sex parented families at two distinct points in the li
- fe course using whole-of-population administrative data from Australia. Fi
- rst\, we examine psychological\, cognitive and health outcomes in early ch
- ildhood. Second\, we examine early labour market and health outcomes among
-  adults who grew up in same-sex parented families. Third\, we test whether
-  outcomes at both stages vary systematically by area level stigma towards 
- sexual minorities (proxied by opposition to marriage equality). As we have
-  only recently gained access to the data required for this project\, this 
- talk focuses on our motivation and proposed identification strategy rather
-  than on results.
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+ ole of Stigma”\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8
+ \n\nABSTRACT:\nA growing body of evidence suggests children raised by same
+ -sex parents fare comparably to those growing up by different-sex parents 
+ when it comes to educational outcomes. However\, important gaps remain: ex
+ isting studies have examined outcome measures within a single stage of lif
+ e among children of female same-sex couples\, and rarely test whether the 
+ well-documented "no-difference" pattern depends on the social context fami
+ lies live in. This paper addresses these gaps by studying same-sex versus 
+ different-sex parented families at two distinct points in the life course 
+ using whole-of-population administrative data from Australia. First\, we e
+ xamine psychological\, cognitive and health outcomes in early childhood. S
+ econd\, we examine early labour market and health outcomes among adults wh
+ o grew up in same-sex parented families. Third\, we test whether outcomes 
+ at both stages vary systematically by area level stigma towards sexual min
+ orities (proxied by opposition to marriage equality). As we have only rece
+ ntly gained access to the data required for this project\, this talk focus
+ es on our motivation and proposed identification strategy rather than on r
+ esults.
 END:VEVENT
 BEGIN:VEVENT
 UID:9188da4b3e86ca474774ff2ae25b4315@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260911T141000
 DTEND;TZID=Australia/Melbourne:20260911T145000
@@ -955,74 +871,64 @@ SUMMARY:PhD Brown Bag Seminar – Nicholas Chiang (University of Melbourne)
   – Do Skilled Immigration Restrictions Bind When Firms Are Global?
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3061
 DESCRIPTION:Nicholas Chiang: “Do Skilled Immigration Restrictions Bind Wh
- en Firms Are Global?”\n\nZoom: https://unimelb.zoom.us/j/81347271549?pwd
- =DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.app.goo.gl/
- BirLkJKurX9pSbBB8\n\nABSTRACT:\nI study how firms adjust labour sourcing w
- hen skilled-immigration policy tightens\, using increases in Singapore’s
-  Employment Pass qualifying salary and worker-level career histories. More
-  exposed firms shift away from foreign-source hiring toward workers source
- d locally\, while cross-border internal transfers also fall. Importantly\,
-  the response extends to highest-wage roles that are much less likely to b
- e directly constrained by the salary threshold. This broader within-firm a
- djustment is stronger among multinational firms\, suggesting that organisa
- tional structure shapes the incidence of targeted immigration restrictions
- .
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+ en Firms Are Global?”\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX
+ 9pSbBB8\n\nABSTRACT:\nI study how firms adjust labour sourcing when skille
+ d-immigration policy tightens\, using increases in Singapore’s Employmen
+ t Pass qualifying salary and worker-level career histories. More exposed f
+ irms shift away from foreign-source hiring toward workers sourced locally\
+ , while cross-border internal transfers also fall. Importantly\, the respo
+ nse extends to highest-wage roles that are much less likely to be directly
+  constrained by the salary threshold. This broader within-firm adjustment 
+ is stronger among multinational firms\, suggesting that organisational str
+ ucture shapes the incidence of targeted immigration restrictions.
 END:VEVENT
 BEGIN:VEVENT
 UID:53957c587f147e2abaab438921b204c6@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260918T133000
 DTEND;TZID=Australia/Melbourne:20260918T141000
 SUMMARY:PhD Brown Bag Seminar – Hasini Senadheera (University of Melbourn
  e) – Succession Planning 
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3063
-DESCRIPTION:Hasini Senadheera: “Succession Planning ”\n\nZoom: https:/
- /unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoo
- gle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nThe adop
- tion of artificial intelligence (AI) in the workplace has coincided with d
- eclining junior hiring. We propose an explanation based on the interaction
-  between AI\, training\, and human-capital accumulation. We combine an ove
- rlapping-generations framework with a principal-agent problem in which sen
- ior workers choose how much effort to devote to training juniors\, who sub
- sequently become seniors themselves. This creates a trade-off between curr
- ent production and future human-capital accumulation. AI makes observed ou
- tcomes a noisier signal of underlying human capital\, with this distortion
-  outweighing its productivity gains. This weakens training incentives and 
- hence reduces the value of hiring juniors. Our mechanism suggests that AI 
- may not only substitute for juniors’ tasks but also weaken firms' incent
- ives to develop human-capital\, thereby providing an explanation for the d
- ecline in junior hiring.
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Hasini Senadheera: “Succession Planning ”\n\nGoogle Maps: 
+ https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nThe adoption of ar
+ tificial intelligence (AI) in the workplace has coincided with declining j
+ unior hiring. We propose an explanation based on the interaction between A
+ I\, training\, and human-capital accumulation. We combine an overlapping-g
+ enerations framework with a principal-agent problem in which senior worker
+ s choose how much effort to devote to training juniors\, who subsequently 
+ become seniors themselves. This creates a trade-off between current produc
+ tion and future human-capital accumulation. AI makes observed outcomes a n
+ oisier signal of underlying human capital\, with this distortion outweighi
+ ng its productivity gains. This weakens training incentives and hence redu
+ ces the value of hiring juniors. Our mechanism suggests that AI may not on
+ ly substitute for juniors’ tasks but also weaken firms' incentives to de
+ velop human-capital\, thereby providing an explanation for the decline in 
+ junior hiring.
 END:VEVENT
 BEGIN:VEVENT
 UID:89bba6dbe6cc50bff864273f3494995a@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260918T141000
 DTEND;TZID=Australia/Melbourne:20260918T145000
 SUMMARY:PhD Brown Bag Seminar – Ryan Ng (University of Melbourne) – Che
  ap talk with Heterogeneous Garbling
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3064
-DESCRIPTION:Ryan Ng: “Cheap talk with Heterogeneous Garbling”\n\nZoom: 
- https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1
- \n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nW
- e extend the Crawford-Sobel (CS) interaction by introducing an environment
-  where messages sent can be garbled with different probabilities. Prelimin
- ary results indicate that communication can be supported for larger bias\,
-  and welfare improves relative to CS for sufficiently large bias.
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Ryan Ng: “Cheap talk with Heterogeneous Garbling”\n\nGoogle
+  Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nWe extend t
+ he Crawford-Sobel (CS) interaction by introducing an environment where mes
+ sages sent can be garbled with different probabilities. Preliminary result
+ s indicate that communication can be supported for larger bias\, and welfa
+ re improves relative to CS for sufficiently large bias.
 END:VEVENT
 BEGIN:VEVENT
 UID:1c3553196f673ff672a149733a71323a@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260918T145000
 DTEND;TZID=Australia/Melbourne:20260918T153000
@@ -1030,210 +936,174 @@ SUMMARY:PhD Brown Bag Seminar – Paveenapat Niennattrakul (University of M
  elbourne) – Abundance of ideas\, R&D subsidies\, and patent policy
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3065
 DESCRIPTION:Paveenapat Niennattrakul: “Abundance of ideas\, R&D subsidies
- \, and patent policy”\n\nZoom: https://unimelb.zoom.us/j/81347271549?pwd
- =DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.app.goo.gl/
- BirLkJKurX9pSbBB8\n\nABSTRACT:\nThis paper examines the interplay between 
- the patent system and R\\&D subsidies\, investigating how the optimal mix 
- is shaped by scarcity of ideas. We consider an environment of innovation t
- hat distinguishes between exploratory stage and development stage. The inn
- ovator begins with an exogenously given idea whose quality is unknown\, an
- d which is not yet patentable. By undertaking costly exploratory research\
- , the innovator privately observes the idea’s quality and converts it in
- to a patentable invention. In the development stage\, the innovator decide
- s whether to further incur development cost to transform the invention int
- o a marketable innovation and realize the returns from her idea. High-qual
- ity ideas satisfy patentability criteria whereas low-quality do not and ge
- nerate social costs if granted protection. The social planner simultaneous
- ly chooses how much to subsidize idea exploration process and how lenient 
- the patent office should be. Subsidizing promotes idea exploration and per
- mits stricter patent screening\, but it also imposes social costs. We show
-  that when high-quality ideas are abundant\, subsidies alone optimally ind
- uce idea exploration. But when they are scarce\, it is socially optimal to
-  combine subsidies with lenient patent screening regime that occasionally 
- protects low-quality ideas.
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+ \, and patent policy”\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX
+ 9pSbBB8\n\nABSTRACT:\nThis paper examines the interplay between the patent
+  system and R\\&D subsidies\, investigating how the optimal mix is shaped 
+ by scarcity of ideas. We consider an environment of innovation that distin
+ guishes between exploratory stage and development stage. The innovator beg
+ ins with an exogenously given idea whose quality is unknown\, and which is
+  not yet patentable. By undertaking costly exploratory research\, the inno
+ vator privately observes the idea’s quality and converts it into a paten
+ table invention. In the development stage\, the innovator decides whether 
+ to further incur development cost to transform the invention into a market
+ able innovation and realize the returns from her idea. High-quality ideas 
+ satisfy patentability criteria whereas low-quality do not and generate soc
+ ial costs if granted protection. The social planner simultaneously chooses
+  how much to subsidize idea exploration process and how lenient the patent
+  office should be. Subsidizing promotes idea exploration and permits stric
+ ter patent screening\, but it also imposes social costs. We show that when
+  high-quality ideas are abundant\, subsidies alone optimally induce idea e
+ xploration. But when they are scarce\, it is socially optimal to combine s
+ ubsidies with lenient patent screening regime that occasionally protects l
+ ow-quality ideas.
 END:VEVENT
 BEGIN:VEVENT
 UID:0f61b237da43719455dacbe2a61c8bd3@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261009T133000
 DTEND;TZID=Australia/Melbourne:20261009T141000
 SUMMARY:PhD Brown Bag Seminar – Maxine Zhang (University of Manchester) 
  – TBD
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3065
-DESCRIPTION:Maxine Zhang: “TBD”\n\nZoom: https://unimelb.zoom.us/j/8134
- 7271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.
- app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Maxine Zhang: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl
+ /BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:b2ec81a57c6fe118869e140a418f2b1f@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261009T141000
 DTEND;TZID=Australia/Melbourne:20261009T145000
 SUMMARY:PhD Brown Bag Seminar – Charon Yang (University of Melbourne) –
   TBD
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3066
-DESCRIPTION:Charon Yang: “TBD”\n\nZoom: https://unimelb.zoom.us/j/81347
- 271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.a
- pp.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Charon Yang: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/
+ BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:1994fae59e606d72b690fa41404014c2@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261009T145000
 DTEND;TZID=Australia/Melbourne:20261009T153000
 SUMMARY:PhD Brown Bag Seminar – Anthony Van Den Berg (University of Melbo
  urne) – TBD
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3067
-DESCRIPTION:Anthony Van Den Berg: “TBD”\n\nZoom: https://unimelb.zoom.u
- s/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https
- ://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Anthony Van Den Berg: “TBD”\n\nGoogle Maps: https://maps.ap
+ p.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:a58461955fa743af90706222298107b9@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T133000
 DTEND;TZID=Australia/Melbourne:20261016T141000
 SUMMARY:PhD Brown Bag Seminar – Abhirupa Das (University of Melbourne) 
  – TBD
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3068
-DESCRIPTION:Abhirupa Das: “TBD”\n\nZoom: https://unimelb.zoom.us/j/8134
- 7271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.
- app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Abhirupa Das: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl
+ /BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:0cf5ba25a7a6ce09103066a3e1cb2f12@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T141000
 DTEND;TZID=Australia/Melbourne:20261016T145000
 SUMMARY:PhD Brown Bag Seminar – Emily Tran (University of Melbourne) – 
  TBD
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3069
-DESCRIPTION:Emily Tran: “TBD”\n\nZoom: https://unimelb.zoom.us/j/813472
- 71549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.ap
- p.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Emily Tran: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/B
+ irLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:bd134340a15681ae233d31bdd7bc812c@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T145000
 DTEND;TZID=Australia/Melbourne:20261016T153000
 SUMMARY:PhD Brown Bag Seminar – Gloria Chen (University of Melbourne) –
   TBD
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3070
-DESCRIPTION:Gloria Chen: “TBD”\n\nZoom: https://unimelb.zoom.us/j/81347
- 271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.a
- pp.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Gloria Chen: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/
+ BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:114b99f9d8361eb93970bde83b9602a0@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261023T133000
 DTEND;TZID=Australia/Melbourne:20261023T141000
 SUMMARY:PhD Brown Bag Seminar – Landi Lin (University of Melbourne) – T
  BD
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3071
-DESCRIPTION:Landi Lin: “TBD”\n\nZoom: https://unimelb.zoom.us/j/8134727
- 1549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.app
- .goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Landi Lin: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/Bi
+ rLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:f24b8dcccdb215ba44e50fa5293ef907@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261023T141000
 DTEND;TZID=Australia/Melbourne:20261023T145000
 SUMMARY:PhD Brown Bag Seminar – Renee Zhou (University of Melbourne) – 
  TBD
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3072
-DESCRIPTION:Renee Zhou: “TBD”\n\nZoom: https://unimelb.zoom.us/j/813472
- 71549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.ap
- p.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Renee Zhou: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/B
+ irLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:2f8700c7bb212950d95f03ecdb98c28f@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T133000
 DTEND;TZID=Australia/Melbourne:20261030T141000
 SUMMARY:PhD Brown Bag Seminar – Rossella De Sabbata (University of Melbou
  rne) – TBD
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3072
-DESCRIPTION:Rossella De Sabbata: “TBD”\n\nZoom: https://unimelb.zoom.us
- /j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https:
- //maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Rossella De Sabbata: “TBD”\n\nGoogle Maps: https://maps.app
+ .goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:0afef4e17fafced66241fb482b77800c@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T141000
 DTEND;TZID=Australia/Melbourne:20261030T145000
 SUMMARY:PhD Brown Bag Seminar – Sonia Ma (University of Melbourne) – TB
  D
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3062
-DESCRIPTION:Sonia Ma: “TBD”\n\nZoom: https://unimelb.zoom.us/j/81347271
- 549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://maps.app.
- goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Sonia Ma: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/Bir
+ LkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:35f2477043a32122408effea9837d3ed@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T145000
 DTEND;TZID=Australia/Melbourne:20261030T153000
 SUMMARY:PhD Brown Bag Seminar – Lorenz Gschwent (University of Melbourne)
   – TBD
 LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3062
-DESCRIPTION:Lorenz Gschwent: “TBD”\n\nZoom: https://unimelb.zoom.us/j/8
- 1347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAvS.1\n\nGoogle Maps: https://ma
- ps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-URL:https://unimelb.zoom.us/j/81347271549?pwd=DX1wTJkLbR8CVfWXiaW65kUhzrKAv
- S.1
+DESCRIPTION:Lorenz Gschwent: “TBD”\n\nGoogle Maps: https://maps.app.goo
+ .gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:bf82a8e60ef486018bd189dd3a518b88@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20260916T130000
 DTEND;TZID=Australia/Melbourne:20260916T140000
@@ -1267,8 +1137,8 @@ DESCRIPTION:Jathan Sadowski: “The Marketisation of Climate Risk”\n\nABS
 END:VEVENT
 BEGIN:VEVENT
 UID:04fab35c46e3436bb3db5c5628ecd466@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261007T130000
 DTEND;TZID=Australia/Melbourne:20261007T140000
@@ -1279,8 +1149,8 @@ DESCRIPTION:Andrew Ireland: “TBD”\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:9f766718f09a675d6fb62955a3a48327@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261021T130000
 DTEND;TZID=Australia/Melbourne:20261021T140000
@@ -1291,8 +1161,8 @@ DESCRIPTION:Tim Boonen: “TBD”\nTim J. Boonen\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:641603f12f64cab43daa9190b476f9a1@generated
-DTSTAMP:20260910T211840Z
-LAST-MODIFIED:20260910T211840Z
+DTSTAMP:20260911T212633Z
+LAST-MODIFIED:20260911T212633Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261104T130000
 DTEND;TZID=Australia/Melbourne:20261104T140000
