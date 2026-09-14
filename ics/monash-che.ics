@@ -2,541 +2,275 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Monash Events//EN
 BEGIN:VEVENT
-SUMMARY:CHE Seminar Series: The abuse trap
-DTSTART:20260916T120000
-DTEND:20260916T130000
-DESCRIPTION:This paper is motivated by the fact that domestic abuse recurs
-  within couples\, but that nevertheless only a small share of  women lea
- ve abusive partnerships. We investigate women's intention to leave conditi
- onal on abuse as a function of their beliefs over the risk of future abuse
- . Possibly contrary to expectation\, we find that women who anticipate abu
- se state that they are less likely to leave. This association is stronger 
- for psychological than for physical abuse\, and stronger among women who h
- ave previously suffered abuse. It is similar across the distributions of e
- ducation\, employment and income\, particularly if the woman has already b
- een abused. We find limited support for competing explanations\, including
-  selection into abusive partnerships\, sabotage of outside options\, gener
- alized pessimism and depression. We then look at actual rates of leaving c
- onditional upon abuse\, and find that these are a lot lower than intended 
- rates. We argue that our findings are consistent with abusive men acting t
- o make it costly for their partners to leave\, for instance by instilling 
- fear. It is also consistent with our finding that women tend to under-esti
- mate abuse risk\, and most so when they are at higher risk\, which charact
- erises women who are depressed\, and women who have witnessed parental abu
- se as children.\n\nSpeaker profile\n\n<a href="https://sites.google.com/si
- te/aldelaresearch/" target="_blank">Adeline Delavande</a> is Professor of 
- Economics at the University of Technology Sydney and Nova School of Busine
- ss and Economics. Her research examines how individuals form beliefs and m
- ake decisions under uncertainty\, with applications in economic demography
- \, health\, education\, and development economics. A central feature of he
- r work is the collection and analysis of probabilistic expectations data t
- o better understand individual behaviour and evaluate policy interventions
- . Her research frequently combines original survey design\, field experime
- nts\, and applied microeconometric methods\, often through interdisciplina
- ry collaborations with researchers and practitioners in health and other f
- ields.\n\nWeekly seminar series\n\nAs part of our Centre's vibrant researc
- h culture\, we host a weekly seminar series. Visiting and invited research
- ers present current research relating to the economics of health and wellb
- eing\, and the healthcare sector. Visitors are welcome to join these sessi
- ons where discussion and debate is encouraged.\n\nFor further information 
- on our seminar series\, please contact <a href="mailto:Trong-Anh.Trinh@mo
- nash.edu">Trong-Anh.Trinh@monash.edu</a>\n\n<a class="btn" href="https://m
- onash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1 ">Join Zo
+SUMMARY:CHE Seminar Series: Barriers to care under universal coverage: Evi
+ dence from Switzerland
+DTSTART:20260304T120000
+DTEND:20260304T130000
+DESCRIPTION:This seminar presents evidence on disparities in access to car
+ e from Switzerland\, combining administrative data\, small-area analyses\,
+  and a broader research agenda using quasi-experimental and experimental a
+ pproaches.\n\nThe first part discusses national evidence on socioeconomic 
+ inequalities in potentially avoidable hospitalisations\, a proxy for inade
+ quate access to community-based ambulatory care. The study documents a rob
+ ust socioeconomic gradient and substantial variation across cantons (Swiss
+  states). Exploiting Switzerland’s decentralised institutional structure
+ \, the analysis then examines policy correlates of these inequalities. Res
+ ults reveal positive associations between inequality and both the cost of 
+ mandatory health insurance and the regressivity of premium subsidy schemes
+ \, alongside a weaker negative association with general practitioner densi
+ ty. While descriptive\, these findings point to potential policy mechanism
+ s shaping equity in access.\n\nThe second study analyses paediatric emerge
+ ncy department utilisation in Geneva. In this dense urban setting\, where 
+ geographical access is less likely to be the primary constraint\, the resu
+ lts highlight the prominent role of socioeconomic vulnerability. The obser
+ ved patterns are consistent with disparities arising beyond physical acces
+ s constraints\, including potential informational frictions. The second pa
+ rt outlines forthcoming research examining mechanisms underlying access di
+ sparities\, studying responses to cost-sharing using Swiss insurance micro
+ data and the role of informational frictions through a field experiment.\n
+ \nSpeaker profile\n\n<a href="https://www.lche.ch/researchers/">Joachim Ma
+ rti</a> is an Associate Professor of Health Economics at the University of
+  Lausanne (Unisanté)\, Co-Lead of the Lausanne Centre for Health Economic
+ s\, and currently a Visiting Researcher at the Centre for Health Economics
+  (CHE). His work spans health economics\, health policy\, and health servi
+ ces research\, with a focus on efficiency and equity in healthcare\, healt
+ hcare utilisation\, health behaviours\, and patient and provider decision-
+ making. His current research studies how incentives\, insurance design\, a
+ nd market structures influence healthcare utilisation\, quality\, and ineq
+ ualities in access to care. This includes work on competition and cost-sha
+ ring in mental healthcare\, private insurance and inpatient treatment deci
+ sions\, methodological issues in choice experiments\, and analyses of long
+ -term care trajectories.\n\nWeekly seminar series\n\nAs part of our Centre
+ 's vibrant research culture\, we host a weekly seminar series. Visiting an
+ d invited researchers present current research relating to the economics o
+ f health and wellbeing\, and the healthcare sector. Visitors are welcome t
+ o join these sessions where discussion and debate is encouraged.\n\nFor fu
+ rther information on our seminar series\, please contact <a href="mailto:
+ Trong-Anh.Trinh@monash.edu">Trong-Anh.Trinh@monash.edu</a> .\n\n<a class="
+ btn" href="https://monash.zoom.us/j/83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6
+ dZbAX5do.1" target="_blank">Join Zoom</a>
+LOCATION:Caulfield campus\, Building C\, level 1\, room C121
+URL:https://www.monash.edu/business/events/che-seminar-series-barriers-to-
+ care-under-universal-coverage-evidence-from-switzerland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHE Seminar Series: Born Too Soon? Policy-Induced Birth Timing and
+  Child Development
+DTSTART:20260311T120000
+DTEND:20260311T130000
+DESCRIPTION:We examine the impact of policy-induced changes in birth timin
+ g on children’s health and educational outcomes. We exploit a natural ex
+ periment in Spain: the abrupt termination of a generous child benefit at t
+ he end of 2010\, which led to a sharp increase in elective deliveries duri
+ ng the final week of December. Children born during this spike had shorter
+  gestation periods and lower birth-weight (within the normal range)\, and 
+ experienced a higher incidence of respiratory disorders during infancy. We
+  find that the affected cohort of children had significantly lower school 
+ performance at age seven\, suggesting large persistent effects on cognitiv
+ e development.\n\nSpeaker profile\n\n<a href="https://libertadgonzalez.com
+ /">Libertad González</a> is a Professor of Economics at Universitat Pompe
+ u Fabra and the Barcelona School of Economics\, specialising in labor\, pu
+ blic\, and gender economics. She holds a PhD in Economics from Northwester
+ n University. She has published in leading peer-reviewed journals such as 
+ the Economic Journal\, the Journal of the European Economic Association\, 
+ the American Economic Journal: Economic Policy\, the Journal of Labor Econ
+ omics\, the Journal of Public Economics\, the Journal of Human Resources\,
+  and the Journal of Health Economics. Her research accumulates more than 4
+ \,000 citations in Google Scholar. She was awarded an ERC Consolidator Gra
+ nt to study early-life interventions and child development. She served as 
+ President of the European Society for Population Economics (in 2023) and i
+ s currently vice-president of the Spanish Economic Association.\n\nWeekly 
+ seminar series\n\nAs part of our Centre's vibrant research culture\, we ho
+ st a weekly seminar series. Visiting and invited researchers present curre
+ nt research relating to the economics of health and wellbeing\, and the he
+ althcare sector. Visitors are welcome to join these sessions where discuss
+ ion and debate is encouraged.\n\nFor further information on our seminar se
+ ries\, please contact <a href="mailto:Trong-Anh.Trinh@monash.edu">Trong-A
+ nh.Trinh@monash.edu</a> .\n\n<a class="btn" href="https://monash.zoom.us/j
+ /83600802355?pwd=1F4DXlfQDO7MHpjzEWsMC6dZbAX5do.1" target="_blank">Join Zo
  om</a>
-LOCATION:Caulfield campus\, Building H\, level 9\, room H9.21
-URL:https://www.monash.edu/business/events/che-seminar-series-the-abuse-tr
- ap
+LOCATION:Caulfield campus\, Building H\, level 9\, room H914
+URL:https://www.monash.edu/business/events/che-seminar-series-born-too-soo
+ n-policy-induced-birth-timing-and-child-development
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PLIDA Data Training Workshop 2026
-DTSTART:20261015T090000
-DTEND:20261016T170000
-DESCRIPTION:<strong>PLIDA in Practice - Using linked administrative data f
- or health\, disability and social policy research</strong>\n\nThe Person L
- evel Integrated Data Asset (<a href="https://www.abs.gov.au/statistics/dat
- a-integration/integrated-data/person-level-integrated-data-asset-plida" ta
- rget="_blank">PLIDA</a>) is one of Australia’s most important research a
- ssets. It offers major opportunities for health\, disability\, social poli
- cy and economics research\, but using it well requires a clear understandi
- ng of how the data is structured\, what the records measure\, how access a
- nd output rules work\, and how research questions can be translated into f
- easible DataLab projects.\n\nHosted by Monash Business School’s <a href=
- "https://www.monash.edu/business/che">Centre for Health Economics</a>\, th
- is short course is offered as two linked one-day workshops. Participants m
- ay register for either workshop or for both linked workshops. The two work
- shops are designed to be complementary\, with Day 1 providing a structured
-  understanding of PLIDA\, and Day 2 focusing on more applied aspects of wo
- rking with the asset.\n\nThe course is designed for analysts\, researchers
-  and policy professionals in government\, academia\, industry and the not-
- for-profit sector who use\, manage\, commission or are considering PLIDA-b
- ased research and evaluation projects.\n\nThe course will not involve live
-  access to PLIDA data. Instead\, it will use approved examples\, cleared o
- utputs and practical workflow guidance to build participants’ understand
- ing of how PLIDA can be used in practice.\n\nRegistrations\n\n<a class="bt
- n" href="https://events.humanitix.com/2026-plida-data-training-workshop">R
- egister here</a>\n\nData access\n\nNo existing PLIDA or DataLab access is 
- required. The course will not involve live analysis of PLIDA data.\n\nSoft
- ware\n\nThe course is not a hands-on coding workshop. Examples may refer t
- o analytical workflows\, but participants are not required to use a specif
- ic statistical package.\n\nFacilitators\n\n<a href="https://research.monas
- h.edu/en/persons/david-johnston/" target="_blank">Prof David Johnston</a>
- \, Centre for Health Economics\, Monash Business School\n\n<a href="https:
- //research.monash.edu/en/persons/nicole-black/" target="_blank">A/Prof Nic
- ole Black</a>\, Centre for Health Economics\, Monash Business School\n\n<a
-  href="https://research.monash.edu/en/persons/anh-trinh/" target="_blank">
- Dr Anh Trinh</a>\, Centre for Health Economics\, Monash Business School\n
- \n<a href="https://research.monash.edu/en/persons/francis-graham/" target=
- "_blank">Dr Francis Graham</a>\, Centre for Health Economics\, Monash Busi
- ness School\n\nWhat will you learn?\n\nBy the end of the course\, particip
- ants will have a stronger understanding of:\n\nWho should attend?\n\nThis 
- course is designed for people working in or alongside health\, disability 
- and social policymaking\, who want to use linked administrative data more 
- effectively. It will be particularly relevant for:\n\nThe course is suitab
- le for people who are new to PLIDA\, as well as those who have started wor
- king with the asset and want a clearer understanding of its structure\, in
- terpretation and practical use.\n\n<!-- false -->\n<div class="accordion n
- ested-accordion js-frontend-complex-accordion" id="Component-4420527" role
- ="tablist">\n<div class="hidden">\n<span class="hidden nested-accordion__e
- xpand-text">View</span>\n<span class="hidden nested-accordion__collapse_te
- xt">Close</span>\n</div>\n<section class="panel section1 Prerequisites-1 c
- lose">\n<h3 aria-controls="Prerequisites-1" aria-expanded="false" class="a
- ccTitle" data-click-event="monash.accordion.toggle" data-expanded-by-defau
- lt="false" data-position="1" data-title="Prerequisites" data-type="nested"
-  id="Prerequisites-1" role="tab">\n<span class="accTitle__text">Prerequisi
- tes</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTitle__t
- oggle" href="#Prerequisites-1" rel="1">\n<span class="accTitle__toggle-tex
- t">View</span>\n<span class="accTitle__toggle-arrow"><img alt="View" src="
- https://www.monash.edu/__data/assets/file/0011/2179901/arrow-outline-right
- .svg"/></span>\n</a>\n</span>\n</h3>\n<div aria-labelledby="Prerequisites-
- 1" class="accContent" role="tabpanel" style="display: none\;">\n<div class
- ="accContent__inner">\n<div class="accContent__wrapper">\n<div id="compone
- nt_4420503">\n<p>Participants should have some familiarity with quantitati
- ve research\, policy analysis or applied data analysis. Prior experience w
- ith PLIDA is not required.</p><p>Day 2’s workshop will be most useful fo
- r participants who are considering\, developing\, managing or already work
- ing on PLIDA-based projects. Coding experience is useful but not required.
- </p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section class="panel se
- ction2 Course_structure-2">\n<h3 aria-controls="Course_structure-2" aria-e
- xpanded="false" class="accTitle" data-click-event="monash.accordion.toggle
- " data-position="2" data-title="Course structure" data-type="nested" id="C
- ourse_structure-2" role="tab">\n<span class="accTitle__text">Course struct
- ure</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTitle__t
- oggle" href="#Course_structure-2" rel="2">\n<span class="accTitle__toggle-
- text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="View" sr
- c="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-outline-ri
- ght.svg"/></span>\n</a>\n</span>\n</h3>\n<div aria-labelledby="Course_stru
- cture-2" class="accContent" role="tabpanel" style="display: none\;">\n<div
-  class="accContent__inner">\n<div class="accContent__wrapper">\n<div class
- ="graphite-accordion-component">\n<!-- false -->\n<section aria-label="acc
- ordion-4420538">\n<div class="graphite-accordion" id="Component-4420538" s
- tyle="">\n<ul class="graphite-accordion__list">\n<li class="graphite-accor
- dion__item section1 Day_1_Understanding_PLIDA-1">\n<div style="scroll-marg
- in-top: 50px\;">\n<button aria-controls="Day_1_Understanding_PLIDA-1-conte
- nt" aria-expanded="false" class="graphite-accordion__button" data-expanded
- -by-default="false" id="Day_1_Understanding_PLIDA-1">\n                   
-                              Day 1: Understanding PLIDA\n                 
-                            </button>\n</div>\n<div aria-labelledby="Day_1_
- Understanding_PLIDA-1" class="graphite-accordion__content" data-landmark-i
- ndex="1" id="Day_1_Understanding_PLIDA-1-content" role="region" style="dis
- play: none\;">\n<h4>What is PLIDA?</h4><p>This session provides a factual 
- overview of PLIDA as a national linked administrative data asset. It will 
- cover the population base\, broad data domains\, modular structure\, longi
- tudinal coverage\, major source datasets and the general logic of linkage.
- </p><h4>Administrative data and measurement</h4><p>This session examines t
- he interpretation of administrative records for research and policy analys
- is. It will focus on what administrative data can and cannot measure\, inc
- luding distinctions between service use and need\, eligibility and receipt
- \, diagnosis and administrative classification\, treatment and payment rec
- ords\, and socioeconomic circumstances and administrative proxies.</p><h4>
- PLIDA for health and disability policy research</h4><p>This session uses r
- eal PLIDA outputs and applied examples to show what PLIDA can contribute t
- o health\, disability and social policy research. The session will focus o
- n how the data have been used in practice\, what kinds of questions they c
- an answer well\, and where their limitations become important.</p><h4>Acce
- ss governance and outputs</h4><p>This session explains the practical requi
- rements for undertaking a PLIDA project. It will cover project application
- s\, module requests\, data custodian approvals\, DataLab access\, costs\, 
- timelines\, researcher obligations\, safe use rules and output clearance r
- equirements.</p>\n</div>\n</li>\n<li class="graphite-accordion__item secti
- on2 Day_2_Working_with_PLIDA-2">\n<div style="scroll-margin-top: 50px\;">
- \n<button aria-controls="Day_2_Working_with_PLIDA-2-content" aria-expanded
- ="false" class="graphite-accordion__button" id="Day_2_Working_with_PLIDA-2
- ">\n                                                Day 2: Working with PL
- IDA\n                                            </button>\n</div>\n<div a
- ria-labelledby="Day_2_Working_with_PLIDA-2" class="graphite-accordion__con
- tent" data-landmark-index="2" id="Day_2_Working_with_PLIDA-2-content" role
- ="region" style="display: none\;">\n<h4>PLIDA data architecture</h4><p>Thi
- s session provides a more technical overview of how PLIDA is structured fo
- r analysis. It will cover the spine\, linkage keys\, module-specific ident
- ifiers\, person-level and event-level records\, time dimensions\, geograph
- ic information\, update cycles and the implications of these structures fo
- r project design.</p><h4>Health and disability modules</h4><p>This session
-  focuses on the main health and disability-related records available throu
- gh PLIDA\, including MBS\, PBS and NDIS data. It will cover module structu
- re\, file organisation\, coding systems\, coverage\, timing\, documentatio
- n and common interpretation issues specific to these records.</p><h4>Desig
- ning PLIDA analysis files</h4><p>This session puts the preceding material 
- into practice by working through examples of how research and policy quest
- ions can be translated into PLIDA analysis files. It will cover choices ab
- out study populations\, observation periods\, event records\, person-level
-  summaries\, longitudinal structure\, and documentation of key decisions. 
- The session may include worked examples and project-based discussion to he
- lp participants think through how research questions can be implemented us
- ing PLIDA.</p><h4>Practical PLIDA workflows</h4><p>This session brings tog
- ether practical guidance for working efficiently and reliably in DataLab. 
- It will cover the PLIDA Modular Product Portal\, data dictionaries\, share
- d DataLab resources\, large-file management\, use of subsamples while deve
- loping code\, storage and memory constraints\, reproducible workflows\, qu
- ality checks\, output preparation\, clearance documentation and common mis
- takes to avoid.</p>\n</div>\n</li>\n</ul>\n</div>\n</section>\n<!-- No ite
- ms found under root_nodes  -->\n</div>\n</div>\n</div>\n</div>\n</section>
- \n<section class="panel section3 Program-3">\n<h3 aria-controls="Program-3
- " aria-expanded="false" class="accTitle" data-click-event="monash.accordio
- n.toggle" data-position="3" data-title="Program" data-type="nested" id="Pr
- ogram-3" role="tab">\n<span class="accTitle__text">Program</span>\n<span c
- lass="accTitle__toggle-wrapper">\n<a class="accTitle__toggle" href="#Progr
- am-3" rel="3">\n<span class="accTitle__toggle-text">View</span>\n<span cla
- ss="accTitle__toggle-arrow"><img alt="View" src="https://www.monash.edu/__
- data/assets/file/0011/2179901/arrow-outline-right.svg"/></span>\n</a>\n</s
- pan>\n</h3>\n<div aria-labelledby="Program-3" class="accContent" role="tab
- panel" style="display: none\;">\n<div class="accContent__inner">\n<div cla
- ss="accContent__wrapper">\n<div id="component_4420523">\n<p>The full event
-  program will be released closer to the time. Kindly note timings may chan
- ge.</p><h4>Thursday 15 October 2026</h4><p>9.00am – Arrival tea and coff
- ee / Registration<br/>9.30am – Workshop commences<br/>5.00pm – Worksho
- p concludes</p><h4>Friday 16 October 2026</h4><p>9.00am – Arrival tea an
- d coffee / Registration<br/>9.30am – Workshop commences<br/>5.00pm – W
- orkshop concludes</p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>
- \n<script>\nwindow.addEventListener('DOMContentLoaded'\, function() {\n\n 
-        var LIB_CHECK_OBJECT_EXISTS = 'CHECK_OBJECT_EXISTS'\,\n            
- LIB_CHECK_ELEMENT_EXISTS = 'CHECK_ELEMENT_EXISTS'\,\n            scriptIDP
- refix = 'js-frontend-template-script--'\,\n            postLoadScripts = [
- \n                {\n                    check:      LIB_CHECK_ELEMENT_EXI
- STS\,\n                    checkValue: scriptIDPrefix + 'page-filter'\,\n 
-                    isRequired: $('.js-frontend-page-filter').length ? true
-  : false\,\n                    id:         scriptIDPrefix + 'page-filter'
- \,\n                    url:        'https://www.monash.edu/__data/assets/
- js_file_folder/0006/2019840/page_filter_basic.min.js?v=0.2.0'\n           
-      }\,\n                {\n                    check:      LIB_CHECK_ELE
- MENT_EXISTS\,\n                    checkValue: scriptIDPrefix + 'page-filt
- er-logic'\,\n                    isRequired: $('.js-frontend-page-filter')
- .length ? true : false\,\n                    id:         scriptIDPrefix +
-  'page-filter-logic'\,\n                    url:        './?a=?v='\n      
-           }\,\n                {\n                    check:      LIB_CHEC
- K_ELEMENT_EXISTS\,\n                    checkValue: scriptIDPrefix + 'comp
- lex-accordion'\,\n                    isRequired: $('.js-frontend-complex-
- accordion').length ? true : false\,\n                    id:         scrip
- tIDPrefix + 'complex-accordion'\,\n                    url:        'https:
- //www.monash.edu/__data/assets/js_file/0003/2180262/complex-accordion-fron
- tend.js?v=0.4.0'\n                }\,\n                {\n                
-     check:      LIB_CHECK_ELEMENT_EXISTS\,\n                    checkValue
- : scriptIDPrefix + 'complex-accordion'\,\n                    isRequired: 
- $('.js-frontend-complex-accordion').length ? true : false\,\n             
-        id:         scriptIDPrefix + 'complex-accordion'\,\n               
-      url:        'https://www.monash.edu/__data/assets/js_file/0003/218026
- 2/complex-accordion-frontend.js?v=0.4.0'\n                }\n            ]
- \,\n            styleIDPrefix = 'js-frontend-template-style--'\,\n        
-     \n            postLoadStyles = [\n                {\n                 
-    check:      LIB_CHECK_ELEMENT_EXISTS\,\n                    checkValue:
-  styleIDPrefix + 'page-filter'\,\n                    isRequired: $('.js-f
- rontend-page-filter').length ? true : false\,\n                    id:    
-      styleIDPrefix + 'page-filter'\,\n                    url:        'htt
- ps://www.monash.edu/__data/assets/css_file/0011/2023031/page-filter-templa
- te.css?v=0.1.5'\n                }\,\n                {\n                 
-    check:      LIB_CHECK_ELEMENT_EXISTS\,\n                    checkValue:
-  styleIDPrefix + 'complex-accordion'\,\n                    isRequired: $(
- '.js-frontend-complex-accordion').length ? true : false\,\n               
-      id:         styleIDPrefix + 'complex-accordion'\,\n                  
-   url:        'https://www.monash.edu/__data/assets/css_file/0005/2180264/
- complex-accordion-frontend.css?v=0.2.2'\n                }\n            ]
- \;\n\n        var elementExists = function(check\, checkValue) {\n        
-     if (check === LIB_CHECK_OBJECT_EXISTS) {\n                return typeo
- f checkValue !== 'undefined'\;\n            }\n            if (check === L
- IB_CHECK_ELEMENT_EXISTS) {\n                return document.getElementById
- (checkValue)\;\n            }\n        }\;\n\n        // Load script libra
- ries after DOM ready\n        postLoadScripts.forEach(function(scriptLibra
- ry) {\n            if (scriptLibrary.isRequired && !elementExists(scriptLi
- brary.check\, scriptLibrary.checkValue)) {\n                var injectedSc
- ript = document.createElement('script')\;\n                injectedScript.
- type = 'text/javascript'\;\n                injectedScript.id = scriptLibr
- ary.id\;\n                injectedScript.src = scriptLibrary.url\;\n      
-           injectedScript.async = false\;\n                $('body').append
- (injectedScript)\;\n            }\n        })\;\n\n\n        // Load style
-  libraries after DOM ready\n        postLoadStyles.forEach(function(styleL
- ibrary) {\n            if (styleLibrary.isRequired && !elementExists(style
- Library.check\, styleLibrary.checkValue)) {\n                var injectedS
- tyle = document.createElement('link')\;\n                injectedStyle.typ
- e = 'text/css'\;\n                injectedStyle.rel = 'stylesheet'\;\n    
-             injectedStyle.id = styleLibrary.id\;\n                injected
- Style.href = styleLibrary.url\;\n                $('body').append(injected
- Style)\;\n            }\n        })\;\n\n    })\;\n    \n    /*\n// Fix mo
- bile with re-initing the plugin.\ndocument.addEventListener('DOMContentLoa
- ded'\, function() {\n  const container = document.getElementById('filter-c
- ontainer')\;\n\n  function updateIsotopeLayout() {\n    if (container) {\n
-       // Assuming Isotope is globally available and initialized\n      Iso
- tope.data(container).layout()\;\n      //console.log('Isotope layout updat
- ed')\;\n    }\n  }\n\n  function debounce(fn\, delay) {\n    let timeoutID
- \;\n    return function() {\n      clearTimeout(timeoutID)\;\n      timeou
- tID = setTimeout(() => fn.apply(this\, arguments)\, delay)\;\n    }\;\n  }
- \n\n  const debouncedUpdateIsotopeLayout = debounce(updateIsotopeLayout\, 
- 500)\;\n\n  // Attach the load event to images\n  const images = container
- .querySelectorAll('img')\;\n  images.forEach(function(img) {\n    img.addE
- ventListener('load'\, function() {\n      debouncedUpdateIsotopeLayout()\;
- \n    })\;\n\n    // Handle already loaded images (from cache)\n    if (im
- g.complete) {\n      debouncedUpdateIsotopeLayout()\;\n    }\n  })\;\n\n})
- \;\n*/\n\n\n</script>\n\n<span class="accTitle__text">Prerequisites</span>
- \n<span class="accTitle__toggle-wrapper">\n<a class="accTitle__toggle" hre
- f="#Prerequisites-1" rel="1">\n<span class="accTitle__toggle-text">View</s
- pan>\n<span class="accTitle__toggle-arrow"><img alt="View" src="https://ww
- w.monash.edu/__data/assets/file/0011/2179901/arrow-outline-right.svg"/></s
- pan>\n</a>\n</span>\n\nParticipants should have some familiarity with quan
- titative research\, policy analysis or applied data analysis. Prior experi
- ence with PLIDA is not required.\n\nDay 2’s workshop will be most useful
-  for participants who are considering\, developing\, managing or already w
- orking on PLIDA-based projects. Coding experience is useful but not requir
- ed.\n\n<span class="accTitle__text">Course structure</span>\n<span class="
- accTitle__toggle-wrapper">\n<a class="accTitle__toggle" href="#Course_stru
- cture-2" rel="2">\n<span class="accTitle__toggle-text">View</span>\n<span 
- class="accTitle__toggle-arrow"><img alt="View" src="https://www.monash.edu
- /__data/assets/file/0011/2179901/arrow-outline-right.svg"/></span>\n</a>\n
- </span>\n\nThis session provides a factual overview of PLIDA as a national
-  linked administrative data asset. It will cover the population base\, bro
- ad data domains\, modular structure\, longitudinal coverage\, major source
-  datasets and the general logic of linkage.\n\nThis session examines the i
- nterpretation of administrative records for research and policy analysis. 
- It will focus on what administrative data can and cannot measure\, includi
- ng distinctions between service use and need\, eligibility and receipt\, d
- iagnosis and administrative classification\, treatment and payment records
- \, and socioeconomic circumstances and administrative proxies.\n\nThis ses
- sion uses real PLIDA outputs and applied examples to show what PLIDA can c
- ontribute to health\, disability and social policy research. The session w
- ill focus on how the data have been used in practice\, what kinds of quest
- ions they can answer well\, and where their limitations become important.
- \n\nThis session explains the practical requirements for undertaking a PLI
- DA project. It will cover project applications\, module requests\, data cu
- stodian approvals\, DataLab access\, costs\, timelines\, researcher obliga
- tions\, safe use rules and output clearance requirements.\n\nThis session 
- provides a more technical overview of how PLIDA is structured for analysis
- . It will cover the spine\, linkage keys\, module-specific identifiers\, p
- erson-level and event-level records\, time dimensions\, geographic informa
- tion\, update cycles and the implications of these structures for project 
- design.\n\nThis session focuses on the main health and disability-related 
- records available through PLIDA\, including MBS\, PBS and NDIS data. It wi
- ll cover module structure\, file organisation\, coding systems\, coverage
- \, timing\, documentation and common interpretation issues specific to the
- se records.\n\nThis session puts the preceding material into practice by w
- orking through examples of how research and policy questions can be transl
- ated into PLIDA analysis files. It will cover choices about study populati
- ons\, observation periods\, event records\, person-level summaries\, longi
- tudinal structure\, and documentation of key decisions. The session may in
- clude worked examples and project-based discussion to help participants th
- ink through how research questions can be implemented using PLIDA.\n\nThis
-  session brings together practical guidance for working efficiently and re
- liably in DataLab. It will cover the PLIDA Modular Product Portal\, data d
- ictionaries\, shared DataLab resources\, large-file management\, use of su
- bsamples while developing code\, storage and memory constraints\, reproduc
- ible workflows\, quality checks\, output preparation\, clearance documenta
- tion and common mistakes to avoid.\n\n<span class="accTitle__text">Program
- </span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTitle__togg
- le" href="#Program-3" rel="3">\n<span class="accTitle__toggle-text">View</
- span>\n<span class="accTitle__toggle-arrow"><img alt="View" src="https://w
- ww.monash.edu/__data/assets/file/0011/2179901/arrow-outline-right.svg"/></
- span>\n</a>\n</span>\n\nThe full event program will be released closer to 
- the time. Kindly note timings may change.\n\n9.00am – Arrival tea and co
- ffee / Registration<br/>9.30am – Workshop commences<br/>5.00pm – Works
- hop concludes\n\n9.00am – Arrival tea and coffee / Registration<br/>9.30
- am – Workshop commences<br/>5.00pm – Workshop concludes\n\nEnquiries\n
- \nPlease email any enquiries about the PLIDA workshops to Professor David 
- Johnston\, Centre for Health Economics\, Monash Business School\, via <a h
- ref="mailto:david.johnston@monash.edu">david.johnston@monash.edu</a>
-LOCATION:Monash College\, Room 843\, Level 8\, 750 Collins Street\, Dockla
- nds VIC 3008
-URL:https://www.monash.edu/business/events/plida-data-training-workshop-20
- 26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:16th Australasian Workshop on Econometrics and Health Economics
-DTSTART:20270331T120000
-DTEND:20270402T130000
+SUMMARY:15th Australasian Workshop on Econometrics and Health Economics
+DTSTART:20260415T123000
+DTEND:20260417T123000
 DESCRIPTION:This workshop will provide a forum for the development and dis
  semination of applications of econometrics and other quantitative approach
  es in health economics. It will follow the format of the long-running Euro
  pean workshops on econometrics and health economics.\n\nWe are now calling
   for papers for presentation\, with up to 14 papers to be accepted. Presen
- tations by doctoral students and early career researchers are encouraged.
- \n\nPapers accepted for presentation will each be allocated 50 minutes\, i
- ncluding 30 minutes for the author’s presentation\, 10 minutes for an ap
- pointed discussant and 10 minutes for general discussion.\n\nThe number of
-  workshop participants is strictly limited and participants will be expect
- ed to attend the full workshop. <br/>Please see the drop-down below for mo
- re information on papers\, including the submission deadline.\n\nKeynote S
- peakers\n\n<!-- false -->\n<div class="accordion nested-accordion js-front
- end-complex-accordion" id="Component-4429809" role="tablist">\n<div class=
- "hidden">\n<span class="hidden nested-accordion__expand-text">View</span>
- \n<span class="hidden nested-accordion__collapse_text">Close</span>\n</div
- >\n<section class="panel section1 Paper_submissions-1 close">\n<h3 aria-co
- ntrols="Paper_submissions-1" aria-expanded="false" class="accTitle" data-c
- lick-event="monash.accordion.toggle" data-expanded-by-default="false" data
- -position="1" data-title="Paper submissions" data-type="nested" id="Paper_
- submissions-1" role="tab">\n<span class="accTitle__icon"><svg><use href="h
- ttps://www.monash.edu/__data/assets/git_bridge/0009/2651868/dist/assets/im
- ages/icon-spritesheet.svg?h=00fceca7#copy"></use></svg></span>\n<span clas
- s="accTitle__text">Paper submissions</span>\n<span class="accTitle__toggle
- -wrapper">\n<a class="accTitle__toggle" href="#Paper_submissions-1" rel="1
- ">\n<span class="accTitle__toggle-text">View</span>\n<span class="accTitle
- __toggle-arrow"><img alt="View" src="https://www.monash.edu/__data/assets/
- file/0011/2179901/arrow-outline-right.svg"/></span>\n</a>\n</span>\n</h3>
- \n<div aria-labelledby="Paper_submissions-1" class="accContent" role="tabp
- anel" style="display: none\;">\n<div class="accContent__inner">\n<div clas
- s="accContent__wrapper">\n<div id="component_4429813">\n<p>Please submit a
-  full draft of the paper OR a 1000-word (minimum) abstract by <strong>18 D
- ecember 2026</strong>.</p><h3>Abstract criteria</h3><p>If sending an abstr
- act\, it should be structured to include <strong>details of the aims</stro
- ng>\, the <strong>econometric methods used</strong> (in the past some abst
- racts have not contained econometric detail so we have been unable to prop
- erly assess them)\, and <strong>results</strong>.</p><p>Results should be 
- included even if they are preliminary. Abstracts containing no results or 
- no details of the econometric methods will be less likely to be accepted.<
- /p><p>Abstracts and papers will be judged primarily on the quality of thei
- r econometrics content. We strongly encourage presentation and discussion 
- of work in progress. Papers already submitted to or accepted by journals a
- re discouraged.</p><h3>Fees for invited participants</h3><div>Those invite
- d to participate will be asked to pay the registration fee in February 202
- 7.</div><ul><li>Full registration: AU$650</li><li>PhD students: AU$250</li
- ><li>Low and middle income countries: AU$300*</li></ul><p>*A citizen resid
- ing in a country on the <a href="https://datahelpdesk.worldbank.org/knowle
- dgebase/articles/906519-world-bank-country-and-lending-groups">World Bank 
- list</a> of low and middle income countries.</p><h4>Inclusions</h4><ul><li
-  aria-level="1" style="list-style-type:disc">Two nights' accommodation at 
- Q Station on Wednesday 31st and Thursday 1st of April.</li><li aria-level=
- "1" style="list-style-type:disc">All meals from lunch on Wednesday 31st to
-  lunch on Friday 2nd of April.</li></ul><p>For additional nights\, you wil
- l need to organise them with the hotel directly.</p><h3>Submissions and re
- gistering your interest to attend</h3><p>Electronic submission of papers i
- s required and can be uploaded using the link below. When submitting\, you
-  will be able to choose whether you would like to present a paper\, discus
- s a paper or chair a session.</p><p><a class="btn" href="https://monash.sy
- d1.qualtrics.com/jfe/form/SV_4Myq5yKm0nwOjIy" target="_blank">Submit your 
- paper</a></p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n<script
- >\nwindow.addEventListener('DOMContentLoaded'\, function() {\n\n        va
- r LIB_CHECK_OBJECT_EXISTS = 'CHECK_OBJECT_EXISTS'\,\n            LIB_CHECK
- _ELEMENT_EXISTS = 'CHECK_ELEMENT_EXISTS'\,\n            scriptIDPrefix = '
- js-frontend-template-script--'\,\n            postLoadScripts = [\n       
-          {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n  
-                   checkValue: scriptIDPrefix + 'page-filter'\,\n          
-           isRequired: $('.js-frontend-page-filter').length ? true : false
- \,\n                    id:         scriptIDPrefix + 'page-filter'\,\n    
-                 url:        'https://www.monash.edu/__data/assets/js_file_
- folder/0006/2019840/page_filter_basic.min.js?v=0.2.0'\n                }\,
- \n                {\n                    check:      LIB_CHECK_ELEMENT_EXI
- STS\,\n                    checkValue: scriptIDPrefix + 'page-filter-logic
- '\,\n                    isRequired: $('.js-frontend-page-filter').length 
- ? true : false\,\n                    id:         scriptIDPrefix + 'page-f
- ilter-logic'\,\n                    url:        './?a=?v='\n              
-   }\,\n                {\n                    check:      LIB_CHECK_ELEMEN
- T_EXISTS\,\n                    checkValue: scriptIDPrefix + 'complex-acco
- rdion'\,\n                    isRequired: $('.js-frontend-complex-accordio
- n').length ? true : false\,\n                    id:         scriptIDPrefi
- x + 'complex-accordion'\,\n                    url:        'https://www.mo
- nash.edu/__data/assets/js_file/0003/2180262/complex-accordion-frontend.js?
- v=0.4.0'\n                }\,\n                {\n                    chec
- k:      LIB_CHECK_ELEMENT_EXISTS\,\n                    checkValue: script
- IDPrefix + 'complex-accordion'\,\n                    isRequired: $('.js-f
- rontend-complex-accordion').length ? true : false\,\n                    i
- d:         scriptIDPrefix + 'complex-accordion'\,\n                    url
- :        'https://www.monash.edu/__data/assets/js_file/0003/2180262/comple
- x-accordion-frontend.js?v=0.4.0'\n                }\n            ]\,\n    
-         styleIDPrefix = 'js-frontend-template-style--'\,\n            \n  
-           postLoadStyles = [\n                {\n                    check
- :      LIB_CHECK_ELEMENT_EXISTS\,\n                    checkValue: styleID
- Prefix + 'page-filter'\,\n                    isRequired: $('.js-frontend-
- page-filter').length ? true : false\,\n                    id:         sty
- leIDPrefix + 'page-filter'\,\n                    url:        'https://www
- .monash.edu/__data/assets/css_file/0011/2023031/page-filter-template.css?v
- =0.1.5'\n                }\,\n                {\n                    check
- :      LIB_CHECK_ELEMENT_EXISTS\,\n                    checkValue: styleID
- Prefix + 'complex-accordion'\,\n                    isRequired: $('.js-fro
- ntend-complex-accordion').length ? true : false\,\n                    id:
-          styleIDPrefix + 'complex-accordion'\,\n                    url:  
-       'https://www.monash.edu/__data/assets/css_file/0005/2180264/complex-
- accordion-frontend.css?v=0.2.2'\n                }\n            ]\;\n\n   
-      var elementExists = function(check\, checkValue) {\n            if (c
- heck === LIB_CHECK_OBJECT_EXISTS) {\n                return typeof checkVa
- lue !== 'undefined'\;\n            }\n            if (check === LIB_CHECK_
- ELEMENT_EXISTS) {\n                return document.getElementById(checkVal
- ue)\;\n            }\n        }\;\n\n        // Load script libraries afte
- r DOM ready\n        postLoadScripts.forEach(function(scriptLibrary) {\n  
-           if (scriptLibrary.isRequired && !elementExists(scriptLibrary.che
- ck\, scriptLibrary.checkValue)) {\n                var injectedScript = do
- cument.createElement('script')\;\n                injectedScript.type = 't
- ext/javascript'\;\n                injectedScript.id = scriptLibrary.id\;
- \n                injectedScript.src = scriptLibrary.url\;\n              
-   injectedScript.async = false\;\n                $('body').append(injecte
- dScript)\;\n            }\n        })\;\n\n\n        // Load style librari
- es after DOM ready\n        postLoadStyles.forEach(function(styleLibrary) 
- {\n            if (styleLibrary.isRequired && !elementExists(styleLibrary.
- check\, styleLibrary.checkValue)) {\n                var injectedStyle = d
- ocument.createElement('link')\;\n                injectedStyle.type = 'tex
- t/css'\;\n                injectedStyle.rel = 'stylesheet'\;\n            
-     injectedStyle.id = styleLibrary.id\;\n                injectedStyle.hr
- ef = styleLibrary.url\;\n                $('body').append(injectedStyle)\;
- \n            }\n        })\;\n\n    })\;\n    \n    /*\n// Fix mobile wit
- h re-initing the plugin.\ndocument.addEventListener('DOMContentLoaded'\, f
- unction() {\n  const container = document.getElementById('filter-container
- ')\;\n\n  function updateIsotopeLayout() {\n    if (container) {\n      //
-  Assuming Isotope is globally available and initialized\n      Isotope.dat
- a(container).layout()\;\n      //console.log('Isotope layout updated')\;\n
-     }\n  }\n\n  function debounce(fn\, delay) {\n    let timeoutID\;\n    
- return function() {\n      clearTimeout(timeoutID)\;\n      timeoutID = se
- tTimeout(() => fn.apply(this\, arguments)\, delay)\;\n    }\;\n  }\n\n  co
- nst debouncedUpdateIsotopeLayout = debounce(updateIsotopeLayout\, 500)\;\n
- \n  // Attach the load event to images\n  const images = container.querySe
- lectorAll('img')\;\n  images.forEach(function(img) {\n    img.addEventList
- ener('load'\, function() {\n      debouncedUpdateIsotopeLayout()\;\n    })
- \;\n\n    // Handle already loaded images (from cache)\n    if (img.comple
- te) {\n      debouncedUpdateIsotopeLayout()\;\n    }\n  })\;\n\n})\;\n*/\n
- \n\n</script>\n\n<span class="accTitle__icon"><svg><use href="https://www.
- monash.edu/__data/assets/git_bridge/0009/2651868/dist/assets/images/icon-s
- pritesheet.svg?h=00fceca7#copy"></use></svg></span>\n<span class="accTitle
- __text">Paper submissions</span>\n<span class="accTitle__toggle-wrapper">
- \n<a class="accTitle__toggle" href="#Paper_submissions-1" rel="1">\n<span 
- class="accTitle__toggle-text">View</span>\n<span class="accTitle__toggle-a
- rrow"><img alt="View" src="https://www.monash.edu/__data/assets/file/0011/
- 2179901/arrow-outline-right.svg"/></span>\n</a>\n</span>\n\nPlease submit 
- a full draft of the paper OR a 1000-word (minimum) abstract by <strong>18 
- December 2026</strong>.\n\nAbstract criteria\n\nIf sending an abstract\, i
- t should be structured to include <strong>details of the aims</strong>\, t
- he <strong>econometric methods used</strong> (in the past some abstracts h
- ave not contained econometric detail so we have been unable to properly as
- sess them)\, and <strong>results</strong>.\n\nResults should be included e
- ven if they are preliminary. Abstracts containing no results or no details
-  of the econometric methods will be less likely to be accepted.\n\nAbstrac
- ts and papers will be judged primarily on the quality of their econometric
- s content. We strongly encourage presentation and discussion of work in pr
- ogress. Papers already submitted to or accepted by journals are discourage
- d.\n\nFees for invited participants\n\n*A citizen residing in a country on
-  the <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/90
- 6519-world-bank-country-and-lending-groups">World Bank list</a> of low and
-  middle income countries.\n\nFor additional nights\, you will need to orga
- nise them with the hotel directly.\n\nSubmissions and registering your int
- erest to attend\n\nElectronic submission of papers is required and can be 
- uploaded using the link below. When submitting\, you will be able to choos
- e whether you would like to present a paper\, discuss a paper or chair a s
- ession.\n\n<a class="btn" href="https://monash.syd1.qualtrics.com/jfe/form
- /SV_4Myq5yKm0nwOjIy" target="_blank">Submit your paper</a>\n\nSponsors\n\n
- Organisers\n\n<a href="https://research.monash.edu/en/persons/anthony-scot
- t">Prof Anthony Scott</a>\, Director\, Centre for Health Economics\, Monas
- h Business School\n\n<a href="https://www.stefanie-schurer.com/" target="_
- blank">Prof Stefanie Schurer</a>\, School of Economics\, University of Syd
- ney\n\n<a href="https://research.monash.edu/en/persons/johannes-kunz">Dr J
- ohannes Kunz</a>\, Centre for Health Economics\, Monash Business School\n
- \n<a href="https://research.monash.edu/en/persons/michael-shields/">Prof M
- ichael Shields</a>\, Centre for Health Economics\, Monash Business School
- \n\nEnquiries\n\nFor any enquiries regarding the workshop\, please contact
-  Aryan Rohanian at <a href="mailto:che_support@monash.edu">che_support@m
- onash.edu</a>
-LOCATION:QStation\, 1 North Head Scenic Drive\, Manly NSW 2095
-URL:https://www.monash.edu/business/events/16th-australasian-workshop-on-e
+ tations by doctoral students and early career researchers are encouraged.\
+ n\nPapers accepted for presentation will each be allocated a 55-minute ses
+ sion\, including 30 minutes for a presentation\, 10 minutes for an appoint
+ ed discussant and 10 minutes for general discussion.\n\nThe number of work
+ shop participants is strictly limited\, and participants will be expected 
+ to attend the full workshop.\n\nPlease see the drop-down below for more in
+ formation on papers\, including the submission deadline.\n\n<!-- false -->
+ \n<div class="accordion nested-accordion js-frontend-complex-accordion" id
+ ="Component-4158062" role="tablist">\n<div class="hidden">\n<span class="h
+ idden nested-accordion__expand-text">View</span>\n<span class="hidden nest
+ ed-accordion__collapse_text">Close</span>\n</div>\n<section class="panel s
+ ection1 Paper_submissions-1 close">\n<h3 aria-controls="Paper_submissions-
+ 1" aria-expanded="false" class="accTitle" data-click-event="monash.accordi
+ on.toggle" data-expanded-by-default="false" data-position="1" data-title="
+ Paper submissions" data-type="nested" id="Paper_submissions-1" role="tab">
+ \n<span class="accTitle__icon"><svg><use href="https://www.monash.edu/__da
+ ta/assets/git_bridge/0009/2651868/dist/assets/images/icon-spritesheet.svg?
+ h=1d3ca15#copy"></use></svg></span>\n<span class="accTitle__text">Paper su
+ bmissions</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTi
+ tle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="accTitle__
+ toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="V
+ iew" src="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-out
+ line-right.svg"/></span>\n</a>\n</span>\n</h3>\n<div aria-labelledby="Pape
+ r_submissions-1" class="accContent" role="tabpanel" style="display: none\;
+ ">\n<div class="accContent__inner">\n<div class="accContent__wrapper">\n<d
+ iv id="component_4157933">\n<p>Please submit a full draft of the paper OR 
+ a 1000-word (minimum) abstract by <strong>19 December 2025</strong>.</p><h
+ 3>Abstract criteria</h3><p>If sending an abstract\, it should be structure
+ d to include <strong>details of the aims</strong>\, the <strong>econometri
+ c methods used</strong> (in the past some abstracts have not contained eco
+ nometric detail so we have been unable to properly assess them)\, and <str
+ ong>results</strong>.</p><p>Results should be included even if they are pr
+ eliminary. Abstracts containing no results or no details of the econometri
+ c methods will be less likely to be accepted.</p><p>Abstracts and papers w
+ ill be judged primarily on the quality of their econometrics content. We s
+ trongly encourage presentation and discussion of work in progress.</p><h3>
+ Fees for invited participants</h3><div>Those invited to participate will b
+ e asked to pay the registration fee in February 2026.</div><ul><li>Full re
+ gistration: AU$600</li><li>PhD students: AU$250</li><li>Low and middle inc
+ ome countries: AU$300*</li></ul><p>*A citizen residing in a country on the
+  <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519
+ -world-bank-country-and-lending-groups">World Bank list</a> of low and mid
+ dle income countries.</p><h4>Inclusions</h4><ul><li>Two nights' accommodat
+ ion on Wednesday 15th and Thursday 16th of April</li><li>All meals from lu
+ nch on Wednesday 15th to lunch on the Friday 17th of April</li></ul><p>For
+  additional nights\, you will need to organise them with the hotel directl
+ y.</p><h3>Submissions</h3><p>Electronic submission of papers is required a
+ nd can be uploaded using the link below. When submitting you will be able 
+ to choose whether you would like to present a paper\, discuss a paper or c
+ hair a session.</p><p><a class="btn" href="https://monash.az1.qualtrics.co
+ m/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your paper</a></p>\n
+ </div>\n</div>\n</div>\n</div>\n</section>\n</div>\n<script>\nwindow.addEv
+ entListener('DOMContentLoaded'\, function() {\n\n        var LIB_CHECK_OBJ
+ ECT_EXISTS = 'CHECK_OBJECT_EXISTS'\,\n            LIB_CHECK_ELEMENT_EXISTS
+  = 'CHECK_ELEMENT_EXISTS'\,\n            scriptIDPrefix = 'js-frontend-tem
+ plate-script--'\,\n            postLoadScripts = [\n                {\n   
+                  check:      LIB_CHECK_ELEMENT_EXISTS\,\n                 
+    checkValue: scriptIDPrefix + 'page-filter'\,\n                    isReq
+ uired: $('.js-frontend-page-filter').length ? true : false\,\n            
+         id:         scriptIDPrefix + 'page-filter'\,\n                    
+ url:        'https://www.monash.edu/__data/assets/js_file_folder/0006/2019
+ 840/page_filter_basic.min.js?v=0.2.0'\n                }\,\n              
+   {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n         
+            checkValue: scriptIDPrefix + 'page-filter-logic'\,\n           
+          isRequired: $('.js-frontend-page-filter').length ? true : false\,
+ \n                    id:         scriptIDPrefix + 'page-filter-logic'\,\n
+                     url:        './?a=?v='\n                }\,\n         
+        {\n                    check:      LIB_CHECK_ELEMENT_EXISTS\,\n    
+                 checkValue: scriptIDPrefix + 'complex-accordion'\,\n      
+               isRequired: $('.js-frontend-complex-accordion').length ? tru
+ e : false\,\n                    id:         scriptIDPrefix + 'complex-acc
+ ordion'\,\n                    url:        'https://www.monash.edu/__data/
+ assets/js_file/0003/2180262/complex-accordion-frontend.js?v=0.1.60'\n     
+            }\,\n                {\n                    check:      LIB_CHE
+ CK_ELEMENT_EXISTS\,\n                    checkValue: scriptIDPrefix + 'com
+ plex-accordion'\,\n                    isRequired: $('.js-frontend-complex
+ -accordion').length ? true : false\,\n                    id:         scri
+ ptIDPrefix + 'complex-accordion'\,\n                    url:        'https
+ ://www.monash.edu/__data/assets/js_file/0003/2180262/complex-accordion-fro
+ ntend.js?v=0.1.60'\n                }\n            ]\,\n            styleI
+ DPrefix = 'js-frontend-template-style--'\,\n            \n            post
+ LoadStyles = [\n                {\n                    check:      LIB_CHE
+ CK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPrefix + 'page
+ -filter'\,\n                    isRequired: $('.js-frontend-page-filter').
+ length ? true : false\,\n                    id:         styleIDPrefix + '
+ page-filter'\,\n                    url:        'https://www.monash.edu/__
+ data/assets/css_file/0011/2023031/page-filter-template.css?v=0.1.5'\n     
+            }\,\n                {\n                    check:      LIB_CHE
+ CK_ELEMENT_EXISTS\,\n                    checkValue: styleIDPrefix + 'comp
+ lex-accordion'\,\n                    isRequired: $('.js-frontend-complex-
+ accordion').length ? true : false\,\n                    id:         style
+ IDPrefix + 'complex-accordion'\,\n                    url:        'https:/
+ /www.monash.edu/__data/assets/css_file/0005/2180264/complex-accordion-fron
+ tend.css?v=0.2.2'\n                }\n            ]\;\n\n        var eleme
+ ntExists = function(check\, checkValue) {\n            if (check === LIB_C
+ HECK_OBJECT_EXISTS) {\n                return typeof checkValue !== 'undef
+ ined'\;\n            }\n            if (check === LIB_CHECK_ELEMENT_EXISTS
+ ) {\n                return document.getElementById(checkValue)\;\n       
+      }\n        }\;\n\n        // Load script libraries after DOM ready\n 
+        postLoadScripts.forEach(function(scriptLibrary) {\n            if (
+ scriptLibrary.isRequired && !elementExists(scriptLibrary.check\, scriptLib
+ rary.checkValue)) {\n                var injectedScript = document.createE
+ lement('script')\;\n                injectedScript.type = 'text/javascript
+ '\;\n                injectedScript.id = scriptLibrary.id\;\n             
+    injectedScript.src = scriptLibrary.url\;\n                injectedScrip
+ t.async = false\;\n                $('body').append(injectedScript)\;\n   
+          }\n        })\;\n\n\n        // Load style libraries after DOM re
+ ady\n        postLoadStyles.forEach(function(styleLibrary) {\n            
+ if (styleLibrary.isRequired && !elementExists(styleLibrary.check\, styleLi
+ brary.checkValue)) {\n                var injectedStyle = document.createE
+ lement('link')\;\n                injectedStyle.type = 'text/css'\;\n     
+            injectedStyle.rel = 'stylesheet'\;\n                injectedSty
+ le.id = styleLibrary.id\;\n                injectedStyle.href = styleLibra
+ ry.url\;\n                $('body').append(injectedStyle)\;\n            }
+ \n        })\;\n\n    })\;\n    \n    /*\n// Fix mobile with re-initing th
+ e plugin.\ndocument.addEventListener('DOMContentLoaded'\, function() {\n  
+ const container = document.getElementById('filter-container')\;\n\n  funct
+ ion updateIsotopeLayout() {\n    if (container) {\n      // Assuming Isoto
+ pe is globally available and initialized\n      Isotope.data(container).la
+ yout()\;\n      //console.log('Isotope layout updated')\;\n    }\n  }\n\n 
+  function debounce(fn\, delay) {\n    let timeoutID\;\n    return function
+ () {\n      clearTimeout(timeoutID)\;\n      timeoutID = setTimeout(() => 
+ fn.apply(this\, arguments)\, delay)\;\n    }\;\n  }\n\n  const debouncedUp
+ dateIsotopeLayout = debounce(updateIsotopeLayout\, 500)\;\n\n  // Attach t
+ he load event to images\n  const images = container.querySelectorAll('img'
+ )\;\n  images.forEach(function(img) {\n    img.addEventListener('load'\, f
+ unction() {\n      debouncedUpdateIsotopeLayout()\;\n    })\;\n\n    // Ha
+ ndle already loaded images (from cache)\n    if (img.complete) {\n      de
+ bouncedUpdateIsotopeLayout()\;\n    }\n  })\;\n\n})\;\n*/\n\n\n</script>\n
+ \n<span class="accTitle__icon"><svg><use href="https://www.monash.edu/__da
+ ta/assets/git_bridge/0009/2651868/dist/assets/images/icon-spritesheet.svg?
+ h=1d3ca15#copy"></use></svg></span>\n<span class="accTitle__text">Paper su
+ bmissions</span>\n<span class="accTitle__toggle-wrapper">\n<a class="accTi
+ tle__toggle" href="#Paper_submissions-1" rel="1">\n<span class="accTitle__
+ toggle-text">View</span>\n<span class="accTitle__toggle-arrow"><img alt="V
+ iew" src="https://www.monash.edu/__data/assets/file/0011/2179901/arrow-out
+ line-right.svg"/></span>\n</a>\n</span>\n\nPlease submit a full draft of t
+ he paper OR a 1000-word (minimum) abstract by <strong>19 December 2025</st
+ rong>.\n\nAbstract criteria\n\nIf sending an abstract\, it should be struc
+ tured to include <strong>details of the aims</strong>\, the <strong>econom
+ etric methods used</strong> (in the past some abstracts have not contained
+  econometric detail so we have been unable to properly assess them)\, and 
+ <strong>results</strong>.\n\nResults should be included even if they are p
+ reliminary. Abstracts containing no results or no details of the econometr
+ ic methods will be less likely to be accepted.\n\nAbstracts and papers wil
+ l be judged primarily on the quality of their econometrics content. We str
+ ongly encourage presentation and discussion of work in progress.\n\nFees f
+ or invited participants\n\n*A citizen residing in a country on the <a href
+ ="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-b
+ ank-country-and-lending-groups">World Bank list</a> of low and middle inco
+ me countries.\n\nFor additional nights\, you will need to organise them wi
+ th the hotel directly.\n\nSubmissions\n\nElectronic submission of papers i
+ s required and can be uploaded using the link below. When submitting you w
+ ill be able to choose whether you would like to present a paper\, discuss 
+ a paper or chair a session.\n\n<a class="btn" href="https://monash.az1.qua
+ ltrics.com/jfe/form/SV_7ODE97lH03z3NDo" target="_blank">Submit your paper<
+ /a>\n\nSponsors\n\nOrganisers\n\n<a href="https://research.monash.edu/en/p
+ ersons/anthony-scott">Prof Anthony Scott</a>\, Director\, Centre for Healt
+ h Economics\, Monash Business School\n\n<a href="https://www.stefanie-schu
+ rer.com/" target="_blank">Prof Stefanie Schurer</a>\, School of Economics\
+ , University of Sydney\n\n<a href="https://research.monash.edu/en/persons/
+ johannes-kunz">Dr Johannes Kunz</a>\, Centre for Health Economics\, Monash
+  Business School\n\n<a href="https://research.monash.edu/en/persons/michae
+ l-shields/">Prof Michael Shields</a>\, Centre for Health Economics\, Monas
+ h Business School\n\nEnquiries\n\nFor any enquiries regarding the workshop
+  please contact Aryan Rohanian at <a href="mailto:che_support@monash.edu"
+ >che_support@monash.edu</a>
+LOCATION:The Anchorage Hotel\, Port Stephens\, NSW
+URL:https://www.monash.edu/business/events/15th-australasian-workshop-on-e
  conometrics-and-health-economics
 END:VEVENT
 END:VCALENDAR
