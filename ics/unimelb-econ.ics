@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ce6b6b2486056974d1e1e434b75cd3df@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261014T121500
 DTEND;TZID=Australia/Melbourne:20261014T131500
@@ -43,8 +43,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:08baf9ff73778e2ca30e47be5e848ee4@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261013T110000
 DTEND;TZID=Australia/Melbourne:20261013T121500
@@ -59,8 +59,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:9a3b3bb3ec32c145cae607a26c81383c@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261020T110000
 DTEND;TZID=Australia/Melbourne:20261020T121500
@@ -75,8 +75,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:2ddcaa5efd26cfe4817b706df05c8ef2@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261027T103000
 DTEND;TZID=Australia/Melbourne:20261027T114500
@@ -92,8 +92,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:38bd0b45a94ba2b2b30b94fb60d31c56@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261110T110000
 DTEND;TZID=Australia/Melbourne:20261110T121500
@@ -108,8 +108,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:1dd198f9b4e9a08052bd2cc926246e70@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261117T110000
 DTEND;TZID=Australia/Melbourne:20261117T121500
@@ -125,8 +125,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:e6355c8a3c82d58598331ff0e1e8ced0@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261201T110000
 DTEND;TZID=Australia/Melbourne:20261201T121500
@@ -141,8 +141,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:afd263e1a90611cf7ba908e2d533e58f@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261208T110000
 DTEND;TZID=Australia/Melbourne:20261208T121500
@@ -156,53 +156,9 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
  Y.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
-UID:731f951a30dcc5bf0d4fd6e8075ea080@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261008T111500
-DTEND;TZID=Australia/Melbourne:20261008T123000
-SUMMARY:Experimental/Behavioural – Ralph Bayer (Adelaide) – Selling en 
- bloc with vote buying - experimental tests of different rules.
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Ralph Bayer: “Selling en bloc with vote buying - experimental
-  tests of different rules.”\nhttps://researchers.adelaide.edu.au/profile
- /ralph.bayer\n\nZoom: https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNR
- ILVKO2Y5za5S7GjfbAGG.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/
- BirLkJKurX9pSbBB8\n\nABSTRACT:\nDevelopers who buy up individual flats in 
- strata-titled buildings with the aim to redevelop face the exposure proble
- m. This causes otherwise profitable and socially efficient redevelopments 
- not to occur. The resulting holdup-problem can be overcome by en-bloc sale
- s where the whole building is sold as one. The mechanism by which unit own
- ers collectively decide to sell is crucial for allocative efficiency. An u
- nanimity rule where all unit owners must agree to sell ensures that any sa
- le is pareto improving. Unfortunately\, many otherwise efficient sales wil
- l not occur. As a reaction\, some Australian States followed the lead of S
- ingapore and introduced laws that allow en-bloc sales with qualifying majo
- rities of 75 percent. While this mitigates the problem of efficient sales 
- being blocked\, now inefficient sales might occur\, and over-all efficienc
- y is still not guaranteed.\n\n \n\nWe propose an alternative voting mechan
- ism where owners can buy votes for or against a sale and the proceeds are 
- redistributed to all the owners (based on ideas of Weyl\, Posner\, and Lal
- ley). In large homogeneous elections\, in equilibrium voters cast votes fo
- r or against a proposal proportional to their personal gain or loss from t
- he implementation of the proposal if the cost for votes is quadratic\, whi
- ch implies efficiency.  In strata sales the number of owners is typically 
- small and owners and units are heterogenous. Hence\, the efficiency proper
- ties of such a rule are unclear. We generate an experimental environment o
- f strata sales with two treatments\, quadratic cost vs. linear cost of vot
- es and compare the outcome to the hypothetical results generated by a stan
- dard one-vote 75 percent rule.  We find that both the vote-buying mechanis
- ms significantly improve efficiency. The fraction of efficient outcomes ri
- ses from 54 percent to 78 percent with linear cost and to 81 percent with 
- quadratic cost.
-URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
- G.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
 UID:746bd2528140ed50bc6fdc14613b0007@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T111500
 DTEND;TZID=Australia/Melbourne:20261030T123000
@@ -217,8 +173,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:2ac2a820ca2977a6d11fe7062e64a1e8@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261105T140000
 DTEND;TZID=Australia/Melbourne:20261105T151500
@@ -232,12 +188,12 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
  G.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
-UID:5dd7e2d84cad74a7f50408d57cca9f33@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+UID:151fbbadb881b99cc42f16badf95e0d8@generated
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261022T120000
-DTEND;TZID=Australia/Melbourne:20261022T131500
+DTSTART;TZID=Australia/Melbourne:20261022T103000
+DTEND;TZID=Australia/Melbourne:20261022T114500
 SUMMARY:Macroeconomics – Jenny Chan (BoE) – TBD
 LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
 DESCRIPTION:Jenny Chan: “TBD”\nhttps://jenncha.github.io/\n\nZoom: http
@@ -248,37 +204,9 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
  a.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
-UID:489954d29644bfb9cd2b80399b52771f@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261008T103000
-DTEND;TZID=Australia/Melbourne:20261008T114500
-SUMMARY:Macroeconomics – Chansik Yoon (Adelaide) – Growth in the Shaded
-  Sun: The Role of International Development Finance and Corruption
-LOCATION:Room 315\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Chansik Yoon: “Growth in the Shaded Sun: The Role of Internat
- ional Development Finance and Corruption”\nhttps://sites.google.com/view
- /chansikyoon\n\nZoom: https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOW
- fMfEThCYsc9fs2jh2vCa.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/
- BirLkJKurX9pSbBB8\n\nABSTRACT:\nI study how developing-country governments
-  decide the amount\, sources\, and sectoral allocation of development fina
- nce (DF) as China has emerged alongside traditional donors. Using project-
- level data from nearly 110 countries (2000–2021)\, I document systematic
-  patterns in DF allocation across countries\, sectors\, and providers that
-  vary with corruption and monitoring intensity. I develop a growth model i
- n which governments allocate DF while choosing how much investment to dive
- rt under provider-specific monitoring and financing conditions. Calibratin
- g the model to 108 countries shows heterogeneous welfare implications of C
- hinese DF: about 15% of countries gain while roughly 55% may experience we
- lfare losses.
-URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
- a.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
 UID:45476fee73b823aa69d188a626636627@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T103000
 DTEND;TZID=Australia/Melbourne:20261015T114500
@@ -293,8 +221,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:de48d69ab086a2804bd7b65eda1507ec@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261009T110000
 DTEND;TZID=Australia/Melbourne:20261009T121500
@@ -324,8 +252,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:5fee1ef169b3ae57ceafb4caae49f8e2@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T110000
 DTEND;TZID=Australia/Melbourne:20261016T121500
@@ -359,8 +287,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:1ff4431c181d7cc09708ef2916eafd0e@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261023T110000
 DTEND;TZID=Australia/Melbourne:20261023T121500
@@ -395,8 +323,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:822ff5055e47c917ccd792bc085d4eb7@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261203T110000
 DTEND;TZID=Australia/Melbourne:20261203T121500
@@ -411,8 +339,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:f902814859e9bca32b771ca196dd5ec8@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T110000
 DTEND;TZID=Australia/Melbourne:20261016T170000
@@ -436,8 +364,8 @@ DESCRIPTION:Massimo Motta & IO workshop: “Platform Tying and its Effects
 END:VEVENT
 BEGIN:VEVENT
 UID:4735c8e83906adcaf6db38c516917508@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261023T110000
 DTEND;TZID=Australia/Melbourne:20261023T122000
@@ -463,8 +391,8 @@ DESCRIPTION:Jiemai Wu: “Group cascades in strategic voting”\nhttps://ww
 END:VEVENT
 BEGIN:VEVENT
 UID:327276b55128268232fd749e8711e02e@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261029T110000
 DTEND;TZID=Australia/Melbourne:20261029T122000
@@ -476,8 +404,8 @@ DESCRIPTION:Federico Echenique: “TBD”\nhttps://econ.berkeley.edu/profil
 END:VEVENT
 BEGIN:VEVENT
 UID:d1894ace1fd6279983ca2eee7b1955e6@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261106T110000
 DTEND;TZID=Australia/Melbourne:20261106T122000
@@ -489,8 +417,8 @@ DESCRIPTION:Arthur Campbell: “TBD”\nhttps://sites.google.com/site/arthu
 END:VEVENT
 BEGIN:VEVENT
 UID:23b9b68d63d518dd3c19fc7bf5a2da19@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261113T110000
 DTEND;TZID=Australia/Melbourne:20261113T122000
@@ -500,22 +428,9 @@ DESCRIPTION:Feng Zhu: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/Bir
  LkJKurX9pSbBB8\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
-UID:e195d8798e0dd83ad26fef4c341e0685@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261008T121500
-DTEND;TZID=Australia/Melbourne:20261008T131500
-SUMMARY:Melbourne Institute Seminar – Claudio Labanca (Monash) – TBD
-LOCATION:Room 615\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Claudio Labanca: “TBD”\nhttps://sites.google.com/monash.edu
- /claudiolabanca/home\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pS
- bBB12\n\nABSTRACT:\nTBA
-END:VEVENT
-BEGIN:VEVENT
 UID:93393ec39480e9f0a3568b67ab502571@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T121500
 DTEND;TZID=Australia/Melbourne:20261015T131500
@@ -528,8 +443,8 @@ DESCRIPTION:Warn N. Lekfuangfu: “TBD”\nhttps://npwarn.wixsite.com/warn-
 END:VEVENT
 BEGIN:VEVENT
 UID:36bfdc121fdfda2e09358ae8f4063986@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261022T121500
 DTEND;TZID=Australia/Melbourne:20261022T131500
@@ -541,8 +456,8 @@ DESCRIPTION:Ha Vu: “TBD”\nhttps://sites.google.com/view/havu-havueconom
 END:VEVENT
 BEGIN:VEVENT
 UID:d324fe21b300d0187c537cc800fff911@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261105T121500
 DTEND;TZID=Australia/Melbourne:20261105T131500
@@ -554,8 +469,8 @@ DESCRIPTION:Simon Franklin: “TBD”\nhttps://www.simonfranklin.co/\n\nGoo
 END:VEVENT
 BEGIN:VEVENT
 UID:1206808f47b929961a104f6b82975ab3@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261119T121500
 DTEND;TZID=Australia/Melbourne:20261119T131500
@@ -567,8 +482,8 @@ DESCRIPTION:Pascuel Plotkin: “TBD”\nhttps://pascuel.github.io/\n\nGoogl
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8659b43f5459e1dccdc31996eaa60d@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261210T121500
 DTEND;TZID=Australia/Melbourne:20261210T131500
@@ -581,8 +496,8 @@ DESCRIPTION:Annika Herr: “TBD”\nhttps://www.ihe.uni-hannover.de/en/herr
 END:VEVENT
 BEGIN:VEVENT
 UID:63affeb0f55ce6e17224b5b91f9e7ef4@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261009T133000
 DTEND;TZID=Australia/Melbourne:20261009T141000
@@ -609,8 +524,8 @@ DESCRIPTION:Maxine Zhang: “Hard Information Disclosure and Product Confla
 END:VEVENT
 BEGIN:VEVENT
 UID:f874e8c198d10a8c6400851fee88f8ee@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261009T141000
 DTEND;TZID=Australia/Melbourne:20261009T145000
@@ -635,8 +550,8 @@ DESCRIPTION:Charon Yang: “Information Sharing\, Platform Design\, and Pri
 END:VEVENT
 BEGIN:VEVENT
 UID:d081dc23d0ab63ccb0150278adc12a3c@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261009T145000
 DTEND;TZID=Australia/Melbourne:20261009T153000
@@ -659,8 +574,8 @@ DESCRIPTION:Anthony Van Den Berg: “Goals and Visibility”\n\nGoogle Maps
 END:VEVENT
 BEGIN:VEVENT
 UID:8218b18c9e85a6d8d443dc35b4b1de4a@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T133000
 DTEND;TZID=Australia/Melbourne:20261016T141000
@@ -674,8 +589,8 @@ DESCRIPTION:Abhirupa Das: “Effect of Social Learning when Corruption "Gre
 END:VEVENT
 BEGIN:VEVENT
 UID:5a4d9d3ab9651607362a105049072f88@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T141000
 DTEND;TZID=Australia/Melbourne:20261016T145000
@@ -704,8 +619,8 @@ DESCRIPTION:Emily Tran: “Gender Differences in Professional Self-Presenta
 END:VEVENT
 BEGIN:VEVENT
 UID:8df69a87a31a971780e9f93b4fc492a9@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T145000
 DTEND;TZID=Australia/Melbourne:20261016T153000
@@ -735,8 +650,8 @@ DESCRIPTION:Gloria Chen: “Sorting Talent\, Distorting Skills: How Precisi
 END:VEVENT
 BEGIN:VEVENT
 UID:eeca4fafe2025246ae597dc8b1090636@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261023T133000
 DTEND;TZID=Australia/Melbourne:20261023T141000
@@ -748,8 +663,8 @@ DESCRIPTION:Landi Lin: “Why do countries terminate BITs?”\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:5bcb8cfb0dedf9f5b9bcd5eb43e00e13@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261023T141000
 DTEND;TZID=Australia/Melbourne:20261023T145000
@@ -762,8 +677,8 @@ DESCRIPTION:Renee Zhou: “Highways and the Gender Inequality in Labour Mar
 END:VEVENT
 BEGIN:VEVENT
 UID:2f8700c7bb212950d95f03ecdb98c28f@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T133000
 DTEND;TZID=Australia/Melbourne:20261030T141000
@@ -775,8 +690,8 @@ DESCRIPTION:Rossella De Sabbata: “TBD”\n\nGoogle Maps: https://maps.app
 END:VEVENT
 BEGIN:VEVENT
 UID:0afef4e17fafced66241fb482b77800c@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T141000
 DTEND;TZID=Australia/Melbourne:20261030T145000
@@ -788,8 +703,8 @@ DESCRIPTION:Sonia Ma: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/Bir
 END:VEVENT
 BEGIN:VEVENT
 UID:35f2477043a32122408effea9837d3ed@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T145000
 DTEND;TZID=Australia/Melbourne:20261030T153000
@@ -801,8 +716,8 @@ DESCRIPTION:Lorenz Gschwent: “TBD”\n\nGoogle Maps: https://maps.app.goo
 END:VEVENT
 BEGIN:VEVENT
 UID:9f766718f09a675d6fb62955a3a48327@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261021T130000
 DTEND;TZID=Australia/Melbourne:20261021T140000
@@ -813,8 +728,8 @@ DESCRIPTION:Tim Boonen: “TBD”\nTim J. Boonen\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:641603f12f64cab43daa9190b476f9a1@generated
-DTSTAMP:20261014T215852Z
-LAST-MODIFIED:20261014T215852Z
+DTSTAMP:20261015T215154Z
+LAST-MODIFIED:20261015T215154Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261104T130000
 DTEND;TZID=Australia/Melbourne:20261104T140000
