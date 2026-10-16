@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ce6b6b2486056974d1e1e434b75cd3df@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261014T121500
 DTEND;TZID=Australia/Melbourne:20261014T131500
@@ -43,8 +43,8 @@ URL:https://unimelb.zoom.us/j/83457027983?pwd=7agWSD3Oez70j4RZxmm6J4zxme8a8
 END:VEVENT
 BEGIN:VEVENT
 UID:08baf9ff73778e2ca30e47be5e848ee4@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261013T110000
 DTEND;TZID=Australia/Melbourne:20261013T121500
@@ -59,8 +59,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:9a3b3bb3ec32c145cae607a26c81383c@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261020T110000
 DTEND;TZID=Australia/Melbourne:20261020T121500
@@ -75,8 +75,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:2ddcaa5efd26cfe4817b706df05c8ef2@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261027T103000
 DTEND;TZID=Australia/Melbourne:20261027T114500
@@ -92,8 +92,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:38bd0b45a94ba2b2b30b94fb60d31c56@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261110T110000
 DTEND;TZID=Australia/Melbourne:20261110T121500
@@ -108,8 +108,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:1dd198f9b4e9a08052bd2cc926246e70@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261117T110000
 DTEND;TZID=Australia/Melbourne:20261117T121500
@@ -125,8 +125,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:e6355c8a3c82d58598331ff0e1e8ced0@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261201T110000
 DTEND;TZID=Australia/Melbourne:20261201T121500
@@ -141,8 +141,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:afd263e1a90611cf7ba908e2d533e58f@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261208T110000
 DTEND;TZID=Australia/Melbourne:20261208T121500
@@ -157,8 +157,8 @@ URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
 END:VEVENT
 BEGIN:VEVENT
 UID:746bd2528140ed50bc6fdc14613b0007@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T111500
 DTEND;TZID=Australia/Melbourne:20261030T123000
@@ -173,8 +173,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:2ac2a820ca2977a6d11fe7062e64a1e8@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261105T140000
 DTEND;TZID=Australia/Melbourne:20261105T151500
@@ -189,8 +189,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:151fbbadb881b99cc42f16badf95e0d8@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261022T103000
 DTEND;TZID=Australia/Melbourne:20261022T114500
@@ -205,8 +205,8 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
 END:VEVENT
 BEGIN:VEVENT
 UID:45476fee73b823aa69d188a626636627@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T103000
 DTEND;TZID=Australia/Melbourne:20261015T114500
@@ -220,40 +220,9 @@ URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
  a.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
-UID:de48d69ab086a2804bd7b65eda1507ec@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261009T110000
-DTEND;TZID=Australia/Melbourne:20261009T121500
-SUMMARY:Econometrics – Dakyung Seong (University of Sydney) – Spillover
-  Effects in Fuzzy Regression Discontinuity Design
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Dakyung Seong: “Spillover Effects in Fuzzy Regression Discont
- inuity Design”\nhttps://sites.google.com/view/dkseong/\n\nZoom: https://
- unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qzr.1\n\nGoog
- le Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nThis pape
- r studies treatment spillovers in fuzzy regression discontinuity (RD) desi
- gns with socially interacting units\, such as couples\, friends\, and neig
- hbors. Because an individual's treatment take-up may respond to both their
-  own and their peer's treatment assignments\, standard fuzzy RD identifica
- tion strategies are generally invalid in this setup. This paper establishe
- s new identification results for direct\, indirect\, and social-interactio
- n local average treatment effects under alternative restrictions on joint 
- compliance behavior. We also develop local-polynomial estimators and bias-
- corrected inference procedures and examine their finite-sample performance
-  via Monte Carlo simulations. The proposed identification and estimation a
- pproaches are applied to study the impact of retirement on health behavior
- s. The estimates suggest that spousal retirement significantly reduces dri
- nks per drinking day among men whose spouses belong to certain compliance 
- groups.
-URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
- r.1
-END:VEVENT
-BEGIN:VEVENT
 UID:5fee1ef169b3ae57ceafb4caae49f8e2@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T110000
 DTEND;TZID=Australia/Melbourne:20261016T121500
@@ -287,8 +256,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:1ff4431c181d7cc09708ef2916eafd0e@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261023T110000
 DTEND;TZID=Australia/Melbourne:20261023T121500
@@ -323,8 +292,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:822ff5055e47c917ccd792bc085d4eb7@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261203T110000
 DTEND;TZID=Australia/Melbourne:20261203T121500
@@ -339,8 +308,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:f902814859e9bca32b771ca196dd5ec8@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T110000
 DTEND;TZID=Australia/Melbourne:20261016T170000
@@ -364,8 +333,8 @@ DESCRIPTION:Massimo Motta & IO workshop: “Platform Tying and its Effects
 END:VEVENT
 BEGIN:VEVENT
 UID:4735c8e83906adcaf6db38c516917508@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261023T110000
 DTEND;TZID=Australia/Melbourne:20261023T122000
@@ -391,8 +360,8 @@ DESCRIPTION:Jiemai Wu: “Group cascades in strategic voting”\nhttps://ww
 END:VEVENT
 BEGIN:VEVENT
 UID:327276b55128268232fd749e8711e02e@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261029T110000
 DTEND;TZID=Australia/Melbourne:20261029T122000
@@ -404,8 +373,8 @@ DESCRIPTION:Federico Echenique: “TBD”\nhttps://econ.berkeley.edu/profil
 END:VEVENT
 BEGIN:VEVENT
 UID:d1894ace1fd6279983ca2eee7b1955e6@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261106T110000
 DTEND;TZID=Australia/Melbourne:20261106T122000
@@ -417,8 +386,8 @@ DESCRIPTION:Arthur Campbell: “TBD”\nhttps://sites.google.com/site/arthu
 END:VEVENT
 BEGIN:VEVENT
 UID:23b9b68d63d518dd3c19fc7bf5a2da19@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261113T110000
 DTEND;TZID=Australia/Melbourne:20261113T122000
@@ -429,8 +398,8 @@ DESCRIPTION:Feng Zhu: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/Bir
 END:VEVENT
 BEGIN:VEVENT
 UID:93393ec39480e9f0a3568b67ab502571@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261015T121500
 DTEND;TZID=Australia/Melbourne:20261015T131500
@@ -443,8 +412,8 @@ DESCRIPTION:Warn N. Lekfuangfu: “TBD”\nhttps://npwarn.wixsite.com/warn-
 END:VEVENT
 BEGIN:VEVENT
 UID:36bfdc121fdfda2e09358ae8f4063986@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261022T121500
 DTEND;TZID=Australia/Melbourne:20261022T131500
@@ -456,8 +425,8 @@ DESCRIPTION:Ha Vu: “TBD”\nhttps://sites.google.com/view/havu-havueconom
 END:VEVENT
 BEGIN:VEVENT
 UID:d324fe21b300d0187c537cc800fff911@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261105T121500
 DTEND;TZID=Australia/Melbourne:20261105T131500
@@ -469,8 +438,8 @@ DESCRIPTION:Simon Franklin: “TBD”\nhttps://www.simonfranklin.co/\n\nGoo
 END:VEVENT
 BEGIN:VEVENT
 UID:1206808f47b929961a104f6b82975ab3@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261119T121500
 DTEND;TZID=Australia/Melbourne:20261119T131500
@@ -482,8 +451,8 @@ DESCRIPTION:Pascuel Plotkin: “TBD”\nhttps://pascuel.github.io/\n\nGoogl
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8659b43f5459e1dccdc31996eaa60d@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261210T121500
 DTEND;TZID=Australia/Melbourne:20261210T131500
@@ -495,87 +464,9 @@ DESCRIPTION:Annika Herr: “TBD”\nhttps://www.ihe.uni-hannover.de/en/herr
  TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:63affeb0f55ce6e17224b5b91f9e7ef4@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261009T133000
-DTEND;TZID=Australia/Melbourne:20261009T141000
-SUMMARY:PhD Brown Bag Seminar – Maxine Zhang (University of Manchester) 
- – Hard Information Disclosure and Product Conflation
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3065
-DESCRIPTION:Maxine Zhang: “Hard Information Disclosure and Product Confla
- tion”\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTR
- ACT:\nThis paper studies a market in which the monopolist decides whether 
- to disclose hard information about the product for sale to heterogeneous b
- uyers. If the seller withholds information about several products\, buyers
-  are unable to distinguish among them\, a situation referred to as product
-  conflation. We investigate why the seller conflates products and which pr
- oducts are subject to conflation. Our main findings show that among all pu
- re-strategy equilibria\, the seller’s expected revenue weakly increases 
- with the number of products conflated. Therefore\, the full disclosure equ
- ilibrium\, proven to always exist\, yields the lowest equilibrium revenue 
- in the game. Conflation equilibria arise only when consumer preferences ar
- e sufficiently heterogeneous. Under a class of single-peaked binary prefer
- ences\, this condition is met when individual peaks are more dispersed. Th
- ese results provide a theoretical explanation for the widespread practice 
- of incomplete product information disclosure in markets and show that mand
- atory disclosure policies may hurt welfare.
-END:VEVENT
-BEGIN:VEVENT
-UID:f874e8c198d10a8c6400851fee88f8ee@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261009T141000
-DTEND;TZID=Australia/Melbourne:20261009T145000
-SUMMARY:PhD Brown Bag Seminar – Charon Yang (University of Melbourne) –
-  Information Sharing\, Platform Design\, and Price Competition: Evidence f
- rom Retail Gasoline
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3066
-DESCRIPTION:Charon Yang: “Information Sharing\, Platform Design\, and Pri
- ce Competition: Evidence from Retail Gasoline”\n\nGoogle Maps: https://m
- aps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nThis paper examines how eas
- ier access to real-time price information affects competition in retail ga
- soline markets. We exploit the two-stage rollout of FuelCheck in New South
-  Wales: a website in 2016 and a mobile app in 2017 that made the same pric
- e information substantially easier to use. Comparing 130 NSW markets with 
- 65 markets in neighbouring Victoria\, we find little evidence that the web
- site affected retail margins. In contrast\, the app launch is associated w
- ith a 1.7 cents-per-litre reduction in NSW margins relative to Victoria\, 
- with a larger short-run decline of around 4 cents. We find little correspo
- nding change in price dispersion. The results suggest that the competitive
-  effects of price transparency depend not only on whether information is a
- vailable\, but also on how easily consumers can access and use it.
-END:VEVENT
-BEGIN:VEVENT
-UID:d081dc23d0ab63ccb0150278adc12a3c@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261009T145000
-DTEND;TZID=Australia/Melbourne:20261009T153000
-SUMMARY:PhD Brown Bag Seminar – Anthony Van Den Berg (University of Melbo
- urne) – Goals and Visibility
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3067
-DESCRIPTION:Anthony Van Den Berg: “Goals and Visibility”\n\nGoogle Maps
- : https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nHow do autonomy 
- and visibility shape the effectiveness of goals? I develop a model combini
- ng reference-dependent preferences and image concerns\, in which a goal si
- gnals the agent's ambition. When baseline performance varies little across
-  agents\, the model predicts that a uniform externally set goal outperform
- s self-set goals in aggregate\, but this ordering reverses when performanc
- e varies widely. Moreover\, this switching point depends on visibility. Wh
- en social image concerns are strong enough\, there exists some intermediat
- e level of variation such that externally set goals outperform in private\
- , but self-set goals outperform when goals and outcomes are visible. I wil
- l test these predictions in a laboratory experiment using two rounds of Ra
- ven's Matrices and varying the goal designs across agents.
-END:VEVENT
-BEGIN:VEVENT
 UID:8218b18c9e85a6d8d443dc35b4b1de4a@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T133000
 DTEND;TZID=Australia/Melbourne:20261016T141000
@@ -589,8 +480,8 @@ DESCRIPTION:Abhirupa Das: “Effect of Social Learning when Corruption "Gre
 END:VEVENT
 BEGIN:VEVENT
 UID:5a4d9d3ab9651607362a105049072f88@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T141000
 DTEND;TZID=Australia/Melbourne:20261016T145000
@@ -619,8 +510,8 @@ DESCRIPTION:Emily Tran: “Gender Differences in Professional Self-Presenta
 END:VEVENT
 BEGIN:VEVENT
 UID:8df69a87a31a971780e9f93b4fc492a9@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261016T145000
 DTEND;TZID=Australia/Melbourne:20261016T153000
@@ -650,8 +541,8 @@ DESCRIPTION:Gloria Chen: “Sorting Talent\, Distorting Skills: How Precisi
 END:VEVENT
 BEGIN:VEVENT
 UID:eeca4fafe2025246ae597dc8b1090636@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261023T133000
 DTEND;TZID=Australia/Melbourne:20261023T141000
@@ -663,8 +554,8 @@ DESCRIPTION:Landi Lin: “Why do countries terminate BITs?”\n\nGoogle Map
 END:VEVENT
 BEGIN:VEVENT
 UID:5bcb8cfb0dedf9f5b9bcd5eb43e00e13@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261023T141000
 DTEND;TZID=Australia/Melbourne:20261023T145000
@@ -677,8 +568,8 @@ DESCRIPTION:Renee Zhou: “Highways and the Gender Inequality in Labour Mar
 END:VEVENT
 BEGIN:VEVENT
 UID:2f8700c7bb212950d95f03ecdb98c28f@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T133000
 DTEND;TZID=Australia/Melbourne:20261030T141000
@@ -690,8 +581,8 @@ DESCRIPTION:Rossella De Sabbata: “TBD”\n\nGoogle Maps: https://maps.app
 END:VEVENT
 BEGIN:VEVENT
 UID:0afef4e17fafced66241fb482b77800c@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T141000
 DTEND;TZID=Australia/Melbourne:20261030T145000
@@ -703,8 +594,8 @@ DESCRIPTION:Sonia Ma: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/Bir
 END:VEVENT
 BEGIN:VEVENT
 UID:35f2477043a32122408effea9837d3ed@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T145000
 DTEND;TZID=Australia/Melbourne:20261030T153000
@@ -716,8 +607,8 @@ DESCRIPTION:Lorenz Gschwent: “TBD”\n\nGoogle Maps: https://maps.app.goo
 END:VEVENT
 BEGIN:VEVENT
 UID:9f766718f09a675d6fb62955a3a48327@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261021T130000
 DTEND;TZID=Australia/Melbourne:20261021T140000
@@ -728,8 +619,8 @@ DESCRIPTION:Tim Boonen: “TBD”\nTim J. Boonen\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
 UID:641603f12f64cab43daa9190b476f9a1@generated
-DTSTAMP:20261015T215154Z
-LAST-MODIFIED:20261015T215154Z
+DTSTAMP:20261016T214957Z
+LAST-MODIFIED:20261016T214957Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261104T130000
 DTEND;TZID=Australia/Melbourne:20261104T140000
