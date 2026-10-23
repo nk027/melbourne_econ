@@ -1,7 +1,491 @@
-<html>
-<head><title>503 Service Temporarily Unavailable</title></head>
-<body>
-<center><h1>503 Service Temporarily Unavailable</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dr Max Grossmann//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UoM Econ Seminars
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Australia/Melbourne
+BEGIN:STANDARD
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=10
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9a3b3bb3ec32c145cae607a26c81383c@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261020T110000
+DTEND;TZID=Australia/Melbourne:20261020T121500
+SUMMARY:Applied Micro – David Seim (Stockholm University) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:David Seim: “TBD”\nhttps://www.davidseim.com\n\nZoom: https
+ ://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3XaY.1&from
+ =addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRA
+ CT:\nTBA
+URL:https://unimelb.zoom.us/j/89372815664?pwd=hMmKuMrbVw8XIryww2pen75K6o3Xa
+ Y.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:bd9ea357f153a1d3f648d826c3b89d08@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261027T103000
+DTEND;TZID=Australia/Melbourne:20261027T114500
+SUMMARY:Applied Micro – Warn N. Lekfuangfu (Universidad Carlos III de Mad
+ rid) – The Superwoman Effect of Cartoons on Gender Attitudes and Educati
+ on Co-authored with Oleksandra Cheipesh (IE University)
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Warn N. Lekfuangfu: “The Superwoman Effect of Cartoons on Gen
+ der Attitudes and Education Co-authored with Oleksandra Cheipesh (IE Unive
+ rsity)”\nhttps://npwarn.wixsite.com/warn-lekfuangfu\n\nZoom: https://uni
+ melb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGMq.1&from=addon
+ \n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nT
+ o what extent does representation in mass media shape children’s gender-
+ related perceptions and later-life outcomes? This study examines how child
+ hood exposure to Superwoman-type characters in animated series affects edu
+ cational attainment\, field of study\, non-cognitive traits\, and gender a
+ ttitudes. We exploit variation in the geographic coverage of a television 
+ channel broadcasting these cartoons across Ukraine in the early 2000s\, al
+ ongside variation in individuals’ duration of potential childhood exposu
+ re. We find that women exposed to these cartoons attain higher levels of e
+ ducation and exhibit a more internal locus of control. However\, we find n
+ o evidence that exposure affects women’s likelihood of pursuing STEM fie
+ lds. We also find that women’s gender attitudes become less traditional\
+ , while effects among men are confined to selected dimensions.
+URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
+ q.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:537c5381f55ee5d783418160a9436485@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261110T110000
+DTEND;TZID=Australia/Melbourne:20261110T121500
+SUMMARY:Applied Micro – Brian Knight (Brown University) – The Partisan 
+ Consequences of Racial Gerrymandering: New Evidence from the 1990s
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Brian Knight: “The Partisan Consequences of Racial Gerrymande
+ ring: New Evidence from the 1990s”\nhttps://sites.brown.edu/brianknight/
+ \n\nZoom: https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMF
+ ehNtmGMq.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9p
+ SbBB8\n\nABSTRACT:\nWe examine the partisan consequences of racial gerryma
+ ndering\, which creates majority-minority districts. In our theoretical mo
+ del\, racial gerrymandering benefits the non-dominant party. That is\, rac
+ ial gerrymandering reduces expected Democratic seats in blue states but in
+ creases expected Democratic seats in red states. The empirical analysis de
+ velops counterfactual election results using a partisan prediction model. 
+ This model links district-level presidential returns under alternative map
+ s and congressional vote shares\, thereby holding voter preferences fixed.
+  Applying this framework to redistricting in 1991 shows that racial gerrym
+ andering increased safe Democratic seats while turning adjacent districts 
+ right-leaning\, yielding net seat gains for Republicans. These findings cl
+ arify historical realignments in partisan support over time\, with Republi
+ cans supporting racial gerrymandering in 1991 but opposing it more recentl
+ y.
+URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
+ q.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:1dd198f9b4e9a08052bd2cc926246e70@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261117T110000
+DTEND;TZID=Australia/Melbourne:20261117T121500
+SUMMARY:Applied Micro – Simon Chang (University of Western Australia) –
+  TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Simon Chang: “TBD”\nhttps://sites.google.com/site/simonchan
+ g1975/\n\nZoom: https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dW
+ bk6ZMFehNtmGMq.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJ
+ KurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
+ q.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:e6355c8a3c82d58598331ff0e1e8ced0@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261201T110000
+DTEND;TZID=Australia/Melbourne:20261201T121500
+SUMMARY:Applied Micro – Vicky Fouka (Stanford) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Vicky Fouka: “TBD”\nhttps://vfouka.stanford.edu\n\nZoom: ht
+ tps://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGMq.1&f
+ rom=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABS
+ TRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
+ q.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:afd263e1a90611cf7ba908e2d533e58f@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261208T110000
+DTEND;TZID=Australia/Melbourne:20261208T121500
+SUMMARY:Applied Micro – Manudepp Bhuller (University of Oslo) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Manudepp Bhuller: “TBD”\nhttps://sites.google.com/site/manu
+ deepbhuller\n\nZoom: https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62y
+ HU6dWbk6ZMFehNtmGMq.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/B
+ irLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
+ q.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:37ac6f7ce76d40aa17941cfa8fdac3b6@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261030T111500
+DTEND;TZID=Australia/Melbourne:20261030T123000
+SUMMARY:Experimental/Behavioural – Uzma Afzal (RMIT) – Arranged Marriag
+ es and the Norms of Enforcement
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Uzma Afzal: “Arranged Marriages and the Norms of Enforcement
+ ”\nhttps://www.uzmaafzal.com/\n\nZoom: https://unimelb.zoom.us/j/8265440
+ 1351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAGG.1&from=addon\n\nGoogle Maps: https
+ ://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nIn many societies\, soc
+ ial norms govern one of life’s most consequential decisions: the choice 
+ of a marriage partner. We study the social norm prescribing arranged marri
+ age and the meta-norms governing its enforcement\, that is the norms relat
+ ing to how families and neighbors should behave towards couples who marry 
+ by choice (love-matched couples). Methodologically\, using specially desig
+ ned vignettes\, we extend the Krupka-Weber (2013) norm elicitation method 
+ from first-order norms to meta-norms\, thereby\, eliciting the perceived a
+ ppropriateness of various types of punishing and tolerating behaviors. We 
+ also elicit personal normative opinions (Bicchieri\, 2017). We ran 30 lab-
+ in-the-field sessions involving 600 men and women across 15 villages of ru
+ ral Punjab\, Pakistan. We find a very strong arranged marriage norm\, whic
+ h is stronger in more remote communities. The evidence on enforcement is m
+ ore nuanced. Personally\, participants consider it more appropriate for fa
+ milies and neighbors to support love-matched couples than to withdraw supp
+ ort. When asked to coordinate with other villagers\, however\, they are mo
+ re accepting of estrangement by family and partial engagement by neighbors
+ . Gossip about love-matched couples is rated inappropriate by nearly all p
+ articipants\, yet they regard it as fairly likely. We interpret these nuan
+ ced patterns relating to the meta norms as reflecting a norm conflict betw
+ een the overarching norms of support and tolerance within families and com
+ munities\, and the meta-norm of enforcing the arranged marriage norm.
+URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
+ G.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:2ac2a820ca2977a6d11fe7062e64a1e8@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261105T140000
+DTEND;TZID=Australia/Melbourne:20261105T151500
+SUMMARY:Experimental/Behavioural – Maroš Servátka (Macquarie) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Maroš Servátka: “TBD”\nhttps://sites.google.com/site/maro
+ sservatka/\n\nZoom: https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRIL
+ VKO2Y5za5S7GjfbAGG.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/Bi
+ rLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
+ G.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:151fbbadb881b99cc42f16badf95e0d8@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261022T103000
+DTEND;TZID=Australia/Melbourne:20261022T114500
+SUMMARY:Macroeconomics – Jenny Chan (BoE) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Jenny Chan: “TBD”\nhttps://jenncha.github.io/\n\nZoom: http
+ s://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vCa.1&fro
+ m=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTR
+ ACT:\nTBA
+URL:https://unimelb.zoom.us/j/84055677057?pwd=q1KyfcUkOWfMfEThCYsc9fs2jh2vC
+ a.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
+UID:2f4eaee1b8038e85803a7bf0f446762e@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261023T100000
+DTEND;TZID=Australia/Melbourne:20261023T120000
+SUMMARY:Econometrics – Mitchell O’Hara-Wild (Monash) – Graphs for for
+ ecasting many related time series
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Mitchell O’Hara-Wild: “Graphs for forecasting many related 
+ time series”\nhttps://mitchelloharawild.com/\n\nZoom: https://unimelb.zo
+ om.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qzr.1\n\nGoogle Maps: h
+ ttps://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nForecasting in prac
+ tice rarely involves a single time series. Organisations forecast large co
+ llections of related series\, such as product sales across stores and regi
+ ons\, which requires software that handles many series and models consiste
+ ntly and produces probabilistic forecasts that can be evaluated\, combined
+ \, and compared. The fable R package addresses this by treating forecastin
+ g as a workflow of composable stages designed with tidy data analysis prin
+ ciples. The relationships between related time series are commonly encoded
+  with aggregation constraint matrices\, which forecast reconciliation uses
+  to produce coherent and more accurate forecasts. Directed acyclic graphs 
+ (DAGs) offer a more general representation that make large collections of 
+ series easier to explore and manipulate. As series are disaggregated by ma
+ ny attributes\, their number grows rapidly\, increasing computational cost
+  and degrading accuracy through noisy\, uninformative\, or misspecified se
+ ries. Using time series features and graph search algorithms\, uninformati
+ ve subgraphs can be efficiently pruned while preserving coherency\, substa
+ ntially reducing the number of series to forecast while retaining most of 
+ the information. This seminar begins with the software design of fable for
+  forecasting at scale\, then introduces graph-based forecast reconciliatio
+ n and feature-based graph pruning for accurate forecasting at scale.
+URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
+ r.1
+END:VEVENT
+BEGIN:VEVENT
+UID:822ff5055e47c917ccd792bc085d4eb7@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261203T110000
+DTEND;TZID=Australia/Melbourne:20261203T121500
+SUMMARY:Econometrics – Qingliang Fan (CUHK) – TBD
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Qingliang Fan: “TBD”\nhttps://www.econ.cuhk.edu.hk/en/about
+ /people/faculty/regular-faculty-members/prof-fan-qingliang/\n\nZoom: https
+ ://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qzr.1\n\nG
+ oogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
+ r.1
+END:VEVENT
+BEGIN:VEVENT
+UID:4735c8e83906adcaf6db38c516917508@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261023T110000
+DTEND;TZID=Australia/Melbourne:20261023T122000
+SUMMARY:Economic Theory – Jiemai Wu (USydney) – Group cascades in strat
+ egic voting
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3060
+DESCRIPTION:Jiemai Wu: “Group cascades in strategic voting”\nhttps://ww
+ w.jiemaiwu.com/\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\
+ n\nABSTRACT:\nWe study observational learning in a sequential game with st
+ rategic voting groups whose members have common values and receive indepen
+ dent private signals. Each group votes strategically after observing all e
+ arlier groups' decisions. Our model bridges the literatures on information
+  cascades and strategic voting by replacing the individual decision makers
+  in Bikhchandani et al. (1992) with the strategic voting groups in Fedders
+ en and Pesendorfer (1998). We show that this game is not outcome-equivalen
+ t to any standard individual cascade game if and only if the voting rule i
+ s fixed across groups. We then identify the necessary condition under whic
+ h a fixed rule that maximises asymptotic expected utility differs from one
+  that maximises myopic expected utility. This difference is common and man
+ ifests differently under private versus public voting: under private votin
+ g\, relatively asymmetric rules - such as unanimity - are more advantageou
+ s in the limit\, whereas the opposite can hold under public voting.
+END:VEVENT
+BEGIN:VEVENT
+UID:327276b55128268232fd749e8711e02e@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261029T110000
+DTEND;TZID=Australia/Melbourne:20261029T122000
+SUMMARY:Economic Theory – Federico Echenique (Berkeley) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3061
+DESCRIPTION:Federico Echenique: “TBD”\nhttps://econ.berkeley.edu/profil
+ e/federico-echenique\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pS
+ bBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:d1894ace1fd6279983ca2eee7b1955e6@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261106T110000
+DTEND;TZID=Australia/Melbourne:20261106T122000
+SUMMARY:Economic Theory – Arthur Campbell (Monash) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3062
+DESCRIPTION:Arthur Campbell: “TBD”\nhttps://sites.google.com/site/arthu
+ rcampbellecon/\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n
+ \nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:23b9b68d63d518dd3c19fc7bf5a2da19@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261113T110000
+DTEND;TZID=Australia/Melbourne:20261113T122000
+SUMMARY:Economic Theory – Feng Zhu (BJTU) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3063
+DESCRIPTION:Feng Zhu: “TBD”\n\nGoogle Maps: https://maps.app.goo.gl/Bir
+ LkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:36bfdc121fdfda2e09358ae8f4063986@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261022T121500
+DTEND;TZID=Australia/Melbourne:20261022T131500
+SUMMARY:Melbourne Institute Seminar – Ha Vu (Deakin) – TBD
+LOCATION:Room 615\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Ha Vu: “TBD”\nhttps://sites.google.com/view/havu-havueconom
+ ics-drhavu\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB12\n\nA
+ BSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:d324fe21b300d0187c537cc800fff911@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261105T121500
+DTEND;TZID=Australia/Melbourne:20261105T131500
+SUMMARY:Melbourne Institute Seminar – Simon Franklin (Queen Mary Universi
+ ty of London) – TBD
+LOCATION:Room 615\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Simon Franklin: “TBD”\nhttps://www.simonfranklin.co/\n\nGoo
+ gle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB12\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:1206808f47b929961a104f6b82975ab3@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261119T121500
+DTEND;TZID=Australia/Melbourne:20261119T131500
+SUMMARY:Melbourne Institute Seminar – Pascuel Plotkin (Boston University)
+  – TBD
+LOCATION:Room 615\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Pascuel Plotkin: “TBD”\nhttps://pascuel.github.io/\n\nGoogl
+ e Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB12\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:1c8659b43f5459e1dccdc31996eaa60d@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261210T121500
+DTEND;TZID=Australia/Melbourne:20261210T131500
+SUMMARY:Melbourne Institute Seminar – Annika Herr (Leibniz-University of 
+ Hannover) – TBD
+LOCATION:Room 615\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Annika Herr: “TBD”\nhttps://www.ihe.uni-hannover.de/en/herr
+ \n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB12\n\nABSTRACT:\n
+ TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:eeca4fafe2025246ae597dc8b1090636@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261023T133000
+DTEND;TZID=Australia/Melbourne:20261023T141000
+SUMMARY:PhD Brown Bag Seminar – Landi Lin (University of Melbourne) – W
+ hy do countries terminate BITs?
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3071
+DESCRIPTION:Landi Lin: “Why do countries terminate BITs?”\n\nGoogle Map
+ s: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:5bcb8cfb0dedf9f5b9bcd5eb43e00e13@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261023T141000
+DTEND;TZID=Australia/Melbourne:20261023T145000
+SUMMARY:PhD Brown Bag Seminar – Renee Zhou (University of Melbourne) – 
+ Highways and the Gender Inequality in Labour Market: Evidence from China.
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3072
+DESCRIPTION:Renee Zhou: “Highways and the Gender Inequality in Labour Mar
+ ket: Evidence from China.”\n\nGoogle Maps: https://maps.app.goo.gl/BirLk
+ JKurX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:edb86b753b6ffdbebe891ad21ca13cb0@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261030T133000
+DTEND;TZID=Australia/Melbourne:20261030T141000
+SUMMARY:PhD Brown Bag Seminar – Rossella De Sabbata (University of Melbou
+ rne) – The 1957 Windscale fire: Long-run impacts of prenatal exposure to
+  low dose radiation
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3072
+DESCRIPTION:Rossella De Sabbata: “The 1957 Windscale fire: Long-run impac
+ ts of prenatal exposure to low dose radiation”\n\nGoogle Maps: https://m
+ aps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:18ba9f58468445f7a0cfc66be5809c8a@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261030T141000
+DTEND;TZID=Australia/Melbourne:20261030T145000
+SUMMARY:PhD Brown Bag Seminar – Sonia Ma (University of Melbourne) – Me
+ rchants Away\, Widows at Home: Mercantile Activity and Female Chastity in 
+ Late Imperial China
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3062
+DESCRIPTION:Sonia Ma: “Merchants Away\, Widows at Home: Mercantile Activi
+ ty and Female Chastity in Late Imperial China”\n\nGoogle Maps: https://m
+ aps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nDoes commercial expansion i
+ nevitably erode traditional social norms\, or can it reinforce them? This 
+ paper studies how male commercial sojourning shaped female chastity in lat
+ e imperial China. I use the native-place origins of guilds\, associations 
+ formed by merchants conducting business away from home\, to measure outwar
+ d merchant activity\, and link them to county-level gazetteer records of c
+ haste women. Counties with stronger traditions of outward merchant activit
+ y recorded more chaste women\, and the relationship remains positive withi
+ n counties over time. I propose lineage institutions as a mechanism: prolo
+ nged male absence may have increased reliance on patrilineal kin to suppor
+ t households and regulate female conduct. Consistent with this mechanism\,
+  merchant-sending counties also show a higher density of Qing-period clan 
+ genealogies. The results suggest that commercial expansion could reinforce
+  rather than weaken traditional gender institutions: as trade made men mor
+ e mobile\, the institutions governing women who remained at home may have 
+ become stronger. However\, the evidence remains correlational\, and the ce
+ ntral challenge is identifying exogenous variation in outward merchant act
+ ivity.
+END:VEVENT
+BEGIN:VEVENT
+UID:9f766718f09a675d6fb62955a3a48327@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261021T130000
+DTEND;TZID=Australia/Melbourne:20261021T140000
+SUMMARY:Actuarial and Insurance Economics – Tim Boonen (University of Hon
+ g Kong) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Tim Boonen: “TBD”\nTim J. Boonen\n\nABSTRACT:\nTBA
+END:VEVENT
+BEGIN:VEVENT
+UID:641603f12f64cab43daa9190b476f9a1@generated
+DTSTAMP:20261023T214602Z
+LAST-MODIFIED:20261023T214602Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261104T130000
+DTEND;TZID=Australia/Melbourne:20261104T140000
+SUMMARY:Actuarial and Insurance Economics – Andrew King (University of Me
+ lbourne) – TBD
+LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Andrew King: “TBD”\n\nABSTRACT:\nTBA
+END:VEVENT
+END:VCALENDAR
