@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:bd9ea357f153a1d3f648d826c3b89d08@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261027T103000
 DTEND;TZID=Australia/Melbourne:20261027T114500
@@ -56,8 +56,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:537c5381f55ee5d783418160a9436485@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261110T110000
 DTEND;TZID=Australia/Melbourne:20261110T121500
@@ -87,8 +87,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:1dd198f9b4e9a08052bd2cc926246e70@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261117T110000
 DTEND;TZID=Australia/Melbourne:20261117T121500
@@ -104,8 +104,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:e6355c8a3c82d58598331ff0e1e8ced0@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261201T110000
 DTEND;TZID=Australia/Melbourne:20261201T121500
@@ -120,8 +120,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:afd263e1a90611cf7ba908e2d533e58f@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261208T110000
 DTEND;TZID=Australia/Melbourne:20261208T121500
@@ -136,8 +136,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:37ac6f7ce76d40aa17941cfa8fdac3b6@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T111500
 DTEND;TZID=Australia/Melbourne:20261030T123000
@@ -174,8 +174,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:276b43c8a6e78424d1359934a50ffc83@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261105T140000
 DTEND;TZID=Australia/Melbourne:20261105T151500
@@ -211,8 +211,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:b7e76ea0bf113d9198944f2d3d14a8c8@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261109T103000
 DTEND;TZID=Australia/Melbourne:20261109T114500
@@ -223,45 +223,9 @@ DESCRIPTION:Philippe Bacchetta: “TBD”\nhttps://people.unil.ch/philippeb
  hilippebacchetta/\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
-UID:2f4eaee1b8038e85803a7bf0f446762e@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261023T100000
-DTEND;TZID=Australia/Melbourne:20261023T120000
-SUMMARY:Econometrics – Mitchell O’Hara-Wild (Monash) – Graphs for for
- ecasting many related time series
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Mitchell O’Hara-Wild: “Graphs for forecasting many related 
- time series”\nhttps://mitchelloharawild.com/\n\nZoom: https://unimelb.zo
- om.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qzr.1\n\nGoogle Maps: h
- ttps://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nForecasting in prac
- tice rarely involves a single time series. Organisations forecast large co
- llections of related series\, such as product sales across stores and regi
- ons\, which requires software that handles many series and models consiste
- ntly and produces probabilistic forecasts that can be evaluated\, combined
- \, and compared. The fable R package addresses this by treating forecastin
- g as a workflow of composable stages designed with tidy data analysis prin
- ciples. The relationships between related time series are commonly encoded
-  with aggregation constraint matrices\, which forecast reconciliation uses
-  to produce coherent and more accurate forecasts. Directed acyclic graphs 
- (DAGs) offer a more general representation that make large collections of 
- series easier to explore and manipulate. As series are disaggregated by ma
- ny attributes\, their number grows rapidly\, increasing computational cost
-  and degrading accuracy through noisy\, uninformative\, or misspecified se
- ries. Using time series features and graph search algorithms\, uninformati
- ve subgraphs can be efficiently pruned while preserving coherency\, substa
- ntially reducing the number of series to forecast while retaining most of 
- the information. This seminar begins with the software design of fable for
-  forecasting at scale\, then introduces graph-based forecast reconciliatio
- n and feature-based graph pruning for accurate forecasting at scale.
-URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
- r.1
-END:VEVENT
-BEGIN:VEVENT
 UID:822ff5055e47c917ccd792bc085d4eb7@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261203T110000
 DTEND;TZID=Australia/Melbourne:20261203T121500
@@ -275,36 +239,9 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
  r.1
 END:VEVENT
 BEGIN:VEVENT
-UID:4735c8e83906adcaf6db38c516917508@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261023T110000
-DTEND;TZID=Australia/Melbourne:20261023T122000
-SUMMARY:Economic Theory – Jiemai Wu (USydney) – Group cascades in strat
- egic voting
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3060
-DESCRIPTION:Jiemai Wu: “Group cascades in strategic voting”\nhttps://ww
- w.jiemaiwu.com/\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\
- n\nABSTRACT:\nWe study observational learning in a sequential game with st
- rategic voting groups whose members have common values and receive indepen
- dent private signals. Each group votes strategically after observing all e
- arlier groups' decisions. Our model bridges the literatures on information
-  cascades and strategic voting by replacing the individual decision makers
-  in Bikhchandani et al. (1992) with the strategic voting groups in Fedders
- en and Pesendorfer (1998). We show that this game is not outcome-equivalen
- t to any standard individual cascade game if and only if the voting rule i
- s fixed across groups. We then identify the necessary condition under whic
- h a fixed rule that maximises asymptotic expected utility differs from one
-  that maximises myopic expected utility. This difference is common and man
- ifests differently under private versus public voting: under private votin
- g\, relatively asymmetric rules - such as unanimity - are more advantageou
- s in the limit\, whereas the opposite can hold under public voting.
-END:VEVENT
-BEGIN:VEVENT
 UID:327276b55128268232fd749e8711e02e@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261029T110000
 DTEND;TZID=Australia/Melbourne:20261029T122000
@@ -316,8 +253,8 @@ DESCRIPTION:Federico Echenique: “TBD”\nhttps://econ.berkeley.edu/profil
 END:VEVENT
 BEGIN:VEVENT
 UID:f44868d1298fcc39059dd082ff8c6258@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261106T110000
 DTEND;TZID=Australia/Melbourne:20261106T122000
@@ -336,8 +273,8 @@ DESCRIPTION:David Frankel: “Predicting Participation”\nDavid Frankel |
 END:VEVENT
 BEGIN:VEVENT
 UID:1db572db65834bdd1fb86312c25ec8d1@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261113T110000
 DTEND;TZID=Australia/Melbourne:20261113T122000
@@ -349,8 +286,8 @@ DESCRIPTION:Arthur Campbell: “TBD”\nhttps://sites.google.com/site/arthu
 END:VEVENT
 BEGIN:VEVENT
 UID:f7c06117e0f319cff293e04631ac41a1@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261120T110000
 DTEND;TZID=Australia/Melbourne:20261120T122000
@@ -362,8 +299,8 @@ DESCRIPTION:Feng Zhu: “TBD”\n‪Feng Zhu‬ - ‪Google 学术搜索‬
 END:VEVENT
 BEGIN:VEVENT
 UID:d324fe21b300d0187c537cc800fff911@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261105T121500
 DTEND;TZID=Australia/Melbourne:20261105T131500
@@ -375,8 +312,8 @@ DESCRIPTION:Simon Franklin: “TBD”\nhttps://www.simonfranklin.co/\n\nGoo
 END:VEVENT
 BEGIN:VEVENT
 UID:1206808f47b929961a104f6b82975ab3@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261119T121500
 DTEND;TZID=Australia/Melbourne:20261119T131500
@@ -388,8 +325,8 @@ DESCRIPTION:Pascuel Plotkin: “TBD”\nhttps://pascuel.github.io/\n\nGoogl
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8659b43f5459e1dccdc31996eaa60d@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261210T121500
 DTEND;TZID=Australia/Melbourne:20261210T131500
@@ -401,36 +338,9 @@ DESCRIPTION:Annika Herr: “TBD”\nhttps://www.ihe.uni-hannover.de/en/herr
  TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:eeca4fafe2025246ae597dc8b1090636@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261023T133000
-DTEND;TZID=Australia/Melbourne:20261023T141000
-SUMMARY:PhD Brown Bag Seminar – Landi Lin (University of Melbourne) – W
- hy do countries terminate BITs?
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3071
-DESCRIPTION:Landi Lin: “Why do countries terminate BITs?”\n\nGoogle Map
- s: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
-END:VEVENT
-BEGIN:VEVENT
-UID:5bcb8cfb0dedf9f5b9bcd5eb43e00e13@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261023T141000
-DTEND;TZID=Australia/Melbourne:20261023T145000
-SUMMARY:PhD Brown Bag Seminar – Renee Zhou (University of Melbourne) – 
- Highways and the Gender Inequality in Labour Market: Evidence from China.
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3072
-DESCRIPTION:Renee Zhou: “Highways and the Gender Inequality in Labour Mar
- ket: Evidence from China.”\n\nGoogle Maps: https://maps.app.goo.gl/BirLk
- JKurX9pSbBB8\n\nABSTRACT:\nTBA
-END:VEVENT
-BEGIN:VEVENT
 UID:edb86b753b6ffdbebe891ad21ca13cb0@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T133000
 DTEND;TZID=Australia/Melbourne:20261030T141000
@@ -444,8 +354,8 @@ DESCRIPTION:Rossella De Sabbata: “The 1957 Windscale fire: Long-run impac
 END:VEVENT
 BEGIN:VEVENT
 UID:18ba9f58468445f7a0cfc66be5809c8a@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261030T141000
 DTEND;TZID=Australia/Melbourne:20261030T145000
@@ -476,8 +386,8 @@ DESCRIPTION:Sonia Ma: “Merchants Away\, Widows at Home: Mercantile Activi
 END:VEVENT
 BEGIN:VEVENT
 UID:28357858789bde28d8038937de00752c@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261106T135000
 DTEND;TZID=Australia/Melbourne:20261106T143000
@@ -509,8 +419,8 @@ DESCRIPTION:Yunjie Shi: “Waiting and Preemption in Public Good Contributi
 END:VEVENT
 BEGIN:VEVENT
 UID:641603f12f64cab43daa9190b476f9a1@generated
-DTSTAMP:20261029T230230Z
-LAST-MODIFIED:20261029T230230Z
+DTSTAMP:20261030T224342Z
+LAST-MODIFIED:20261030T224342Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261104T130000
 DTEND;TZID=Australia/Melbourne:20261104T140000
