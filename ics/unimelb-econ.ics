@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:537c5381f55ee5d783418160a9436485@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261110T110000
 DTEND;TZID=Australia/Melbourne:20261110T121500
@@ -55,26 +55,45 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
  q.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
-UID:1dd198f9b4e9a08052bd2cc926246e70@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+UID:d5cffebfdd1a038e3a912e3c0cd66c13@generated
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261117T110000
 DTEND;TZID=Australia/Melbourne:20261117T121500
 SUMMARY:Applied Micro – Simon Chang (University of Western Australia) –
-  TBD
+  When Brides Are Scarce: Marriage Competition and Sons’ Schooling in Chi
+ na
 LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Simon Chang: “TBD”\nhttps://sites.google.com/site/simonchan
- g1975/\n\nZoom: https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dW
- bk6ZMFehNtmGMq.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJ
- KurX9pSbBB8\n\nABSTRACT:\nTBA
+DESCRIPTION:Simon Chang: “When Brides Are Scarce: Marriage Competition an
+ d Sons’ Schooling in China”\nhttps://sites.google.com/site/simonchang1
+ 975/\n\nZoom: https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk
+ 6ZMFehNtmGMq.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKu
+ rX9pSbBB8\n\nABSTRACT:\nIn China\, the groom’s family is expected to pro
+ vide much of the wealth a couple needs to marry. Whatever a family gives u
+ p to keep a son in school\, whether money spent on schooling or the earnin
+ gs he forgoes\, it will not have when he marries. We show that competition
+  for brides raises this opportunity cost. In our model\, families cannot b
+ orrow against a son’s future earnings\, so when men outnumber women\, mo
+ ney in hand at marriage becomes more valuable\, most of all for families o
+ f modest means. Using the China Family Panel Studies and an instrument tha
+ t interacts the diffusion of prenatal ultrasound with historical son prefe
+ rence across provinces\, we find that one additional man per 100 women low
+ ers boys’ junior-high completion by 6.4 percentage points. The effect on
+  girls is small and statistically insignificant\, there is no significant 
+ effect at senior high or college\, and the effect appears only in cohorts 
+ born after ultrasound spread. The decline is concentrated among rural boys
+  and\, although imprecisely estimated\, is largest among families of modes
+ t means\, as the model predicts. Marriage-market competition can discourag
+ e the accumulation of human capital by raising the value of wealth at marr
+ iage.
 URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
  q.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
 UID:e6355c8a3c82d58598331ff0e1e8ced0@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261201T110000
 DTEND;TZID=Australia/Melbourne:20261201T121500
@@ -89,8 +108,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:afd263e1a90611cf7ba908e2d533e58f@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261208T110000
 DTEND;TZID=Australia/Melbourne:20261208T121500
@@ -105,8 +124,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:276b43c8a6e78424d1359934a50ffc83@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261105T140000
 DTEND;TZID=Australia/Melbourne:20261105T151500
@@ -142,8 +161,8 @@ URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
 END:VEVENT
 BEGIN:VEVENT
 UID:b7e76ea0bf113d9198944f2d3d14a8c8@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261109T103000
 DTEND;TZID=Australia/Melbourne:20261109T114500
@@ -155,8 +174,8 @@ DESCRIPTION:Philippe Bacchetta: “TBD”\nhttps://people.unil.ch/philippeb
 END:VEVENT
 BEGIN:VEVENT
 UID:822ff5055e47c917ccd792bc085d4eb7@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261203T110000
 DTEND;TZID=Australia/Melbourne:20261203T121500
@@ -171,8 +190,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:f44868d1298fcc39059dd082ff8c6258@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261106T110000
 DTEND;TZID=Australia/Melbourne:20261106T122000
@@ -191,8 +210,8 @@ DESCRIPTION:David Frankel: “Predicting Participation”\nDavid Frankel |
 END:VEVENT
 BEGIN:VEVENT
 UID:38225d4244facd3dabe265d2cedce95a@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261113T110000
 DTEND;TZID=Australia/Melbourne:20261113T122000
@@ -223,8 +242,8 @@ DESCRIPTION:Arthur Campbell: “The Polarization Paradox: Why More Connecti
 END:VEVENT
 BEGIN:VEVENT
 UID:f7c06117e0f319cff293e04631ac41a1@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261120T110000
 DTEND;TZID=Australia/Melbourne:20261120T122000
@@ -236,8 +255,8 @@ DESCRIPTION:Feng Zhu: “TBD”\n‪Feng Zhu‬ - ‪Google 学术搜索‬
 END:VEVENT
 BEGIN:VEVENT
 UID:d324fe21b300d0187c537cc800fff911@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261105T121500
 DTEND;TZID=Australia/Melbourne:20261105T131500
@@ -249,8 +268,8 @@ DESCRIPTION:Simon Franklin: “TBD”\nhttps://www.simonfranklin.co/\n\nGoo
 END:VEVENT
 BEGIN:VEVENT
 UID:1206808f47b929961a104f6b82975ab3@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261119T121500
 DTEND;TZID=Australia/Melbourne:20261119T131500
@@ -262,8 +281,8 @@ DESCRIPTION:Pascuel Plotkin: “TBD”\nhttps://pascuel.github.io/\n\nGoogl
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8659b43f5459e1dccdc31996eaa60d@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261210T121500
 DTEND;TZID=Australia/Melbourne:20261210T131500
@@ -276,8 +295,8 @@ DESCRIPTION:Annika Herr: “TBD”\nhttps://www.ihe.uni-hannover.de/en/herr
 END:VEVENT
 BEGIN:VEVENT
 UID:28357858789bde28d8038937de00752c@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261106T135000
 DTEND;TZID=Australia/Melbourne:20261106T143000
@@ -309,8 +328,8 @@ DESCRIPTION:Yunjie Shi: “Waiting and Preemption in Public Good Contributi
 END:VEVENT
 BEGIN:VEVENT
 UID:641603f12f64cab43daa9190b476f9a1@generated
-DTSTAMP:20261108T222613Z
-LAST-MODIFIED:20261108T222613Z
+DTSTAMP:20261110T014751Z
+LAST-MODIFIED:20261110T014751Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261104T130000
 DTEND;TZID=Australia/Melbourne:20261104T140000
