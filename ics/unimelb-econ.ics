@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:537c5381f55ee5d783418160a9436485@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
+DTSTAMP:20261112T234254Z
+LAST-MODIFIED:20261112T234254Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261110T110000
 DTEND;TZID=Australia/Melbourne:20261110T121500
@@ -56,8 +56,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:d5cffebfdd1a038e3a912e3c0cd66c13@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
+DTSTAMP:20261112T234254Z
+LAST-MODIFIED:20261112T234254Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261117T110000
 DTEND;TZID=Australia/Melbourne:20261117T121500
@@ -92,8 +92,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:e6355c8a3c82d58598331ff0e1e8ced0@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
+DTSTAMP:20261112T234254Z
+LAST-MODIFIED:20261112T234254Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261201T110000
 DTEND;TZID=Australia/Melbourne:20261201T121500
@@ -108,8 +108,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:afd263e1a90611cf7ba908e2d533e58f@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
+DTSTAMP:20261112T234254Z
+LAST-MODIFIED:20261112T234254Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261208T110000
 DTEND;TZID=Australia/Melbourne:20261208T121500
@@ -123,46 +123,9 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
  q.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
-UID:276b43c8a6e78424d1359934a50ffc83@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261105T140000
-DTEND;TZID=Australia/Melbourne:20261105T151500
-SUMMARY:Experimental/Behavioural – Maroš Servátka (Macquarie) – Coord
- ination in altruistic markets with imperfect substitutes and restricted de
- mand
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Maroš Servátka: “Coordination in altruistic markets with im
- perfect substitutes and restricted demand”\nhttps://sites.google.com/sit
- e/marosservatka/\n\nZoom: https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2
- ZpNRILVKO2Y5za5S7GjfbAGG.1&from=addon\n\nGoogle Maps: https://maps.app.goo
- .gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nCharitable giving and volunteering pro
- vide essential goods and services where governments fall short\, yet altru
- istic markets often suffer from coordination failures. We study how decent
- ralized altruistic choice generates inefficiencies in markets with imperfe
- ctly substitutable goods. In a laboratory experiment\, subjects choose bet
- ween providing an altruistic good with a relatively high recipient benefit
-  but limited demand\, providing an alternative altruistic good with a lowe
- r benefit and unlimited demand\, or not helping. Across treatments\, we va
- ry the recipient benefit of the alternative good. Consistent with theoreti
- cal predictions\, we find prevalent oversupply of the preferred good in th
- e absence of the alternative good and when the alternative good is clearly
-  inferior but prevalent undersupply of the preferred good when the alterna
- tive good generates sufficient recipient benefit. These patterns predictab
- ly emerge from donors’ trade-offs between recipient impact and the risk 
- that contributions will be wasted\, generating substantial welfare losses 
- despite ample aggregate willingness to help. A simple coordination device 
- that informs donors when demand for the preferred good is saturated and re
- directs excess contributions to the alternative good significantly improve
- s market efficiency\, reducing both over- and undersupply.
-URL:https://unimelb.zoom.us/j/82654401351?pwd=V6TMN2ZpNRILVKO2Y5za5S7GjfbAG
- G.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
 UID:b7e76ea0bf113d9198944f2d3d14a8c8@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
+DTSTAMP:20261112T234254Z
+LAST-MODIFIED:20261112T234254Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261109T103000
 DTEND;TZID=Australia/Melbourne:20261109T114500
@@ -173,25 +136,48 @@ DESCRIPTION:Philippe Bacchetta: “TBD”\nhttps://people.unil.ch/philippeb
  hilippebacchetta/\n\nABSTRACT:\nTBA
 END:VEVENT
 BEGIN:VEVENT
-UID:822ff5055e47c917ccd792bc085d4eb7@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
+UID:256de3fae656cd870815f78f2f20ade4@generated
+DTSTAMP:20261112T234254Z
+LAST-MODIFIED:20261112T234254Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261203T110000
 DTEND;TZID=Australia/Melbourne:20261203T121500
-SUMMARY:Econometrics – Qingliang Fan (CUHK) – TBD
+SUMMARY:Econometrics – Qingliang Fan (CUHK) – Utility-Maximizing Ensemb
+ les of Characteristic-Based Portfolio Policies
 LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Qingliang Fan: “TBD”\nhttps://www.econ.cuhk.edu.hk/en/about
- /people/faculty/regular-faculty-members/prof-fan-qingliang/\n\nZoom: https
- ://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qzr.1\n\nG
- oogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+DESCRIPTION:Qingliang Fan: “Utility-Maximizing Ensembles of Characteristi
+ c-Based Portfolio Policies”\nhttps://www.econ.cuhk.edu.hk/en/about/peopl
+ e/faculty/regular-faculty-members/prof-fan-qingliang/\n\nZoom: https://uni
+ melb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qzr.1\n\nGoogle 
+ Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nAgents obser
+ ving panel data on outcomes and characteristics select allocation decision
+ s to maximize expected utility of aggregate outcomes. We develop a Charact
+ eristics-based Utility-maximizing Ensemble Learning (CUEL) framework to ad
+ dress model uncertainty\, feature complexity\, and implementation costs in
+  general utility maximization problems. Instead of selecting a single mode
+ l\, CUEL combines candidate models that target the exact same objective as
+  the final ensemble: maximizing expected utility subject to explicit penal
+ ties. We establish the asymptotic optimality of the CUEL estimator and the
+  consistency of the combination weights for out-of-sample prediction risk\
+ , even when all candidates are misspecified. In high-dimensional portfolio
+  applications directly targeting out-of-sample (OOS) utility functions\, C
+ UEL significantly outperforms unrestricted estimation\, sparse selection\,
+  naive averaging\, and machine learning benchmarks after accounting for tr
+ ansaction costs. When the target is the out-of-sample Sharpe ratio\, CUEL 
+ shows similar competence as well. It achieves OOS optimality by aggregatin
+ g information from a broad set of characteristics rather than selecting a 
+ sparse subset\, leveraging small but economically meaningful signals in a 
+ stable manner\, including under gross-exposure constraints for practical i
+ mplementation. Our method provides clear economic explanations of why some
+  characteristics play significant roles under different utility targets an
+ d risk preferences.
 URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
  r.1
 END:VEVENT
 BEGIN:VEVENT
 UID:f44868d1298fcc39059dd082ff8c6258@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
+DTSTAMP:20261112T234254Z
+LAST-MODIFIED:20261112T234254Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261106T110000
 DTEND;TZID=Australia/Melbourne:20261106T122000
@@ -210,8 +196,8 @@ DESCRIPTION:David Frankel: “Predicting Participation”\nDavid Frankel |
 END:VEVENT
 BEGIN:VEVENT
 UID:38225d4244facd3dabe265d2cedce95a@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
+DTSTAMP:20261112T234254Z
+LAST-MODIFIED:20261112T234254Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261113T110000
 DTEND;TZID=Australia/Melbourne:20261113T122000
@@ -242,8 +228,8 @@ DESCRIPTION:Arthur Campbell: “The Polarization Paradox: Why More Connecti
 END:VEVENT
 BEGIN:VEVENT
 UID:f7c06117e0f319cff293e04631ac41a1@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
+DTSTAMP:20261112T234254Z
+LAST-MODIFIED:20261112T234254Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261120T110000
 DTEND;TZID=Australia/Melbourne:20261120T122000
@@ -254,22 +240,9 @@ DESCRIPTION:Feng Zhu: “TBD”\n‪Feng Zhu‬ - ‪Google 学术搜索‬
  BA
 END:VEVENT
 BEGIN:VEVENT
-UID:d324fe21b300d0187c537cc800fff911@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261105T121500
-DTEND;TZID=Australia/Melbourne:20261105T131500
-SUMMARY:Melbourne Institute Seminar – Simon Franklin (Queen Mary Universi
- ty of London) – TBD
-LOCATION:Room 615\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Simon Franklin: “TBD”\nhttps://www.simonfranklin.co/\n\nGoo
- gle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB12\n\nABSTRACT:\nTBA
-END:VEVENT
-BEGIN:VEVENT
 UID:1206808f47b929961a104f6b82975ab3@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
+DTSTAMP:20261112T234254Z
+LAST-MODIFIED:20261112T234254Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261119T121500
 DTEND;TZID=Australia/Melbourne:20261119T131500
@@ -281,8 +254,8 @@ DESCRIPTION:Pascuel Plotkin: “TBD”\nhttps://pascuel.github.io/\n\nGoogl
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8659b43f5459e1dccdc31996eaa60d@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
+DTSTAMP:20261112T234254Z
+LAST-MODIFIED:20261112T234254Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261210T121500
 DTEND;TZID=Australia/Melbourne:20261210T131500
@@ -295,8 +268,8 @@ DESCRIPTION:Annika Herr: “TBD”\nhttps://www.ihe.uni-hannover.de/en/herr
 END:VEVENT
 BEGIN:VEVENT
 UID:28357858789bde28d8038937de00752c@generated
-DTSTAMP:20261112T010933Z
-LAST-MODIFIED:20261112T010933Z
+DTSTAMP:20261112T234254Z
+LAST-MODIFIED:20261112T234254Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261106T135000
 DTEND;TZID=Australia/Melbourne:20261106T143000
