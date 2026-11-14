@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:537c5381f55ee5d783418160a9436485@generated
-DTSTAMP:20261112T234254Z
-LAST-MODIFIED:20261112T234254Z
+DTSTAMP:20261113T235809Z
+LAST-MODIFIED:20261113T235809Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261110T110000
 DTEND;TZID=Australia/Melbourne:20261110T121500
@@ -56,8 +56,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:d5cffebfdd1a038e3a912e3c0cd66c13@generated
-DTSTAMP:20261112T234254Z
-LAST-MODIFIED:20261112T234254Z
+DTSTAMP:20261113T235809Z
+LAST-MODIFIED:20261113T235809Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261117T110000
 DTEND;TZID=Australia/Melbourne:20261117T121500
@@ -92,8 +92,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:e6355c8a3c82d58598331ff0e1e8ced0@generated
-DTSTAMP:20261112T234254Z
-LAST-MODIFIED:20261112T234254Z
+DTSTAMP:20261113T235809Z
+LAST-MODIFIED:20261113T235809Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261201T110000
 DTEND;TZID=Australia/Melbourne:20261201T121500
@@ -108,8 +108,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:afd263e1a90611cf7ba908e2d533e58f@generated
-DTSTAMP:20261112T234254Z
-LAST-MODIFIED:20261112T234254Z
+DTSTAMP:20261113T235809Z
+LAST-MODIFIED:20261113T235809Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261208T110000
 DTEND;TZID=Australia/Melbourne:20261208T121500
@@ -124,8 +124,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:b7e76ea0bf113d9198944f2d3d14a8c8@generated
-DTSTAMP:20261112T234254Z
-LAST-MODIFIED:20261112T234254Z
+DTSTAMP:20261113T235809Z
+LAST-MODIFIED:20261113T235809Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261109T103000
 DTEND;TZID=Australia/Melbourne:20261109T114500
@@ -137,8 +137,8 @@ DESCRIPTION:Philippe Bacchetta: “TBD”\nhttps://people.unil.ch/philippeb
 END:VEVENT
 BEGIN:VEVENT
 UID:256de3fae656cd870815f78f2f20ade4@generated
-DTSTAMP:20261112T234254Z
-LAST-MODIFIED:20261112T234254Z
+DTSTAMP:20261113T235809Z
+LAST-MODIFIED:20261113T235809Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261203T110000
 DTEND;TZID=Australia/Melbourne:20261203T121500
@@ -175,29 +175,9 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
  r.1
 END:VEVENT
 BEGIN:VEVENT
-UID:f44868d1298fcc39059dd082ff8c6258@generated
-DTSTAMP:20261112T234254Z
-LAST-MODIFIED:20261112T234254Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261106T110000
-DTEND;TZID=Australia/Melbourne:20261106T122000
-SUMMARY:Economic Theory – David Frankel (MBS) – Predicting Participatio
- n
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3062
-DESCRIPTION:David Frankel: “Predicting Participation”\nDavid Frankel | 
- Melbourne Business School Faculty\n\nGoogle Maps: https://maps.app.goo.gl/
- BirLkJKurX9pSbBB8\n\nABSTRACT:\nWe study participation games\, in which a 
- set of players decide whether or not to take part in an activity that is w
- orthwhile only if enough others participate. We show that any equilibrium 
- selection criterion that is continuous\, nontrivial\, label-invariant\, an
- d has a mild independence property must predict tthat an agent will play a
-  best response to some fixed\, common\, symmetric “fictional beliefs” 
- over the number of others who participate.
-END:VEVENT
-BEGIN:VEVENT
 UID:38225d4244facd3dabe265d2cedce95a@generated
-DTSTAMP:20261112T234254Z
-LAST-MODIFIED:20261112T234254Z
+DTSTAMP:20261113T235809Z
+LAST-MODIFIED:20261113T235809Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261113T110000
 DTEND;TZID=Australia/Melbourne:20261113T122000
@@ -228,8 +208,8 @@ DESCRIPTION:Arthur Campbell: “The Polarization Paradox: Why More Connecti
 END:VEVENT
 BEGIN:VEVENT
 UID:f7c06117e0f319cff293e04631ac41a1@generated
-DTSTAMP:20261112T234254Z
-LAST-MODIFIED:20261112T234254Z
+DTSTAMP:20261113T235809Z
+LAST-MODIFIED:20261113T235809Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261120T110000
 DTEND;TZID=Australia/Melbourne:20261120T122000
@@ -241,8 +221,8 @@ DESCRIPTION:Feng Zhu: “TBD”\n‪Feng Zhu‬ - ‪Google 学术搜索‬
 END:VEVENT
 BEGIN:VEVENT
 UID:1206808f47b929961a104f6b82975ab3@generated
-DTSTAMP:20261112T234254Z
-LAST-MODIFIED:20261112T234254Z
+DTSTAMP:20261113T235809Z
+LAST-MODIFIED:20261113T235809Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261119T121500
 DTEND;TZID=Australia/Melbourne:20261119T131500
@@ -254,8 +234,8 @@ DESCRIPTION:Pascuel Plotkin: “TBD”\nhttps://pascuel.github.io/\n\nGoogl
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8659b43f5459e1dccdc31996eaa60d@generated
-DTSTAMP:20261112T234254Z
-LAST-MODIFIED:20261112T234254Z
+DTSTAMP:20261113T235809Z
+LAST-MODIFIED:20261113T235809Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261210T121500
 DTEND;TZID=Australia/Melbourne:20261210T131500
@@ -265,38 +245,5 @@ LOCATION:Room 615\, FBE Building\, 111 Barry St\, Carlton VIC 3053
 DESCRIPTION:Annika Herr: “TBD”\nhttps://www.ihe.uni-hannover.de/en/herr
  \n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB12\n\nABSTRACT:\n
  TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:28357858789bde28d8038937de00752c@generated
-DTSTAMP:20261112T234254Z
-LAST-MODIFIED:20261112T234254Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261106T135000
-DTEND;TZID=Australia/Melbourne:20261106T143000
-SUMMARY:PhD Brown Bag Seminar – Yunjie Shi (University of Auckland) – W
- aiting and Preemption in Public Good Contributions
-LOCATION:Room 304\, FBE Building\, 111 Barry St\, Carlton VIC 3062
-DESCRIPTION:Yunjie Shi: “Waiting and Preemption in Public Good Contributi
- ons”\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABSTRA
- CT:\nWe study the private provision of a threshold public good by two play
- ers who learn its quality from private signals arriving over time. The fir
- st contribution plays two strategic roles: its timing conveys information 
- about whether the first mover has received good news\, while its amount al
- locates the funding burden between the first mover and the follower. Takin
- g the first-contribution amount as exogenous\, we characterize the trade-o
- ff between the informational value of waiting and the incentive to secure 
- provision. This tension gives rise to three distinct equilibrium patterns:
-  separation\, in which only players with good news initiate\; preemption\,
-  in which uninformed players race to contribute at the outset\; and poolin
- g\, in which players with good news wait until the same contribution becom
- es sufficiently credible to induce an uninformed follower to complete the 
- project\, while uninformed players also initiate with positive probability
-  at that time. Finally\, we show that the first-contribution amount can se
- rve as a design instrument. By reallocating the funding burden across cont
- ribution positions\, a fundraiser can implement the welfare-maximizing all
- ocation among the equilibrium paths we characterize: immediate provision w
- hen delay is sufficiently costly\, and provision after good news when lear
- ning is sufficiently valuable\, thereby attaining the single-decision-make
- r welfare benchmark.
 END:VEVENT
 END:VCALENDAR
