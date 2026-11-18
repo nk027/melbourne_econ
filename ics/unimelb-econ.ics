@@ -24,40 +24,9 @@ TZNAME:AEDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:537c5381f55ee5d783418160a9436485@generated
-DTSTAMP:20261117T020314Z
-LAST-MODIFIED:20261117T020314Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261110T110000
-DTEND;TZID=Australia/Melbourne:20261110T121500
-SUMMARY:Applied Micro – Brian Knight (Brown University) – The Partisan 
- Consequences of Racial Gerrymandering: New Evidence from the 1990s
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Brian Knight: “The Partisan Consequences of Racial Gerrymande
- ring: New Evidence from the 1990s”\nhttps://sites.brown.edu/brianknight/
- \n\nZoom: https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMF
- ehNtmGMq.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9p
- SbBB8\n\nABSTRACT:\nWe examine the partisan consequences of racial gerryma
- ndering\, which creates majority-minority districts. In our theoretical mo
- del\, racial gerrymandering benefits the non-dominant party. That is\, rac
- ial gerrymandering reduces expected Democratic seats in blue states but in
- creases expected Democratic seats in red states. The empirical analysis de
- velops counterfactual election results using a partisan prediction model. 
- This model links district-level presidential returns under alternative map
- s and congressional vote shares\, thereby holding voter preferences fixed.
-  Applying this framework to redistricting in 1991 shows that racial gerrym
- andering increased safe Democratic seats while turning adjacent districts 
- right-leaning\, yielding net seat gains for Republicans. These findings cl
- arify historical realignments in partisan support over time\, with Republi
- cans supporting racial gerrymandering in 1991 but opposing it more recentl
- y.
-URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
- q.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
 UID:d5cffebfdd1a038e3a912e3c0cd66c13@generated
-DTSTAMP:20261117T020314Z
-LAST-MODIFIED:20261117T020314Z
+DTSTAMP:20261118T011507Z
+LAST-MODIFIED:20261118T011507Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261117T110000
 DTEND;TZID=Australia/Melbourne:20261117T121500
@@ -91,9 +60,50 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
  q.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
+UID:5d8f6db173fdd2d07de8f39572cbc237@generated
+DTSTAMP:20261118T011507Z
+LAST-MODIFIED:20261118T011507Z
+SEQUENCE:0
+DTSTART;TZID=Australia/Melbourne:20261124T110000
+DTEND;TZID=Australia/Melbourne:20261124T121500
+SUMMARY:Applied Micro – Ed Rubin (University of Oregon) – Do local emis
+ sions respond to upwind abatement? Evidence of regulatory rebound from pow
+ er-plant rules and PM2.5 standards
+LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
+DESCRIPTION:Ed Rubin: “Do local emissions respond to upwind abatement? Ev
+ idence of regulatory rebound from power-plant rules and PM2.5 standards”
+ \nhttps://edrub.in/\n\nZoom: https://unimelb.zoom.us/j/84741930353?pwd=1TD
+ akj4y62yHU6dWbk6ZMFehNtmGMq.1&from=addon\n\nGoogle Maps: https://maps.app.
+ goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nWe show that interactions between o
+ verlapping environmental regulations—particularly when one involves a th
+ reshold-based standard—can substantially attenuate the benefits predicte
+ d when policies are evaluated in isolation. This attenuation arises becaus
+ e conventional models and analyses typically assume local emissions are ex
+ ogenous to upwind regulatory shocks. To study the impacts of this assumpti
+ on\, we develop a model in which threshold-based air-quality standards ove
+ rlap with regulations targeting major point sources. We then empirically t
+ est the model's predictions and document evidence consistent with 'regulat
+ ory rebound': when upwind power-plant emissions fall (e.g.\, due to point-
+ source rules)\, local emissions in NAAQS-constrained areas rise. We find t
+ hat regulatory rebound offsets 50–70 percent of expected PM2.5 improveme
+ nts. To quantify rebound's impact\, we develop a high-resolution modeling 
+ framework that combines advanced particle-trajectory modeling (NOAA's HYSP
+ LIT) with machine learning to map upwind power-plant emissions to downwind
+  air quality with state-of-the-art accuracy. We use these predictions to q
+ uantify how sustained reductions in upwind emissions of PM2.5 precursors a
+ ffect downwind local PM2.5 concentrations. The results are consistent with
+  local pollution rebounding in response to upwind emission reductions—pa
+ rticularly in NAAQS-constrained areas. Our findings underscore the importa
+ nce of accounting for behavioral and regulatory interactions when designin
+ g and evaluating environmental policy—critical for efficiency and equity
+ .
+URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
+ q.1&from=addon
+END:VEVENT
+BEGIN:VEVENT
 UID:e6355c8a3c82d58598331ff0e1e8ced0@generated
-DTSTAMP:20261117T020314Z
-LAST-MODIFIED:20261117T020314Z
+DTSTAMP:20261118T011507Z
+LAST-MODIFIED:20261118T011507Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261201T110000
 DTEND;TZID=Australia/Melbourne:20261201T121500
@@ -107,25 +117,37 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
  q.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
-UID:afd263e1a90611cf7ba908e2d533e58f@generated
-DTSTAMP:20261117T020314Z
-LAST-MODIFIED:20261117T020314Z
+UID:cb77fabf2b828414b69eaaee43b5688c@generated
+DTSTAMP:20261118T011507Z
+LAST-MODIFIED:20261118T011507Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261208T110000
 DTEND;TZID=Australia/Melbourne:20261208T121500
-SUMMARY:Applied Micro – Manudepp Bhuller (University of Oslo) – TBD
+SUMMARY:Applied Micro – Manudepp Bhuller (University of Oslo) – Perks U
+ nder Pressure? Demand Shocks and Firm Provision of Workplace Amenities
 LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Manudepp Bhuller: “TBD”\nhttps://sites.google.com/site/manu
+DESCRIPTION:Manudepp Bhuller: “Perks Under Pressure? Demand Shocks and Fi
+ rm Provision of Workplace Amenities”\nhttps://sites.google.com/site/manu
  deepbhuller\n\nZoom: https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62y
  HU6dWbk6ZMFehNtmGMq.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/B
- irLkJKurX9pSbBB8\n\nABSTRACT:\nTBA
+ irLkJKurX9pSbBB8\n\nABSTRACT:\nDo firms adjust workplace amenities in resp
+ onse to demand shocks? We develop a monopsony framework in which firms joi
+ ntly set wages and amenities and show that responses to demand shocks depe
+ nd crucially on the structure of amenity provision costs. Using Norwegian 
+ data that combine matched employer-employee records\, firms’ cost accoun
+ ts\, and non-pecuniary job attributes drawn from job postings\, we exploit
+  three distinct sources of firm-level demand shocks: abrupt changes in val
+ ue added\, public procurement contract wins\, and export demand shifts. We
+  document multi-margin adjustments in amenities alongside wages and employ
+ ment\, and discuss implications for the measurement of employer market pow
+ er.
 URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
  q.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
 UID:256de3fae656cd870815f78f2f20ade4@generated
-DTSTAMP:20261117T020314Z
-LAST-MODIFIED:20261117T020314Z
+DTSTAMP:20261118T011507Z
+LAST-MODIFIED:20261118T011507Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261203T110000
 DTEND;TZID=Australia/Melbourne:20261203T121500
@@ -163,8 +185,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:38225d4244facd3dabe265d2cedce95a@generated
-DTSTAMP:20261117T020314Z
-LAST-MODIFIED:20261117T020314Z
+DTSTAMP:20261118T011507Z
+LAST-MODIFIED:20261118T011507Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261113T110000
 DTEND;TZID=Australia/Melbourne:20261113T122000
@@ -195,8 +217,8 @@ DESCRIPTION:Arthur Campbell: “The Polarization Paradox: Why More Connecti
 END:VEVENT
 BEGIN:VEVENT
 UID:f7c06117e0f319cff293e04631ac41a1@generated
-DTSTAMP:20261117T020314Z
-LAST-MODIFIED:20261117T020314Z
+DTSTAMP:20261118T011507Z
+LAST-MODIFIED:20261118T011507Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261120T110000
 DTEND;TZID=Australia/Melbourne:20261120T122000
@@ -208,8 +230,8 @@ DESCRIPTION:Feng Zhu: “TBD”\n‪Feng Zhu‬ - ‪Google 学术搜索‬
 END:VEVENT
 BEGIN:VEVENT
 UID:1206808f47b929961a104f6b82975ab3@generated
-DTSTAMP:20261117T020314Z
-LAST-MODIFIED:20261117T020314Z
+DTSTAMP:20261118T011507Z
+LAST-MODIFIED:20261118T011507Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261119T121500
 DTEND;TZID=Australia/Melbourne:20261119T131500
@@ -221,8 +243,8 @@ DESCRIPTION:Pascuel Plotkin: “TBD”\nhttps://pascuel.github.io/\n\nGoogl
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8659b43f5459e1dccdc31996eaa60d@generated
-DTSTAMP:20261117T020314Z
-LAST-MODIFIED:20261117T020314Z
+DTSTAMP:20261118T011507Z
+LAST-MODIFIED:20261118T011507Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261210T121500
 DTEND;TZID=Australia/Melbourne:20261210T131500
