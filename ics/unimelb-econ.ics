@@ -25,8 +25,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:d5cffebfdd1a038e3a912e3c0cd66c13@generated
-DTSTAMP:20261119T004817Z
-LAST-MODIFIED:20261119T004817Z
+DTSTAMP:20261120T005446Z
+LAST-MODIFIED:20261120T005446Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261117T110000
 DTEND;TZID=Australia/Melbourne:20261117T121500
@@ -60,66 +60,9 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
  q.1&from=addon
 END:VEVENT
 BEGIN:VEVENT
-UID:5d8f6db173fdd2d07de8f39572cbc237@generated
-DTSTAMP:20261119T004817Z
-LAST-MODIFIED:20261119T004817Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261124T110000
-DTEND;TZID=Australia/Melbourne:20261124T121500
-SUMMARY:Applied Micro – Ed Rubin (University of Oregon) – Do local emis
- sions respond to upwind abatement? Evidence of regulatory rebound from pow
- er-plant rules and PM2.5 standards
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Ed Rubin: “Do local emissions respond to upwind abatement? Ev
- idence of regulatory rebound from power-plant rules and PM2.5 standards”
- \nhttps://edrub.in/\n\nZoom: https://unimelb.zoom.us/j/84741930353?pwd=1TD
- akj4y62yHU6dWbk6ZMFehNtmGMq.1&from=addon\n\nGoogle Maps: https://maps.app.
- goo.gl/BirLkJKurX9pSbBB8\n\nABSTRACT:\nWe show that interactions between o
- verlapping environmental regulations—particularly when one involves a th
- reshold-based standard—can substantially attenuate the benefits predicte
- d when policies are evaluated in isolation. This attenuation arises becaus
- e conventional models and analyses typically assume local emissions are ex
- ogenous to upwind regulatory shocks. To study the impacts of this assumpti
- on\, we develop a model in which threshold-based air-quality standards ove
- rlap with regulations targeting major point sources. We then empirically t
- est the model's predictions and document evidence consistent with 'regulat
- ory rebound': when upwind power-plant emissions fall (e.g.\, due to point-
- source rules)\, local emissions in NAAQS-constrained areas rise. We find t
- hat regulatory rebound offsets 50–70 percent of expected PM2.5 improveme
- nts. To quantify rebound's impact\, we develop a high-resolution modeling 
- framework that combines advanced particle-trajectory modeling (NOAA's HYSP
- LIT) with machine learning to map upwind power-plant emissions to downwind
-  air quality with state-of-the-art accuracy. We use these predictions to q
- uantify how sustained reductions in upwind emissions of PM2.5 precursors a
- ffect downwind local PM2.5 concentrations. The results are consistent with
-  local pollution rebounding in response to upwind emission reductions—pa
- rticularly in NAAQS-constrained areas. Our findings underscore the importa
- nce of accounting for behavioral and regulatory interactions when designin
- g and evaluating environmental policy—critical for efficiency and equity
- .
-URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
- q.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
-UID:e6355c8a3c82d58598331ff0e1e8ced0@generated
-DTSTAMP:20261119T004817Z
-LAST-MODIFIED:20261119T004817Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261201T110000
-DTEND;TZID=Australia/Melbourne:20261201T121500
-SUMMARY:Applied Micro – Vicky Fouka (Stanford) – TBD
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Vicky Fouka: “TBD”\nhttps://vfouka.stanford.edu\n\nZoom: ht
- tps://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGMq.1&f
- rom=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKurX9pSbBB8\n\nABS
- TRACT:\nTBA
-URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
- q.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
 UID:cb77fabf2b828414b69eaaee43b5688c@generated
-DTSTAMP:20261119T004817Z
-LAST-MODIFIED:20261119T004817Z
+DTSTAMP:20261120T005446Z
+LAST-MODIFIED:20261120T005446Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261208T110000
 DTEND;TZID=Australia/Melbourne:20261208T121500
@@ -146,8 +89,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:256de3fae656cd870815f78f2f20ade4@generated
-DTSTAMP:20261119T004817Z
-LAST-MODIFIED:20261119T004817Z
+DTSTAMP:20261120T005446Z
+LAST-MODIFIED:20261120T005446Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261203T110000
 DTEND;TZID=Australia/Melbourne:20261203T121500
@@ -185,8 +128,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:38225d4244facd3dabe265d2cedce95a@generated
-DTSTAMP:20261119T004817Z
-LAST-MODIFIED:20261119T004817Z
+DTSTAMP:20261120T005446Z
+LAST-MODIFIED:20261120T005446Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261113T110000
 DTEND;TZID=Australia/Melbourne:20261113T122000
@@ -217,8 +160,8 @@ DESCRIPTION:Arthur Campbell: “The Polarization Paradox: Why More Connecti
 END:VEVENT
 BEGIN:VEVENT
 UID:5bcfa54bd42575e1b76a9ae9aa86f1ae@generated
-DTSTAMP:20261119T004817Z
-LAST-MODIFIED:20261119T004817Z
+DTSTAMP:20261120T005446Z
+LAST-MODIFIED:20261120T005446Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261120T110000
 DTEND;TZID=Australia/Melbourne:20261120T122000
@@ -231,8 +174,8 @@ DESCRIPTION:Feng Zhu: “Equivalence of Lindahl Prices and Core in a Collec
 END:VEVENT
 BEGIN:VEVENT
 UID:1206808f47b929961a104f6b82975ab3@generated
-DTSTAMP:20261119T004817Z
-LAST-MODIFIED:20261119T004817Z
+DTSTAMP:20261120T005446Z
+LAST-MODIFIED:20261120T005446Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261119T121500
 DTEND;TZID=Australia/Melbourne:20261119T131500
@@ -244,8 +187,8 @@ DESCRIPTION:Pascuel Plotkin: “TBD”\nhttps://pascuel.github.io/\n\nGoogl
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8659b43f5459e1dccdc31996eaa60d@generated
-DTSTAMP:20261119T004817Z
-LAST-MODIFIED:20261119T004817Z
+DTSTAMP:20261120T005446Z
+LAST-MODIFIED:20261120T005446Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261210T121500
 DTEND;TZID=Australia/Melbourne:20261210T131500
