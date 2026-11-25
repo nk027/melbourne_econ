@@ -24,45 +24,9 @@ TZNAME:AEDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d5cffebfdd1a038e3a912e3c0cd66c13@generated
-DTSTAMP:20261124T040729Z
-LAST-MODIFIED:20261124T040729Z
-SEQUENCE:0
-DTSTART;TZID=Australia/Melbourne:20261117T110000
-DTEND;TZID=Australia/Melbourne:20261117T121500
-SUMMARY:Applied Micro – Simon Chang (University of Western Australia) –
-  When Brides Are Scarce: Marriage Competition and Sons’ Schooling in Chi
- na
-LOCATION:Room 404\, FBE Building\, 111 Barry St\, Carlton VIC 3053
-DESCRIPTION:Simon Chang: “When Brides Are Scarce: Marriage Competition an
- d Sons’ Schooling in China”\nhttps://sites.google.com/site/simonchang1
- 975/\n\nZoom: https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk
- 6ZMFehNtmGMq.1&from=addon\n\nGoogle Maps: https://maps.app.goo.gl/BirLkJKu
- rX9pSbBB8\n\nABSTRACT:\nIn China\, the groom’s family is expected to pro
- vide much of the wealth a couple needs to marry. Whatever a family gives u
- p to keep a son in school\, whether money spent on schooling or the earnin
- gs he forgoes\, it will not have when he marries. We show that competition
-  for brides raises this opportunity cost. In our model\, families cannot b
- orrow against a son’s future earnings\, so when men outnumber women\, mo
- ney in hand at marriage becomes more valuable\, most of all for families o
- f modest means. Using the China Family Panel Studies and an instrument tha
- t interacts the diffusion of prenatal ultrasound with historical son prefe
- rence across provinces\, we find that one additional man per 100 women low
- ers boys’ junior-high completion by 6.4 percentage points. The effect on
-  girls is small and statistically insignificant\, there is no significant 
- effect at senior high or college\, and the effect appears only in cohorts 
- born after ultrasound spread. The decline is concentrated among rural boys
-  and\, although imprecisely estimated\, is largest among families of modes
- t means\, as the model predicts. Marriage-market competition can discourag
- e the accumulation of human capital by raising the value of wealth at marr
- iage.
-URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
- q.1&from=addon
-END:VEVENT
-BEGIN:VEVENT
 UID:cb77fabf2b828414b69eaaee43b5688c@generated
-DTSTAMP:20261124T040729Z
-LAST-MODIFIED:20261124T040729Z
+DTSTAMP:20261125T024515Z
+LAST-MODIFIED:20261125T024515Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261208T110000
 DTEND;TZID=Australia/Melbourne:20261208T121500
@@ -89,8 +53,8 @@ URL:https://unimelb.zoom.us/j/84741930353?pwd=1TDakj4y62yHU6dWbk6ZMFehNtmGM
 END:VEVENT
 BEGIN:VEVENT
 UID:256de3fae656cd870815f78f2f20ade4@generated
-DTSTAMP:20261124T040729Z
-LAST-MODIFIED:20261124T040729Z
+DTSTAMP:20261125T024515Z
+LAST-MODIFIED:20261125T024515Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261203T110000
 DTEND;TZID=Australia/Melbourne:20261203T121500
@@ -128,8 +92,8 @@ URL:https://unimelb.zoom.us/j/85966225829?pwd=g6hOdHyvYB0qta0aFzGbWOgczJ1Qz
 END:VEVENT
 BEGIN:VEVENT
 UID:5bcfa54bd42575e1b76a9ae9aa86f1ae@generated
-DTSTAMP:20261124T040729Z
-LAST-MODIFIED:20261124T040729Z
+DTSTAMP:20261125T024515Z
+LAST-MODIFIED:20261125T024515Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261120T110000
 DTEND;TZID=Australia/Melbourne:20261120T122000
@@ -142,8 +106,8 @@ DESCRIPTION:Feng Zhu: “Equivalence of Lindahl Prices and Core in a Collec
 END:VEVENT
 BEGIN:VEVENT
 UID:1206808f47b929961a104f6b82975ab3@generated
-DTSTAMP:20261124T040729Z
-LAST-MODIFIED:20261124T040729Z
+DTSTAMP:20261125T024515Z
+LAST-MODIFIED:20261125T024515Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261119T121500
 DTEND;TZID=Australia/Melbourne:20261119T131500
@@ -155,8 +119,8 @@ DESCRIPTION:Pascuel Plotkin: “TBD”\nhttps://pascuel.github.io/\n\nGoogl
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8659b43f5459e1dccdc31996eaa60d@generated
-DTSTAMP:20261124T040729Z
-LAST-MODIFIED:20261124T040729Z
+DTSTAMP:20261125T024515Z
+LAST-MODIFIED:20261125T024515Z
 SEQUENCE:0
 DTSTART;TZID=Australia/Melbourne:20261210T121500
 DTEND;TZID=Australia/Melbourne:20261210T131500
